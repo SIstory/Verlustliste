@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:lang="de"
+     xml:id="vll.19150330_152">
+   <teiHeader xml:lang="sl">
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub Avstro-Ogrske med prvo svetovno vojno</title>
+            <title>30. 3. 1915</title>
+            <title>št. 152</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2017"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Verlustliste</title>
+                  <imprint>
+                     <biblScope unit="issue">152</biblScope>
+                     <date when="1915-03-30"/>
+                  </imprint>
+               </monogr>
+               <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll">ANNO Historische österreichische Zeitungen und Zeitschriften</ref>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-02+02:00">
+            <name>Andrej Pančur</name>: konverzija txt2tei </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150330&amp;seite=1&amp;zoom=33"/>
+            <ab>
+               <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150330&amp;seite=1&amp;zoom=33">[ Verlustliste - 19150330 - Seite 1 ]</ref>
+            </ab>
+            <p>K. u. k. Kriegsministerium.</p>
+            <p>Mr. ISS.</p>
+            <p>*</p>
+            <p>Yerlustliste</p>
+            <p>ausgegeben am</p>
+            <p>Yesztes^g lajström</p>
+            <p>kiadatott</p>
+            <p>Seznam zträt</p>
+            <p>vydany</p>
+            <p>Lista strat</p>
+            <p>wydana dnia</p>
+            <p>Jlucia yTpaT</p>
+            <p>3®./®. 191&amp;-</p>
+            <p>Für die Vollständigkeit und Richtigkeit des Nachdruckes der Verlustlisten übernimmt das Kriegsministerium</p>
+            <p>keine wie immer geartete. Verantwortung.- ■</p>
+            <p>A vesztes^g lajstrom utannyomatänak teljess£gefot 63 helyess£ge6rt a hadügyministerium semminemfi felelös-</p>
+            <p>s6get sem vällal.</p>
+            <p>Za tiplnost a sprävnost patisku seznamü zträt neprejimaininisterstYO vojenstvf nizädn6 zodpovednosti.</p>
+            <p>Za zupelnoä6 i dokladno§6 przedruku list strat Ministerstwo wojny nie przyjmuje zadnej odpowiedzialnoSci.</p>
+            <p>MiaiciepciBO eLB hh He npmmiaG H'iaKo'i BijUBraanraocin sa noBHory i BipniciB bwöhtok racx yipai.</p>
+            <p>Za potpunost i ispravnosfc preätampavanja popisä gubitaka ne preuzima rat.no ministarstvo nikakve odgovornosti.</p>
+            <p>Pentru comple{imca §i corectitatea listelor de pierderi reproduse, ministerul de läsboiu nu ca asupra sa nici un</p>
+            <p>iel de rezponzabilitate.</p>
+            <p>Za popolnost in pravilnost ponatiskov seznamkov izgub ne prevzema vojno ministrstvo nikakrsne odgovornosti.</p>
+            <p>Za sprävnost a pravdy pridruku tejto ztratnej listiny nevezme vojensko ministcrium ziadnu zodpoVednost</p>
+            <p>Per H compitezza cd esattezza della ristampa della lista delle perdite il Ministero della guerra uon assume</p>
+            <p>responsabilita di soita.</p>
+            <p>Fopis gubitaka '</p>
+            <p>- ■ izdan dne</p>
+            <p>Lista de pierderi</p>
+            <p>edaiä in</p>
+            <p>Seznamek izgub</p>
+            <p>izdan dne</p>
+            <p>Ztratna listina</p>
+            <p>vydana dna</p>
+            <p>Lista delle perdite</p>
+            <p>pubblieata il</p>
+            <p>Wien, 1915.</p>
+            <p>Aus, der k. k. Hof- und Slaatfdruckerci.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
