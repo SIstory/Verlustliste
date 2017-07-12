@@ -847,7 +847,7 @@
             <p>Plelka Karl, Hptm. RgtsAdj., IR. Nr. 74, RgtsStb., Böhmen, Reichenberg, 1881. verw.</p>
             <p>Richter Eduard, Lt., IR. Nr. 74, 1. Komp., Mähren, Ung.- Hradisch, Kunowitz, 1892, verw.</p>
             <p>Stclzig Friedrich, Fähnr., IR. Nr. 94,12. Komp., Böhmen, Böhm.- Leipa Lindenau, 1889; verw. *</p>
-            <p>Togeier Otto, Hptm., IR. Nr. 74, 13. Komp. Krain, Laibach, 1878, verw.</p>
+            <p sameAs="VIL.13">Vogler Otto, Hptm., IR. Nr. 74, 13. Komp., <country>Krain</country>, Laibach, 1878, verw.</p>
             <p>\</p>
             <p>Winter Alexander, Oblt., IR. Nr. 74, 16. Komp., Niederöster ­ reich, Wien, 1885, verw.</p>
             <p>Mannschaft.</p>
@@ -1146,8 +1146,7 @@
             <p>reich, Gaberndorf, Prinzersdorf, 1882, verw.</p>
             <p>Huber Julius, Inft., k. k. LIR. Nr. 24,3. Komp., Niederösterreich, Gänserndorf, Waidendorf, 1890, verw.</p>
             <p>Hwlzd Franz, Inft,, k. k. LIR, Nr. 24, 2. Komp., Mähren, Tischnowitz, Bondv Skeje, 1884, verw.</p>
-            <p>Innerholer Wilhelm, EinjFreiw. TitKorp., k. k. LIR. Nr. 24,</p>
-            <p>10. Komp., Steiermark, Graz, 1892, verw.</p>
+            <p sameAs="VIL.14">Innerholer Wilhelm, EinjFreiw. TitKorp., k. k. LIR. Nr. 24, 10. Komp., <country>Steiermark</country>, Graz, 1892, verw.</p>
             <p>Jantiseliek Johann, Inft,, k. k. LIR. Nr. 24, 3. Komp., Nieder ­</p>
             <p>österreich, Tulln, Groß Weikersdorl, 1890, verw.</p>
             <p>Jamischka Rudolf, EinjFreiw. TitKorp., k. k. LIR. Nr. 24,</p>
