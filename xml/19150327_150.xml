@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:lang="de"
      xml:id="vll.19150327_150">
@@ -335,19 +336,18 @@
             <p>Cijjnar Josef, Lt. i. d. Res., bh. IR. Nr. 2, Böhmen, Predmeritz, 1889, verw.</p>
             <p>Czakert Alfred, Lt. i. d. Res., IR. Nr. 94, MGA. 1, verw. (Zweite</p>
             <p>Verw.)</p>
-            <p>Czegka Rudolf, Kdt. i. d. Res., bh. IR. Nr. 2, Steiermark, Cilli,</p>
-            <p>tot.</p>
+            <p>Czegka Rudolf, Kdt. i. d. Res., bh. IR. Nr. 2, <country>Steiermark</country>, Cilli, tot.</p>
             <p>£des Gfoa, Oblt-, FJB. Nr. 11, 2. Komp., verw.</p>
             <p>Ertl Friedrich, Lt., bh. IR. Nr. 2, verw.</p>
             <p>Feszczur Josafat, Lt. i. d. Res., IR. Nr. 80,- 2. Marschkomp., Galizien, Zloczöw, Zahoroe, 1888, verw.</p>
             <p>Gadolla Othmar Ritter von, Fähnr., bh. IR. Nr. 2, verw.</p>
             <p>(iorecau Franz, Fähnr. i d. Res., bh. IR. Nr. 2, kriegsgef.</p>
-            <p>Grandovec Ignaz, Lt. i. d. Res., bh. IR. Nr. 2, Krain, 1888, tot.</p>
+            <p>Grandovec Ignaz, Lt. i. d. Res., bh. IR. Nr. 2, <country>Krain</country>, 1888, tot.</p>
             <p>Gaggenberg Franz von, Lt., eingeteilt bei der TrainDiv. Nr. 13, kriegsgef. (Nis, Serbien.)</p>
             <p>Guttmann Otto Freiherr von, Fähnr. i. d. Res., HR. Nr. 1,</p>
             <p>3. Esk., Ungarn, Zala, Nagykanizsa, 1890, verw.</p>
             <p>Horbaczewski Demeter, Lt. i. d. Res., IR. Nr. 80, 7. Komp.,- Galizien, Sokal, 1885, verw.</p>
-            <p>Huber Friedrich, Fähnr. i. d. Res., bh. IR. Nr. 2, Steiermark, Graz, Liebenau, verw.</p>
+            <p>Huber Friedrich, Fähnr. i. d. Res., bh. IR. Nr. 2, <country>Steiermark</country>, Graz, Liebenau, verw.</p>
             <p>Jakubowski Anton, Hptm., IR. Nr. 80, 3. Komp., Bukowina, Czernowitz, 1878, tot (20./12. 1914).</p>
             <p>Jcraa Josef, Mjr., bh. IR. Nr. 2, kriegsgef.</p>
             <p>Jilm von Solwegcn Ernst, Hptm., bh. IR. Nr. 2, verw.</p>
@@ -382,7 +382,7 @@
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150327&amp;seite=5&amp;zoom=33">[ Verlustliste - 19150327 - Seite 5 ]</ref>
             </ab>
-            <p>Novak Ferdinand, Fähnr. i. d. Res., bh. IR. Nr. 2, Steiermark, Graz, verw.</p>
+            <p>Novak Ferdinand, Fähnr. i. d. Res., bh. IR. Nr. 2, <country>Steiermark</country>, Graz, verw.</p>
             <p>Patejäl Alexander, Kdt. i. d. Res , IR. Nr. 80, 2. Marschkomp.,</p>
             <p>■ Böhmen, Kralowitz, Zebnitz, 1887, kriegsgef.</p>
             <p>Peter Elemer, Oblt., IR. Nr. 29, Ungarn, Temes, Temesvär, verw.</p>
@@ -401,8 +401,8 @@
             <p>Schwarz Rudolf Ritter von, Hptm., bh. IR. Nr. 2, verw.</p>
             <p>Simunek Otokar, Fähnr. i. d. Res., k. k. LIR. Nr. 35 beim</p>
             <p>IR. Nr. 80, 10. Komp., tot (28./10. 1914). . •</p>
-            <p>Sluga Karl, Lt. i. d- Res., IR. Nr. 47, 11. Komp., Steiermark, Graz, 1886, kriegsgef.</p>
-            <p>Slürk Marinus, Mjr., IR. Nr. 92,. Stab, Kärnten, Klagenfurt, 1867, verw. (Zweite Verw.)</p>
+            <p>Sluga Karl, Lt. i. d. Res., IR. Nr. 47, 11. Komp., <country>Steiermark</country>, Graz, 1886, kriegsgef.</p>
+            <p>Stärk Marinus, Mjr., IR. Nr. 92, Stab, <country>Kärnten</country>, Klagenfurt, 1867, verw. (Zweite Verw.)</p>
             <p>Stefan Franz, Fähnr. i. d. Res., bh. IR. Nr. 2, tot.</p>
             <p>Svagr Gottlieb, Dr. jur., Lt. i. d. Res., bh. IR. Nr. 2, Böhmen, St. Johann, 1885, verw.</p>
             <p>Svctek, Fähnr. i. d. Res., bh. IR. Nr. 2, kriegsgef.</p>
@@ -1066,7 +1066,7 @@
             <p>Koprivriica, Sokolovac, 1886, tot (8./9.1914). .■ .■...</p>
             <p>Devics Peter, Inft., IR. Nr. 29, Ungarn, Torontäl, Idvor,kriegsgef.</p>
             <p>Diak Peter, Reslnft., IR. Nr. 80, .2. MarsehKomp., Galizien, Zboröw, Wolczkowce, 1881, kriegsgef.</p>
-            <p>Diczuk Elias, ErsRes., IR. Nr. 80, 2, Marschkomp., Galizien, Zbczöw, Krame, 1883, kriegsgef.</p>
+            <p>Diezuk Elias, ErsRes., IR. Nr. 80, 2, Marschkomp., Galizien, Zbczöw, Krame, 1883, kriegsgef.</p>
             <p>Diiiovic Ahmed, Inft., Bosnien, Bosn,-Petrovac, kriegsgef.</p>
             <p>(Han Zarev, Montenrgro.)</p>
             <p>Didyk Filemon, ErsTles., IR. Nr. 80, 5. Komp., Galizien, Zboröw, Zagörze, 1882, kriegsgef.</p>
@@ -1950,7 +1950,7 @@
             <p>Montenegro).</p>
             <p>Kadrljak Matt las, Kail., Schw. IIDiv. Nr. C, Ungarn, Trencsen, Kölesfalu, .1889, verw.</p>
             <p>Kahl Friedrich, Inft., IR. Nr. 91, 8. Komp., verw.</p>
-            <p>Kahlen Alois, ResKorp., IR. Nr. 79, 3. Komp.,: Steiermark Graz,-1889, verw.</p>
+            <p>Kahlen Alois, ResKorp., IR. Nr. 79, 3. Komp., <country>Steiermark</country>, Graz, 1889, verw.</p>
             <p>Kaiman Josef, Ungarn, Zala, Zalalövo', 1886,tot,</p>
             <p>Kalender Dane, Reslnft., IR. Nr. 79, 16. Komp., Kroatien, Korenica, 1880. verw. .</p>
             <p>Kalemher Stevan, Zugsf-, IR. Nr. 79, 3. Komp., Kroatien, Ko- renica, 1894, verw.</p>
@@ -2399,8 +2399,7 @@
             <p>Kudas -Vinko, Reslnft., IR. Nr. 79, 16. Komp., Kroatien, Krizevci, Vojakovac, 1886, verw. ;</p>
             <p>Kudniak Iwan, Inft., kriegsgef. (Lgow, Gouvernement Kursk'.</p>
             <p>Rußland.)</p>
-            <p>Kugler Robert, Steiermark, Fohnsdorf, kriegsgef. (Glasow, Gou ­</p>
-            <p>vernement Wjatka, Rußland.) : , .</p>
+            <p>Kugler Robert, <country>Steiermark</country>, Fohnsdorf, kriegsgef. (Glasow, Gouvernement Wjatka, Rußland.) : , .</p>
             <p>Kuhar Paul, ResGefr., IR. Nr. 79, 3. Komp., Kroatien, Krapina, 1881,verw.</p>
             <p>Kühnl Josef, Gefr., IR. Nr. 92, 3. Komp., Böhmen, Kaaden, Sebeltitz, 1892, verw. '</p>
             <p>Kuk Michael, Inft, IR. Nr. 80, 11. Komp., Galizien, Kamionka, Jakimöw, 1890, verw. •</p>
@@ -3154,8 +3153,7 @@
             <p>Ovvsiany Josef, Inft., IR. Nr. 80, 1. Marsehkomp., Galizien,</p>
             <p>Zboröw, Jezierna, 1892, tot (20./11. 1914).</p>
             <p>Oznk Johann, Freiw., kriegsgef. (Tomsk, Rußland.)</p>
-            <p>Pacco Eduard, Inft., Küstenland, Görz, kriegsgef. (Skoplje,</p>
-            <p>Serbien.) - , ' :</p>
+            <p>Pacco Eduard, Inft., <country>Küstenland</country>, Görz, kriegsgef. (Skoplje, Serbien.)</p>
             <p>Padejan Johann, Inft, IR. Nr. 79, 14. Komp., verw.</p>
             <p>Padejszki Tima, Inft., IR. Nr. 29, Ungarn, Torontäl,- Perlasz, kriegsgef. ■</p>
             <p>Pagcr Stefan Barnabas, Inft., IR. Nr. 101, 8. Komp., Ungarn, Csanäd, Kunägota, 1889, verw.</p>
@@ -3480,9 +3478,7 @@
             <p>Prhad Angel, Reslnft., IR. Nr. 79, 7. Komp., Kroatien, Crik- venica, Drivenik, 1880, verw.</p>
             <p>Pribanic Ivan, ResZngsf., IR. Nr. 79,8. Komp., Kroatien, Otocac, 1888, verw.</p>
             <p>Pribie &gt;Stanisa, Inft., IR. Nr. 79,16. Komp., Kroatien, Korenica, 1892,verw.</p>
-            <p>Prihoüie Johann, Korp., IR. Nr. 54, 10. Komp., Steiermark,</p>
-            <p>Rann, Armesko, 1894, kriegsgef. (Bijsk, Gouvernement Tompk,</p>
-            <p>Rußland.)</p>
+            <p>Přibožic Johann, Korp., IR. Nr. 54, 10. Komp., <country>Steiermark</country>, Rann, Armesko, 1894, kriegsgef. (Bijsk, Gouvernement Tomsk, ußland.)</p>
             <p>Prica Dmitar, Reslnft., IR. Nr. 79, 8. Komp., Kroatien, Kore ­ nica, 1884, verw. , ■</p>
             <p>PriebischMax, Inft., IR. Nr. 94,12. Komp., verw.</p>
             <p>Prihousky"Stanislaus, ErsRes., III. Nr. 94,11. Komp., Böhmen, Turnau, 1890, verw.</p>
@@ -3576,8 +3572,7 @@
             <p>Badziewinski Theodor, ErsRes., IR. Nr. 80, 2. Marschkomp., kriegsgef.</p>
             <p>liihrj Paul, Reslnft., IR. Nr. 79, 4. Komp., Kroatien, Krapina, Sv. KriZ,1886, verw. (21./8. 1914.)</p>
             <p>Bafaj Paul, Reslnft., IR. Nr. 79, 4. Komp., Kroatien, Krapina, Sv. Kriz, 188G, verw. (8./9. 1914.)</p>
-            <p>Itaitberg Florian, Krain, kriegsgef. (Glasow, Gouvernement</p>
-            <p>"Wjatka, Rußland.)</p>
+            <p>Raitberg Florian, <country>Krain</country>, kriegsgef. (Glasow, Gouvernement Wjatka, Rußland.)</p>
             <p>BajaciS Mile, Gefr., IR. Nr. 79, 16. Komp., Kroatien, ISrinie, 1800, verw. .......</p>
             <p>Raj£evie Mile, Reslnft., IR. Nr.' 79,16. Komp., Kroatien, Gospic., 1883, verw.</p>
             <p>Rajfie Silvio, Reslnft., IR. Nr. 70,"7. Komp., • Ungarn,' Fiume, 1886, verw.</p>
@@ -4709,7 +4704,7 @@
             <p>Galizien, Brody, Nakwsaza, 1891, kriegsgef.</p>
             <p>Wcibl Josef, kriegsgef. (Atschinsk, Gouvernement Jennis-</p>
             <p>seisk, Rußland.)</p>
-            <p>Weieliselbraun Anton, Korp., IR. Nr. 94, 15. Komp., Kärnten, Spittal, Bangersdorf, 1891, kriegsgef.</p>
+            <p>Weieliselbraun Anton, Korp., IR. Nr. 94, 15. Komp., <country>Kärnten</country>, Spittal, Bangersdorf, 1891, kriegsgef.</p>
             <p>Wcigl Martin Franz, Inft., IR. Nr. 54, 10. Komp., Niederöster ­</p>
             <p>reich, Wien, 1891, kriegsgef. (Bijsk, Gouvernement Tomsk,</p>
             <p>Rußland.) (Identität nicht genau festgestellt.)</p>
@@ -4872,8 +4867,7 @@
             <p>Zemann Josef, ErsRes. Kan., Schw. HbDiv. Nr. 5, Ungarn, Trencs&amp;t, Hegyeshely, 1887, verw.</p>
             <p>Zenker Wilhelm, Reslnft., IR. Nr. 94,10. Komp., 1883, kriegsgef.</p>
             <p>Zenkner Oskar, Inft., IR. Nr. 94,15. Komp., verw.</p>
-            <p>Zettelbauer Johann, Inft., Steiermark, kriegsgef. (Woronesh,</p>
-            <p>Rußland.)</p>
+            <p>Zettelbauer Johann, Inft., <country>Steiermark</country>, kriegsgef. (Woronesh, Rußland.)</p>
             <p>Zcttlitzer Karl, Gefr., IR. Nr. 92, 10. Komp., Böhmen, Saaz, Sfceckuitz, 1881, verw.</p>
             <p>Zgela Nikola, Inft., IR. Nr. 79, 3. Komp., Kroatien, Slunj, 1891, verw.</p>
             <p>Zgela Peter, ErsRes., IR. Nr. 79, 5. Komp., Kroatien, Slunj, 1884, verw.</p>
