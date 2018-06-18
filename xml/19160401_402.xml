@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-dS’lMeVv<TEI xmlns="http://www.tei-c.org/ns/1.0"
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:lang="de"
      xml:id="vll.19160401_402">
    <teiHeader xml:lang="sl">
@@ -6324,7 +6324,7 @@ dS’lMeVv<TEI xmlns="http://www.tei-c.org/ns/1.0"
             <p>büsk, Rußland.</p>
             <p>Zakrajšek Franz, Inft., IR. Nr. 17, 7. Komp., <country>Krain</country>, Littai, Aržiše, 1894; kriegsgef., Rußland.</p>
             <p>ZoM: Johann Györgv’-^, Gefr., IR. Kr. 85, 9. Komp,, Ungarn, Ugocs.a, Höralücz, 1891; verw.</p>
-            <p>Zorat Jopof Anton, ErsRes., FJB. Kr. 20, 4. Komp., <country>Küstenland</country>, Jlor.falcone. Aquileja, 1S88; krieg.sgef., Vereinigtes EVakuationsSpital Nr. 8iii Moskau, Rußland,
+            <p>Zorat Jopof Anton, ErsRes., FJB. Kr. 20, 4. Komp., <country>Küstenland</country>, Jlor.falcone. Aquileja, 1S88; krieg.sgef., Vereinigtes EVakuationsSpital Nr. 8iii Moskau, Rußland,</p>
             <p>Zorčič Franz, Inft., IR. Nr. 87, 3. Komp., <country>Steiermark</country>, Rann, Sela, 1885; verw.</p>
             <p>Zorinč Ferdinand, Inft., IR. Nr. 87, 13. Komp., S<country>teiermark</country>, Cilli, St.Kristof, 1895; verw.</p>
             <p>Zotll Peter, Inft., IE. Kr. 87, 11. Komp., Kiederösterrcich, Kennkirchen, Torberg, 1888; verw.</p>
@@ -6473,7 +6473,7 @@ dS’lMeVv<TEI xmlns="http://www.tei-c.org/ns/1.0"
             <p>Nr. 20,1. Komp,, Ungarn, Jläramaros, yiarmarosszigc</p>
             <p>1892; kriegsgof., Simbirsk, Rußland. (War ven</p>
             <p>gemeldet.)</p>
-            <p sameAs="VIL.234"><p>Miklavič Franz, Kdt. i. d. Res., FJB. Nr. 20, 4. Komp., <country>Küstenland</country>, Tolmein, Karfreit, l893; Verw., kriegsgef., Feldspital Nr.45 in Rjäsan, Rußland (War tot gemeldet).</p>
+            <p sameAs="VIL.234">Miklavič Franz, Kdt. i. d. Res., FJB. Nr. 20, 4. Komp., <country>Küstenland</country>, Tolmein, Karfreit, l893; Verw., kriegsgef., Feldspital Nr.45 in Rjäsan, Rußland (War tot gemeldet).</p>
             <p>Nr. 809. Urban Johann, Inft., IR. Kr. 34, Ungarn, Abauj-Tom</p>
             <p>Detek, 1886; tot 28./9. 1915. (Warvoi’w. gemeldet</p>
             <p>Nr. 324. IV.-rrterosicwicz Adam, EinjFreiw., IR. Nr. 4</p>
