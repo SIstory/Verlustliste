@@ -5118,7 +5118,7 @@
             <p>Offiziere.</p>
             <p>Aichinger Hans, Dr., Lt. i. d. Res., IR. Nr. 59,13. Komp., Salz ­</p>
             <p>burg, Hallein, 1887, tot (19./11. 1914).</p>
-            <p>Baar Adolf, Oblt., IR. Nr. 22, .7, Komp., <country>Küstenland</country>, Görz, 1884, verw.</p>
+            <p xml:id="vll.19150104_92_93.9910">Baar Adolf, Oblt., IR. Nr. 22, .7, Komp., <country>Küstenland</country>, Görz, 1884, verw.</p>
             <p>Barwik Arnold, Obst., bh. IR. Nr. 4, verw.</p>
             <p>Bauer.Friedrich, Kdt. i. d. Res., k. k. LIR. Nr. 4, 1. Komp.,</p>
             <p>tot. .</p>
@@ -5164,7 +5164,7 @@
             <p>Huber Anton, Dr. Jur., Lt, i. d. Res., TJR. Nr. 4, 8. Komp.,</p>
             <p>Tirol, Kitzbühel, JochbeVg, töt-(27./10.—3./11. 1914).</p>
             <p>Huss Johann, Fähnr., k. k. LIR. Nr. 4, 8. Komp., verw.</p>
-            <p>Ive Ferdinand, Hptm.,.k. k. LIR. Nr. 30, BaonsStb., <country>Istrien</country>, Pola, 1878, kriegsgef.</p>
+            <p xml:id="vll.19150104_92_93.10002">Ive Ferdinand, Hptm.,.k. k. LIR. Nr. 30, BaonsStb., <country>Istrien</country>, Pola, 1878, kriegsgef.</p>
             <p>Jedlieka Wilhelm, Lt. i. d. Res., k. k. LIR. Nr. 30, 12. Komp., Schlesien, Troppau, 1880, verw. ■ " '</p>
             <p>Jerel» Josef, Hptm., k. k. LIR. Nr. 4, 4. Komp., verw.</p>
             <pb n="41"
@@ -5173,7 +5173,7 @@
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150104&amp;seite=41&amp;zoom=33">[ Verlustliste - 19150104 - Seite 41 ]</ref>
             </ab>
             <p>Kasal Rudolf, Obst., k. k. LIR. Nr. 30, RgtsStb., Böhmen, Tabor, 3861, tot (27./10., 3914).</p>
-            <p>Kastreuz Robert, Lt. i. d. Res., IR. Nr. 22, 7. Komp., <country>Krain</country>, Laibach, 1888, verw.</p>
+            <p xml:id="vll.19150104_92_93.10014">Kastreuz Robert, Lt. i. d. Res., IR. Nr. 22, 7. Komp., <country>Krain</country>, Laibach, 1888, verw.</p>
             <p>Kidery Oskar, Lt. i. d. R., SappB. Nr. 34, 6. Komp., tot</p>
             <p>(11.-20./10. 1914.)</p>
             <p>Klein Friedrich, Hptm., IR. Nr. 59,13. Komp., Ungarn, Sopron, Harka, 1878, tot (18./11. 3914).</p>
@@ -5248,7 +5248,7 @@
             <p>Schenk Anton, Hptm., k. k. LIR. Nr. 4, MGA. 3, verw. . ,</p>
             <p>Schindler Sebastian, Kdt. i. d. Res., k. k. LIR. Nr. 30, 6. Komp.,</p>
             <p>Böhmen, Senftenberg, Tanndorf, 1894, kriegsgef.</p>
-            <p>Schmid Erich, Kdt. i. d. Res., IR. Nr. 69, 1. Komp., <country>Kärnten</country>, Klagenfurt, 1889, verw.</p>
+            <p xml:id="vll.19150104_92_93.10164">Schmid Erich, Kdt. i. d. Res., IR. Nr. 69, 1. Komp., <country>Kärnten</country>, Klagenfurt, 1889, verw.</p>
             <p>Schmicdl Ernst, Lt., k. k. LIR. Nr. 4, 7. Komp., tot.</p>
             <p>Schmirgl Josef, Oblt., k.k. LIR. Nr. 4, 6. Komp., verw. ;</p>
             <p>Schuster Kurt, Lt., k. k. LIR. Nr. 4, 9. Komp., tot.</p>
@@ -5388,7 +5388,7 @@
             <p>Bludenz, Biirs, 1890, tot (26./10.1914).</p>
             <p>Bachmayer Johann, Inft., IR, Nr. 59, 14. Komp., Salzburg, Zell am See, Wald, 1892, verw.</p>
             <p>Baclimayer Josef, Inft., IR. Nr. 69, 14. Komp., Oberösterreich, Braunau, Tarsdorf, 1893, verw,</p>
-            <p>Bacic Rudolf, ErsRes., k. k. LIR. Nr. 5, 5. Marschkomp., <country>Istrien</country>, Volocsa, Kastav, 1886, tot (23./11, 1914)</p>
+            <p xml:id="vll.19150104_92_93.10438">Bacic Rudolf, ErsRes., k. k. LIR. Nr. 5, 5. Marschkomp., <country>Istrien</country>, Volocsa, Kastav, 1886, tot (23./11, 1914)</p>
             <p>Bäckcrt Wenzel, Waffenm, 1. Kl., k. k. LIR, Nr. .4, verw,</p>
             <p>Bavko Marijan, Reslnft,, IR ( Nr, 22, 6, Komp,, Dalmatien, Knin, Ramljane, 1882, verw,</p>
             <pb n="43"
@@ -5763,7 +5763,7 @@
             <p>Dagcuegger Anton, ErsRes., IR. Nr. 59, 14. Komp., Salzburg, Hallein, Kuchl, 1889, verw.</p>
             <p>Daldos Bartolo, ErsRes., TJR. Nr. 4, 1. Komp., Tirol, Cles, Vermiglio, 1888, verw.</p>
             <p>Daldos Bortolo, ErsRes., TJR., Nr. 4, 1. Komp., Tirol, Cles, Vermiglio, 1888, verw.</p>
-            <p>Dallabona Ferdinand, Korp., k. k. LIR. Nr. 37,9. Komp., <country>Küstenland</country>, Triest, 1883, verw.</p>
+            <p xml:id="vll.19150104_92_93.11164">Dallabona Ferdinand, Korp., k. k. LIR. Nr. 37,9. Komp., <country>Küstenland</country>, Triest, 1883, verw.</p>
             <p>Dallingcr, Gefr. TitKorp., IR. Nr. 59, 9. Komp., Oberösterreich,</p>
             <p>Braunau, Aspach, 1884, tot (16.—27./II. 1914).</p>
             <p>Dandrea Fortunata, Jag., MarschB; Nr. 27, 2. Komp., verw.</p>
@@ -5786,7 +5786,7 @@
             <p>Welschellen, 1888, tot (27./10.—3./11.191.4).</p>
             <p>Delahmct Ahmet, Inft., bh. IR. Nr. 1, 9. Komp., verw.</p>
             <p>Delascga Angelo, Jäg., TJR. Nr. 4, 10. Komp., Tirol, Cavalese, Predazzo, 1886, verw.</p>
-            <p>Delconte Amadeo, Inft., k. k. LIR. Nr. 5,. 5. Marschkomp., <country>Istrien</country>, Capodistria, 1893, tot (6./11. 1914).</p>
+            <p xml:id="vll.19150104_92_93.11210">Delconte Amadeo, Inft., k. k. LIR. Nr. 5,. 5. Marschkomp., <country>Istrien</country>, Capodistria, 1893, tot (6./11. 1914).</p>
             <p>Delic Muhamed, Inft., bh. IR. Nr. 1,10. Komp., verw.</p>
             <p>Delic Scmso, Gefr., bh. IR. Nr. 1, 9. Komp., verw.</p>
             <p>Dellagiacoma Giovanni, Jäg., TJR. Nr. 4, 10. Komp., Tirol, Cavalese, Predazzo, 1893, verw.</p>
@@ -5795,7 +5795,7 @@
             <p>Deiiifle Johann, Gefr., IR. Nr. 59, 15. Komp., Salzburg, St. Jo ­ hann, Schwarzach, 1889, verw.</p>
             <p>Deiissl 1' ranz, Jäg., MarschB, Nr. 27, 2. Komp., verw.</p>
             <p>Denk Georg, Zugsf., IR, Nr. 59, 13. Komp., Obsrösterreich, Braunau, St. Laurenz, 1888, verw. ■'■■■</p>
-            <p>Desanti Anton, Inft., k. k. LIR, Nr. 37, 6. Komp., <country>Istrien</country>, Parenzo, Buje, 1889, verw. (Bereits genesen.)</p>
+            <p xml:id="vll.19150104_92_93.11228">Desanti Anton, Inft., k. k. LIR, Nr. 37, 6. Komp., <country>Istrien</country>, Parenzo, Buje, 1889, verw. (Bereits genesen.)</p>
             <p>Descovich Josef, ErsRes., k. k.'LIR. Nr. 5, 5. Marschkomp., verw. (Armschuß.) •</p>
             <p>Destinger Josef, Inft., IR. Nr. 59, 9. Komp., Oberösterreich, Braunau, Henhart, 1887, verw,</p>
             <p>Dcutachmann Josef, Zugsf., k. k. LIR. Nr. 4, 7. Komp.; verw,</p>
@@ -5832,7 +5832,7 @@
             <p>Dörfer Johann, Inft., IR. Nr. 59, MGA. 2, Salzburg, Tamsweg, Mariapfarr, verw.</p>
             <p>Dorniger Kajetan, ErsRes., IR. Nr. 59, 9. Komp., Oberösterreich, Ried, Aurolzmünster, 1886, verw.</p>
             <p>Dörner Eduard, ErsRes., k. k. LIR. Nr. 30, 6. Komp., Böhmen, Neustadt, Sattel, 1880, verw.</p>
-            <p>Dorner Franz, Inft., k. k. LIR. Nr. 26, 10. Komp., <country>Steiermark</country>, Deutsch-Landsberg, Wald, 1888, kriegsgef. (Slobodsk, Gouvernement Wiatka, Rußland.)</p>
+            <p xml:id="vll.19150104_92_93.11302">Dorner Franz, Inft., k. k. LIR. Nr. 26, 10. Komp., <country>Steiermark</country>, Deutsch-Landsberg, Wald, 1888, kriegsgef. (Slobodsk, Gouvernement Wiatka, Rußland.)</p>
             <p>Dornetz-Huber Johann, Inft., IR'. Nr. 59, 8. Komp., 'Oberöster ­ reich, Grieskirchen, Natternbach, verw.</p>
             <p>Dörrich Alois, Zugsf., k. k. LIR, Nr. 4, MGA. 3, tot.</p>
             <p>Dossi Franz, Inft., k. k, LIR. Nr. 4,6. Komp., verw.</p>
@@ -6062,7 +6062,7 @@
             <p>Flechtncr Anton, Reslnft,, k. k. LIR. Nr. 30,1. Komp., Böhmen, Neustadt, Plassnitz, 1888, verw.</p>
             <p>Fleck Ferdinand, ErsRes., k. k. LIR. Nr. 4,8. Komp., verw.</p>
             <p>Florio Vizko, ErsRes., IR. Nr. 22,9. Komp., Dalmatien, St.Pietro, Bol, 1883, verw.</p>
-            <p>Fonda Nikola, Inft., k. k. LIR. Nr. 37, 6. Komp., <country>Istrien</country>, Pirano, Sanbotala, 1885, verw.</p>
+            <p xml:id="vll.19150104_92_93.11750">Fonda Nikola, Inft., k. k. LIR. Nr. 37, 6. Komp., <country>Istrien</country>, Pirano, Sanbotala, 1885, verw.</p>
             <p>Fonzari Richard, EinjFreiw. Korp., k. k. LIR. Nr. 4, 9. Komp., verw.</p>
             <p>Forcher Sebastian, Lstlnft., MarschB. Nr. 27, 1. Komp., verw.</p>
             <p>Forsthuber Mathias, k. k. LstlR. Nr. 2, 12. Komp., tot (22./11.</p>
@@ -6200,7 +6200,7 @@
             <p>Gigl Josef, Inft., k. k. LIR. Nr. 4, 3. Komp., verw.</p>
             <p>Gigler Johann, Zugsf., k. k. LIR. Nr. 4, 3. Komp., verw.</p>
             <p>Gigler Johann, Inft,, k. k. LIR. Nr. 4, 8. Komp., verw.</p>
-            <p>Gigler Karl, Steuermatrose, Kriegsmarine, S. M. S. "Maros", <country>Steiermark</country>, Graz, 1892, verw.</p>
+            <p xml:id="vll.19150104_92_93.12014">Gigler Karl, Steuermatrose, Kriegsmarine, S. M. S. "Maros", <country>Steiermark</country>, Graz, 1892, verw.</p>
             <p>Cilg Johann, Inft., k. k. LIR. Nr. 30, 9. Komp., Böhmen, Leito- mischl, Niki, 1888, tot (30./10. 1914).</p>
             <p>Gilg Leopold, Inft,., k. k. LIR. Nr. 30, 9. Komp., Böhmen, Leito- misehl, Niki, 1883, tot (30./10. 1914).</p>
             <p>Gimpl Mathias, Inft., IR. Nr. 59, 16. Komp., Salzburg, Hallem, Adnet, tot (Nov. 1934). .</p>
@@ -6631,7 +6631,7 @@
             <p>.Jäger Franz, Reslnft., k. k. LIR. Nr. 30, 1. Komp., Böhmen, Neustadt, Köunow, 1889, verw.</p>
             <p>Jäger Georg, Inft,., IR. Nr. 59, 1. Komp., Salzburg, St. Johann</p>
             <p>i. P„ Filzmoos, 1893, tot (24./II. 1914).</p>
-            <p>Jäger Josef, Inft., IR. Nr. 59, 8. Komp., <country>Steiermark</country>, St. Georgen, Murau, verw.</p>
+            <p xml:id="vll.19150104_92_93.12858">Jäger Josef, Inft., IR. Nr. 59, 8. Komp., <country>Steiermark</country>, St. Georgen, Murau, verw.</p>
             <p>Jäger Max, Jäg., TJR. Nr. 4, 9. Komp., Tirol, Bruneck, Nieder ­ dorf, 1891, verw.</p>
             <p>Jäger Paul, Inft. TitGefr., IR. Nr". 59, 14. Komp., .Salzburg, Tamsweg, Pichl, 1884, verw.</p>
             <p>Jäger Rudolf, Tnft., IR. Nr. 59, 9. Komp., Salzburg, St. Johann, 1887, verw.</p>
@@ -6684,7 +6684,7 @@
             <p>Jenschate Josef, Inft., k. k. LIR. Nr. 4, verw.</p>
             <p>Jerak Kuzman, ErsRes., IR. Nr. 22, 7. Komp., Dalmatien, Zara, Ko&amp;ane, 1891, verw. * ■ .</p>
             <p>Jerej Ernst, Inft., k. k. LIR. Nr. 4, 5. Komp., verw.</p>
-            <p>Jernejc Franz, Inft. TitGefr., IR. Nr. 22, 6. Komp., <country>Krain</country>, Laibach, Jošica, 1890, verw.</p>
+            <p xml:id="vll.19150104_92_93.12958">Jernejc Franz, Inft. TitGefr., IR. Nr. 22, 6. Komp., <country>Krain</country>, Laibach, Jošica, 1890, verw.</p>
             <p>Jcrolic Johann, Inft.", k. k. LIR. Nr. 4, 7. Komp., verw.</p>
             <p>Jeromcll Johann, Inft., k. k. LIR. Nr. 4, 2. Komp., verw..</p>
             <p>Jezbera Franz, Inft., k. k. LIR. Nr. 30,8. Komp., Böhmen, Pardu ­ bitz, Freloue, 1887, verw. •</p>
@@ -6701,8 +6701,8 @@
             <p>Jost Peter, Gefr:, IR. Nr. 7, lO. Komp., verw.</p>
             <p>Juch Valentin, Feldw., k. k. LIR. Nr. 4, Grenzschutzkomp. 2/II,</p>
             <p>VerW. . '</p>
-            <p>Jug Milko, Inft., k. k. LIR. Nr. 23, 10. Komp., <country>Steiermark</country>, Marburg, St. Nikolai a. Draufeld, 1885, kriegsgef.</p>
-            <p>Juhart, Korp., TJR. Nr. 4, 4. Komp., Steiermark, <country>Cilli</country>, St. Gunigund, verw. (Vom Stande des IR. Nr. 26.)</p>
+            <p xml:id="vll.19150104_92_93.12992">Jug Milko, Inft., k. k. LIR. Nr. 23, 10. Komp., <country>Steiermark</country>, Marburg, St. Nikolai a. Draufeld, 1885, kriegsgef.</p>
+            <p xml:id="vll.19150104_92_93.12994">Juhart, Korp., TJR. Nr. 4, 4. Komp., Steiermark, <country>Cilli</country>, St. Gunigund, verw. (Vom Stande des IR. Nr. 26.)</p>
             <p>Jukiß Mijo, Inft., bh. IR. Nr. 1, 3. BaonsStb., tot (26./11.1914).</p>
             <p>Jung Ernst, Gefr., k. k. LIR. Nr. 30,11. Komp., Böhmen, Neu ­</p>
             <p>stadt,- Deschnej, 1879, tot (30./10.1914).</p>
@@ -6710,7 +6710,7 @@
             <p>Jung Rudolf, Korp., k. k. LIR. Nr. 30, 10. Komp., Böhmen, Senftenberg, Bielei, 1881, verw.</p>
             <p>Junle Joso, ErsRes., k. k. LIR. Nr. 37, 8. Komp., verw.</p>
             <p>Junuzoviö Avdo, Inft., bh. IR. Nr. 1, 11. Komp., verw.</p>
-            <p>Juranič Peter, Inft., k. k. LIR. Nr. 37,6. Komp., <country>Istrien</country>, Veglia, Posite, 1885, verw.</p>
+            <p xml:id="vll.19150104_92_93.13010">Juranič Peter, Inft., k. k. LIR. Nr. 37,6. Komp., <country>Istrien</country>, Veglia, Posite, 1885, verw.</p>
             <p>Juriß Marijan, Inft., bh. IR. Nr. 1, 12. Komp., verw.</p>
             <p>Jurischek Karl, ErsR , IR. Nr. 59, 11. Komp., Böhmen, Gab- lonz a. d. N., Josefstbal, 1882, verw.</p>
             <p>Juritsch Primas, Zugsf., k. k. LIR. Nr. 4, MGA. 3, verw.</p>
@@ -6820,7 +6820,7 @@
             <p>Kerschbaum Franz, Inft:, k. k. LIR. Nr. 4, 7. Komp., verw.</p>
             <p>Kerschbaumer Josef, ErsRes., IR. Nr. 59, 8. Komp., Salzburg, St. Johann, St. Veit, verw. . • &gt;, ,,</p>
             <p>Kertb Josef, Inft., IR. Nr. 7,10. Komp., verw.</p>
-            <p>Kervischar Rudolf, ErsRes., k. k. LIR. Nr., 5, 5. Marschkomp., <country>Küstenland</country>, Triest, tot (23./11. 1914).</p>
+            <p xml:id="vll.19150104_92_93.13224">Kervischar Rudolf, ErsRes., k. k. LIR. Nr., 5, 5. Marschkomp., <country>Küstenland</country>, Triest, tot (23./11. 1914).</p>
             <p>Kesely Blagoje, Inft., bh.;IR. Nr. i, 9, Komp., verw.</p>
             <p>Kibler Johann, .ErsRes., IR. Nr. 59, Oberösterreich, Vöckla ­ bruck, Pondorf, 1887, verw. . .</p>
             <p>Kieclil Franz, Jag., TJR. Nr, 4,12. Komp., Tirol, Schwaz, 1890, ' verw. " ' ■ i</p>
@@ -7294,7 +7294,7 @@
             <p>Luegcr Gottfried, Inft,, IR. Nr. 7,6. Komp., verw.</p>
             <p>Lugonjic Ilija, Inft., bh.-IR. Nr. 1,3. BaonsStb., verw.</p>
             <p>Lugstein Josef, Inft., IR. Nr. 59, 15. Komp., Salzburg, Straß- walchen, 1893, verw.</p>
-            <p>Luisa Alois, Inft., k. k. LIR. Nr. 26, 3. Komp., <country>Küstenland</country>, Gradiska, Cowna, 1891, kriegsgef. (Slobodsk, Gouvernement Wjatka, Rußland.)</p>
+            <p xml:id="vll.19150104_92_93.14148">Luisa Alois, Inft., k. k. LIR. Nr. 26, 3. Komp., <country>Küstenland</country>, Gradiska, Cowna, 1891, kriegsgef. (Slobodsk, Gouvernement Wjatka, Rußland.)</p>
             <p>Lukasek Gustav, Korp., k." k. LIR. Nr. 30, 9. Komp., Böhmen, Nachod, Zernow, 1887, tot(24./10.1914);</p>
             <p>Lukeä Emil, Inft., k. k. LIR. Nr. 30, 8. Komp., Böhmen, Lands- kron, Knappendorf, 1886, verw.</p>
             <p>Lunäcek Milosl., Reslnft., k. k. LIR: Nr. 30,1. Komp., Böhmen, Hohenmauth, Krouna, 1886, verw.</p>
@@ -7418,7 +7418,7 @@
             <p>Mwuschka Karl, Inft., IR. Nr. 21,14. Komp., Böhmen, Reichen ­ berg, Grottau, 1884, verw.</p>
             <p>Marusic Ivan des Stipan, ErsRes., IR. Nr. 22, 12. Komp., Dal ­ matien, Spalato, Almissa, 1890, verw.</p>
             <p>Maruä!c Marin, Inft., k. k. LIR. Nr. 37, 11. Komp., Dalmatien, Spalato, Almissa, 1892, verw. • '</p>
-            <p>Maruzza, Gefr., k. k. LIR. Nr. 37, 6. Komp., <country>Küstenland</country>, Triest 1893, verw.</p>
+            <p xml:id="vll.19150104_92_93.14390">Maruzza, Gefr., k. k. LIR. Nr. 37, 6. Komp., <country>Küstenland</country>, Triest 1893, verw.</p>
             <p>Marwisscr Peter, Inft., k. k. LIR. Nr. 4, Grenzschutzkomp. 2/II, verw. ~ '</p>
             <p>Marx Karl, Jag., MarschB. Nr. 27, 2. Komp., verw.</p>
             <p>Märzendorfer Josef, Gefr., IR. Nr. 59,12. Komp., Oberösterreich' Ried, Taiskirchen, 1890, verw. '</p>
@@ -7481,7 +7481,7 @@
             <p>Mclmer Anton, Jäg., TJR. Nr. 4, 8. Komp., Tirol, Imst, Nasse- reith, 1888, verw.</p>
             <p>McmisäVic Remruja, ResKorp., bh. IR. Nr. 1, 11. Komp., verw.</p>
             <p>Mems Bernard, Inft., k. k. LIR. Nr. 5, 6. Marse hkomp., verw.</p>
-            <p>Menis Mario, ErsRes., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 5), 7. Komp., <country>Küstenland</country>, Triest, 1883, verw.</p>
+            <p xml:id="vll.19150104_92_93.14516">Menis Mario, ErsRes., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 5), 7. Komp., <country>Küstenland</country>, Triest, 1883, verw.</p>
             <p>Menne! Rupert, Jäg., MarschB. Nr.27, 2. Korap., verw.</p>
             <p>Menzl Franz, Reslnft., k. k. LIR Nr. 30, I.Komp., Böhmen, Landskron, Sopotnifcz, 1884, verw.</p>
             <pb n="61"
@@ -7511,7 +7511,7 @@
             <p>üikl Josef, Korp., k. k. LIR. Nr. 4, 7. Komp., verw. ?</p>
             <p>Miklanflc Johann, ErsRes., k. k, LIR. Nr. 37 (k. k. LIR. Nr. 5), 8. Komp., verw.</p>
             <p>Miklautzlgnaz, Zugsf., k.k. LIR. Nr.4,9,Komp., tot (Sept.1914). j</p>
-            <p>Miklavec Josef, ErsRes., k. k. LIR. Nr. 37, (k. k. LIR. Nr. 5), 8. Komp., <country>Küstenland</country>, Triest, 1880, tot (26./11. 1914).</p>
+            <p xml:id="vll.19150104_92_93.14570">Miklavec Josef, ErsRes., k. k. LIR. Nr. 37, (k. k. LIR. Nr. 5), 8. Komp., <country>Küstenland</country>, Triest, 1880, tot (26./11. 1914).</p>
             <p>Milas Jure, i©efr. TitKorp., IR. Nr. 22, 9. Komp.., Datmatien, Imotski, 1889, verw. - '</p>
             <p>JVIUie Todor, Jteslnft., IR. Nr. 22, 6. Komp., D&amp;lmatien, Knin, 1886, verw.</p>
             <p>Millonig Valentin,,Inft., k. . LIR. Nr. 4,10. Komp., verw.</p>
@@ -8003,7 +8003,7 @@
             <p>Polioraikar Franz, Inft., k. k. LIR. Nr. 4,7. Komp.,verw.</p>
             <p>Pojer Luigi, Unterjäg., TJR. Nr. 4, 8. Komp., Tirol, Trient, Grumes, 1885, verw.</p>
             <p>Pojer Vittorio, Jäg., TJR.' Nr. 4, 4. Komp., Tirol, Trient, Grumes, 1889, verw.</p>
-            <p>Poldrugo Anton, ErsRes., k. k. LIR. Nr. 37, 11. Komp., <country>Istrien</country>, Pisino, Albano, 1887, verw.</p>
+            <p xml:id="vll.19150104_92_93.15530">Poldrugo Anton, ErsRes., k. k. LIR. Nr. 37, 11. Komp., <country>Istrien</country>, Pisino, Albano, 1887, verw.</p>
             <p>Poldrugovac Dominik, ErsRes., k. k. LIR. Nr. 5,5. Marschkomp., verw.(Schußi. d. Hand.)</p>
             <p>Polechofiski Frane, Leg., Poln. Leg. 3. Rgt., 1. Komp., Galizien, Zakopane, 1895, verw.</p>
             <p>Polj&amp;c Despo, Inft., bh. IR. Nr. 1,10. Komp., tot (26./11.1914).</p>
@@ -8130,7 +8130,7 @@
             <p>Rabler Josef, ErsRes., IR. Nr. 59, 8. Komp., Oberösterreich, Ried, Geinberg, kriegsgef.</p>
             <p>Rablhofer Peter, IR. Kr. 7, 6. Komp., verw.</p>
             <p>Rabwein Johann, Inft., IR. Nr. 59, 9. Komp., Salzburg, Zell am See, Bruck, 1883, verw.</p>
-            <p>Rachoi Ernst, Zugsf. TitOberjäg., TJR. Kr. 4.8. Komp., <country>Kärnten</country>, Wolfsberg, 1893, tot (27./10.— 3./11.1914).</p>
+            <p xml:id="vll.19150104_92_93.15778">Rachoi Ernst, Zugsf. TitOberjäg., TJR. Kr. 4.8. Komp., <country>Kärnten</country>, Wolfsberg, 1893, tot (27./10.— 3./11.1914).</p>
             <p>Radaucr Johann, Inft., IR. Nr. 59, 4. Komp., Oberösterreich, Vöcklabruck, Tiefgraben, 1893, verw.</p>
             <p>Radeljak Mathias, ErsRes., IR. Kr. 22, 6. Komp., Dalmatien,</p>
             <p>Drnis, Tepljak, 1885, tot (21./10. 1914).</p>
@@ -8191,7 +8191,7 @@
             <p>Rauter Thomas, Inft., k. k. LIR. Nr. 4, 1. Komp., verw.</p>
             <p>Ravljie Ivan, Inft., IR, Nr. 22, 6. Komp., Dalmatien, Lesina, 1892, verw.</p>
             <p>Razek Franz, Gefr., k. k. LIR. Nr. 30, 2. Komp., .Böhmen, Pardubitz, Oberroven, 1891, verw.</p>
-            <p>Rebec Johann, Inft., k. k. LIR. Nr. 37, 6. Komp., <country>Küstenland</country>, Sesana, 1884, verw.</p>
+            <p xml:id="vll.19150104_92_93.15900">Rebec Johann, Inft., k. k. LIR. Nr. 37, 6. Komp., <country>Küstenland</country>, Sesana, 1884, verw.</p>
             <p>Robernig Andreas, Inft,, k. k. LIR. Kr. 4, 8. Komp., verw.</p>
             <p>ßechbergcr Franz, Inft., k. k. LIR, Kr. 4, 1. Komp., verw.</p>
             <p>Rcchberger Karl, Sapp., SappB. Nr. 14, 1. Komp., vcnv.</p>
@@ -8216,7 +8216,7 @@
             <p>Reiehl Franz,. Irift., IR. Nr. 59, 7. Komp., Salzburg, Reitsburg, 1893, tot (Nov. 1914).</p>
             <p>Reiehnann Ferdinand, Inft., k. k. LIR. Nr. 4, 10. Komp., vcrw.</p>
             <p>Reichmanu Rupert, IR. Nr. 7, 6. Komp., vcrw.</p>
-            <p>Reif Georg, Sapp., SappB. Nr. 14, 5. Komp., <country>Steiermark</country>, Judenburg, Möschnitzgraben, verw.</p>
+            <p xml:id="vll.19150104_92_93.15944">Reif Georg, Sapp., SappB. Nr. 14, 5. Komp., <country>Steiermark</country>, Judenburg, Möschnitzgraben, verw.</p>
             <p>Reifetsliammer Josef, Gefr., IR, Nr. 59, 7. Komp., Oborösterrcich, Ried, Eitzing, 1883, verw. - ,</p>
             <p>Rcimann Wenzel, ErsRes., k. k. LIR. Kr. 30, 9. Komp., Böhmen, Leitomischl, Bndislow, 1880, verw.</p>
             <p>Reiner Gregor, Korp., k. k. LIR. Nr. 4, 3. Komp., verw.</p>
@@ -8305,7 +8305,7 @@
             <p>(ll./ll. 1914).</p>
             <p>Rohr Jakob, KompIIorn., k. k. LIR. Nr, 4, 5. Komp., verw.</p>
             <p>Rolirauer Ferdinand, Sapp., SappB. Nr. 14.1. Komp., verw.</p>
-            <p>Rohs Bartholomäus, Inft., k. k. LIR. Nr. 26, 7. Komp., <country>Steiermark</country>, Cilli Umgeb., Lase, St. Marein, 1889, kriegsgef. (Glasow, Gouvernement Wjatka, Rußland.)</p>
+            <p xml:id="vll.19150104_92_93.16122">Rohs Bartholomäus, Inft., k. k. LIR. Nr. 26, 7. Komp., <country>Steiermark</country>, Cilli Umgeb., Lase, St. Marein, 1889, kriegsgef. (Glasow, Gouvernement Wjatka, Rußland.)</p>
             <p>Roitinger Franz, Zugsf., IR. Nr. 59, 7. Komp., Oberösterrcich, Ried, Aistersheim, 1887, verw.</p>
             <p>Rom Anton, Korp., IR. Nr. 59, 7. Komp., Oberösterreich, Vöckla ­ bruck, WoJfsegg, 1881,, verw.</p>
             <p>Roman Anton, Jäg., TJR. Nr. 4, 8. Komp., Tirol, Bozen. Eppan, 1890, verw.</p>
@@ -8865,7 +8865,7 @@
             <p>Stöekl Josef, Inft., IR. Nr. 59, 5. Komp., Oberüsterreich, Vöckla ­ bruek, Frankenmarkt, 1882, verw.</p>
             <p>Stöckl Simon, Inft,, IR. Nr. 69, 8. Komp., Salzburg, Tamsweg, Zederhaus, verw. , , .</p>
             <p>Stöckmaier Johann, Inft., IR. Nr. 59, 5. Komp., Salzburg, Zell a. See, Bremberg, 1891, verw.</p>
-            <p>Stocksreiter Konrad, EinJFreiw. TitKorp., IR. Nr. 59,12. Komp., <country>Kärnten</country>, Spittal, Kremsbrücken, 1891, tot (17.—27./11.1914).</p>
+            <p xml:id="vll.19150104_92_93.17212">Stocksreiter Konrad, EinJFreiw. TitKorp., IR. Nr. 59,12. Komp., <country>Kärnten</country>, Spittal, Kremsbrücken, 1891, tot (17.—27./11.1914).</p>
             <p>Stoffaneller Johann, Inft,, k. k. LIR. Nr. 4, verw.</p>
             <p>Stofpfta, Gefr., k. k. LIR. Nr. 5,'7. Marschkomp., verw. (Iland.)</p>
             <p>Stölflin Karl, Inft, TitGefr., IR. Nr. 7,10. Komp., verw.</p>
@@ -8987,7 +8987,7 @@
             <p>Tatazevic Mehmed, Reslnft., bh, IR, Nr. 1,11, Komp,, Bosnien</p>
             <p>Visoko, Dabrovina, tot (26./11. 1914). '</p>
             <p>Tatzmann Willibald, Inft,, IR. Nr. 7, 9. Komp., tot (17./11.1914),.</p>
-            <p>Taucer Franz, Inft., k. k. LIR. Nr, 6, 6. Marschkomp., <country>Küstenland</country>, Sesana, Zagrajc, 1893, tot (23./11. 1914).</p>
+            <p xml:id="vll.19150104_92_93.17450">Taucer Franz, Inft., k. k. LIR. Nr, 6, 6. Marschkomp., <country>Küstenland</country>, Sesana, Zagrajc, 1893, tot (23./11. 1914).</p>
             <p>Taulant Peter, Inft., k. k. LIR, Nr, 4,7. Komp., verw,</p>
             <p>Taupe Jakob, Inft., IR. Nr, 7, 6. Komp., tot (20./I0. 1914),</p>
             <p>Tauppe Valentin, Inft., IR. Nr, 7,8. Komp., verw,</p>
@@ -9181,7 +9181,7 @@
             <p>Vankät Johann, Reslnft., IR. Nr. 21, 8. Komp., Böhmen, Deutsch-Brod, Vez, 1881, verw. ,</p>
             <p>Vastöek Josef, Inft., k. k. LIR. Nr. 4, 6. Komp., verw.</p>
             <p>Vuäina Friedrich, Reslnft., k. k. LIR. Nr. 30, 7. Komp., Böhmen, Leitomischl, Ihof, 1882, verw.</p>
-            <p>Vaskotto Johann, ErsRes., k. k. LIR. Nr. 37, ErsBaonsKader, <country>Istrien</country>, Capodistria, Isola, 1881, verw.</p>
+            <p xml:id="vll.19150104_92_93.17826">Vaskotto Johann, ErsRes., k. k. LIR. Nr. 37, ErsBaonsKader, <country>Istrien</country>, Capodistria, Isola, 1881, verw.</p>
             <p>Vauticar Thomas, Inft., k. k. LIR. Nr. 4, 8. Komp., verw.</p>
             <p>Vavra Anton, ErsRes., k. k. LIR. Nr. 30,. 11. Komp., Böhmen,</p>
             <p>Senftenberg, Böhm. Rybna, 1886, tot (26. /10. 1914).</p>
@@ -9240,7 +9240,7 @@
             <p>Vorarlberg, Bregenz, Riefensberg, 1885, verw.</p>
             <p>Voljavec Johann, ErsRes., k. k. LIR. Nr. 4,10. Komp., verw.</p>
             <p>Volkmer Ferd., Zugsf., k. k. LIR. Nr. 30,,9. Komp., Böhmen, Senftenberg, Grulich, 1883, verw.</p>
-            <p>Vollmann Sebastian, KompHorn., k. k. LIR. Nr. 26, 2. Komp., <country>Steiermark</country>, Leibnitz, Kaindorf, 1885, kriegsgef. (Serdobsk, Gouvernement Saratow, Rußland.)</p>
+            <p xml:id="vll.19150104_92_93.17944">Vollmann Sebastian, KompHorn., k. k. LIR. Nr. 26, 2. Komp., <country>Steiermark</country>, Leibnitz, Kaindorf, 1885, kriegsgef. (Serdobsk, Gouvernement Saratow, Rußland.)</p>
             <p>Vondra Franz, ErsRes., k. k. LIR. Nr. 30, 1. Komp., Böhmen, Senftenberg, 1884, verw.</p>
             <p>Vorhauer Franz, Inft., IR. Nr. 59, 14. Komp., Oberösterreich, Ried, Kirchham, 1893, verw.</p>
             <p>Vostrez Johann, ErsRes., k. k. LIR. Nr. 30, 9. Komp., Böhmen, Reichenau, öastolowitz, 1882, verw.</p>

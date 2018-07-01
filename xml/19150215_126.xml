@@ -397,7 +397,7 @@
             <p>Marik Heinrich, Fühnr. i. d. Res., IR. Nr. 88, G. Komp., Nieder-.</p>
             <p>Österreich, Wien, 1884, tot (8./12.1914).</p>
             <p>Jlittermann Anton, Lt. i. d. Res., IR: Nr. 88, 8. Komp., Nieder-. Österreich, Wien, 1892, verw.</p>
-            <p>Naredi Maximilian, Obstlt., IR. Nr. 76, 12. Komp., <country>Kärnten</country>, Klagenfurt, 1885, verw., kriegsgef.</p>
+            <p xml:id="vll.19150215_126.688">Naredi Maximilian, Obstlt., IR. Nr. 76, 12. Komp., <country>Kärnten</country>, Klagenfurt, 1885, verw., kriegsgef.</p>
             <p>Nerey Desider,Lt.i. d. Res.,FJB. Nr.31,3. Komp.,verw.</p>
             <p>Pohl Friedrich, Lt. i. d. Res., IR. Nr. 77, 10. Komp.,. Böhmen, Polnikau, 1881, verw.</p>
             <p>Rezseklstvän, Oblt., k. u. LFKR. Nr. 3, Batt. 2, Ungarn, Sopron, 1885,verw. • . i</p>
@@ -5127,23 +5127,23 @@
             <p>Corkalo statt C'orkola Koste des verst. Sime, Matr. 2. KL, IvMar.,</p>
             <p>S. M, S. „Zinta", MatrKorps, 15. Komp.,'Dalmatien, Sebenico,</p>
             <p>Strcltö, 1890, kriegsgef. (Cctinjc, Montenegro.) :</p>
-             <p sameAs="VIL.37">Gallo statt Galli Anton, ResMatr. 1. K., KMar., S. M. S. „Znnta", MatrKorps, 6. Komp., <country>Istrien</country>, Capodistria, 1888, kriegsgef. (Cetinje, Montenegro.) *</p>
+             <p xml:id="vll.19150215_126.9890" sameAs="VIL.37">Gallo statt Galli Anton, ResMatr. 1. K., KMar., S. M. S. „Znnta", MatrKorps, 6. Komp., <country>Istrien</country>, Capodistria, 1888, kriegsgef. (Cetinje, Montenegro.) *</p>
             <p>Gog'a statt Gogola Johann, Torpcdoquarticrm., KMar., S. M. S.</p>
             <p>„Zenta", MatrKorps, 11. Komp., Ungarn, Mohäcs, 1880, kriegsgef. (Cctinjc, Montenegro.)</p>
             <p>Maratovic Yid, TitMarsgast, KMar., S. M. S. „Zenta", Matr.-</p>
             <p>Ivorps, 1. Komp., Kroatien, Otocae, Lika-Ivrbavä, Kumpoljc,.</p>
             <p>statt Erlog, 1895, kriegsgef. (Cetinje, Montenegro.) ,</p>
-             <p sameAs="VIL.37">Mauro Anton, Matr. 3. Kl., KMar., 8. M. S, "Zenta", MatrKorps, 10. Komp. <country>Istrien</country>, Capodistria, Valle-Oltra statt Muggia, 1890, kriegsgef. (Cetinje, Montenegro.)</p>
+             <p xml:id="vll.19150215_126.9902" sameAs="VIL.37">Mauro Anton, Matr. 3. Kl., KMar., 8. M. S, "Zenta", MatrKorps, 10. Komp. <country>Istrien</country>, Capodistria, Valle-Oltra statt Muggia, 1890, kriegsgef. (Cetinje, Montenegro.)</p>
             <p>Sarecz statt Sartcz Franz, ResMatr. 1. Kl., KMar., S. M. S.</p>
             <p>„Zenta", MatrKorps, 8. Komp., Ungarn, Nagykanizsa, 18SS, kriegsgef. (Cetinje, Montenegro.)</p>
-             <p sameAs="VIL.37">Vesuaver Anton, ResMatr. 3., Kl., IvMar., S. M. S. „Zenta", MatrKorps, 13. Komp., <country>Istrien</country>, Parenzo, Crassizza statt Buje, 1888. kriegsgef. (Cetinje, Montenegro.)</p>
+             <p xml:id="vll.19150215_126.9908" sameAs="VIL.37">Vesuaver Anton, ResMatr. 3., Kl., IvMar., S. M. S. „Zenta", MatrKorps, 13. Komp., <country>Istrien</country>, Parenzo, Crassizza statt Buje, 1888. kriegsgef. (Cetinje, Montenegro.)</p>
             <p>Voracek'statt Varacck Johann, Matr. 3. Kl., KMar., S, M. S.</p>
             <p>„Zenta", MatrKorps,5 Komp., Böhmen, Tabor, Cckemitz, 1892, kriegsgef. (Cetinje, Montenegro.) . ' '</p>
             <p>Vukusie Dujc, Matr. 2. Ivl., KMar., S. M. S. „Zenta", MatrKorps,</p>
             <p>5. Komp., Kroatien, Zengg, Lika-Krbava, Stinicastatt Jabla-</p>
             <p>nac, 1891, kriegsgef. (Cetinje, Montenegro.)</p>
             <p>/</p>
-             <p sameAs="VIL.37">Wuggenig Franz, SteuerMatr., KMar.; S. M. S. „Zenta", Matr. Korps, 7. Komp., <country>Kärnten</country>, Villach, Töbring statt Treffen, 1803, kriegsgef. (Cetinje, Montenegro.)</p>
+             <p xml:id="vll.19150215_126.9922" sameAs="VIL.37">Wuggenig Franz, SteuerMatr., KMar.; S. M. S. „Zenta", Matr. Korps, 7. Komp., <country>Kärnten</country>, Villach, Töbring statt Treffen, 1803, kriegsgef. (Cetinje, Montenegro.)</p>
             <p>K. u, b. Kricgsminisleriiiüij Vcrlusllislcngruppc.</p>
             <pb n="48"
                 facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150215&amp;seite=48&amp;zoom=33"/>

@@ -247,7 +247,7 @@
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161109&amp;seite=3&amp;zoom=33">[ Verlustliste - 19161109 - Seite 3 ]</ref>
             </ab>
             <p>Offiziere.</p>
-            <p>Auersperg Hugo, Graf, Hptm., k. k. LFKR. Nr. 43, <country>Steiermark</country>, Graz, Schillingsdorf, 1880; tot (13./9. 1916).</p>
+            <p xml:id="vll.19161109_488.394">Auersperg Hugo, Graf, Hptm., k. k. LFKR. Nr. 43, <country>Steiermark</country>, Graz, Schillingsdorf, 1880; tot (13./9. 1916).</p>
             <p>Gustav, Oblt. i. d. Res., IR. Nr. 100, 6. Komp., Böhmen, ;h, 1887; verw.</p>
             <p>lya Edmund, Kdt., IR. Nr. 83, 10. Komp., Ungarn, Pest-</p>
             <p>is-Solt-Kiskun, Kist4t6ny, 1890; kriegsgef., Rußland. '</p>
@@ -272,7 +272,7 @@
             <p>Nr.75,12. Komp.,Ungarn, Szeben, Szäszsebes, 1887; verw,</p>
             <p>Johann, SanFähnr., IR. Nr. 76, 16. Komp., Mähren,</p>
             <p>im, Zuckerhandl, 1892; tot (14./8. 1916).</p>
-            <p>Czermak Oskar, Lt., SappB. Nr. 11, zugeteilt dem SappB. Nr. 1, Komp., <country>Kärnten</country>, St. Veit, 1896; verw.</p>
+            <p xml:id="vll.19161109_488.444">Czermak Oskar, Lt., SappB. Nr. 11, zugeteilt dem SappB. Nr. 1, Komp., <country>Kärnten</country>, St. Veit, 1896; verw.</p>
             <p>t Theodor, FeldwKdtAsp., k. k. LIR, Nr, 14, 3, Komp., Jen, Brünn, 1891; verw.</p>
             <p>Richard, Hptm., IR. Nr. 88, 6. Komp., Oberösterreich,</p>
             <p>mau, Mauerkirchen, 1878; kriegsgef,, Wolotschisk, Gou-</p>
@@ -289,7 +289,7 @@
             <p>Eugen, Fähnr. i. d. Res., IR. Nr. 88, 14. Komp., Ungarn,</p>
             <p>, Csator-Leva, 1887; kriegsgef., Tschita, Gebiet Transbai-</p>
             <p>n, Rußland.</p>
-            <p>Eminger Ervin, Oblt., FKR. Nr, 19, Batt. 4, <country>Steiermark</country>, Graz, 1889; kriegsgef., Saratow, Rußland.</p>
+            <p xml:id="vll.19161109_488.478">Eminger Ervin, Oblt., FKR. Nr, 19, Batt. 4, <country>Steiermark</country>, Graz, 1889; kriegsgef., Saratow, Rußland.</p>
             <p>ludolf, Kdt. i. d. Res., IR. Nr. 75, 11. Komp., Böhmen, deis a. d. Elbe, Konetop, 1894; verw.</p>
             <p>layer Eugen, Edl. v., Oblt., IR. Nr.88,11. Komp., Böhmen,</p>
             <p>Bilin, 1889; kriegsgef., Orenburg, Rußland.</p>
@@ -312,7 +312,7 @@
             <p>Hatlan Emanuel, EinjFreiwTitFeldw., k. k. LIR. Nr. 6,10. Komp Böhmen, Budweis, 1887; verw. ^</p>
             <p>Hawänek Franz Kdt. i. d. Res., IR. Nr. 88,10. Komp., Mähren</p>
             <p>WoroS:aUf ^</p>
-            <p>Heigel Johann, Oblt., k. k. LIR. Nr. 14, 7. Komp., <country>Steiermark</country>, Murzzuschlag, Mitterdorf, 1892; tot (6.—10./6. 1916)</p>
+            <p xml:id="vll.19161109_488.524">Heigel Johann, Oblt., k. k. LIR. Nr. 14, 7. Komp., <country>Steiermark</country>, Murzzuschlag, Mitterdorf, 1892; tot (6.—10./6. 1916)</p>
             <p>Himmelbauer Otto, Lt. i d. Res., FJB. Nr. 10,3. Komp., Nieder- Österreich, Wien, 1893; verw.</p>
             <p>Holick ^ton, Obstlt, IR. Nr. 70, Böhmen, Thein; verw.</p>
             <p>Horak Josef, KdtAsp., k. k. LIR. Nr. 11, 4. Komp., Böhmen,</p>
@@ -320,7 +320,7 @@
             <p>jmsk, Rußland.</p>
             <p>HiMarck Karl, Lt. i. d. Res., SappB. Nr. 1, ErsKomp., Mähien,</p>
             <p>Prossnitz, Cechowitz, 1893; kriegsgef., Rußland,</p>
-            <p>Isola Emanuel, Lt. i. d. Res., FJB. Nr. 16, MGA., <country>Kärnten</country>, Spittal, Radenthen, 1890; verw.</p>
+            <p xml:id="vll.19161109_488.540">Isola Emanuel, Lt. i. d. Res., FJB. Nr. 16, MGA., <country>Kärnten</country>, Spittal, Radenthen, 1890; verw.</p>
             <p>Janda Friedrich, Kdt. i. d. Res., k. k. LIK Nr. 6, 10. Komp., Böhmen, Asch, 1894; tot (28./7. 1916).</p>
             <p>Janlszewski Ladislaus, Kdt. i. d. Res., IR. Nr. 9, zugeteilt dem</p>
             <p>IR. Nr. 10, 15. Komp., Galizin, Stryj, 1896; tot (28./6. 1916).</p>
@@ -344,7 +344,7 @@
             <p>Strakonitz, HoraMowitz, 1892; kriegsgef., Saransk, Gou Gouvernement ­</p>
             <p>vernement Gouvernement Pensa, Rußland.</p>
             <p>Kolar Zdenek, KdtAsp., k. k. LIR. Nr. 14, 3. Komp., Mähren, Brunn, Eibenschitz, 1895; verw.</p>
-            <p>Köstenberger Friedrich, Lt. i. d. Res., FJB. Nr. 16, 3. Komp., <country>Kärnten</country>, Spittal, Mettnitz, 1892; tot (4.-10./6. 1916)</p>
+            <p xml:id="vll.19161109_488.588">Köstenberger Friedrich, Lt. i. d. Res., FJB. Nr. 16, 3. Komp., <country>Kärnten</country>, Spittal, Mettnitz, 1892; tot (4.-10./6. 1916)</p>
             <p>Koszti Barnabäs, Fähnr., IR. Nr. 66, 16. Komp., Ungarn, Bars, L6va; kriegsgef,, Rußland.</p>
             <p>Kotzian Emil, jLstFähnr., IR. Nr. lOO, 6. Komp., Schlesien, Bielitz, 1884; verw.</p>
             <p>K^äcs Kdzmör György, Kdt. i. d. Res., k. u. LIR, Nr. 6, Ungarn,</p>
@@ -533,7 +533,7 @@
             <p>k Jury, LstInfst., IR. Nr. 30, 9. Komp., Galizien, Kosöw, bne, 1884; verw</p>
             <p>I Anton, Infst., k. u. LIR. Nr. 27, 1. Komp., Kroatien,</p>
             <p>itajnica, Majur, 1892; kriegsgef., Rußland.</p>
-            <p>Albrechter Franz, LstInfst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Deutsch-Landsberg, Leibenfeld, 1889; verw.</p>
+            <p xml:id="vll.19161109_488.954">Albrechter Franz, LstInfst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Deutsch-Landsberg, Leibenfeld, 1889; verw.</p>
             <p>iht Franz, LstInfst., IR. Nr. 75, 9. Komp., Böhmen, Tabor, ßjezow, 1880; verw.</p>
             <p>ndrowicz Israel, LstInfst., IR. Nr. 41,1. Komp., Bukowina, rnowitz, Nowosielitza, 1890; verw.</p>
             <p>ndruk Michal, LstInfst., IR. Nr. 15, 1. Komp., Bukowina,</p>
@@ -575,7 +575,7 @@
             <p>Antoniak- Wasyl, LstInfst.,- IR. Nr. 15, 4. Komp., G;üizien,</p>
             <p>Stanisku, BryA, 1895; kriegsgef., Tscliera, Gouvernement</p>
             <p>Tula, Rußlan(I.</p>
-            <p>Anželak Stefan, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Graz, 1880; verw., kriegsgef., Vereinigtes Feldspital Nr. 43 in Rjäsan, Rußland.</p>
+            <p xml:id="vll.19161109_488.1038">Anželak Stefan, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Graz, 1880; verw., kriegsgef., Vereinigtes Feldspital Nr. 43 in Rjäsan, Rußland.</p>
             <p>Araszkiewicz Franz, LstInfst., IR. Nr. 15, 1. Komp., Galizien,</p>
             <p>Chrzanöw, Siedlec, 1895; kriegsgef., Iwanowo-Wosnessensk,</p>
             <p>Gouvernement Wladimir, Rußlind.</p>
@@ -588,7 +588,7 @@
             <p>Argclean Florea, Infst., IR. Nr. 41, 5. Komp., Ungarn, 1895; verw.</p>
             <p>Ärmlich Franz, LstInfst., IR. Nr. 1, 15. Komp., Schlesien, Freudenthal, Boidensdorf, 1893; verw.</p>
             <p>Arzeni6 Jovm, UL, LTR. Nr. 12, 2. Esk., Slavonien, Ilok, Saren- grad, 1892; kriegsgef., Rußland.</p>
-            <p>Arztmann August, LstInfst., IR. Nr. 15, l. Komp., <country>Kärnten</country>, Spittal, Baldramsdorf, 1891; kriegsgef., Krasnojarsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.1064">Arztmann August, LstInfst., IR. Nr. 15, l. Komp., <country>Kärnten</country>, Spittal, Baldramsdorf, 1891; kriegsgef., Krasnojarsk, Rußland.</p>
             <p>Ataman Michael, Infst., IR. Nr. 15, 1. ErsKomp., Galizien,</p>
             <p>Tarnopol, Danysöw; kriegsgef.. Alexin, Gouvernement Tula;</p>
             <p>Rußland.</p>
@@ -953,7 +953,7 @@
             <p>dem IR. Nr. 75, BergmKomp., Mähren, Mähr.-Weißkircb 1896; verw.</p>
             <p>Biskup Sigmund, Infst, k. k. LIR. Nr. 16, 16. Komp., Galizi Podgörze, Krz^cin, 1896; verw.</p>
             <p>Bitkowski Michael, LstInfst, IR Nr. 80, 7. Komp., Galizi! Bohorodczany, Porohy, 1877; verw. j</p>
-            <p>Bizjak Johann, FreiwJungsch., IR. Nr. 80, 4. Komp., <country>Steiermark</country>, Graz, Backdorf, 1894; verw.</p>
+            <p xml:id="vll.19161109_488.1776">Bizjak Johann, FreiwJungsch., IR. Nr. 80, 4. Komp., <country>Steiermark</country>, Graz, Backdorf, 1894; verw.</p>
             <p>Blahut Anton, Infst, IR Nr. 100, 6. Komp., Schlesien,</p>
             <p>Stadt, Karwin, 1894; tot (30./6.—4./7. 1916).</p>
             <p>Blaski Josef, Infst, k. k. LIR. Nr. 16, RgtsStb., Galizi! Krakau, Podgörze, 1881; verw’. J</p>
@@ -1436,7 +1436,7 @@
             <p>Pitomaca, 1882; kriegsgef., Pensa, Rußland.</p>
             <p>Curaj Leopold, ResKorp., k. k. LIR. Nr. 31, 2. Komp., Schlesien, Friedek, Skalitz, 1889; verw.</p>
             <p>I3urda Karl, LstInfst., IH. Nr. 75,16. Komp., Böhmen, Wittin Albern, 1890; verw'.</p>
-            <p>Curm Georg, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Pettau, Adrianzen, 1881; kriegsgef., Malcarchangelsk, Gouvernement Orel, Rußland.</p>
+            <p xml:id="vll.19161109_488.2718">Curm Georg, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Pettau, Adrianzen, 1881; kriegsgef., Malcarchangelsk, Gouvernement Orel, Rußland.</p>
             <p>Cutifi Mijo, Infst., k. u. LIR. Nr. 27, 12, Komp., Kroat</p>
             <p>Pakrac, Cagli6,1889; kriegsgef., Kiew, Rußland. |</p>
             <p>Cvetkovi6 Dragutin, LstInfst,, k, u. LIR Nr. 27, 3. ErsKo)^</p>
@@ -1581,11 +1581,11 @@
             <p>Derlica Peter, LstInfst., IR. Nr. 15,1. Komp., Galizien, Tarnopol,</p>
             <p>Baworöw, 1893; kriegsgef., Werchnie Mully, Gouvernement</p>
             <p>Perm, Rußland.</p>
-            <p>Dersola Josef, LstInfst., IR. Nr. 15, 4. Komp., <country>Kärnten</country>, Villach, Maria-Gail, 1891; kriegsgef., Biriutsch, Gouvernement Woronesh, Rußland.</p>
+            <p xml:id="vll.19161109_488.3002">Dersola Josef, LstInfst., IR. Nr. 15, 4. Komp., <country>Kärnten</country>, Villach, Maria-Gail, 1891; kriegsgef., Biriutsch, Gouvernement Woronesh, Rußland.</p>
             <p>Desarczik Anton, Infst., IR. Nr. 100, 6. Komp., Schlesien,</p>
             <p>Friedek, Janowitz, 1892; tot (30./6.—4./7.1916).</p>
             <p>Deuda Michael, LstInfst., IR. Nr. 41, 5. Komp., Galizien, Kosöw, Slobödka, 1895; verw.</p>
-            <p>Dezelak Matyas, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Cilli, Tüffer, 1880; kriegsgef.. Alexin, Gouvernement Tula, Rußland.</p>
+            <p xml:id="vll.19161109_488.3010">Dezelak Matyas, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Cilli, Tüffer, 1880; kriegsgef.. Alexin, Gouvernement Tula, Rußland.</p>
             <p>Diaczenko Olexa, LstInfst., IR. Nr. 30, 8. Komp., Galizien, Nadworna, Dobrotow, 1894; verw.</p>
             <p>Dick false Goldstern David, Gefr., IR. Nr. 15, 2. Komp., Galizien,</p>
             <p>Tarnopol, Mikuliüce, 1884; kriegsgef., Malcarchangclsk,</p>
@@ -1603,7 +1603,7 @@
             <p>Dima Johann, LstInfst., IR. Nr. 2, 9. Komp., Ungarn, Ilärom-</p>
             <p>szök, Magyarbodza, 1896; kriegsgef., Rußland.</p>
             <p>Diösi Anton, ErsResInfst., IR. Nr. 23, Ungarn, Bäcs-Bodrog, Doroszlö, 1888; tot (24./5. 1915).</p>
-            <p>Dirnbauer Jacob, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Feldbach, 1889; verw.</p>
+            <p xml:id="vll.19161109_488.3046">Dirnbauer Jacob, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Feldbach, 1889; verw.</p>
             <p>Distenfeld Meier, Infst., IR. Nr. 41, 2. Komp., Galizien, Sokal, 1892; verw.</p>
             <p>Divis Josef, LstInfst., IR. Nr. 35, zugeteilt dem IR. Nr. 75,</p>
             <p>BergmKomp., Böhmen, Prag, 1891; veiw.</p>
@@ -1661,7 +1661,7 @@
             <p>ment Gouvernement Kasan, Rußland.</p>
             <p>Dokman Petar, ErsKesInfst., k. u. LstlK. Nr. 27, Kroatien,</p>
             <p>Kostajnica, Crkvenibok, 1876; kriegsgef., Kiew, Rußland.</p>
-            <p>Dolenc Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Krainburg, Selzach, 1887; kriegsgef., Nowousensk, Gouvernement Samara, Rußland.</p>
+            <p xml:id="vll.19161109_488.3156">Dolenc Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Krainburg, Selzach, 1887; kriegsgef., Nowousensk, Gouvernement Samara, Rußland.</p>
             <p>Dolencc Mato, ResJäg ., FJB. Nr. 31, 3. Komp., Kroatien,</p>
             <p>Koprivnica, Illebine, 1888; kriegsgef., Kusstanaj, Gebiet</p>
             <p>Tufgaj, Rußland.</p>
@@ -1711,7 +1711,7 @@
             <p>schar, Gouverneipent Woronesch, Rußland. i</p>
             <p>Dregeljevic Pavo, LstKorp., k. u. LstlR. Nr. 27, Kroatien, J 1873; kriegsgef., Kiew, Rußland.</p>
             <p>XvJ t 1/ f Vj. • y X».* V ^ y X 14 vl • -</p>
-            <p>Dresar Franz, LstInfst., IR. Nr. 15, 3. ErsKomp., <country>Krain</country>, Laibach, Ježica, 1883; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.3256">Dresar Franz, LstInfst., IR. Nr. 15, 3. ErsKomp., <country>Krain</country>, Laibach, Ježica, 1883; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Drescher Josef, LstJäg., FJB. Nr. 6, 4. Komp., Mähren, 3^ berg, Bladowitz, 1897; verw.</p>
             <p>Drescher Josef, ResInfst., k. k. LIR. Nr. 16, 8. Komp., Schldl Freiwaldau, Böhmischdorf, 1879; verw.</p>
             <p>Dresler Vinzenz, LstInfst., IR. Nr. 100, 7. Komp., Mähren, titschoin, Koschatka, 1887; verw.</p>
@@ -1821,7 +1821,7 @@
             <p>Romanöwka, 1888; kriegsgef., Haupt-Mihtärspital Kaiser</p>
             <p>Peter d. Große in Moskau, Rußland. .</p>
             <p>Diwinka Ruzma, LstInfst., IR. Nr. 20, 13. Komp., Galizien, Gryböw, Florinka, 1894; verw.</p>
-            <p>Eberhard Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Klagenfurt, St. Urban, 1895; kriegsgef., Krasnojarsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.3470">Eberhard Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Klagenfurt, St. Urban, 1895; kriegsgef., Krasnojarsk, Rußland.</p>
             <p>Eoler Karl, ResInfst., IR. Nr. 75, 12. Komp., Böhmen, Pilgram, Zhof, 1889; verw. .</p>
             <p>Edolinski Gjuro, ErsResInfst., IR. Nr. 70, Slavonien, Sul, 1890;</p>
             <p>kriegsgef. (In serbischer Kriegsgefangenschaft.)</p>
@@ -1952,7 +1952,7 @@
             <p>Filipovic Andrija, Infst,, k. u. LIR Nr. 27, 5. Komp., Kroati»</p>
             <p>Bjelovar, Trojstvo, 1892; kriegsgef., Kiew, Rußland. ;</p>
             <p>Filipowski W^asyl, Infst., IR. Nr. 30, 6. Komp., Galizien, Böbrjj 1896; verw, i</p>
-            <p>Findenig Gregor, LstInfst., IR. Nr. 16, 2. Komp., <country>Kärnten</country>, Wolfsberg, Granitzthal, 1895; tot. (Gestorben am 27./7. 1915 im Militär-Hauptspitale Kaiser Peter I. in Moskau, Rußland. Nicht legal nachgewiesen. Wurde vom russischen Roten Kreuz tot gemeldet.)</p>
+            <p xml:id="vll.19161109_488.3726">Findenig Gregor, LstInfst., IR. Nr. 16, 2. Komp., <country>Kärnten</country>, Wolfsberg, Granitzthal, 1895; tot. (Gestorben am 27./7. 1915 im Militär-Hauptspitale Kaiser Peter I. in Moskau, Rußland. Nicht legal nachgewiesen. Wurde vom russischen Roten Kreuz tot gemeldet.)</p>
             <p>Finiak Anton, Infst, IR. Nr. 41, 4. Komp., Galizien, Brzezan Szybalin, 1890; verw.</p>
             <p>Fink Justin, LstInfst, IR, Nr. 76,11. Komp., Böhmen, Neuda Trinksaifen, 1897; verw. i</p>
             <p>Finta Stefan, Infst, IR. Nr. 2, 6. Komp., Ungarn, Härom; zq Bereezk, 1888; verw. !</p>
@@ -2013,9 +2013,9 @@
             <p>inköw Stanislaus, Infst., IR. Nr. 15,4. Komp., Galizien, Skalat,</p>
             <p>^osochowaciec, 1893; kriegsgef., Rußland.</p>
             <p>Uizl Matthias, LstInfst., IR. Nr. 75, RgtsStb., Böhmen, Neu- laus, Tieberschlag, 1896; verw.</p>
-            <p>Freidl Johann, LstInfst., IR. Nr. 30, 11. Komp., <country>Steiermark</country>, Murzzuschlag, 1895; verw.</p>
+            <p xml:id="vll.19161109_488.3842">Freidl Johann, LstInfst., IR. Nr. 30, 11. Komp., <country>Steiermark</country>, Murzzuschlag, 1895; verw.</p>
             <p>liuek Karl, Infst., IR. Nr. 100, MGA., Mähren, Mähr .-Ostrau, Iderfurt, 1890; verw.</p>
-            <p>Freitag Franz, LstInfst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Hartberg, Neustift, 1895; verw.</p>
+            <p xml:id="vll.19161109_488.3846">Freitag Franz, LstInfst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Hartberg, Neustift, 1895; verw.</p>
             <p>edmannrekte HorowitzDavid, LstInfst., IR. Nr. 15,4. Komp.,</p>
             <p>Jalizien, Trembowla, Janöw, 1888; kriegsgef., Krasnojarsk,</p>
             <p>Rußland. ‘</p>
@@ -2048,7 +2048,7 @@
             <p>Futatö Andreas, Infst., IR. Nr. 2,1. Komp., Ungarn, Häiomszök, Szärazajta, 1894; verw.</p>
             <p>Fuxa Franz, LstInfst., IR. Nr. 75,10. Komp., Böhmen, Kamenitz,</p>
             <p>a. d. Linde, Castrow, 1878; tot (14./8. 1916)</p>
-            <p>Gaber Matyas, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Cilli, Schleinitz, 1882; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.3912">Gaber Matyas, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Cilli, Schleinitz, 1882; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Gabsdyl Josef, ErsResKorp., k. k LIR. Nr. 31, 4. Komp.,</p>
             <p>Schlesien, Freistadt, GroßKunschitz, 1879; tot (8./8 1916).’</p>
             <p>Gao Franz LstInfst., k k. LIR. Nr. 16, 1. Komp., Galizien, Zywiec, Zabnica, 1895; verw.</p>
@@ -2134,7 +2134,7 @@
             <p>Pisarovina, Don. Kupeina, 1889; kriegsgef., Iwanowo Wos-</p>
             <p>nessensk, Gouvernement \^dimir, Rußland.</p>
             <p>Gerencs^r Karl, Infst., IR. Nr. 2, 2. Komp., Ungarn, Zala, Nova, 1895; verw.</p>
-            <p>Germ Michael, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Stranitzen, 1881; kriegsgef., Jefremow, Gouvernement Tula, Rußland.</p>
+            <p xml:id="vll.19161109_488.4078">Germ Michael, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Stranitzen, 1881; kriegsgef., Jefremow, Gouvernement Tula, Rußland.</p>
             <p>Getejanz Jänos, Infst., IR. Nr. 41, 5. Komp., Ungarn, l89o; verw</p>
             <p>Gevo§ Josef, LstInfst., IR. Nr. lOO, 5. Komp., Schlesien, Frei Freistadt, ­ stadt, Freistadt, Lazy, 1894; verw.</p>
             <p>Ghirdea Johann, Infst., IR. Nr. 2, 5. Komp., Ungarn, Nagy- küküllö, Ixnigodür. 1876; verw. „ ^ .</p>
@@ -2195,7 +2195,7 @@
             <p>Gouvernement Jekaterinoslaw, Rußland. j</p>
             <p>Gobbi Silvio, ResJäg., FJB. Nr. 27, Tirol, Riva, Arco, Ifj kriegsgef., Rußland. |</p>
             <p>Göbel Michael, ResZugsf., IR. Nr. 30, 12. Komp., üirgarn, li 1883; verw. ?</p>
-            <p>Godič Anton, LstInfst., IR. Nr. 15, 5. ErsKomp., <country>Krain</country>, Gottschee, Rob, 1887; kriegsgef., Nowosil, Gouvernement Tula, Rußland.</p>
+            <p xml:id="vll.19161109_488.4200">Godič Anton, LstInfst., IR. Nr. 15, 5. ErsKomp., <country>Krain</country>, Gottschee, Rob, 1887; kriegsgef., Nowosil, Gouvernement Tula, Rußland.</p>
             <p>Gofryk Stanislaus. LstInfst., IR. Nr. 30. TelephAbt.. Galia Lemberg, 1895; verw. |</p>
             <p>Goj Iwan, Infst., IR. Nr. 41, 3. Komp., Galizien, Sokal, Spall 1893; verw.</p>
             <p>Goj Pawlo, Infst., IR. Nr. 41, 2. Komp., Galizien, Sokal, ' köw', 1894; verw.</p>
@@ -2249,7 +2249,7 @@
             <p>Nanec, 1893, kriegsgef., Krapiwna, Gouvernement Tula, Ruß-</p>
             <p>;l&gt;as Johann, GefrTitRorp., IR. Nr. 15, 3. Komp., Galizien,</p>
             <p>lußlaSd knegsgef., Nowo.isil, Gouvernement Tula,</p>
-            <p>Grabnar Gregor, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Cilli, St. Georgen, 1889; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.4302">Grabnar Gregor, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Cilli, St. Georgen, 1889; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>St, Miamis“®*"'’ ’</p>
             <p>l'nor Franz Drag., DR. Nr. 9, 3. Esk., kriegsgef., Rußland,</p>
             <p>nde Alois, LstJag. FJB. Nr. 5, 5. Komp., Schlesien, Jägem- orf, Liebenthal, 1883; verw. ■&gt; s n</p>
@@ -2258,7 +2258,7 @@
             <p>iavonien, Nova Gradiska, Ma§i6, 1884; kriegsgef., Rußland</p>
             <p>^wr Anton, Infst., IR. Nr. 41, 1. Komp., Galizien, 1886!</p>
             <p>iirw. ’</p>
-            <p>Gratzer Alfred, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Sankt Veit, St. Paul, 1895; kriegsgef., Krasnojarsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.4320">Gratzer Alfred, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Sankt Veit, St. Paul, 1895; kriegsgef., Krasnojarsk, Rußland.</p>
             <p>?vie Eugen, Zugsf., F.TB. Nr. 31, 1. Komp., Kroatien, Oto-</p>
             <p>le, Sinac, 1894; kriegsgef., Charkow, Rußland.</p>
             <p>.»HC Stewo, Lst Jäg., F JB. Nr. 31, ErsKomp., Kroatien, Gnibi.s-</p>
@@ -2492,7 +2492,7 @@
             <p>iidliuk Vinzenz, LstInfst., IR. Xr. 41, 5. Komp., Ungarn, 1886; verw.</p>
             <p>nke Thaddäus, LstInfst., IR. Nr. 41, 1. Komp., Galizien,</p>
             <p>l'arnopol, Hluboczek Wielki, 1887; verw.</p>
-            <p>Hercog Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Rann, Dobje, 1882; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.4776">Hercog Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Rann, Dobje, 1882; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>rlö Georg, Infst., IR. Nr. 2,8. Komp., Ungarn, Aiad, Dombrad, 1894; tot (1.-15./7. 1916).</p>
             <p>Fuiänek .^ton, LstInfst., IR. Nr. 75, 15. Komp., Böhmen, Tabor, Schebifow, 1894; verw.</p>
             <p>rmanek Josef, ErsResInfst., k. k. LIR. Nr. 28, 9. Komp.,</p>
@@ -2514,7 +2514,7 @@
             <p>Hirschinger Otto, LstInfst., IR. Xr. 75, 13. Komp., Böhmen,</p>
             <p>Tabor, Soböslau, 1895; tot (14./8. 1916).</p>
             <p>Hirtiim Anton, Gefr., IR. Xr. 100, 6. Komp., XTederösterreich, Wien, 1894; verw. _</p>
-            <p>Hirzer Franz, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Weitz, 1883; verw.</p>
+            <p xml:id="vll.19161109_488.4820">Hirzer Franz, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Weitz, 1883; verw.</p>
             <p>Hisnikowski Josef, Infst., IR. Xr. 100, MGA., Schlesien, Friedek MoraAvka, 1888; verw\</p>
             <p>Hladik Josef, Infst., k. u. LIR. Nr. 27, 9. Komp., Kroatien,</p>
             <p>Uanivar, Koncanica, 1884; kriegsgef., Kiew, Rußland.</p>
@@ -2545,7 +2545,7 @@
             <p>pcr0g, 1894 5 VGrw,</p>
             <p>Hnatiiik Michal, Infst., IR. Nr. 41, 2. Komp., Galizien, StrnisL’u, Uhiynöw', 1897; verw.</p>
             <p>Hnatyszyn Wasyl, ResInfst., IR. Nr. 30, PionKomp., (lalizieib Lemberg, Czyzyköw'; verw.</p>
-            <p>Hobisch Konrad, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Klagenfurt, 1895; kriegsgef., Krasnojarsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.4882">Hobisch Konrad, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Klagenfurt, 1895; kriegsgef., Krasnojarsk, Rußland.</p>
             <p>Hobza Josef, LstInfst., IR. X'r. 75, 10. Komp., Böhmen, Xeu-</p>
             <p>haus, Königseck, 1896; tot (14./8.1916). .</p>
             <p>Hoc Josef, ErsResInfst., IR. Nr. 15, 3. ErsKomp., Galizien,</p>
@@ -2851,7 +2851,7 @@
             <p>Janiczak Johann, Sapp., SappB. Nr. 1, 4. Komp., Galizien, Neusandec, L§icko, 1891; verw.</p>
             <p>Janik Franz, ResKorp., IR. Nr. 100, 5. Komp., Schlesien, Bielitz, Zablacz, 1890; verw.</p>
             <p>Janik Georg, L.stInfst., IR Nr. 100,6. Komp., Schlosion, Toschon, We ndrin, 1895; verw.</p>
-            <p>Jank Hubert, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Klagenfurt, Tigring, 1895; Kriegsgef., Krasnojarsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.5476">Jank Hubert, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Klagenfurt, Tigring, 1895; Kriegsgef., Krasnojarsk, Rußland.</p>
             <p>Jankäsek Josef, Vorm., k. k. LFKR. Nr. 21, Batt. 1, Böhmen, Prag, 1893; verw.;</p>
             <p>Janko Anton, LstInfst., IR. Nr. 100, 8. Komp., Schlesien, Frei Freistadt, ­</p>
             <p>stadt, Freistadt, Karwin, 1896; tot (30./6.—4./7. 1916).</p>
@@ -2921,7 +2921,7 @@
             <p>Jerina Miklosch, LstInfst., IR. Nr. 41, 8. Komp., Ungarn,</p>
             <p>rontäl, Omlöd, 1895; tot (16.-20./6. 1916).</p>
             <p>Jeschan Alexander, LstInfst., IR. Nr. 30, 12. Komp., Bp wina, Radautz, Unter Wikow, 18t6; verw.</p>
-            <p>Jevsček Alois, LstInfst., IR. Nr. 15, 1. Komp., <country>Küstenland</country>, Görz, Bole, 1888; kriegsgef., Pereslawl, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.5616">Jevsček Alois, LstInfst., IR. Nr. 15, 1. Komp., <country>Küstenland</country>, Görz, Bole, 1888; kriegsgef., Pereslawl, Gouvernement Wladimir, Rußland.</p>
             <p>Jindra Franz, LstInfst., fR. Nr. 75, 9. Komp., Böhmen, Wit gau, 1893; verw.</p>
             <p>Jindra Wenzel, LstInfst., k. k. LIR. Nr. 28,4. ErsKomp.,Böhn</p>
             <p>Pfibram, 1892; kriegsgef., Nolinsk, Gouvernement Wja</p>
@@ -3286,7 +3286,7 @@
             <p>4. Komp., Böhmen, Pisek, Zataw, 1882; tot. (Laut Meldung des</p>
             <p>italienischen Roten Kreuzes gestorben am 10./l. 1916 in</p>
             <p>Asinara, Italien. Nicht h gal nschgewiesen).</p>
-            <p>Kodarin Johann, ErsResKan., FstAR. Nr. 2, zugeteilt der TurmhaubitzAbt., <country>Istrien</country>, Capodistria, Barste, 1892; tot (17. /9. 1916).</p>
+            <p xml:id="vll.19161109_488.6328">Kodarin Johann, ErsResKan., FstAR. Nr. 2, zugeteilt der TurmhaubitzAbt., <country>Istrien</country>, Capodistria, Barste, 1892; tot (17. /9. 1916).</p>
             <p>Kohdri Rudolf, Waffenm. 1. Kl., IR. Nr. 2, 7. Komp., Lmgarn, Brassö, 1886; verw.</p>
             <p>Kohl Johann, LstInfst., IR. Nr. 75,10. Komp., Böhmen, Tachau, Tissa, 1877; verw.</p>
             <p>Kohn Lazar, EinjFreiwGefrTitZugsf., IR. Nr. 41, 2. Komp., Bukowina, Radautz, 1896; verw.</p>
@@ -3418,7 +3418,7 @@
             <p>Kopjar Marko, LstJäg., FJB. Nr. 31, ErsKomp., Kroa</p>
             <p>Novi Marof, 1886; kriegsgef., Schillowski Rudnik, Gouv</p>
             <p>ment Jekaterinoslaw, Rußland.</p>
-            <p>Köplanig Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Hermagor, St. Lorenzen, 1891; kriegsgef., Potschinki, Gouvernement Nishnij-Nowgorod, Rußland.</p>
+            <p xml:id="vll.19161109_488.6586">Köplanig Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Hermagor, St. Lorenzen, 1891; kriegsgef., Potschinki, Gouvernement Nishnij-Nowgorod, Rußland.</p>
             <p>Kopp Anton, ResZugsf., FJB. Nr. 27, Bukowina, Sereth, : kriegsgef., Rußland.</p>
             <p>Kopunck Paul, Gefr., IR. Nr. 30, 6. Komp., Ungarn, N] Morvaör, 1895; tot (6.—8./8.1916).</p>
             <p>Koral Johann, InfstTitGefr., IR. Nr. 15, 4. ErsKomp., Gal</p>
@@ -3470,7 +3470,7 @@
             <p>■.[tital Nr. 22, in Rybinsk, Gouvernement Jarosla,wl, Rußland,</p>
             <p>»ssowski Thomas, LstInfst., k. k. LIR. Nr. 15, 3. Komp.,</p>
             <p>Galizien, Wadowice, Kalwarya, 1897; verw.</p>
-            <p>Kostelič Johann, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Rudolfswert, St. Michael-Stopitsch, 1887; kriegsgef., Iwanovo Wosnessensk, Rußland.</p>
+            <p xml:id="vll.19161109_488.6684">Kostelič Johann, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Rudolfswert, St. Michael-Stopitsch, 1887; kriegsgef., Iwanovo Wosnessensk, Rußland.</p>
             <p>»still Georg, ErsResInfst., IR. Mr. 2, 7. Komp., Ungarn, Iiäromsz6k, Hidv6g, 1889; verw.</p>
             <p>istiuk Demeter, Infst., IR. Nr. 41, 9. Komp., Bukowina, Sereth, Waschkoutz, 1896; verw.</p>
             <p>»stiwWasyl, SohndesNikolaus und derMaria,LstInfst.,IR.Nr.15,</p>
@@ -3496,7 +3496,7 @@
             <p>Kotlab.a Wenzel, LstInfst., k. k. LIR. Nr. 28, 1. ErsKomp.,</p>
             <p>Böhmen, Wittingau, Neplachcw, 1886; kriegsgef., Aschabad,</p>
             <p>Lager Ak Tepe, Rußland. ^ ,</p>
-            <p>Kotnik Franz, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Gonobitz, Skommern, 1889; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.6736">Kotnik Franz, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Gonobitz, Skommern, 1889; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Kotos Jon, Infst., IR. Nr. 41, 4. Komp., Bukowina, Radautz, Straza, 1877; verw.</p>
             <p>Kotrba Franz, LstInfst., k. k. LIR. Nr. 28, 6. Komp.^ Böhmen,</p>
             <p>Mühlhausen, Bozetic, 1894; kriegsgef., Woronesch, Rußland.</p>
@@ -3612,7 +3612,7 @@
             <p>Kraehowski Karl,Infst.,IR. Nr. 41,4. Komp., Galizien, Stanislau, 1895; verw.</p>
             <p>Krajhanzel Johann, Infst., IR. Nr. 75, 12. Komp., Böhmen,</p>
             <p>^ Pilgram, Woleschna, 1892; tot (14. /8. 1916).</p>
-            <p>Krajnc Rudolf, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Windischgraz, Skalis, 1885; kriegsgef., Rußland.</p>
+            <p xml:id="vll.19161109_488.6962">Krajnc Rudolf, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Windischgraz, Skalis, 1885; kriegsgef., Rußland.</p>
             <p>Krak Jiirko, LstInfst., IR. Nr. 30, 3. Komp., Galizien, ?,ölkM Dobroszöw, 1883; verw.</p>
             <p>Kräl Emanuel, Infst., IR. Nr. 75, 11. Komp., Böhmen, Tab Smilowy Hory, 1893; verw. ;</p>
             <p>Kränk Matthias, LstInfst., k. k. LstlR. Nr. 28,5. Komp.,Böhmi</p>
@@ -3624,7 +3624,7 @@
             <p>Tarnopol, Nastasöw, 1890; krieg.sgef., Aschabad, Gebiet Tran</p>
             <p>kaspien, Rußland.</p>
             <p>Kramarz Peter, LstInfst., k. k. LIR. Nr. 31, 3. Komp., Galizie Bochnia, Rajbrot, 1880; verw.</p>
-            <p>Krambergar Josef, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Pettau, Ternowetzberg, 1887; kriegsgef., Vereinigtes Evakuationsspital Nr. 80 in Kursk, Rußland.</p>
+            <p xml:id="vll.19161109_488.6986">Krambergar Josef, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Pettau, Ternowetzberg, 1887; kriegsgef., Vereinigtes Evakuationsspital Nr. 80 in Kursk, Rußland.</p>
             <p>Kramer Jan, Infst., IR. Nr. 41, 1. Komp., Galizien, Ijembeii Grödek jag., 1883; verw.</p>
             <p>Krämer false Bergman Moses, EinjFreiwInfst., IR. Nr. 1</p>
             <p>14. Komp., Galizien, Skalat, Zadnieszöwka, 1890; kriegsgei</p>
@@ -3651,7 +3651,7 @@
             <p>Radautz, Woitinell, 1891; tot (1.—8./8. 1916).</p>
             <p>Kreczy Paul, EinjFreiwGefrTitKorp., IR. Nr. 75, 11. Komp Mähren, Brünn, 1883; verw.</p>
             <p>Kreif Johann, LstInfst., IR. Nr. 100, 7. Komp., Böhmen, Köni| liehe Weinberge, 1888; verw.</p>
-            <p>Krejan Dominik, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Gonobitz, Unter-Dolič, 1890; kriegsgef., Iwanowo Wosnessensk, Rußland.</p>
+            <p xml:id="vll.19161109_488.7040">Krejan Dominik, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Gonobitz, Unter-Dolič, 1890; kriegsgef., Iwanowo Wosnessensk, Rußland.</p>
             <p>Krcjci Alois, LstInfst., IR. Nr. 75, 9. Komp., Böhmen, Deutscl brod, Perknov, 1896; verw.</p>
             <p>Krcjci Franz, LstInfst., IR. Nr. 75, 9. Komp., Böhmen, Neuhaui Mnisek, 1897; verw.</p>
             <p>KreJ6i Johann, LstInfst., IR. Nr. 75, 9. Komp., Böhmen, Tabo Kosin, 1897; verw.</p>
@@ -3710,7 +3710,7 @@
             <p>stiinac Gjuro, Ul., UR. Nr. 12, ErsEsk., Slavonien, Nova</p>
             <p>Sradiska, Okuöani, 1893; kriegsgef., Schilowsky Rudnik,</p>
             <p>f^ouvernement Jekaterinoslaw, Rußland.</p>
-            <p>Kruhar Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Gobonitz, Oplotnitz, 1881; verw., kriegsgef.. Vereinigtes Evakuationsspital Nr. 56 in Orel, Rußland.</p>
+            <p xml:id="vll.19161109_488.7152">Kruhar Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Gobonitz, Oplotnitz, 1881; verw., kriegsgef.. Vereinigtes Evakuationsspital Nr. 56 in Orel, Rußland.</p>
             <p>ullik Josef, Infst., IR. Nr. 41, 16. Komp., Galizien, Lemberg, Jawidöw, 1894; verw.</p>
             <p>iipa Anton, Infst., IR. Nr. 41, 2. Komp., Galizien, Lemberg, Jzyszki, 1894; verw.</p>
             <p>upa Felix, LstInfst., IR. Nr. 15, 3. Komp., Galizien, Wieliczka, ,883: kriegsgef.,Rußlaml.</p>
@@ -3852,7 +3852,7 @@
             <p>Transkaspien, Rußland.</p>
             <p>Kuzik Jan, LstInfst., IR. Nr. 15, 3. ErsKomp., Galizien, Kiak#||</p>
             <p>Gl§boka, 1890; kriegsgef., Charkow, Rußland. ]</p>
-            <p>Kužnik Franz, LstGefr., IR. Nr. 15, 3. Komp., <country>Krain</country>, Rudolfwert, Döbernigg, 1890; kriegsgef., Iwanowo-Wosnessensk, Rußland.</p>
+            <p xml:id="vll.19161109_488.7430">Kužnik Franz, LstGefr., IR. Nr. 15, 3. Komp., <country>Krain</country>, Rudolfwert, Döbernigg, 1890; kriegsgef., Iwanowo-Wosnessensk, Rußland.</p>
             <p>Kvapil Johann, InfstTitGefr., IR. Nr. 100, 6. Komp., Mähre: Mähr. Ostrau, 1897; verw.</p>
             <p>Kvasnilfka Franz, LstInfst., IR. Nr. 75, 16. Komp., Böhme: Tabor, Chrbonin, 1875; verw.</p>
             <p>Kvasnicka Heinrich, Zugsf., k. k. LIR. Nr. 28,3. Komp., Böhme:</p>
@@ -3920,7 +3920,7 @@
             <p>Teschen, Wendrin, 1889; tot (10./9.1916).</p>
             <p>.aszko Florea, Infst., IR. Nr. 41,16. Komp., Ungarn, Biharmeg, Duborcza, 1888; verw.</p>
             <p>Laszku Vasilie, ResInfst., IR. Nr. 2, 9. Komp., Ungarn, Fogaras, Felsökomäna, 1887; kriegsgef., Rußland.</p>
-            <p>Lawrič Franz, LstInfst., IR. Nr. 15, 3. Komp., <country>Krain</country>, Littai, St. Martin, 1890; kriegsgef., Pawlowskij Possad, Gouvernement Moskau, Kieis Bogorodsk, Rußland,</p>
+            <p xml:id="vll.19161109_488.7560">Lawrič Franz, LstInfst., IR. Nr. 15, 3. Komp., <country>Krain</country>, Littai, St. Martin, 1890; kriegsgef., Pawlowskij Possad, Gouvernement Moskau, Kieis Bogorodsk, Rußland,</p>
             <p>jawrik Georg, LstInfst., IR. Nr. 30, 7. Komp., Bukowina, Radautz, Satulmare, 1880; verw.</p>
             <p>.awrynowicz Nikola, LstInfst., IR. Nr. 15, 3. Komp,, Galizien,</p>
             <p>Nadwörna, Pniöw, 1883; laiegsgef., Iwanowo-Wosnessensk,</p>
@@ -3950,7 +3950,7 @@
             <p>Trembowla, Struzöw, 1889; kriegsgef., Iwanowo-Wosnessensk,</p>
             <p>Gouvernement Wladimir, Rußland.</p>
             <p>«derer Josef, LstJäg., FJB. Nr. 6, BaonsStb., Böhmen, Luditz, Langlomnitz, 1894; verw\</p>
-            <p>Ledinek recte Antočnik Anton, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Graz, 1883; kriegsgef., Iwanowo-Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.7620">Ledinek recte Antočnik Anton, LstInfst., IR. Nr. 15, 3. Komp., <country>Steiermark</country>, Graz, 1883; kriegsgef., Iwanowo-Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>edwinka Johann, LstGefr., IR. Nr. 75, 7. Komp., Böhmen,</p>
             <p>Kamenitz a. d. Linde, Hefmanec, 1894; verw.</p>
             <p>elerowic* Wasil, Drag., DR. NT. 9, 3. Esk., Bukowina, Radautz, Schipotiani, 1897; kriegsgef., Rußland.</p>
@@ -4033,7 +4033,7 @@
             <p>Löffler Max, LstInfst., k. k. LIR. Nr. 28, 1. Komp., Böhmen,</p>
             <p>iGattau, Besin, 1893; kriegsgef., Ts chita, Gouvernement Trans Transbai ­</p>
             <p>bai Transbai kalien, Rußland.</p>
-            <p>Logar Josef, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Radmannsdorf, Wach-Feistritz, 1894; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.7780">Logar Josef, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Radmannsdorf, Wach-Feistritz, 1894; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Lojko Elias, Korp., IR. Nr. 30, 12. Komp., Galizien, Cieszanöw, Lubliniecnowy, 1894; verw.</p>
             <p>Lomuieki Jan, Infst., IR. Nr. 41, 4. Komp., Galizien, Neusandec, Piwniczna, 1894; verw.</p>
             <p>Loncarevic Josip, Infst., k. u. LIR. Nr. 27, Slavonien, Novska, 1879; kriegsgef., Rußland.</p>
@@ -4569,7 +4569,7 @@
             <p>Sereth, Hodyk, 1893; tot (11. —20./8. 1916).</p>
             <p>Mohäcs Ludwig, LstInfst., IR. Nr. 2, 7. Komp., Ungarn, Arad, 1893; verw.</p>
             <p>Mohay Julius, Infst., IR. Nr. 2, 3. Komp., Ungarn, Somogy, Vizbär, 1889; verw.</p>
-            <p>Mohr Peter, Infst., IR. Nr. 30, 6. Komp., <country>Steiermark</country>, Graz, Künsberg, 1895; verw.</p>
+            <p xml:id="vll.19161109_488.8828">Mohr Peter, Infst., IR. Nr. 30, 6. Komp., <country>Steiermark</country>, Graz, Künsberg, 1895; verw.</p>
             <p>MojsiIovi6 Sreta, ResUnterjäg., FJB. Nr. 31,ErsKomp.,Slavonien,</p>
             <p>Vukovar, Vera, 1881; kriegsgef., Krapiwna, Gouvernement</p>
             <p>Tula, Rußland.</p>
@@ -4604,7 +4604,7 @@
             <p>Motreskul Nikola, Infst., IR. Nr. 41, 3. Komp., Bukowina, i Storozynetz, Krasna, 1897; verw. • j</p>
             <p>Motyka Stanislaus, Infst., k. k. LIR. Nr. 16,12. Komp., Galizien, ^ Tarnöw, Jedliska, 1894; verw.</p>
             <p>Mozdul Georg, LstInfst., IR. Nr. 2, 4. Komp., Ungarn, Brassö, Krizba, 1879; verw.</p>
-            <p>Mravljak Bartholomä, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Windisch-Graz, Skalis, 188ö; kriegsgef., Birjutsch, Gouvernement Woronesch, Rußland.</p>
+            <p xml:id="vll.19161109_488.8898">Mravljak Bartholomä, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Windisch-Graz, Skalis, 188ö; kriegsgef., Birjutsch, Gouvernement Woronesch, Rußland.</p>
             <p>Mrazek Anton, ErsResInfst., k. k. LIR. Nr. 28, 2. KrsKomp..</p>
             <p>Böhmen, Selcan, Vojkau, 1880; kiegsgef., Aschabad, Lager</p>
             <p>Ak Tepe, Rußland.</p>
@@ -4638,7 +4638,7 @@
             </ab>
             <p>insea Alexander Georgi, Lstlnist., IR. Nr. 30, 7. Komp., Bukowina, Gurahumora, 1888; verw.</p>
             <p>luSca Alex. Teddor, Infst., IR. Nr. 30, 12. Komp., Bukowina, Wiznitz, Marynyczi, 1893; verw.</p>
-            <p>Musič Michael, LstInfst., IR. Nr. l5, l. Komp., <country>Krain</country>, Tschernembl, Tanzberg, 1890; kriegsgef., Nowo-Usensk, Gouvernement Samara, Rußland.</p>
+            <p xml:id="vll.19161109_488.8960">Musič Michael, LstInfst., IR. Nr. l5, l. Komp., <country>Krain</country>, Tschernembl, Tanzberg, 1890; kriegsgef., Nowo-Usensk, Gouvernement Samara, Rußland.</p>
             <p>[usil Jakob, Zugsf.. k. k. LIR. Nr. 28, Böhmen, Tabor, Padafov', 1892; kriegsgef., Asinara, Italien.</p>
             <p>[usil Stanislaus, LstInfst., IR. Nr. 75, 11. Komp., Böhmen,</p>
             <p>Kamenitz a. d. Linde, Brezina, 1896; verw.</p>
@@ -4786,7 +4786,7 @@
             <p>Novotny Ladislaus, Zugsf., IR. Nr. 75, 15. Komp., Böhmen, Wittingüii, Lomnitz, 1885; verw. -</p>
             <p>Novotny Wenzel, LstInfst., IR. Nr. 75, 10. Komp., Böhmen, Tabor, Lhota Zarybniöna, 1895; verw.</p>
             <p>Novotny Wenzel, KorpTitZugsf., IR. Nr. 75,15. Komp., Böhmen, Tabor, Zeltsch. 1892; verw. .</p>
-            <p>Nowak Anton, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Pettau, St. Rochus, 1881; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.9250">Nowak Anton, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Pettau, St. Rochus, 1881; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Nowak Josef, Ul., UR. Nr. 1, 3. Esk., Galizien, Bochnia, Chrosc, 1892; verw. ^</p>
             <p>Nowak Josef, Infst., IR. Nr. 15, 3. ErsKomp., (lalizien, Zbaraz,</p>
             <p>kriegs^f., Tjuiiieu, Guuveniement Tobolsk, Rußland.</p>
@@ -4975,14 +4975,14 @@
             <p>Pakuos Dönes, Gefr., IR. Nr. 2, 2. Komp., L’ngarn, Häroniszek, R6ti, 1891; verw.</p>
             <p>Pakuos Zoltän, LstKorp., IR. Nr. 2,11. Komp., Lngani. Brassö, Tatrang, 1896; verw.</p>
             <p>Pakurär Josef, ErsResInfst., IR. Xr. 62 Ungarn, Kolozs Mezö- ujlak 1889; tot (8./5. 1915).</p>
-            <p>Pal August, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Pettau, Jurowetz, 1890; kriegsgef., Charkow, Rußland.</p>
+            <p xml:id="vll.19161109_488.9622">Pal August, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Pettau, Jurowetz, 1890; kriegsgef., Charkow, Rußland.</p>
             <p>Päl Franz, Zugsf., IR. Nr. 2, 6. Komp., Ungarn, Häroniszek, K6zdiszentl61ek, 1892; verw.</p>
             <p>Päl Johann, Infst., IR. Nr. 2, 2. Komp., Ungarn, IIär&gt;mszek, Nyujtöd, 1884; verw.</p>
             <p>Palamar Basilius, ErsResInfst., IR. Xr. 16, 3. Komp., Galizien,</p>
             <p>Skalat, Turöwka, 1881; kriegsgef., Rußland.</p>
             <p>Palamarczuk Michael, Infst., IR. Xr. 30, 6. Komp., Galizien,</p>
             <p>Horodenka, Batokoröwka, 1889; tot (4. —8./8. 1916).</p>
-            <p>Palanec Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Luttenberg, Eichmauthdorf, 1881; kriegsgef., Iwanowo-Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.9636">Palanec Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Luttenberg, Eichmauthdorf, 1881; kriegsgef., Iwanowo-Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>PalaSic Stefan, LstJäg., FJB. Xr. 31,ErsKomp., Kroatien. Zagreb,</p>
             <p>Sesvete, 1892 kriegsgef.. Vereinigtes IXaikiiatimsspital Xr. 65</p>
             <p>in Moskau, Rußland.</p>
@@ -5016,7 +5016,7 @@
             <p>Panny Karl, LstInfst., IR. Nr. 75,14. Komp., Böhmen, Neuhaus, Ulrichschlag, 1893; verw.</p>
             <p>Papetojka Konstantin, LstInfst., IR. Nr. 2, 9. Komp., Ungarn,</p>
             <p>Häromszök, Aldoboly, 1895; kriegsgef., Rußland.</p>
-            <p>Papež Lawra, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Pettau, Zatoliče, 1887; kriegsgef., Nishnij-Nowgorod, Rußland.</p>
+            <p xml:id="vll.19161109_488.9698">Papež Lawra, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Pettau, Zatoliče, 1887; kriegsgef., Nishnij-Nowgorod, Rußland.</p>
             <p>Papei Wenzel, ErsResInfst., k. k. LIR. Nr. 28, 2, ErsKomp.,</p>
             <p>Bölunen, Benescliau, Milovanic, 1880; kriegsgef., Aschabad,</p>
             <p>Lager Ak-Tepe, Rußland.</p>
@@ -5050,7 +5050,7 @@
             <p>Paszka Grigorie, LstInfst., IR. Nr. 41, 4. Komp., Ungarn, 1889; verw.</p>
             <p>Fdszkowski Iwan, In^st., k. k. LIR. Nr. 16, 16. Komp., Galizien, Lisko, Wolkowyce, 1897; verw.</p>
             <p>Pater Johann, LstInfst., IR. Nr. 2, 7. Komp., Ungarn, Brassö, Hosszufalu, 1886; verw.</p>
-            <p>Patočnik Andreas, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Völkermarkt, Vellach, 1895; kriegsgef., l. Lubliner Vereinigtes Feldspital in Woronesh, Rußland.</p>
+            <p xml:id="vll.19161109_488.9766">Patočnik Andreas, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Völkermarkt, Vellach, 1895; kriegsgef., l. Lubliner Vereinigtes Feldspital in Woronesh, Rußland.</p>
             <p>Patraseh Josef, Infst., IR. Nr. 41, 2. Komp., Bukowina, Radautz, Oberwikow, 1880; verw.</p>
             <p>Patraseh Nikolai, Infst., IR. Nr. 41, 9. Komp., Bukowina, Ra Radautz, ­ dautz, Radautz, Bilka, 1881; verw.</p>
             <p>Patrasz Thomas, Infst., IR. Nr. 80, Pion Komp., Galizien, Sereth, Bahvinestie, 1893; tot (21./7. 1916).</p>
@@ -5061,7 +5061,7 @@
             <p>Czernowitz, Woloka, 1886; tot. (Wurde vom russischen Roten</p>
             <p>Kreuz als am 27./lO. 1916 in Pereslawl, Gouvernement Wlidi-</p>
             <p>inir, Rußland, gestorben gemeldet. Nicht legal naehgewieseii.)</p>
-            <p>Paulia Josef, LstGefr., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Rann, Dolowa, 1878; kriegsgef., Solikamsk, Gouvernement Perm, Rußland.</p>
+            <p xml:id="vll.19161109_488.9788">Paulia Josef, LstGefr., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Rann, Dolowa, 1878; kriegsgef., Solikamsk, Gouvernement Perm, Rußland.</p>
             <p>Pavek Anton, Gefr., IR. Nr. 76, 16. Komp., Böhmen, Wittingt Wall, 1893; verw. j</p>
             <p>Pavek Bofivoj, EinjFreiwTitGefr., IR. Nr. 75, 10. Komp., Bf men, Königgrätz, 1897; verw.</p>
             <p>Paveloj Joan a^ Tanasi, ResInfst., IR. Nr. 41, 3. ErsKouj Bukowina, Suczawa, Petroutz; verw.</p>
@@ -5071,7 +5071,7 @@
             <p>Pavlavic Ivan, ErsResInfst., k. u. LIR. Nr. 27, 4. Marschkom</p>
             <p>Kroatien, Kostajnica, Dubica, 1880; kriegsgef., Zariz]</p>
             <p>Gouvernement Saratow, Rußland.</p>
-            <p>Pavlič Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Krain</country>, Krainburg, Selzach, 1890. tot. (Gestorben am 30./4 1916 in Kostron Rußland. Nicht legal nachgewiesen. Wurde vom Russisch Roten Kreuz tot gemeldet.)</p>
+            <p xml:id="vll.19161109_488.9808">Pavlič Johann, LstInfst., IR. Nr. 15, 3. Komp., <country>Krain</country>, Krainburg, Selzach, 1890. tot. (Gestorben am 30./4 1916 in Kostron Rußland. Nicht legal nachgewiesen. Wurde vom Russisch Roten Kreuz tot gemeldet.)</p>
             <p>PavlovK Nikola, LstKorp., k. u. LIR. Nr. 27, Kroatien, Kost</p>
             <p>nica, Dubica; kriegsgef., Pensa, Ibißland.</p>
             <p>Paulikofvski Josef, Fahrkan., FHR. Nr. 5, Galizien, Padhaj Stare miasto, 1893; tot (8./9.1916).</p>
@@ -5106,7 +5106,7 @@
             <p>PSchouSek Josef, LstInfst., k. k. LIR. Nr. 28, 2. ErsKon</p>
             <p>Böhmen, Pisek, Mladotitz, 1886; kriegsgef., Aschabad, La</p>
             <p>Ak Tepe, Rußland.</p>
-            <p>Pečnik Alois, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Rann, Senova, 1886; kriegsgef., Rußland.</p>
+            <p xml:id="vll.19161109_488.9878">Pečnik Alois, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Rann, Senova, 1886; kriegsgef., Rußland.</p>
             <p>PeikM Karl, StbsFeldw’., IR. Nr. 41, 15. Komp., Bukowi Czernowitz, 1886; verw.</p>
             <p>Pejinovie. Petar, LstInfst., IR. Nr. 70, Slavonien, St, Pazo</p>
             <p>ßelegis, 1883; kriegsgef., Schilowsky Rudnik, Gouvernem</p>
@@ -5134,8 +5134,8 @@
             <p>Beneschau, Chotisan, 1894; kriegsgef., Aschabad, Lager Ak</p>
             <p>Tepe, Rußland.</p>
             <p>intescul Jon, Zugsf., IR. Nr. 41, 3. Komp., Bukowina, Radautz, Neufratautz, 1892; tot (15.-20V6.1916).</p>
-            <p>Popelnjak Andrei, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Dol, 1890; kriegsgef.. Vereinigtes Evakuationsspital Nr. 46 in Rjäsan, Rußland.</p>
-            <p>Perbil Ignac, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Gonobitz, Oplotnitz, 1888; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.9928">Popelnjak Andrei, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Dol, 1890; kriegsgef.. Vereinigtes Evakuationsspital Nr. 46 in Rjäsan, Rußland.</p>
+            <p xml:id="vll.19161109_488.9930">Perbil Ignac, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Gonobitz, Oplotnitz, 1888; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>rehaluk Basilius, ErsResInfst., IR. Nr. 15, 3. ErsKomp.,</p>
             <p>Galizien. Trembowla, Zaliwie, 1882; kriegsgef., Rußland,</p>
             <p>irczek NikoLij, LstInfst., IR. Nr. 15, 3. Komp., Bukowina,</p>
@@ -5188,7 +5188,7 @@
             <p>trynycz Nikolaus, LstInfst., IR. Nr. 15, 2. Komp., Galizien,</p>
             <p>Bohorodczany, Rosolna, 1878; kriegsgef., Kromy, Gouverne Gouvernement ­</p>
             <p>ment Gouvernement Orel, Rußland.</p>
-            <p>Pezdewšek Josef, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Rann, Drenskoreber, 1887; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.10036">Pezdewšek Josef, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Rann, Drenskoreber, 1887; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>PezelJ Gjuro, KorpTitZugsf., k. u. LstlR. Nr. 27, 3. Komp.,</p>
             <p>Kroatien, Petrinja, Mosöenica, 1878; tot. (Gestorben am 4./2.</p>
             <p>1915 in Valjevo in serbischer Kriegsgefangenschaft. Nicht</p>
@@ -5223,7 +5223,7 @@
             <p>Pinta Martin, ResGefrTitKorp., IR. Nr. 100, MGA., Schlesien, Bielitz, Niederkurzw'ald, 1887; verw.</p>
             <p>Pinter Mato, LstInfst.,k. u. LIR. Nr. 27,3. ErsKomp., Slavonien-</p>
             <p>Novska, Lipovljani, 1894; kriegsgef., Kiew, Rußland.</p>
-            <p>Pinter Rudolf, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Villach, St. Martin, 1895; kriegsgef., Chwalynsk, Gouvernement Saratow, Rußland.</p>
+            <p xml:id="vll.19161109_488.10106">Pinter Rudolf, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Villach, St. Martin, 1895; kriegsgef., Chwalynsk, Gouvernement Saratow, Rußland.</p>
             <p>IMnti Johann, Infst., IR. Nr. 2, 8. Komp., Ungarn, Häromszök, Bölafalva, 1882; tot (1.-15./7. 1916).</p>
             <p>Piocha Joliann, Korp., k. k. LIR. Nr. 16, 15. Komp., Galizien, Krakau, Mydlniki, 1892; verw.</p>
             <p>Piörccki Johann, LstInfst., k. k. LIR. Nr. 16, 3. Marschkoinp.»</p>
@@ -5233,7 +5233,7 @@
             <p>Pipeda Wasyl LstInfst., IR. Nr. 15, 3. Komp., Bukowina,</p>
             <p>Czernowitz, Molodia, 1889; kriegsgef., Pereslawl, Gouvernement</p>
             <p>Wladimir, Rußland.</p>
-            <p>Piquitter Josef, Infst., IR. Nr. 30, 6. Komp., <country>Steiermark</country>, Voitsberg, 1882; verw.</p>
+            <p xml:id="vll.19161109_488.10126">Piquitter Josef, Infst., IR. Nr. 30, 6. Komp., <country>Steiermark</country>, Voitsberg, 1882; verw.</p>
             <p>Piroska Georg, LstInfst., IR. Nr. 2, 9. Komp., Ungarn, Brassö, Tatrang, 1895; kriegsgef., Rußland.</p>
             <p>Pirozek Georg, Korp., IR. Nr. 15, 5. Komp., Galizien, Zbaraz,</p>
             <p>Dobrowody, 1888; kriegsgef., Serdobsk, Gon vernement</p>
@@ -5302,7 +5302,7 @@
             <p>Podlesny Maximilian, Infst., IR. Nr. 15, 6. Komp., Galizien,</p>
             <p>Zbaraz, Czernichowce, 1889; kriegsgef., Slobodskoj, Gouver Gouvernement ­</p>
             <p>nement Gouvernement Wjatka, Rußland.</p>
-            <p>Podričnik Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Laibach, 1895; kriegsgef., Tschern, Gouvernement Tula, Rußland.</p>
+            <p xml:id="vll.19161109_488.10258">Podričnik Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Krain</country>, Laibach, 1895; kriegsgef., Tschern, Gouvernement Tula, Rußland.</p>
             <p>Podsadecki Wenzel, Infst., k. k. LIR. Xr. 16, 6. Komp., Galizien, Wieliczka, Dolczyce, 1893; verw.</p>
             <p>Podvezanec Ivan, LstJä^., FJB. Nr. 31, ErsKomp., Ungarn,</p>
             <p>Zala, Perlak, 1894; kriegsgef., Kaljasin, Gouvernement Twer,</p>
@@ -5321,7 +5321,7 @@
             <p>Pokorny Josef, Infst., IR. Xr. lOO, 6. Komp., Böhmen, Brande a. d. E., Kosteletz, 1887; verw.</p>
             <p>Pokular Johann, InfstTitGefr., IR. Nr. 2, 7. Komp., Urrgan Härornszök, Bölörr, 1892; verw.</p>
             <p>Polak Josef, Infst., k. k. LIR. Nr. 16, 8. Komp., Galizien, Zywie Juszczyna, 1881; verw.</p>
-            <p>Polanec Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Luttenberg, Eichmauthdorf, 1881; kriegsgef., Iwanowo Wosnessensk, Rußland.</p>
+            <p xml:id="vll.19161109_488.10296">Polanec Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Luttenberg, Eichmauthdorf, 1881; kriegsgef., Iwanowo Wosnessensk, Rußland.</p>
             <p>Poledna Franz, LstJäg., FJB. Xr. 5,5. Komp., Mähren, Proßnit Henneberg, 1897; tot (9. /9.1916).</p>
             <p>PolekPylyp, LstInfst., IR. Nr. 58 techn. Komp., Galizien, Kos6i Ro^rr wielki, 1882; tot (28. /9. 1916).</p>
             <p>Poliszewski Peter, Infst., IR. Nr. 15, 7. Komp., Galizien, Skala</p>
@@ -5386,14 +5386,14 @@
             <p>aspiSll Anton, Sapp., öappB. Nr. 1, 4. Komp., Mähren, Littau, Neudorf, 1892; verw. ^ . «r ,</p>
             <p>bsteuka Jakob, Zugsf., IR. Nr. 41,1. Komp., Bukowina, wasch-</p>
             <p>koutz a. Czeremosch, Unterstanestie, 1891; verw.</p>
-            <p>Postl Michael, LstInfst., IR. Nr. 15, 2. Komp., <country>Kärnten</country>, Villach, Treffen, 1891; kriegsgef., Pensa, Rußland.</p>
+            <p xml:id="vll.19161109_488.10420">Postl Michael, LstInfst., IR. Nr. 15, 2. Komp., <country>Kärnten</country>, Villach, Treffen, 1891; kriegsgef., Pensa, Rußland.</p>
             <p>oSusta Karl, LstInfst., IR. Nr. 75,16. Komp., Böhmen, Pilgram, Woditz, 1892; verw.</p>
             <p>osväf Josef, Infst., k. k. LIR. Nr. 28, 2. Komp., Böhmen,</p>
             <p>Tabor, Kladrub, 1892; kriegsgef., Asinara, Rußland,</p>
             <p>oticha Wladimir, LstInfst., IR. Nr. 15, 1. Komp., Galizien,</p>
             <p>Tarnopol, Zascianka, 1895; kriegsgef.. Vereinigtes Evakuations-</p>
             <p>spital Nr. 80 in Kursk, Rußland.</p>
-            <p>Potočnik Andreas, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Völkermarkt, Vellach, 1895; kriegsgef., Woronesh, Rußland.</p>
+            <p xml:id="vll.19161109_488.10434">Potočnik Andreas, LstInfst., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Völkermarkt, Vellach, 1895; kriegsgef., Woronesh, Rußland.</p>
             <p>•otran Jano, LstInfst., IR. Nr. 70, Slavonien, Stara Pazova,</p>
             <p>1895; kriegsgef., Korotscha, Gouvernement Kursk, Rußland,</p>
             <p>'ouska Alois, ResKorp.,IR.Nr. 41,2. Komp., Böhmen, Rokycan, Wisek 1885; verw'.</p>
@@ -5529,7 +5529,7 @@
             <p>RadojMc Trivun, LstInfst., k. u. LIR. Nr. 27, Kroatien, Dvor,</p>
             <p>Rujevac, 1892; kriegsgef., Sarapul, Gouvernement Wjatka</p>
             <p>Rußland.</p>
-            <p>Rados Martin, LstInfst., IR. Nr. 15, 3. Komp., <country>Krain</country>, Tschenembl, Radositz, 1890; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.10700">Rados Martin, LstInfst., IR. Nr. 15, 3. Komp., <country>Krain</country>, Tschenembl, Radositz, 1890; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Radosta Franz, Res Infst., IR. Nr. 75,10. Komp., Böhmen, Tabor, Budislav, 18187; verw.</p>
             <p>Radosta Johann, LstInfst., IR. Nr. 75,11. Komp., Böhihen, Neu Neuhaus, ­ haus, Neuhaus, Hatzken, 1895; verw.</p>
             <p>Radniy Michael, Infst., IR. Nr. 2, 8. Komp., Ungarn, Härom- sz^k, Alsöcsemäton, 1894; verw.</p>
@@ -5598,7 +5598,7 @@
             <p>Repezuk Iwan Sohn d. Jura, LstInfst., IR. Nr. 15, 4. Komp</p>
             <p>Galizien, Peczeniiyn, Sloboda Rung, 1884; kriegsgef., Kromi</p>
             <p>Gouvernement Orel, Rußland. ^</p>
-            <p>Repec Georg, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Pettau, Gruskaberg, 1878; kriogsgof., Iwanowo Wosnossonsk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.10838">Repec Georg, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Pettau, Gruskaberg, 1878; kriogsgof., Iwanowo Wosnossonsk, Gouvernement Wladimir, Rußland.</p>
             <p>Repka Leopold, LstGefr., IR. Nr. 15, 2. Komp., Bukowin</p>
             <p>Czernowitz, 1893; kriegsgef., Pereslawl, Gouvernement Wlad</p>
             <p>mir, Rußland.</p>
@@ -5611,9 +5611,9 @@
             <p>R5thi Karl, Gefr., IR. Nr. 2, 8. Komp., Ungarn, Häromszd Kurtapatak, 1893; tot (1.—15./7. 1916).</p>
             <p>Rettän Georg, LstInfst., IR. Nr. 2, 4. Komp., Ungarn, Brass Feketehalom, 1880; verw.</p>
             <p>Rettok Karl, ResInfst., IR. Nr. 100, MGA., Schlesien, Freistad Dittmannsdorf, 1887; verw.</p>
-            <p>Rezar Josef, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Cilli, Bischofdorf, 1879; kriegsgef., Charkow, Rußland.</p>
+            <p xml:id="vll.19161109_488.10864">Rezar Josef, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Cilli, Bischofdorf, 1879; kriegsgef., Charkow, Rußland.</p>
             <p>Keznik SobSslaus, LstInfst., IR. Nr. 75, 16. Komp., Böhme Kamenitz a. L., Deschna, 1897; verw.</p>
-            <p>Ribic Matthias, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, St. Veit, 1880; kriegsgef., Charkow, Rußland.</p>
+            <p xml:id="vll.19161109_488.10868">Ribic Matthias, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, St. Veit, 1880; kriegsgef., Charkow, Rußland.</p>
             <p>Richtecky Josef, LstInfst., IR. Nr. 75, k Komp., Böhme; Deutschbrod, Po Ina, 1896; verw.</p>
             <p>Riebl Johann, Gefr., IR. Nr. 75, 16. Komp., Böhmen, Neubau Neubistritz, 1890; tot (14./8. 1916).</p>
             <p>Riedl Josef, LstInfst., IR. Nr. 75, 9. Komp., Böhmen, Te] Schön wehr, 1876; verw.</p>
@@ -5630,7 +5630,7 @@
             <p>Rotte 17, Rußland.</p>
             <p>}kk Frar*z, LstInfst., IR. Nr. 2, 9. Komp., Ungarn, Hdromsz6k, Sabola, 1896; kriegsgef., Rußland.</p>
             <p>;&gt;an Lazar, Infst., IR. Nr. 41, 4. Komp., Bukowina, Suczawa, Komanestie; verw.</p>
-            <p>Risser Georg, LstInfst., IR. Nr. 15, <country>Kärnten</country>, Villach, Weissenstein, 1895. (Im Austauschwege als Kriegsinvalider aus russischer Kriegsgefangenschaft zurückgekehrt.)</p>
+            <p xml:id="vll.19161109_488.10896">Risser Georg, LstInfst., IR. Nr. 15, <country>Kärnten</country>, Villach, Weissenstein, 1895. (Im Austauschwege als Kriegsinvalider aus russischer Kriegsgefangenschaft zurückgekehrt.)</p>
             <p>maß Johann, LstInfst., IR. Nr. 75, 16. Komp,, Böhmen,</p>
             <p>Neuhaus, Jareschau, 1897; tot (14./8.1916).</p>
             <p>ibaczek Karl, ResZugsf., IR. Nr. 41, 2. ErsKomp., Bukowina, Czernowitz, 1879; verw.</p>
@@ -5690,7 +5690,7 @@
             <p>s61 Hryc, LstInfst., IR. Nr. 30, 3. Komp., Galizien, Sokal, Bezejöw, 1894; verw.</p>
             <p>Rosol Wladimir, EinjFreiwGefr., IR. Nr. 75, 9. Komp., Böhmen, Tabor, Jungwoschitz, 1895; verw.</p>
             <p>Rossmanith Emil, LstJäg., FJB. Nr. 5, 5. Komp., Mähren, Bärn Kunzendorf, 1893; verw. ’</p>
-            <p>Rossmann Karl, LstInfst., IR. Nr. 58, Techn. Komp., <country>Steiermark</country>, Deutschlandsberg, St. Oswald, 1879; tot (3./10.1916).</p>
+            <p xml:id="vll.19161109_488.11016">Rossmann Karl, LstInfst., IR. Nr. 58, Techn. Komp., <country>Steiermark</country>, Deutschlandsberg, St. Oswald, 1879; tot (3./10.1916).</p>
             <p>Rostäs Johann, Infst., IR. Nr. 2, 9. Komp., Ungarn, Häromsz^k Miklösvär, 1886; verw. ’</p>
             <p>Roszezyäski Michael, LstInfst., IR. Nr. 15, 4. Komp., Galizien,</p>
             <p>Peczenizyn, 1890; kriegsgef., Tschern, Gouvernement Tula,</p>
@@ -5876,8 +5876,8 @@
             <p>Kälusz, Zawöj, 1896; kriegsgef., Shillowskij-Rudnik, Gouverne Gouvernement ­</p>
             <p>ment Gouvernement Jekaterinoslaw, Kreis Slawjanoserbsk, Rußland.</p>
             <p>Ürel Juda, LstInfst., IR. Nr. 41,3. Komp., Galizien, Lemberg, 1896; tot (16.-20./6. 1916).</p>
-            <p>Schlack Friedrich, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Voitsberg, Kohlschwarz, 1891; verw.</p>
-            <p>Schlögl Johann, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Weitz, Neudorf, 1891; tot (6.-8./8. 1916).</p>
+            <p xml:id="vll.19161109_488.11376">Schlack Friedrich, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Voitsberg, Kohlschwarz, 1891; verw.</p>
+            <p xml:id="vll.19161109_488.11378">Schlögl Johann, Infst., IR. Nr. 30, 12. Komp., <country>Steiermark</country>, Weitz, Neudorf, 1891; tot (6.-8./8. 1916).</p>
             <p>bmetter Max, Gefr., IR. Nr. 41, 3. Komp., Bukowina, Czerno- witz, 1887; verw.</p>
             <p>Iimid Johann, LstInfst., IR. Nr. 80, 10. Komp., Niederöster Niederösterreich, ­</p>
             <p>reich, Niederösterreich, Amstetten, Behamberg, 1883; tot (30./7. 1916).</p>
@@ -5885,7 +5885,7 @@
             <p>imidt Wenzel, LstInfst., IR. Nr. 76, 12. Komp., Böhmen, STeuhaus, Motten, 1883; verw.</p>
             <p>kniicd Ladislaus, LstInfstTilGefr.,.lR. Nr. 30, MGA. I,</p>
             <p>jralizien, Lemberg, Winniki, 1897; verw.</p>
-            <p>Schneeberger Hermann, LstKorp., IR. Nr. 80, 10. Komp., <country>Steiermark</country>, Liezen, Bärndorf, 1879; verw.</p>
+            <p xml:id="vll.19161109_488.11394">Schneeberger Hermann, LstKorp., IR. Nr. 80, 10. Komp., <country>Steiermark</country>, Liezen, Bärndorf, 1879; verw.</p>
             <p>ineider Franjo, Korp., k. u. LIR. Nr. 27, 2. Kop., Kroatien,</p>
             <p>Sisak, 1884; kriegsgef., A.sinara, 1. Rep., Italien.</p>
             <p>ineider Franz, LstInfst., IR. Nr. 76, 11. Kemp., Böhmen, '^euhaus. Wenkerschlag, 1897; verw.'</p>
@@ -5901,7 +5901,7 @@
             <p>lönberg Josef, Infst., k. k. LIR. Nr. 16, 4. Komp., Galizien, /hrzanöw, Jaworzno, 1892; verw.</p>
             <p>lönberg Selig, Infst., k. k. LIR. Nr. 16, 17. Komp., Galizien, Ihrzanöw, 1897; verw.</p>
             <p>löner Jakob, LstInfst., IR. Nr. 30, 10. Komp., Bukowina, ^dautz, 1896; verw.</p>
-            <p>Schöpfer Josef, LstInfst., IR. Nr. 30, 8. Komp., <country>Steiermark</country>, Radkersburg, Schöpfendorf, 1888; tot (6.—9./8. 1916).</p>
+            <p xml:id="vll.19161109_488.11426">Schöpfer Josef, LstInfst., IR. Nr. 30, 8. Komp., <country>Steiermark</country>, Radkersburg, Schöpfendorf, 1888; tot (6.—9./8. 1916).</p>
             <p>otropa Jon, Infst., IR. Nr. 41, 3. Komp., Bukowina, Radautz, fnterhorednik, 1880; verw.</p>
             <p>Ott Josef, Infst., IR. Nr. 16, Bukowina, Storozjmetz, Zadowa,</p>
             <p>890; kiiegsgef., Krasnojarsk, Rußland,</p>
@@ -5936,9 +5936,9 @@
             <p>i Seidlcr Josef, ResInfst., IR. Nr. 1, 16. Komp., Schlesien, Wag- I Stadt, 1884; verw.</p>
             <p>! SeidnerMoritz,EinjFreiwKorpTitZugsf.,IR. Nr. 41,1. ErsKcmp.,</p>
             <p>Bukowina, Czernowitz, 1896; tot (16.—20./6. 1916).</p>
-            <p>Seidnitzer Franz, LstInfst., IR. Nr. 30, 11. Komp., <country>Steiermark</country>, Weiz, Ottendorf, 1896; verw.</p>
+            <p xml:id="vll.19161109_488.11496">Seidnitzer Franz, LstInfst., IR. Nr. 30, 11. Komp., <country>Steiermark</country>, Weiz, Ottendorf, 1896; verw.</p>
             <p>Seifert Franz, LstInfst., IR. Nr. 2, 9. Komp., Ungarn, Szeben, 1897; kriegsgef., Rußland.</p>
-            <p>Seiler Franz, LstInfst., IR. Nr. 15, 3. ErsKomp., <country>Kärnten</country>, Spittal, Malta, 1896; kriegsgef., Militärspital in Omsk, Gebiet Akmolinsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.11500">Seiler Franz, LstInfst., IR. Nr. 15, 3. ErsKomp., <country>Kärnten</country>, Spittal, Malta, 1896; kriegsgef., Militärspital in Omsk, Gebiet Akmolinsk, Rußland.</p>
             <p>Sekuli6 Lazar, LstInfst., IR. Nr. 70, 2. Komp, Slavonien, Vukovar, Paöetin, 1884; verw.</p>
             <p>Selzer recte Sehlam Dawid, LstInfst., IR. Nr. 16, 2. Komp.,</p>
             <p>Galizien, Gwozdziec, 1886; kriegsgef., Selo Itschalki, Geuver-</p>
@@ -5987,7 +5987,7 @@
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161109&amp;seite=50&amp;zoom=33">[ Verlustliste - 19161109 - Seite 50 ]</ref>
             </ab>
             <p>S&lt;‘rpän Wenzel, LstInfst., IR. Nr. 75,12. Komp., Böhiueu, Tabor, 1889; verw.</p>
-            <p>Sesko Johann, LstInfst., IR. Nr. 16, 4. Komp., <country>Steiermark</country>, Brezice, Dobje, 1891; kriegsgef., Kromy, Gouvernement Orel, Rußland.</p>
+            <p xml:id="vll.19161109_488.11592">Sesko Johann, LstInfst., IR. Nr. 16, 4. Komp., <country>Steiermark</country>, Brezice, Dobje, 1891; kriegsgef., Kromy, Gouvernement Orel, Rußland.</p>
             <p>Sewczuk Andrei, LstInfst., IR. Nr. 4l, 3. Komp., Galizien, Sokal, 1894; verw.</p>
             <p>Slat Peter, Infst., IR. Nr. 2, 3. Komp., Ungarn, Szilägy, Kraszna- recse, 1886; verw.</p>
             <p>Sichmann Stefan, Infst., IR. Nr. 41, 1. ErsKomp., Bukowina, Radautz, Neu Fratautz, 1870; verw.</p>
@@ -6059,7 +6059,7 @@
             <p>Kamenitz a. d. Linde, Temnitz, 1897; verw.</p>
             <p>Skorepa Tnomas, ResInfst, IR. Nr. 76, 14. Komp., Böhme</p>
             <p>Kamenitz a. d. L., Cernowitz, 1880; verwt</p>
-            <p>Skornjar Jakob, LstInfstTitGefr., IR. Nr. 15, 2. ErsKomp., <country>Steiermark</country>, Pettau, Wellitschen, 1887; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.11736">Skornjar Jakob, LstInfstTitGefr., IR. Nr. 15, 2. ErsKomp., <country>Steiermark</country>, Pettau, Wellitschen, 1887; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Skorobohaty Matwij. L;tInfst, IR. Nt 15, 2. Komp., Galizii</p>
             <p>Tarnopol, Stechnikowce, 1896; kriegsgef., Pereslawl, Gouv&lt;</p>
             <p>nement Wladimir, Rußland.</p>
@@ -6274,7 +6274,7 @@
             <p>Stankovi6 Peter, lstInfst., k. u. LIR. Nr. 27, 2. ErsKomp.,</p>
             <p>Kroatien, Gjurgjevac, 1894; kriegsgef., Sarapul, Gouverne Gouvernement ­</p>
             <p>ment Gouvernement Wjatka, Rußland.</p>
-            <p>Starc Tomasz, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, St. Kristof, 1891; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.12154">Starc Tomasz, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, St. Kristof, 1891; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Starck Ludwig, ResJäg., FJB. Nr. 6, 2. Komp., Böhmen, Senftenberg, Bohousow, 1881; verw.</p>
             <p>Stark recte Schnips Mechel, LstInfst., IR. Nr. 30, 3. Komp., Galizien, Lemberg, 1893; verw.</p>
             <p>StarzyöskI Stefan, LstInfst., IR. Nr. 15, 4. Komp., Galizien,</p>
@@ -6381,7 +6381,7 @@
             <p>tonavTski Paul, Res Infst., IR. Nr. 100, 5. Komp., Schlesien, Teschen, ßistrzitz, 1890; verw.</p>
             <p>lopa Franz, Infst., k. k. LIR. Nr. 16, 15. Komp., Galizien, Krakau, Jezierzany, 1894; verw.</p>
             <p>loroz Jurko, Infst., IR. Nr. 15, -Galizien, Zaleszczyki, Koszyt- wice, 1895; verw.</p>
-            <p>Strablegg Ludwig, Infst., IR. Nr. 58, 4. Komp., <country>Steiermark</country>, Graz, Windorf, 1888; tot (20./9. 1916).</p>
+            <p xml:id="vll.19161109_488.12362">Strablegg Ludwig, Infst., IR. Nr. 58, 4. Komp., <country>Steiermark</country>, Graz, Windorf, 1888; tot (20./9. 1916).</p>
             <p>traka Anton, Korp., k. k. LFKR. Nr. 21, Batt. 3, Böhmen,</p>
             <p>Kladno, Krofehlav, 1891; tot (31./7.1916).</p>
             <p>trapko Friedrich, Infst., IR. Nr. 2, 2. Komp., Ungarn, Torontdl, Ferenczhalom, 1895; verw.</p>
@@ -6403,7 +6403,7 @@
             <p>;rzalkowski Stanislaus, LstInfst., IR. Nr. 15,4. Komp., Galizien,</p>
             <p>Tarnopol, Denysöw, 1894; kriegsgef., Iwanowo-Wosnessensk,</p>
             <p>Gouvernement \Madimir, Rußland.</p>
-            <p>Stückler Simion, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Wolfsberg, Penk, 1891; kriegsgef., Krasnojarsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.12406">Stückler Simion, LstInfst., IR. Nr. 15, 1. Komp., <country>Kärnten</country>, Wolfsberg, Penk, 1891; kriegsgef., Krasnojarsk, Rußland.</p>
             <p>uden Ga bro, LstInfst., k. u. LIR. Nr. 27,3. ErsKomp., Kroatien,</p>
             <p>Samobor, Stupnik, 1893; kriegsgef., Kiew, Rußland.</p>
             <p>;udenicki Nikolaus, Ers Res Infst., IR. Nr. 15,4. Komp., Galizien,</p>
@@ -6419,8 +6419,8 @@
             <p>Kaiser Peter d. Großein Moskau, Rußland,</p>
             <p>fknnwski Michael, LstInfst., IR. Nr. 15, 2. Komp., Galizien,</p>
             <p>Nadwöma, Paryszcze, 1894; kriegsgef., Charkow, Rußland,</p>
-            <p>Suppan Franz, LstKorp., IR. Nr. 80, 7. Komp., <country>Steiermark</country>, Kirchbach, St. Stefan, 1888; verw.</p>
-            <p>Suppau Johann, LstGefr., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Wolfsberg, Unter Drauburg, 1891; kriegsgef., Pensa, Rußland.</p>
+            <p xml:id="vll.19161109_488.12438">Suppan Franz, LstKorp., IR. Nr. 80, 7. Komp., <country>Steiermark</country>, Kirchbach, St. Stefan, 1888; verw.</p>
+            <p xml:id="vll.19161109_488.12440">Suppau Johann, LstGefr., IR. Nr. 15, 3. Komp., <country>Kärnten</country>, Wolfsberg, Unter Drauburg, 1891; kriegsgef., Pensa, Rußland.</p>
             <p>Sustcr Ciril, ErsResJäg., FJB. Nr. 31, ErsKomp., Slavonien,</p>
             <p>Pozega, Velika, 1881; kriegsgef., Schilowskyj Rudnik, Gouver Gouvernement ­</p>
             <p>nement Gouvernement Jekaterinoslaw, Rußland.</p>
@@ -6495,7 +6495,7 @@
             <p>Szabo Paul, LstInfst., IR. Nr. 30, 8. Komp., Ungarn, Györ, 1885; verw.</p>
             <p>Szabö Samuel, LstInfst., IR. Nr. 2,9. Komp., Ungarn, Ildromsz6k, Zalau, 1895; verw.</p>
             <p>Szabö Stefan, Knrp., IR. Nr. 2, 10. Komp., Ungarn, Häromszek, Baröt, 1892; tot (1. —15./7.1916).</p>
-            <p>Szabocan Leopold, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Neunkirchen, 1891; kriegsgef.. Vereinigtes Evakuationsspital Nr. 32 in Nishnij-Nowgorod, Rußland.</p>
+            <p xml:id="vll.19161109_488.12584">Szabocan Leopold, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Neunkirchen, 1891; kriegsgef.. Vereinigtes Evakuationsspital Nr. 32 in Nishnij-Nowgorod, Rußland.</p>
             <p>SzafowalNikolaus, KompTamb., IR. Nr. 15,13. Komp., Galizien,</p>
             <p>Tamopol, Baworöw, 1881; kriegsgef., Slobodskoj, Gouverne Gouvernement ­</p>
             <p>ment Gouvernement Wjatka, Rußland.</p>
@@ -6706,7 +6706,7 @@
             <p>Peczeni^yn, Lucza, 1883; laiegsgef., Nishnij-Nowgorod, Ruß Rußland. ­</p>
             <p>land. Rußland.</p>
             <p>Tokarczyk Stanislaus, LstInfst., IR. Nr. 20, 13. Komp., Galizien, Limanowa, Owieezka, 1879; verw.</p>
-            <p>Toman Mathias, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Pettau, Donatiberg, 1889; kriegsgef., Vereinigtes Evakuationsspital Nr. 62 in Woronesh, Rußland.</p>
+            <p xml:id="vll.19161109_488.13000">Toman Mathias, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Pettau, Donatiberg, 1889; kriegsgef., Vereinigtes Evakuationsspital Nr. 62 in Woronesh, Rußland.</p>
             <p>Tonian Wenzel, LstInfst., IR. Nr. 76, 14. Komp., Böhmen, Säbor Öernowitz, 1894; verw.</p>
             <p>Tomänek Franz, ErsResInfst., IR. Nr. 76, 16. Komp., Böhmen,</p>
             <p>Kamenitz a. d. L., Bezdööin, 1888; verw.</p>
@@ -6736,7 +6736,7 @@
             <p>sz6k, Nagyajka, 1886; tot (1.—15./7.1916).</p>
             <p>Topka Josef, LstInfst., IR. Nr. 75, 16. Komp., Böhmen, Wit Wittingau. ­</p>
             <p>tingau. Wittingau. 1895; tot (14./8. 1916)</p>
-            <p>Toplak Bartholomä, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Cilli, Kalobje, 1878; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.13054">Toplak Bartholomä, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Cilli, Kalobje, 1878; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Torak Prokop, LstInfst., IR. Nr. 30, 7. Komp., Bukowina, Radautz, 1882; verw.</p>
             <p>Toraszoznk Teodosy, ErsResInfst., IR. Nr. 15, 4. ErsKomp.,</p>
             <p>Galizien, Zbaraz, Nowe Siolo, 1886; kriegsgef., Charkow, Ruß Rußland. ­</p>
@@ -6805,10 +6805,10 @@
             <p>Turko Olexa, Infst., IR. Nr. 41, 4. Komp., Galizien, Böbr Siedliska, 1895; verw.</p>
             <p>TUrkösi Stefan, InfstTitGefr., IR. Nr. 2, 8. Komp., Unga Brassö, Hosszufalu, 1896; verw.</p>
             <p>Turkuoz Filip, LstInfst., IR. Nr. 41, 2. Komp., Ungarn, Ho 1879; verw.</p>
-            <p>Turušek Franz, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Trifail, 1890; verw., kriegsgef., Vereinigtes Evakuationsspital Nr. 31 in Nishnij Nowgorod, Rußland.</p>
+            <p xml:id="vll.19161109_488.13192">Turušek Franz, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Trifail, 1890; verw., kriegsgef., Vereinigtes Evakuationsspital Nr. 31 in Nishnij Nowgorod, Rußland.</p>
             <p>TuSa Tranz, LstInfst., k. k, LIR. Nr. 28, 6. Komp., Böhm&lt;</p>
             <p>Pfibram, Hnevein, 1893; kriegsgef., Orenburg, Rußland.</p>
-            <p>Tušmann Franz, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Windischgraz, St. Nicolaj, 1888; kriegsgef., Malcarchangelsk, Gouvernement Orel, Rußland.</p>
+            <p xml:id="vll.19161109_488.13198">Tušmann Franz, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Windischgraz, St. Nicolaj, 1888; kriegsgef., Malcarchangelsk, Gouvernement Orel, Rußland.</p>
             <p>Tuszewioz Iwan, Infst., IR. Nr. 41, 3. Komp., Galizien, Sok Tudorkowice, 1894; verw.</p>
             <p>Tusznieki Mickael, ResKorpTitZugsf., IR, Nr. 30, 11. Kom Galizien, Lemberg, Dublany, 1882; verw.</p>
             <p>Tuziak Karl, LstInfst., IR, Nr. 30, 7. Komp., Galizien, Lemba</p>
@@ -6834,7 +6834,7 @@
             <p>Nr. 45in Rjäsan, Rußland.</p>
             <p>Tyrala Josef, Infst., k. k. LIR Nr. 16, 17. Komp., Galizii Wadowice, Ttuczandolna, 1897; verw.</p>
             <p>Überall Filipp, KorpTitZugsf., IR. Nr. 58, MGA., Galizii Stanislau, 1895; verw.</p>
-            <p>Udovič Franz, LstInfst., IR. Nr. 15, 1. ErsKomp., <country>Krain</country>, Gurkfeld, St. Kanzian, 1887; kriegsgef., Kromy, Gouvernement Orel, Rußland.</p>
+            <p xml:id="vll.19161109_488.13250">Udovič Franz, LstInfst., IR. Nr. 15, 1. ErsKomp., <country>Krain</country>, Gurkfeld, St. Kanzian, 1887; kriegsgef., Kromy, Gouvernement Orel, Rußland.</p>
             <p>Ujlaki Sändor, LstInfst., IR. Nr. 41, 2. Komp., Ungarn, 18( verw.</p>
             <p>Ulbrich Vendel, LstJäg., FJB. Nr. 31, ErsKomp., Slavonii</p>
             <p>Daruvar, Dezanovac, 1882; kriegsgef., Schillowsky Rudn</p>
@@ -6870,7 +6870,7 @@
             <p>ha Josef, LstInfst., IR. Nr, 75, 9, Komp,, Böhmen, Pilgram, [odSjowitz, 1892; verw.</p>
             <p>ha Josef, LstInfst., IR. Nr. 76, 9, Komp., Böhmen, Tabor, obßslau, 1896; verw.</p>
             <p>ha Josef, LstInfst., IR. Nr. 75, 12. Komp., Böhmen, Tabor, obßslau, 1891; verw.</p>
-            <p>Vadušek Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Pettau, St. Rochus, 1878; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.13316">Vadušek Franz, LstInfst., IR. Nr. 15, 1. Komp., <country>Steiermark</country>, Pettau, St. Rochus, 1878; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>la Johann, KorpTitZugsf., IR. Nr. 2^8. Komp., Ungarn,</p>
             <p>Aromszßk, Kökös, 1888; tot (1. —15./7. 1916).</p>
             <p>la Julius, LstInfst., IR. Nr. 2, 4. Komp., Ungarn, Häromszßk, ölön, 1889; tot (1.-15./7. 1916).</p>
@@ -6957,7 +6957,7 @@
             <p>Vobornik Ladislaus, LstInfst., IR. Nr. 76, 10. Komp., Böhmen,. Neuhaus, Tremles, 1895; verw.</p>
             <p>Voborsky Heinrich, InfstTitGefr., IR. Nr. 75,10. Komp., Böhmen, Tabor, Vßtrov, 1889; verw.</p>
             <p>Vobratil Josef, IjstInfst., IR. Nr. 76, 10. Komp., Böhmen, Tabor, Pfedbofitz, 1886; verw\</p>
-            <p>Vodišek Josef, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Gairach, 1884; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
+            <p xml:id="vll.19161109_488.13490">Vodišek Josef, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Gairach, 1884; kriegsgef., Iwanowo Wosnessensk, Gouvernement Wladimir, Rußland.</p>
             <p>Vogel Josef, LstInfst., IR. Nr. 1, 15. Komp., Niederösterreich, Baden, Pottenstein, 1897; verw.</p>
             <p>Vogndr Josef, LstKan., Fst AR. Nr. 2, zugeteilt derTurmhaubAbt., Böhmen, Josefstadt, Wlkov, 1894; verw.</p>
             <p>Vojif Josef, LstInfst., IR. Nr. 76, 12. Komp., Böhmen, Ledec, Kozlow, 1896; verw.</p>
@@ -7024,7 +7024,7 @@
             <p>Walkow Michae 1, Korp., IR. Nr. 16, 3. Komp., Galizien, Skalat,</p>
             <p>Nowosiolka Grzymalowska, 1886; kriegsgef., Iwanowo</p>
             <p>Wosnessensk, Gouvernement Wladimir, Rußland.</p>
-            <p>Walluschnig Franz, LstInfst., IR. Nr. 15, 4. Komp., <country>Kärnten</country>, Villach, Finkenstein, 1895; kriegsgef., Balachna, Gouvernement Nishnij-Nowgorod, Rußland.</p>
+            <p xml:id="vll.19161109_488.13618">Walluschnig Franz, LstInfst., IR. Nr. 15, 4. Komp., <country>Kärnten</country>, Villach, Finkenstein, 1895; kriegsgef., Balachna, Gouvernement Nishnij-Nowgorod, Rußland.</p>
             <p>Waluszewski Anton, ResKorp., IR. Nr. 30, 9. Komp., Galizien, Lemberg, 1886; verw.</p>
             <p>Wandas Anton, Infst., k. k. LIR. Nr. 16, 8. Komp., Galizien Wieliczka, Byszyce, 1889; verw.</p>
             <p>Wan8k Josef, LstInfst., IR. Nr. 76, 10. Komp., Böhmen, Ta Krida, 1896; tot (14./8.1916).</p>
@@ -7208,7 +7208,7 @@
             <p>Weil Franz, LstInfst., k. k. LIR. Nr. 28, 2. ErsKomp., Böhmen,</p>
             <p>Pilgram, Cejl, 1878; kriegsgef., Aschabad, Lager Ak Tepe,</p>
             <p>Rußland.</p>
-            <p>Wolf Franz, Infst., IR. Nr. 15, <country>Steiermark</country>, Voitsberg; kriegsgef., Nowo-Nikolajewsk, Gorodok, Rußland.</p>
+            <p xml:id="vll.19161109_488.13980">Wolf Franz, Infst., IR. Nr. 15, <country>Steiermark</country>, Voitsberg; kriegsgef., Nowo-Nikolajewsk, Gorodok, Rußland.</p>
             <p>Wolke Josef, LstInfst., IR. Nr. 1,15. Komp., Schlesien, Jägern- dorf, 1882; verw.</p>
             <p>Woloszyn Stefan, GefrTitKorp., IR. Nr. 58, 6. Komp., Galizien,</p>
             <p>Tlumacz, Worona, 1896; tot (28./7.1916).</p>
@@ -7285,7 +7285,7 @@
             <p>Galizien, Stanislau, 1895; tot (28./7.1916).</p>
             <p>Zagar Petar, Infst., IR. Nr. 96, Kroatien, Cabar, Prezid, 18|</p>
             <p>kriegsgef. (In serbischer Kriegsgefangenschaft.)</p>
-            <p>Žager Markus, LstInfst., IR, Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Laufen, 1887; kriegsgef.. Vereinigtes Lubliner Feldspital Nr. 1 in Woronesh, Rußland.</p>
+            <p xml:id="vll.19161109_488.14128">Žager Markus, LstInfst., IR, Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, Laufen, 1887; kriegsgef.. Vereinigtes Lubliner Feldspital Nr. 1 in Woronesh, Rußland.</p>
             <p>Zahoranski Demeter, Zu^slTitFeldw. SanUOff., IR. Nr.</p>
             <p>Galizien, Zbaraz, Terpilöwka, 1888; tot. (Gestorben am 7.</p>
             <p>1916in Kostroma, Rußland. Nicht legal nachgewiesen. Wui</p>
@@ -7368,7 +7368,7 @@
             <p>eirinja, Slana, 1893; kriegsgef., Kiew, Rußland.</p>
             <p>tel Martin, LstInfst., IR. Nr. 75, 15. Komp., Böhmen, Neu- aus, Riegerschlag, 1890; verw.</p>
             <p>rczak Jan, LstInfst., IR. Nr. 41, 2. Komp., Galizien, Neu- andez, Lomnica, 1895; verw.</p>
-            <p>Zidar Karl, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, St. Veit bei Grobelno, 1890; kriegsgef., Petropawlowsk, Gebiet Akmolinsk, Rußland.</p>
+            <p xml:id="vll.19161109_488.14288">Zidar Karl, LstInfst., IR. Nr. 15, 4. Komp., <country>Steiermark</country>, Cilli, St. Veit bei Grobelno, 1890; kriegsgef., Petropawlowsk, Gebiet Akmolinsk, Rußland.</p>
             <p>Btek Karl, Infst., IR. Nr. 100, 6. Komp., Schlesien, Teschen, Inojnik, 1894; verw.</p>
             <p>B Johann, ErsResInfst., IR. Nr. 75, 10. Komp., Böhmen, ’abor, Deutsch-Zahofi, 1883; verw.</p>
             <p>imorman Eduard, Gefr., IR. Nr. 41, 2. Komp., Bukowina, ladautz. Karlsberg, 1894; verw.</p>
@@ -7397,7 +7397,7 @@
             <p>iwl, Gouvernement Wladimir, Rußland. ’</p>
             <p>Zoi'kic Stewan, LstInfst., IR. Nr. 70, 2. Kr mp., Slavonien,</p>
             <p>Zemun, Ugrinovci, 1894; tot (2./7. 1916).</p>
-            <p>Zorn Johann, Korp., IR. Nr. 30, 12. Komp,, <country>Steiermark</country>, Gleisdorf, Taken II. Viertel, 1891; verw.</p>
+            <p xml:id="vll.19161109_488.14346">Zorn Johann, Korp., IR. Nr. 30, 12. Komp,, <country>Steiermark</country>, Gleisdorf, Taken II. Viertel, 1891; verw.</p>
             <p>Zosiak Peter, Zugsf., IR. Nr. 15, 3. Komp., Galizien, Zbaraz,</p>
             <p>Romanowe Siolo, 1884; kriegsgef., Rußland,</p>
             <p>Zoui Johann, LstInfstTitGefr., IR. Nr. 75, 9. Komp., Böhmen» Tabor, Petrowitz, 1889; verw.</p>
@@ -7420,7 +7420,7 @@
             <p>Krzywotule nowy, 1882; tot (16./9. 1916).</p>
             <p>Zukowski Leon, LstInfst., IR. Nr. 30, 8. Komp., Galizien, Lem Lemberg, ­ berg, Lemberg, 1893; verw.</p>
             <p>Zunk Gregor, Infst., IR. Nr. 41, 4. Komp., Ungarn, Bihar,1888; verw.</p>
-            <p>Zupan Michael, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Rann, Sagarje, 1888; kriegsgef., Pensa, Rußland.</p>
+            <p xml:id="vll.19161109_488.14392">Zupan Michael, LstInfst., IR. Nr. 15, 2. Komp., <country>Steiermark</country>, Rann, Sagarje, 1888; kriegsgef., Pensa, Rußland.</p>
             <p>Zupnyk Peter, Sohn des Iwan, LstInfst., IR. Nr. 15, 4. Komp.,</p>
             <p>Galizien, Peczenizyn, Molodiatyn, 1895; kriegsgef., Kujas-</p>
             <p>Iwanow'o, Gouvernement Nishnij-Nowgorod, Rußland.</p>

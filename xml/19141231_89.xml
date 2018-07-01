@@ -440,9 +440,9 @@
             <p>Kohn Karl, Fähnr. i. d. Res., 1R. Nr. 8, 8. Komp., verw.</p>
             <p>Kolk Robert, Oblt., k. k. LIR. Nr. 30, Stb., Niederösterreicli, Wien, 1889, verw.</p>
             <p>Kolisch Arthur, Lt.i. d. Res., FJB.Nr. 25,3. Komp., verw.</p>
-            <p>Köller Maximilian, Lt., k. k. LIR. Nr. 30, 8. Komp., <country>Steiermark</country>, Graz, 1892, verw.</p>
+            <p xml:id="vll.19141231_89.768">Köller Maximilian, Lt., k. k. LIR. Nr. 30, 8. Komp., <country>Steiermark</country>, Graz, 1892, verw.</p>
             <p>Krcmling Johann, Hptm., k. k. LIR. Nr. 30, 1. Komp., Ober- Österreich, Linz, 1879, verw. &gt;</p>
-             <p>Kuchinka Albert, Lt., k. k. LUR. Nr. 5, 3. Esk., <country>Steiermark</country>, Graz, Ragnitz, 1892, verw.</p>
+             <p xml:id="vll.19141231_89.772">Kuchinka Albert, Lt., k. k. LUR. Nr. 5, 3. Esk., <country>Steiermark</country>, Graz, Ragnitz, 1892, verw.</p>
             <p>langer Aladar, Fähnr. i. d. Res., k. u. LIR. Nr. 14, Ungarn, Pest-</p>
             <p>Pilis-Solt-Kiskun, Budapest, kriegsgef. (Akmolinsk. Rußland.)</p>
             <p>langer Karl, Fähnr. i. d. Res., IR. Nr. 8, 5. Komp., verw.</p>
@@ -477,7 +477,7 @@
             <p>Müller Friedrich, Lt. i. d. Res., FJB. Nr. 2, 1. Komp., Böhmen, Reichenberg, 1889, kriegsgef.</p>
             <p>Müller Ludwig, Ilptm., IR. Nr. 3, 16. Komp., Mähren, Neu- titschein, 1878, verw.</p>
             <p>A'cea Franz, Lt. i. d. Res., IR. Nr. 3, 14. Komp., Mähren, Gaya, Jestrabitz, 1887, verw.</p>
-            <p>Nekrepp Konrad, Hptm., IR. Nr. 84, MGA. 4, <country>Steiermark</country>, Marburg, 1878, verw. (Dienstfähig.)</p>
+            <p xml:id="vll.19141231_89.842">Nekrepp Konrad, Hptm., IR. Nr. 84, MGA. 4, <country>Steiermark</country>, Marburg, 1878, verw. (Dienstfähig.)</p>
             <p>Keuraann Hugo, Kdt. i. d. Res., FJB. Nr. 25, 3. Komp., verw.</p>
             <p>Nuzny Stefan, Kdt., IR. Nr. 83, Ungarn, Bars, Aranyosmarot, kriegsgef. (Akmolinsk, Rußland.)</p>
             <p>Nyäri von Nyäregyhäz Miklös, Dr., Lt. i. d. Res., k. u. LHR. Nr. G,</p>
@@ -537,7 +537,7 @@
             <p>1893, venv.</p>
             <p>Totsche Anton, Lt.i. d. Res. k. k. LIR. Nr. 30, 2. Komp., Böhmen,</p>
             <p>Töplitz, 1881, venv.</p>
-            <p>Truntschnig Simon, Hptm., k. k. LIR. Nr. 30,8. Komp., <country>Kärnten</country>, Klagenfurt, Himmelberg, 1872, verw.</p>
+            <p xml:id="vll.19141231_89.956">Truntschnig Simon, Hptm., k. k. LIR. Nr. 30,8. Komp., <country>Kärnten</country>, Klagenfurt, Himmelberg, 1872, verw.</p>
             <p>Turner Oskar, Oblt., FJB. Nr. 25, S.Komp., Ungarn, Bäcs- Bodrog, üjvid&lt;5k, tot.</p>
             <p>Ulbricht Josef, Lt. i. d. Res., k. k. LIR. Nr. 30, 10. Komp.,</p>
             <p>.IJöhmeii, Rumbnrg, Niedergrund, 1883, tot (1./9. 1914).</p>
@@ -549,7 +549,7 @@
             <p>Will» Emil, Kdt. i. (1. Res., IR. \ r . 8, 1. Komp., Mähren, Wiscbau, Austerlitz, verw.</p>
             <p>Votruhcc Milos, Fähnr. i. d. Re?., k.k. LIR.Nr. 30, 6. Komp., Böhmen, Turnau, 1881, verw.</p>
             <p>'.Vacha Robert, Dr. jur., Lt. i. d. Res., FKR. Nr. 5, verw.</p>
-            <p>Wall Otto, Oblt., k.k. LIR. Nr. 30, 9. Komp., <country>Steiermark</country>, Graz, 1887, tot (2./9. 1914).</p>
+            <p xml:id="vll.19141231_89.980">Wall Otto, Oblt., k.k. LIR. Nr. 30, 9. Komp., <country>Steiermark</country>, Graz, 1887, tot (2./9. 1914).</p>
             <p>Walter Roman, Lt. i. d. Res., IR. Kr. 49, 14. Komp., verw.</p>
             <p>Wawra Oskar, Hptm., k.k. LIR. Nr. 30, 7. Komp., Mähren, Olmütz, 1S73, tot (1./9. 1914).</p>
             <p>Weichselberger Franz, Kdt. i. d. Res., IR. Nr. 84, 3/2. Manch- komp., verw. *</p>
@@ -1037,7 +1037,7 @@
             <p>Dihlik Josef, Inft., k. k. LIR. Nr. 30, 8. Komp., Böhmen, Lands ­ kron, Sopotnik, verw.</p>
             <p>Dietzer Alexander, Inft., IR. Nr. 49, 5. Komp., verw.</p>
             <p>Dingel Franz, ErsRes., k. k. LIR. Nr. 1, 6. Komp., verw.</p>
-            <p>Dirnbacher Jakob, ResInft., IR. Nr. 49, 6. Komp., <country>Steiermark</country>, Bruck a. d. M, Tornau, 1881, tot (20./11. 1914).</p>
+            <p xml:id="vll.19141231_89.1932">Dirnbacher Jakob, ResInft., IR. Nr. 49, 6. Komp., <country>Steiermark</country>, Bruck a. d. M, Tornau, 1881, tot (20./11. 1914).</p>
             <p>Ditthelm Karl,'. Inft. TitGefr., IR. Nr. 84, 5. Komp., kriegsgel.</p>
             <p>Dittrich Karl, ResInft., IR. Nr. 8, 4. Komp., Mähren, Miihr.- Trübau, 1889, verw. *</p>
             <p>DiviSek Jaroslaus, Gefr., k. k. LIR. Nr. 30, 6. Komp., Böhmen, Senftenberg, Zachlum, 1883, verw.</p>
@@ -1048,7 +1048,7 @@
             <p>DoMec Franz, Inft., k. k. LstMarschB. Nr. 3, 1. Komp., verw.</p>
             <p>Hohler ftarl, Korp., TitZugsf., IT!. Nr. 84, 6. Komp., kriegsgef.</p>
             <p>Doboä Alexander, Jäg., FJB. Nr. 17, 4. Komp., verw.</p>
-            <p>Dobrounig Max, Jäg., FJB. Nr. 25, 3. Komp., <country>Kärnten</country>, Völkermarkt, Leifling, verw.</p>
+            <p xml:id="vll.19141231_89.1954">Dobrounig Max, Jäg., FJB. Nr. 25, 3. Komp., <country>Kärnten</country>, Völkermarkt, Leifling, verw.</p>
             <p>Jlobrovoln^ Kar], Inft., IR. Nr. 8, 7. Komp., verw.</p>
             <p>Dobrovolny Peter, Inft., IR. Nr. 8, 13. Komp., verw. .</p>
             <p>Dobrowulny Johann, Inft., IR. Nr. S, 4. Komp., Mähren, Bos-</p>
@@ -1358,7 +1358,7 @@
             <p>Gergela Johann, Inft., k. k. LIR., Nr. 25, 5. Komp., Mähren, Ung. Brod, Luhatscliowitz, 1889, verw..</p>
             <p>Oeriser Gottlieb, ResInft., k. k. LIR. Nr, 30. 5. Komp., Böhmen, Policka, Svojanow. 1887, verw.</p>
             <p>Gerlich Adolf, Jäg.. FJB. Nr. 25,'3. Komp., Mähren, Boskowitz, • Bogenau, verw.. • .. . ,...</p>
-            <p>Germ Johann, Jäg., FJB. Nr. 25. 2. Komp., <country>Kärnten</country>, St. Veit a. d. Glan, 1892, tot.</p>
+            <p xml:id="vll.19141231_89.2556">Germ Johann, Jäg., FJB. Nr. 25. 2. Komp., <country>Kärnten</country>, St. Veit a. d. Glan, 1892, tot.</p>
             <p>Gorschitzka Andreas, Inft., k. k. LstlR. Nr. 24, 2. Komp., verw. :</p>
             <p>GerSI Matthias, Inft., IR. Nr. 8, 8. Komp., tot.</p>
             <p>Gerstl Florian, Inft., IR. Nr. 49, .6. Komp., Niederösterreich,,:</p>
@@ -2568,7 +2568,7 @@
             <p>Meierhofer Josef, ErsRes., IR. Nr. 84, 8. Komp., vcrw.</p>
             <p>Meissner Stanisl., Korp., k. k. LIR. Nr. 30, 6. Komp., Böhmen, Pardubitz, 1891, verw.</p>
             <p>Meister Rudolf, Inft., k. k. LstB.-Nr.-2, 1. Komp., Mähren, Znaim, Deutsch-Könitz, 1878, verw.</p>
-            <p>Meixner Josef, Unterjäg., FJB. Nr. 25,2. Komp., <country>Kärnten</country>, Spittal, See-boden, 1891, verw.</p>
+            <p xml:id="vll.19141231_89.4910">Meixner Josef, Unterjäg., FJB. Nr. 25,2. Komp., <country>Kärnten</country>, Spittal, See-boden, 1891, verw.</p>
             <p>Mekyna Josef, Inft., k. k. LIR. Nr. 25, 4. Komp., Mähren, Wall. Meseritsch, Solanetz, 1888, verw.</p>
             <p>Mclicliar Franz, Jäg., FJB. Nr. 26, 3. Komp., Mähren, Neu- stadtl, verw. ' . .</p>
             <p>Melicharck Eduard, Inft., k. k. LIR. Nr. 25, M.GA. 1/25, verw.</p>
@@ -2610,7 +2610,7 @@
             <p>Mikyska Stanisl., Gefr., k. k! LIR. Nr. 30, 5. Komp., Böhmen, Senftenberg, Erlitz, 1883, verw.</p>
             <p>Millich Josef, Inft., k. k. LIR. Nr. 30, 1. Komp., Böhmen, Leito ­</p>
             <p>mischl, Ketzendorf, 1891, tot (2S./8. 1914).</p>
-            <p>Millonig Ferdinand, Jäg., FJB. Nr. 25, 3. Komp., <country>Kärnten</country>, Hermagor, St. Stefan, verw.</p>
+            <p xml:id="vll.19141231_89.4994">Millonig Ferdinand, Jäg., FJB. Nr. 25, 3. Komp., <country>Kärnten</country>, Hermagor, St. Stefan, verw.</p>
             <p>Minarcik Franz, Jäg,, FJB. Nr. 25, 3. Komp., Mähren, Wall. Meseritsch, Hutisko, verw. •</p>
             <p>Minarik Franz, ErsResJäg., FJB. Nr. 25, 3. Komp., verw.</p>
             <p>MiSka* Wenzel, ErsRes., k. k. LIR. Nr. 30, 7. Komp., Böhmen, Reichenau, Sollnitz, 1881, verw.</p>
@@ -2956,7 +2956,7 @@
             <p>Petruzclka Jaroslaus, Gefr., k. k. LIR. Nr. 30,6, Komp., Böhmen, Reichenau, Adler-Kosteletz, 1884, verw.</p>
             <p>Petateehnig Josel, J;i?., FJB. Nr. 25, 1. Komp., ' tot</p>
             <p>(18.-19./11. 1914V</p>
-            <p>Petutschnik Adolf, Jäg., FJB. Nr. 25, 4. Komp., <country>Kärnten</country>, Klagenfurt, Feldkirchen, tot (19.—20./11. 1914).</p>
+            <p xml:id="vll.19141231_89.5668">Petutschnik Adolf, Jäg., FJB. Nr. 25, 4. Komp., <country>Kärnten</country>, Klagenfurt, Feldkirchen, tot (19.—20./11. 1914).</p>
             <p>Peuker Josef, Inft., k.k. LIR, Nr.30, 6. Komp., Böhmen, Senftenberg, Kronstadt, 1888, verw.</p>
             <p>Peusch Franz, ErsRes., IR. Nr. 84, 7. Komp., verw,</p>
             <p>Pezeni, Inft., IR. Nr. 84, 3/2. Marschkomp., verw.</p>

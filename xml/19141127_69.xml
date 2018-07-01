@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:lang="de"
      xml:id="vll.19141127_69">
@@ -588,7 +587,7 @@
             <p>Pulav Istvän, Hptm., k. u. LIR. Nr. 19, Ungarn, tot.</p>
             <p>II ah Franz, Fähnr. i. d. Res., IR. Nr. 91, verw. 1</p>
             <p>lladosseviclt von Szokolovacz Johann,-Lt., FJB. Nr. 7, tot,</p>
-            <p>Raisp Edler von Caliga Erich, Kdt i. d. Res., DR. Nr. 5,3. Esk., <country>Steiermark</country>, Pettau, 1893, verw.</p>
+            <p xml:id="vll.19141127_69.1056">Raisp Edler von Caliga Erich, Kdt i. d. Res., DR. Nr. 5,3. Esk., <country>Steiermark</country>, Pettau, 1893, verw.</p>
             <p>Reichert Rezsö, Lt. i. d. Res., k. u. LIR. Nr, 24, 6. Komp., verw.</p>
             <p>R ininghaus Eberhard, von, Kdt. i. d. Res., DR. Nr. 14, kriegs-</p>
             <p>gef. (Niä, Serbien.)</p>
@@ -1491,7 +1490,7 @@
             <p>Brtnik Franz, Inft., k. k. LIR. Nr. 14, tot.</p>
             <p>Brübnjak Josef, Unterjäg., FJB. Nr. 20, MGA., tot.</p>
             <p>Brucic Ivan, Reslnft., k. u. LIR. Nr. 25, 5. Komp., verw.</p>
-            <p>Brugger Thomas, Unterjäg. TitZugsf., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Mürzzuschlag, Kindberg, verw.</p>
+            <p xml:id="vll.19141127_69.2820">Brugger Thomas, Unterjäg. TitZugsf., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Mürzzuschlag, Kindberg, verw.</p>
             <p>Brugnara Gius., Jäg., TJR. Nr. 3, 5. Komp., verw.</p>
             <p>Brumovsky Franz, Zugsf., k. k. LFKR. Nr. 13, Batt. 2, Mähren, Znaim, Kl. Tesswitz, 1887, verw.</p>
             <p>Brünett Ottilio, Jäg., TJR. Nr. 3, 2. Komp., verw. (Kopfschuß,</p>
@@ -1945,7 +1944,7 @@
             <p>DernovSsk August, Patrf., FJB. Nr. 20,3. Komp., verw.</p>
             <p>Dcrzsi Kälmän, Korp., k. u. LIR. Nr. 24,3. Komp., verw.</p>
             <p>Dcsignori Carlo, Jäg., TJR. Nr. 2, 7. Komp., verw.</p>
-            <p>Desintin Bartlmä, Unterjäg., FJB. Nr. 20, 4. Komp., <country>Küstenland</country>, Gradiska, Brazzano, 1881, tot. (Beerdigt am 10. September 1914.)</p>
+            <p xml:id="vll.19141127_69.3710">Desintin Bartlmä, Unterjäg., FJB. Nr. 20, 4. Komp., <country>Küstenland</country>, Gradiska, Brazzano, 1881, tot. (Beerdigt am 10. September 1914.)</p>
             <p>Deutschmann .Tosip, Reslnft,, k. u. LIR. Nr. 28, 6. Komp., Slavonien, Osijck, 1886, verw.</p>
             <p>Devai Jözsef, Inft., k. u. LIR. Nr. 22, 5. Komp., tot.</p>
             <p>Dcvigili Andrä, Jäg., TJR. Nr. 4,11. Komp., verw.</p>
@@ -1996,7 +1995,7 @@
             <p>DocziMihäly, Gefr., k. u. LstlR. Nr. l,tot. •* '</p>
             <p>Dodö Gergely, Kan., k. u. LFKR. Nr. 5, Batt. 2, tot. .</p>
             <p>Dohnalek Josef, ErsRes., k. k. LIR. Nr. 13,11. Komp.,-Mähren, Hohenstadt, Buschin, 1885, verw.</p>
-            <p>Doho Johann, Jäg., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Judenburg, Fohnsdorf, verw.</p>
+            <p xml:id="vll.19141127_69.3806">Doho Johann, Jäg., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Judenburg, Fohnsdorf, verw.</p>
             <p>Doja, Inft., IR. Nr. 64,14. Komp., verw.</p>
             <p>Doka Jänos, Inft., k. u. LstlR. Nr. 30, ,10. Komp.,. Ungarn,</p>
             <p>Pest-Pilis-Scilt-Kiskun, Kocs£r, 1878, verw.</p>
@@ -2872,7 +2871,7 @@
             <p>Hanale Adolf, Jäg., TJR. Nr. 4, 7. Komp., Tirol, Landeck, verw.</p>
             <p>Hanaweg Josef, Inft., IR. Nr. 27,1. Komp., tot.</p>
             <p>HanciE Matthias, Inft., IR. Nr. 7, 5. Komp., verw.</p>
-            <p>Handler Florian, Jäg., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Hartberg, Löffelbach, verw.</p>
+            <p xml:id="vll.19141127_69.5522">Handler Florian, Jäg., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Hartberg, Löffelbach, verw.</p>
             <p>Hancs Georg, Inft., IR. Nr. 64, IG. Komp., verw. -</p>
             <p>Hanibal Wenzel, ErsRes., IR. Nr. 102, 7. Komp., Böhmen, Bene- schau, Vaclavic, 1883, verw.</p>
             <p>Hank Jänos, Inft., k. u. LMarschR. Nr. 16, verw.</p>
@@ -4451,7 +4450,7 @@
             <p>österreich, Horn, Rodingersdorf, 1891, verw.</p>
             <p>Madjarcvic Stjepan, Reslnft., k. u. LIR. Nr. 28, 6.. Komp.,</p>
             <p>Siavonien, Osijek Virovitica, Valpovo, 1887, verw.</p>
-            <p>Madleiner Anton, Inft., k. k. LstIR. Nr. II, 2. Komp., <country>Steiermark</country>, Marburg, 1873, verw.</p>
+            <p xml:id="vll.19141127_69.8602">Madleiner Anton, Inft., k. k. LstIR. Nr. II, 2. Komp., <country>Steiermark</country>, Marburg, 1873, verw.</p>
             <p>Madzula Nikolaus, ErsRes., IR. Nr. 20, 7. Komp., verw.</p>
             <p>Maffei Giuseppe, Patrf., TJR. Nr. 4,10. Komp., Tirol, Rovereto, Nomi, 1878, verw.</p>
             <p>MaJJci Serafin, Jag., TJR. Nr. 4, 11. Komp., verw.</p>
@@ -4772,7 +4771,7 @@
             <p>Meniga Dragutin, Inft., k. u. LIR. Nr. 25, 2. Komp., verw.</p>
             <p>Meretu György, Korp., k. u. LIR. Nr. 24, 3. Komp., verw.</p>
             <p>Mergole Johann, Jäg., FJB. Nr. 20, 3. Komp.., verw.</p>
-            <p>Merhar Johann, GendTitPostenf., bh. GendKorps., 8. Flügel, <country>Krain</country>, Laibach, Unterschischka, 1880, verw.</p>
+            <p xml:id="vll.19141127_69.9232">Merhar Johann, GendTitPostenf., bh. GendKorps., 8. Flügel, <country>Krain</country>, Laibach, Unterschischka, 1880, verw.</p>
             <p>Merina Gregor, Reslnft., IR. Nr. 64, 4. Komp., verw.</p>
             <p>Merkl Jakob, Kan., FstAB. Nr. 2, LstAAbt. 8/1, tot.</p>
             <p>Mermezan Jute, Inft., IR. Nr. 64, 8. Komp., tot.</p>
@@ -6287,7 +6286,7 @@
             <p>Sehwarzenauer Thomas, Jäg., TJR, Nr. 4,. 7. Komp., Tirol, Kufstein, Alpbach, tot.</p>
             <p>Schwarzenberger, Gefr., IR. Nr. 27. 4. Komp., verw.</p>
             <p>Schwarzenberger, Inft., IR, Nr. 27, 15. Komp., verw.</p>
-             <p>Schwarzenberger Alois, Jag., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Weiz, Egelsdorf, 1890, verw.</p>
+             <p xml:id="vll.19141127_69.12190">Schwarzenberger Alois, Jag., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Weiz, Egelsdorf, 1890, verw.</p>
             <p>Sehwamnbrunner Julius, Zugsf., k. k. LstlR. Nr. 14,12. Komp.,</p>
             <p>vcrw.</p>
             <p>Schwarzer, Inft-., ki k. LIR. Nr. 13,12. Komp., Mähren, Mährisch- Schönberg, Neu-Ullersdorf, 1886, verw.</p>
@@ -6600,7 +6599,7 @@
             <p>S.tancu, lnft., IR. Nr. 64, 14. Komp., verw. ,</p>
             <p>Stanvk Anton, ErsRes., IR. Nr. 75, 1. Marschkomp., Böhmen, Tabor, Domamisclil., 1892, verw.</p>
             <p>Sfanok Franz, lnft., IR. Nr. 91, verw.</p>
-            <p>Stangl Anton, Patrf., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Weiz, Höf, 18S8, verw.</p>
+            <p xml:id="vll.19141127_69.12804">Stangl Anton, Patrf., FJB. Nr. 9, 2. Komp., <country>Steiermark</country>, Weiz, Höf, 18S8, verw.</p>
             <p>Stallte Mile, lnft., k. u. LIR. Nr. 20, verw.</p>
             <p>Stankovic Nikola, ZugsL, k. u. LIR. Nr. 25, 11. Komp., tot.</p>
             <p>Stanoiiik Johann, ResJäg., FJB. Nr. 7, verw.</p>
@@ -7263,7 +7262,7 @@
             <p>Uräanic Stjepah, Reslnft., k. u. LIR. Nr. 25, 8. Komp., verw..</p>
             <p>Urschnigg Konrad, Inft-., IR. Nr. 27,15. Komp., tot.</p>
             <p>Ursiß Anton, Jäg., FJB. Nr. 20, 3. Komp., verw. y</p>
-            <p>Ursić Josef, Unterjäg., FJB. Nr. 20, 4. Komp., <country>Küstenland</country>, Tolmein, Kirchheim, 1888, tot, (Am 10. September 1914 beerdigt.)</p>
+            <p xml:id="vll.19141127_69.14100">Ursić Josef, Unterjäg., FJB. Nr. 20, 4. Komp., <country>Küstenland</country>, Tolmein, Kirchheim, 1888, tot, (Am 10. September 1914 beerdigt.)</p>
             <p>Uryga Adalbert, Inft., IR. Nr. 20, 5. Komp., verw. ;</p>
             <p>Urzika Sändor, Inft., k. u. LIR. Nr. 22, 8. Komp., verw.</p>
             <p>Uzelac Gjuro, KompHorn., k. u. LIR; Nr. 26, verw. *</p>
@@ -8224,7 +8223,7 @@
             <p>4. Marschkomp., Mähren, Ung. Hradisch, Bvsenz, 1888, verw.</p>
             <p>Zelinka Bohuslav, ErsRes. statt Inft., IR. Nr. 3, 4. Marsch ­</p>
             <p>komp., Mähren, Wsetin, Johanova, 1889, verw.</p>
-            <p sameAs="VIL.15">Žerjal statt Zejral Anton, Reslnft., IR. Nr. 3, 10. Komp., <country>Küstenland</country>, Görz Umgebung, Reifenberg, 1881, verw.</p>
+            <p xml:id="vll.19141127_69.15962" sameAs="VIL.15">Žerjal statt Zejral Anton, Reslnft., IR. Nr. 3, 10. Komp., <country>Küstenland</country>, Görz Umgebung, Reifenberg, 1881, verw.</p>
             <p>Zurmann Josef, Gefr. TitKorp. statt Korp., IR. Nr. 3, 7. Komp.,</p>
             <p>Mähren, Kremsier, Pravtschitz, 1891, verw.</p>
             <p>Zuvola statt Zowak Franz, Inft., IR. Nr. 3, PionAbt., Mähren, Kremsier, Skaschtitz, verw.</p>

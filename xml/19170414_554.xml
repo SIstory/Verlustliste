@@ -256,14 +256,14 @@
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170414&amp;seite=3&amp;zoom=33">[ Verlustliste - 19170414 - Seite 3 ]</ref>
             </ab>
             <p>Offiziere.</p>
-            <p>Artusi Peter, Lt. i. d. Res., k. k. LIR. Nr. 5, 1. Komp., <country>Istrien</country>, Pola, 1887; kriegsgef., Rußland.</p>
+            <p xml:id="vll.19170414_554.412">Artusi Peter, Lt. i. d. Res., k. k. LIR. Nr. 5, 1. Komp., <country>Istrien</country>, Pola, 1887; kriegsgef., Rußland.</p>
             <p>ratosi Startok Tibor, Fähnr. i. d. Res., k. u. LIR. Nr. 30,</p>
             <p>t2. Konmp., Ungarn, ßeszfcercze-Naszöd, Bcsztercze, 1892;</p>
             <p>(12.//8.1916).</p>
             <p>rgmann Karl, Lt. i. d. Res., k. k. LstlR. Nr. 3, Salzburg,</p>
             <p>1881; krriegsgef., I^ager Dauria, Rußland.</p>
-            <p>Beutelmann Peter, LstFähnr., k. k. LIR. Nr. 4, 11. Komp., <country>Kärnten</country>, Wolfsberg, 1886; tot (2./11. 1916).</p>
-            <p>Bleyweis Hermann, Fähnr. i. d. Res., IR. Nr. 40, 8. Komp., <country>Steiermark</country>, Aflenz, 1898; tot (12./11.1916).</p>
+            <p xml:id="vll.19170414_554.424">Beutelmann Peter, LstFähnr., k. k. LIR. Nr. 4, 11. Komp., <country>Kärnten</country>, Wolfsberg, 1886; tot (2./11. 1916).</p>
+            <p xml:id="vll.19170414_554.426">Bleyweis Hermann, Fähnr. i. d. Res., IR. Nr. 40, 8. Komp., <country>Steiermark</country>, Aflenz, 1898; tot (12./11.1916).</p>
             <p>giiar Jö5zsef, Kdt. i. d. Ros., k. u. LIR. Nr. 19, 5. Komp.,</p>
             <p>Ungarn,, Somogy, Szökedencs, 1896; kriegsgef., Rußland,</p>
             <p>hm Emimerich, SanKdt. i. d. Res., IR. Nr. 86, JagdKmdo,,</p>
@@ -289,7 +289,7 @@
             <p>^liigarn,, Fej(ir, Csäkvär, 1883; tot (24./10.1916).</p>
             <p>inyvos EDäniel, Fähnr. i. d. Res., k. u. LIR. Nr. 1, zugeteilt</p>
             <p>dem k. u. LIR. Nr. 6, 9. Komp., Ungarn, Budapest, 1894; iverw.</p>
-            <p>Fillafer Johann, Lt. i. d. Res., k. k. LIR. Nr. 4, 1. Komp., <country>Kärnten</country>, Villach, Bleiberg, 1891; verw.</p>
+            <p xml:id="vll.19170414_554.478">Fillafer Johann, Lt. i. d. Res., k. k. LIR. Nr. 4, 1. Komp., <country>Kärnten</country>, Villach, Bleiberg, 1891; verw.</p>
             <p>ödor Luddwig, Oblt.i. d. Res., IR. Nr. 23, 10. Komp., Ungarn, 'BudapcHst, 1883; verw.</p>
             <p>»rmanek{ Josef, Fähnr. i. d. Res., IR. Nr. 67, 3. Komp., Mähren,</p>
             <p>iMähi-. \Weißkirchen, Hustopetsch a. d. Beöva, 1896; verw.</p>
@@ -310,8 +310,8 @@
             <p>[egodiis lEugen, Fähnr. i. d. Res., IR. Nr. 6, Ungarn, Szatmär, Nagykaäroly, 1890; kriegsgef.</p>
             <p>[elvey Aödolf, Obstlt., IR. Nr. 6, Ungarn, Bäcs-Bodrog, Ujvidök,</p>
             <p>1861; ttot (1./6.-16./8.1916). ^</p>
-            <p>Hervatič Orest, Fähnr. i. d. Res., k. k. LIR. Nr. 6, zugeteilt dem k. k. LIR. Nr. 27, <country>Istrien</country>, Capodistria, Dolina, 1886; kriegsgeef., Tjumen, Rußland.</p>
-            <p>Hochhauser Georg, Mjr., FstAB. Nr. 1, zugeteilt dem ResFHR. Nr. 61, <country>Steiermark</country>, Graz, 1871; kriegsgef., Rußland.</p>
+            <p xml:id="vll.19170414_554.520">Hervatič Orest, Fähnr. i. d. Res., k. k. LIR. Nr. 6, zugeteilt dem k. k. LIR. Nr. 27, <country>Istrien</country>, Capodistria, Dolina, 1886; kriegsgeef., Tjumen, Rußland.</p>
+            <p xml:id="vll.19170414_554.522">Hochhauser Georg, Mjr., FstAB. Nr. 1, zugeteilt dem ResFHR. Nr. 61, <country>Steiermark</country>, Graz, 1871; kriegsgef., Rußland.</p>
             <p>^anozuki.Rudolf, Lt.i.d. Res., IR. Nr. 16, 4. Komp., Galizien,</p>
             <p>Tarnopool, 1883; kriegsgef., Solikamsk, (jouvernement Perm,</p>
             <p>; Rußlanid.</p>
@@ -323,7 +323,7 @@
             <p>land. Rußland.</p>
             <p>Kerneok Arthur Friedrich, Lstl;^dt., IR. Nr. 15, Galizien,Tarnopol</p>
             <p>1884; kriegsgef., Alatyr, Gouvernement Simbirsk, Rußland.</p>
-            <p>Kerstein Josef, Lt. i. d. Res., k. k. LIR. Nr. 5, 1. Komp., <country>Kärnten</country>, Villach, Seifnitz, 1894; kriegsgef., Rußland.</p>
+            <p xml:id="vll.19170414_554.546">Kerstein Josef, Lt. i. d. Res., k. k. LIR. Nr. 5, 1. Komp., <country>Kärnten</country>, Villach, Seifnitz, 1894; kriegsgef., Rußland.</p>
             <p>K^smärszky G6za, Fähnr. i. d. Res., IR. Nr. 69, 3. Komp.,</p>
             <p>Ungarn, Baranya. P^cs, 1896; veiw.</p>
             <p>Ehindl Desiderius, Lt. i. d. Res., IR. Nr. 5, Ungarn, Szatmär. Verpelöd; verw.</p>
@@ -405,7 +405,7 @@
             <p>Ungam, Bäcs-Bodrog, Bäcskossutfalva, 1875; Verw.</p>
             <p>Sielecki-Diiurdz Cipfian, Fäluir. i. d. Res., IR. Nr. 77, 4. Baon., Galizien, Sambor, 1891; verw.</p>
             <p>Simel Georg, Obstlt., IR. Nr. 5, Ungarn, Torontal, Pancsova;</p>
-            <p>Širca Stanislaus, Oblt., TelR., ErsBaon., <country>Steiermark</country>, Cilli, Sachsenfeld, 1887; kriegsgef., Kerensk, Gouvernement Pensa, Rußland.</p>
+            <p xml:id="vll.19170414_554.704">Širca Stanislaus, Oblt., TelR., ErsBaon., <country>Steiermark</country>, Cilli, Sachsenfeld, 1887; kriegsgef., Kerensk, Gouvernement Pensa, Rußland.</p>
             <p>Sorokowski Aleksander, Lt. i. d. Res., FJB. Nr. 14, 3i Komp.,</p>
             <p>Galizien, Rudki, Romamo, 1891; kriegsgef.. Rußland.</p>
             <p>Speck Alex, Oblt., IR. Nr. 6, 20. Komp., Ungarn, Ung, Ungvär, 1883; kriegsgef., Rußland.</p>
@@ -1469,7 +1469,7 @@
             <p>&gt;obo8 J&amp;inos, Infst., k. u. LiR. Nr. 30, 2. Komp., Ungarn, Tolna, Majos, 1884; tot (11./8.1916).</p>
             <p>&gt;obo8 Joisef, Jäg., FJB. Nr. 24, Ungarn, Tolna, Regöly, 1897; verw.</p>
             <p>lobrenoTr P6ter, Lstlnfst., IR. Nr. 23, 6. Kemp., Ungarn, B&amp;cs- Bodrog, Zombor, 1877; verw.</p>
-            <p>Dobrilovics Marelli, LstInfst., IR. Nr. 52, 9. Komp., <country>Küstenland</country>, 1896; kriegsgef., Rußland.</p>
+            <p xml:id="vll.19170414_554.2778">Dobrilovics Marelli, LstInfst., IR. Nr. 52, 9. Komp., <country>Küstenland</country>, 1896; kriegsgef., Rußland.</p>
             <p>)obrokc8)z Glirö, Lstlnfst., k. u. LIR. Nr. 19, zugeteilt dem k. u.</p>
             <p>LIR. Nir. 312, 7. Komp., Ungarn, Baranya, Darda, 1877; verw.</p>
             <p>)obromirra Güvra, Infst., k. u. LIR. Nr. 6, 1. Komp., Ungarn,</p>
@@ -4719,7 +4719,7 @@
             <p>Pl^ok Wasyl, Lstlnfst., IR. Nr. 77, 4. Baon.,-Galizien, Kos6w, Riezka, 1886; verw.</p>
             <p>Plzto Walcnty, Lstlnfst., IR. Nr. 77,4. Baon., Galizien, Ronezyce</p>
             <p>Wierczaiiy, 1894; tot (28./10—5./11.1916).</p>
-            <p>Pizzul Albin, Gefr., k. k. LIR. Nr. 27. zugeteilt dem k. u. LIR. Nr. 6, 10. Komp., <country>Küstenland</country>, Gradisca, San Lorenzo di Mossa, 1877; tot (18./9. 1916).</p>
+            <p xml:id="vll.19170414_554.9116">Pizzul Albin, Gefr., k. k. LIR. Nr. 27. zugeteilt dem k. u. LIR. Nr. 6, 10. Komp., <country>Küstenland</country>, Gradisca, San Lorenzo di Mossa, 1877; tot (18./9. 1916).</p>
             <p>llamik VmuI, Wst., kr u. LIK. Nr. 19, 2. Komp,, üngarn,</p>
             <p>Bäcs-Bodrog, ILicskeresztur, 1876; verw.</p>
             <p>Matthias, Lstlnfst., k. k. LIR. Nr. 8,3. Komp., Böhmen,</p>
@@ -5471,7 +5471,7 @@
             <p>beuch Franz, Korp., IR. Nr. G. 3. Komp.. Ui.^.irn, Bäc.s-lh.Mirog Hodsag, 1890; tot (l./H. 191G).</p>
             <p>e Komp.. .Afähren, M. Triiba,.</p>
             <p>Schubirow; kriegsgef., RußI.^nd.</p>
-            <p>Seydel Karl, Gefr., IR. Nr. 40, MGA. I, <country>Steiermark</country>, Graz, Lieboch, 1896; verw.</p>
+            <p xml:id="vll.19170414_554.10584">Seydel Karl, Gefr., IR. Nr. 40, MGA. I, <country>Steiermark</country>, Graz, Lieboch, 1896; verw.</p>
             <p>Slenko Peter, Lst Jäg., FJB. Nr. 14. 3. Ivomp., Gali. ieii, ir.zeszow', Blazowa, 1874; verw.</p>
             <p>SIfUr Gyö.gy Infst.. k. u. LIR. Nr. 19, 2. Komp., Ungarn, Baranya, P(5cs. 1879; verw.</p>
             <p>flkora Adalbert. Inist.. IR. Nr. 40, 8. Komp., Galizien, Strzvzöw, Polomyja, 1887; verw. &gt; . -</p>

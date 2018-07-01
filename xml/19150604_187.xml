@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:lang="de"
      xml:id="vll.19150604_187">
@@ -2674,7 +2673,7 @@
             <p>Xolenics Ferencz, ErsRes., k. u. LIR. Nr. 13, 2. Ers&amp;omp.,</p>
             <p>Ungarn, Nyilra, Vittencz, 1889, kriegsgef. (Tomsk, Ruß-</p>
             <p>Sand.)</p>
-            <p>Kolešnik Franz, Inft., k. k. LIR. Nr. 1, 2. Komp., <country>Krain</country>, Gurkfeld, 1876, verw., kriegsgef. (Alexeinatz, I. ResMilSpital, Serbien.)</p>
+            <p xml:id="vll.19150604_187.5120">Kolešnik Franz, Inft., k. k. LIR. Nr. 1, 2. Komp., <country>Krain</country>, Gurkfeld, 1876, verw., kriegsgef. (Alexeinatz, I. ResMilSpital, Serbien.)</p>
             <p>Kollär Jözsef, Inft., k. u. LIR. Nr. 13, 7. Komp., Ungarn,</p>
             <p>Nyitra, Pöstyön, 1888, kriegsgef. (Tomsk, Rußland, Iden ­</p>
             <p>tität nicht genau festgestellt.)</p>
@@ -4269,7 +4268,7 @@
             <p>Pramstaller Josef, Unterjiig., k. k. LstlK. Nr. 1, Tirol,</p>
             <p>Bruneck, Issing, 1876, verw., kriegsgef. (Alexinatz, Bolnica</p>
             <p>hyptucka kasarna. Serbien.)</p>
-            <p>Predan Georg, Inft., k. k. LstIR. Nr. 1, <country>Steiermark</country>, Marburg, St. Georgen, 1876, verw., kriegsgef. (Alexinatz, I. ResMilSpital in Serbien.)</p>
+            <p xml:id="vll.19150604_187.8238">Predan Georg, Inft., k. k. LstIR. Nr. 1, <country>Steiermark</country>, Marburg, St. Georgen, 1876, verw., kriegsgef. (Alexinatz, I. ResMilSpital in Serbien.)</p>
             <p>Predy Alexander, Inft., IE. Nr. 89, 5. Komp., Bukowina, Czernowitz, Czalior, 1893, verw.</p>
             <p>Predy Basil, Inft., IR. Nr. 89, 3. Komp., . Bukowina, Czernowitz Czalior, 1893, verw.</p>
             <p>Freiner Antal, ErsRes., k. u. LIR. Nr. 13, 1. ErsKomp.,</p>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:lang="de"
      xml:id="vll.19150608_190">
@@ -421,7 +420,7 @@
             <p>linsk nach Petropawlowsk, Gebiet Akmolinsk, Rußland,</p>
             <p>gebracht. 1 ) -.</p>
             <p>Matnscil Konrad, Fähar., IB. Nr. 72. 11. Komp., Ungarn, vorn</p>
-            <p>Meiltzer Alois, KdtAsp., <country>Kärnten</country>, Klagenfurt, kriegsgef. (Wjatka, Rußland. In der Evidenz nicht.auffindbar.)</p>
+            <p xml:id="vll.19150608_190.728">Meiltzer Alois, KdtAsp., <country>Kärnten</country>, Klagenfurt, kriegsgef. (Wjatka, Rußland. In der Evidenz nicht.auffindbar.)</p>
             <p>Nafl'er Oskar, Fähnr. i. d. Res., IR. Nr. 14, tot (10V10. 191-1).</p>
             <p>Ncmeth Sändor, Fälinr., lt. u. LIR. Nr. 20, 1. Komp., Ungarn, Zala, Sümeg, verw.</p>
             <p>Novotnv Anton, Lt., IR.,Nr. 15. kriegsgef. (Rußland.)</p>
@@ -483,7 +482,7 @@
             <p>Bodrog, Titel, verw. (Laut Schematismus Albert. ZveiteVeiw.)</p>
             <p>Tüpli Hans, Kdt., IR. Nr. 24, 7. Komp., kriegsgef.</p>
             <p>Turba Robert, Hptm., k. k. LIR. Nr. 5, zugeteilt dem k. k .Geiid-</p>
-            <p>Baon. Nr. 4,1. Komp., <country>Istrien</country>, Pola, 1878, verw., kriegsgef.</p>
+            <p xml:id="vll.19150608_190.852">Baon. Nr. 4,1. Komp., <country>Istrien</country>, Pola, 1878, verw., kriegsgef.</p>
             <p>Taöisz Julius, Fähnr., IR! Nr. 19, 3./VIII. Marschkomp., tot</p>
             <p>(21./3.—?3./3.1915). '</p>
             <p>' Yiilale Emil? Mjr.,' UB. Nr. 13. verw., kriegsgef. (Wjatka, Ruß ­</p>
@@ -1192,7 +1191,7 @@
             <p>CiriS Simo,- Inft., bh. IR. Nr. 2, 8. Komp., Bosnien, Bosn.-Krupa, Podbrani, 1893, verw.</p>
             <p>Citkovic Mate, Inft., k. u. LIR. Nr. 26, 1. ErsKomp., Kroatien,</p>
             <p>Cirkvenica, Grizane, 1893, kriegsgef. (Nis, Serbien.)</p>
-            <p>Cniar Mathäus, LstJäg., FJB. Nr. 20, 1. Komp., <country>Steiermark</country>, Marburg, St. Jakob, 1883, verw.</p>
+            <p xml:id="vll.19150608_190.2240">Cniar Mathäus, LstJäg., FJB. Nr. 20, 1. Komp., <country>Steiermark</country>, Marburg, St. Jakob, 1883, verw.</p>
             <p>Cont Achilles, Ldsch., LdschR. Nr III, 1./7. Komp., verw.</p>
             <p>Crnkövic Josip, ErsRes., k. u. LIR. Nr. 26, 2. ErsKomp.,</p>
             <p>Kroatien, Delnice, Skrad, 1887, kriegsgef. (Nil, Serbien.)</p>
@@ -2186,7 +2185,7 @@
             <p>llorvät Andras, Tromp., k. u. LIR. Nr. 11, 1. Komp., Ungarn,</p>
             <p>Szatmär, Tiszaköröd, 1886, kriegsgef. (Bijsk, Gouvernement</p>
             <p>Tomsk, Rußland.)</p>
-            <p>Horvat Johann, KompTromp., FstAB. Nr. 8, 2. Komp., <country>Steiermark</country>, Pettau, Wrebrovnik, 1891, tot (8./4. 1915).</p>
+            <p xml:id="vll.19150608_190.4186">Horvat Johann, KompTromp., FstAB. Nr. 8, 2. Komp., <country>Steiermark</country>, Pettau, Wrebrovnik, 1891, tot (8./4. 1915).</p>
             <p>Ilorväth Antal, Inft., k. u. LIR. Nr. 20, 1. Komp., Ungarn, Csongr&amp;d, Szeged, verw. - . -</p>
             <p>Ilorväth Anton, Inft., IR. ,Nr. 72, 14. Komp., Ungarn, verw.</p>
             <p>Ilorväth B&amp;a, Inft., IR. Nr. 19, 15. Komp., Ungarn, verw.</p>
@@ -2412,7 +2411,7 @@
             <p>Jurci6 Antun, ResGefr., ,k. u. LIR. Nr. 26, 4. Marschkomp.,</p>
             <p>Kroatien, Karlovac, Draganiö, 1885, kriegsgef. (Nis, Serbien.)</p>
             <p>Jusko Wenzel,- Inft.; k. k. LIR. Nr. 29; 7. Komp., verw.</p>
-            <p>Justinek Metod, LstJäg., FJB. Nr. 20, 1. Komp., <country>Steiermark</country>, Marburg, Oberlasnitz, 1886, verw.</p>
+            <p xml:id="vll.19150608_190.4626">Justinek Metod, LstJäg., FJB. Nr. 20, 1. Komp., <country>Steiermark</country>, Marburg, Oberlasnitz, 1886, verw.</p>
             <p>JutriSa Anton, Kan., GAR- Nr. 13, KnBatt. 5, Kroatien, Stubica, Hum, 1892,- tot (25./-^. 1915).</p>
             <p>Juzä Anton, Iiift., k; k. LIR. Nr. 29, 5. Koiiip., verw.</p>
             <p>Julia Josef, ResKompHorn., IR. Nr&lt; 95, 1. Komp., Galizien,</p>
@@ -4613,7 +4612,7 @@
             <p>(15.-18./12.1914).</p>
             <p>Reisz Emerich, Inft., IR. Nr. 19, 9. Komp., Ungarn, tot (20.ß.</p>
             <p>1915).</p>
-            <p>Reithaucr Peter, Drag., DR. Nr. 3, <country>Steiermark</country>, Bruck, Gußwerk, 1891, verw.</p>
+            <p xml:id="vll.19150608_190.8932">Reithaucr Peter, Drag., DR. Nr. 3, <country>Steiermark</country>, Bruck, Gußwerk, 1891, verw.</p>
             <p>Reiter Franz, Inft., k. k. LIR. Nr. 29, 5. Komp., verw.</p>
             <p>Iteketzki Istvän, Korp., k. u. LIR. Nr. 6, III. BaonsStb., Ungarn, verw.</p>
             <p>Rcnges Jänos, Inft., k. u. LIR. Nr. 20, 3. Komp., Ungarn, Zala, Böhönye, verw.</p>
@@ -6370,7 +6369,7 @@
             <p>£tciztagcr Gustav, Lt., k. k. LstilarscJxB, l't. 23 statt TJR. Nr. 4, Tirol Innsbruck, 1870, tot (19./2. 1915).</p>
             <p>Verlustliste Nr. 159.</p>
             <p>Mannschaft.</p>
-            <p sameAs="VIL.159">Paulin Anton, Inft., k, k. LIR.,Nr, 4, 12. Komp., <country>Krain</country>, Rudolfswert statt Gottschee, Nussdorf, 1893, tot (23./10. 1911).</p>
+            <p xml:id="vll.19150608_190.12362" sameAs="VIL.159">Paulin Anton, Inft., k, k. LIR.,Nr, 4, 12. Komp., <country>Krain</country>, Rudolfswert statt Gottschee, Nussdorf, 1893, tot (23./10. 1911).</p>
             <p>Verlustliste Nr. 179.</p>
             <p>Offiziere.</p>
             <p>Lcpczy Johann, EinjFreiw. TitOberjiig., LdschR. Nr. III, 2. Komp., verw. (War tot. gemeldet.)</p>

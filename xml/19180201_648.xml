@@ -395,14 +395,14 @@
             <p>1. Komp., Slavonien, Brod a. d. Save, 1897; verw.</p>
             <p>PltMitri Paul, Lt. i. d. Res., IR. Nr. 101, Ungarn, Bökes,</p>
             <p>Szarvos, 1893; gestorben (12./10. 1917)</p>
-            <p>Pochaczek Karl, Kdt. i. d. Res., IR. Nr. 55, <country>Steiermark</country>, Graz, 1894; kriegsgef., Nowo Nikolajewsk, Gouvernement Tomsk, Rußland.</p>
+            <p xml:id="vll.19180201_648.684">Pochaczek Karl, Kdt. i. d. Res., IR. Nr. 55, <country>Steiermark</country>, Graz, 1894; kriegsgef., Nowo Nikolajewsk, Gouvernement Tomsk, Rußland.</p>
             <p>Pokai Anton, Hptm., IR. Nr. CG, 8. Komp., Ungarn, Temes, V’ersecz, 1887; verw.</p>
             <p>PdIcIiTopek Stani'*laus, Kdt. i. d. Res., IR. Nr. 45, Galizien,</p>
             <p>Krosno, Korczyna, 1893; kriegsgef., Kartsehowa, Gouver Gouvernement ­</p>
             <p>nement Gouvernement Twer, Rut'land.</p>
             <p>Po§pisil Jaroslaus, l.t. i. d. Ros., IR. Nr. 55, Böhmen,</p>
             <p>Mezholes, 1882; kriegsgef., Nowouikolajew, Rußland.</p>
-            <p>Pretnar Josef, Fähnr. i. d. Res., k. k. LstIR. Nr. 27, MGKomp. I., <country>Krain</country>, Laibach, l891; verw.</p>
+            <p xml:id="vll.19180201_648.698">Pretnar Josef, Fähnr. i. d. Res., k. k. LstIR. Nr. 27, MGKomp. I., <country>Krain</country>, Laibach, l891; verw.</p>
             <p>Reich Szilärd, Lt., HIU. Nr. 17, zuget. d. HIR. Nr. 309,</p>
             <p>7. Komp., Ungarn. Feji'r, Särbog«ärd, 189G; voiw.</p>
             <p>Ropka Viktor, F.älmr. i. d. Res., IR. Nr. 18, G. Komp.,</p>
@@ -432,7 +432,7 @@
             <p>Slezncck Walter, Lt., k. k. SchR. Nr. 1, 4. Komp., Nioder- österreicli, Wien, 189G; verw.</p>
             <p>Soo Dioms Dr., Lt. i. d. Res., IR. Nr. 82, G. Komp.,</p>
             <p>Ungarn, Szi agy, Szamosudvarliely, 188 J; verw'.</p>
-            <p>Sprynar Erich, Kdt. i. d. Res., IR. Nr. 45, <country>Küstenland</country>, Görz, Trnovo, 1894; kriegsgef. Militärspital in Kiew, Rußland.</p>
+            <p xml:id="vll.19180201_648.758">Sprynar Erich, Kdt. i. d. Res., IR. Nr. 45, <country>Küstenland</country>, Görz, Trnovo, 1894; kriegsgef. Militärspital in Kiew, Rußland.</p>
             <p>Stiigren Anton, Kdt. i. d. Res., IR. Nr. 45, Bukowina,</p>
             <p>Czcrnowitz, 1894; kriegsgef., Galitsch, Gouvernemmt</p>
             <p>Kostroma, Rußlaml.</p>
@@ -468,7 +468,7 @@
             <p>Nr. 30G, 3. Komp.. Ungarn, Nyitra, 1898;</p>
             <p>Uglirz Alois, Lt., IR. Nr. 55, Böhmen. Hohen 1881; kriegsgef., Tjumen, Gouvermement</p>
             <p>land.</p>
-            <p>Ukovič Anton, Lt. i. d. Res., k. k. GSchR. Nr. 2, zuget. d. k. k. SchR. Nr. 5, MGKomp. III, <country>Küstenland</country>, Görz, 1895; gefallen (19./11. 1917).</p>
+            <p xml:id="vll.19180201_648.830">Ukovič Anton, Lt. i. d. Res., k. k. GSchR. Nr. 2, zuget. d. k. k. SchR. Nr. 5, MGKomp. III, <country>Küstenland</country>, Görz, 1895; gefallen (19./11. 1917).</p>
             <p>Urbaiiek Karl, Hptm., IR. Nr. 45, Bölnmon, Pi 1878; kriegsgef., Zarizyn, Gouvermement</p>
             <p>iand.</p>
             <p>Va.s Julius, Fähnr. IR. Nr. 87, Ungarn, Biha</p>
@@ -572,7 +572,7 @@
             <p>Sebök Julius, EinjFreiwTitKorp.. IR. Nr. 39, 10. Komp..</p>
             <p>Ungarn Szolnok, 1892; kriegsgef, Nikolsk-Ussurisk,</p>
             <p>Rußland. *</p>
-            <p>Skender Emil, EinjFreiwKorp., k. k. LstIR. Nr. 27, 2. Komp., <country>Krain</country>, Laibach, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.1032">Skender Emil, EinjFreiwKorp., k. k. LstIR. Nr. 27, 2. Komp., <country>Krain</country>, Laibach, 1898; verw.</p>
             <p>Stern Ernst, EinjF.eiw., IR. Nr. 89, Ungarn, B6k6s, Gros. baza, 1897; kriegsgef, Padula, Italien.</p>
             <p>Svoboda Karl, EinjFreiw GefrTitKorp., k. k. SebR. Nr. 7,</p>
             <p>12. Komi)., Böhmen, Kolin, Jestiäbi Lbota, 189G; gefailen</p>
@@ -586,7 +586,7 @@
             <p>Vengcr Jenö, EinjFreiwKorp., IR. Nr. 39, 13. Komp.,</p>
             <p>Ungarn, Hajdu, Debreczen, 1897; kriegsgef, Beresowka,</p>
             <p>Rußland.</p>
-            <p>Vodopivec Vladimir, EinjFreiwFeldw., k. k. LstIR. Nr. 27, 3. Komp., <country>Küstenland</country>, Görz, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.1060">Vodopivec Vladimir, EinjFreiwFeldw., k. k. LstIR. Nr. 27, 3. Komp., <country>Küstenland</country>, Görz, 1898; verw.</p>
             <p>Wolfram Rudolf EinjFreiwFeldw., bh. IR. Nr. 1, zugeteilt</p>
             <p>veiw ^ Komp., Bosnien, Sarajevo, 1897;</p>
             <p>Mannschaft.</p>
@@ -1181,7 +1181,7 @@
             <p>Torna, Szalauczujvaros, 1896; gestorben '28.9. 1917).</p>
             <p>Bene (.leorg, LstGelV.. IR. Nr. 39, Ibigarn, Hajdu, Egyek.</p>
             <p>1894; krieg.-sgef., Alfamura. Italien.</p>
-            <p>Benk Miroslaus. LstInfst., k. k. LstIR. Nr. 27. 8. Komp., <country>Küstenland</country>, Tolmein, Kirchheim, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.2226">Benk Miroslaus. LstInfst., k. k. LstIR. Nr. 27. 8. Komp., <country>Küstenland</country>, Tolmein, Kirchheim, 1898; verw.</p>
             <p>Beiikc Jözsef, LstInfst.. IR. Nr. 39, rngarn. Bihai'. Hegy-</p>
             <p>köszszentmiklös, 1889; kriegsgef., Altamura, Italien.</p>
             <p>Beiike IJiszlo. Ei-sResGefiTitKorpI., IR. Nr. 39. Ungarn,</p>
@@ -1353,7 +1353,7 @@
             <p>Horodouka, 1871; gestorben (24./ll. 19)17).</p>
             <p>ßlaskoväu Alajbs, LstInfst., k. u. LsiIR.. Ni</p>
             <p>Ungarn, Treucz^n, Neszlßuy, 1893; verw’.</p>
-            <p>Blaskovič Johann, LstInfst, k. k. LstIR. Nr. 27, 2. Komp., <country>Istrien</country>, Pisino-Mitterburg, Labin, 1892, verw.</p>
+            <p xml:id="vll.19180201_648.2564">Blaskovič Johann, LstInfst, k. k. LstIR. Nr. 27, 2. Komp., <country>Istrien</country>, Pisino-Mitterburg, Labin, 1892, verw.</p>
             <p>Blau Zoltan, LstInfst., IR. Nr. 39, Ungairn, Bil</p>
             <p>1896; kriegsget, Asinara, Italien.</p>
             <p>Blazsics Ludwig, ErsResInfst., IR. Nir. 48, Ungarn. Zala. Muraujfalu, 1879; verw.</p>
@@ -1628,7 +1628,7 @@
             <p>Bosnyakivo, LstJäg.,FJB. Nr.20zug.demFJB.Nr.23,l.Komii., Bosnien, Fojnica, Majdan, 1896; verw.</p>
             <p>Bosnyak Luka, Jäg., FJB. Nr. 31, Ungarn, Baranya,</p>
             <p>Pogany, 1877; gest. (16./9. 1917).</p>
-            <p>Bosut Johann, LstSchütze, k. k. SchützenR. Nr. 37, <country>Görz u. Gradisca</country>, Monfalcone, Perzo, 1881; gest. (17./10. 1917).</p>
+            <p xml:id="vll.19180201_648.3102">Bosut Johann, LstSchütze, k. k. SchützenR. Nr. 37, <country>Görz u. Gradisca</country>, Monfalcone, Perzo, 1881; gest. (17./10. 1917).</p>
             <p>Boswald Wilhelm, Patrf., FJB. 21, 4. Komp.. Niederösterr.,</p>
             <p>Wien, 1897; getaJlen (27.'10. 1917).</p>
             <p>Bosziok Vitälyos, Korp., HIR. Nr. 8, zug. HIR. Nr. 306,</p>
@@ -1641,7 +1641,7 @@
             <p>1898; gest. (4./11. 1917).</p>
             <p>Bräutigam Andreas, Infst., IR, Nr. 7. Komp.</p>
             <p>wieser, Böhmen, Elbogen,1881; gefallen i (26. 1(</p>
-            <p>Breczovnik Josef, ErsResKan., k. u. k. GAR. Nr. 4, HaubBatt. 1, <country>Steiermark</country>, Cilli, (?). gest. (18.9. 1917).</p>
+            <p xml:id="vll.19180201_648.3128">Breczovnik Josef, ErsResKan., k. u. k. GAR. Nr. 4, HaubBatt. 1, <country>Steiermark</country>, Cilli, (?). gest. (18.9. 1917).</p>
             <p>Bredo Lajos, Infst., IHR. Nr. 24, Ungarirn. Gsil</p>
             <p>szent, 1874; gestorben (17./7. 1917).</p>
             <p>Breksa Franz, LstInfst.. k. k. LstlBaon.i. Nr.</p>
@@ -1780,14 +1780,14 @@
             <p>Zaicszczyki, läsowco, 1897; gestorben (2./11. 1917).</p>
             <p>Caslavsky Jaroslaus, LstInfst., IR. Nr. 98. 5. Komp.,</p>
             <p>Böhmen, Hoheiunauth, 2däretz, 1898; verw.</p>
-            <p>Cekada Alois, LstGefr., k. k. LstIR. Nr. 27, 2. Komp., <country>Krain</country>, Adelsberg, Jablanitz, 1873; verw.</p>
-            <p>Celiga Michael, LstInfst., k. k. LstIR. Nr. 27, 1. Komp., <country>Küstenland</country>, Gradisca, Zabroniczi, 1886; verw.</p>
-            <p>Centrich Anton, LstJäg., FJB. Nr. 21, 4. Komp., <country>Kärnten</country>, Völkermarkt, Prävali, 1888; gefallen (27. 10. 1917).</p>
+            <p xml:id="vll.19180201_648.3400">Cekada Alois, LstGefr., k. k. LstIR. Nr. 27, 2. Komp., <country>Krain</country>, Adelsberg, Jablanitz, 1873; verw.</p>
+            <p xml:id="vll.19180201_648.3402">Celiga Michael, LstInfst., k. k. LstIR. Nr. 27, 1. Komp., <country>Küstenland</country>, Gradisca, Zabroniczi, 1886; verw.</p>
+            <p xml:id="vll.19180201_648.3404">Centrich Anton, LstJäg., FJB. Nr. 21, 4. Komp., <country>Kärnten</country>, Völkermarkt, Prävali, 1888; gefallen (27. 10. 1917).</p>
             <p>('epela fVanz. LstInfst., IR. Nr. 3, 11. Komp., Mähren,</p>
             <p>. Ungarisc'h Hradisch, Zlin, 1894; verw.</p>
-            <p>Černac Johann, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Istrien</country>, Volosca, Nova Vas, 1872; verw.</p>
-            <p>Cernel Peter, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Luttenberg, Grabonoš, 1899; verw.</p>
-            <p>Cernjarič Alois, Vorm., k. u. k. SchwFAR. Nr. 28, zugeteilt dem k. u. k. FK. Nr. 28, Batt. 3, <country>Istrien</country>, Volosca, Kastav, 1891; gestorben (21./11. 1917).</p>
+            <p xml:id="vll.19180201_648.3410">Černac Johann, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Istrien</country>, Volosca, Nova Vas, 1872; verw.</p>
+            <p xml:id="vll.19180201_648.3412">Cernel Peter, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Luttenberg, Grabonoš, 1899; verw.</p>
+            <p xml:id="vll.19180201_648.3414">Cernjarič Alois, Vorm., k. u. k. SchwFAR. Nr. 28, zugeteilt dem k. u. k. FK. Nr. 28, Batt. 3, <country>Istrien</country>, Volosca, Kastav, 1891; gestorben (21./11. 1917).</p>
             <p>Peniy Franz, ErsResInfst., IR. Nr. 18. 7. Komp., Böhmen,</p>
             <p>Neustadt a. d. M., Gießhübel, 1882; gefallen (24./10.</p>
             <p>1917.</p>
@@ -1820,7 +1820,7 @@
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=14&amp;zoom=33">[ Verlustliste - 19180201 - Seite 14 ]</ref>
             </ab>
-            <p>Cibey Franz, Luftschiffersold., Luftfahrtruppe, Fliegerarsenal Fischamend, <country>Görz-Gradiska</country>, Görz, Dol-Otlica, 1881; Gestorben (2l./ll. 1917).</p>
+            <p xml:id="vll.19180201_648.3474">Cibey Franz, Luftschiffersold., Luftfahrtruppe, Fliegerarsenal Fischamend, <country>Görz-Gradiska</country>, Görz, Dol-Otlica, 1881; Gestorben (2l./ll. 1917).</p>
             <p>Gicka Josef, Resliifsl., IR. Xr. ‘.i. 9. Rouip., Mähren. Gaya, Leskowetz, 1882, verw.</p>
             <p>Olftsla Stanislans. Lstlnfsl.. IR. Xr. lo. zugeteilt dem IR.</p>
             <p>Nr. 15, fi. Koiuj».. Galizien, Kodmia. l&gt;eszezyiia, 1899; verw.</p>
@@ -1986,7 +1986,7 @@
             <p>iegsgef.,!'., Kokand, Gonvernement Ferghana, Rnß-</p>
             <p>sof, KfReslntst., IR. Nr. 39, 9. Komp., Ungarn,</p>
             <p>ent jobb,!), 1889; kriegsget'., Rußland,</p>
-            <p>Cufer Franz, LstInfst., k. k. LstIR., Nr. 27. 2. Komp., <country>Küstenland</country>, Tolmein, Grahovo, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.3800">Cufer Franz, LstInfst., k. k. LstIR., Nr. 27. 2. Komp., <country>Küstenland</country>, Tolmein, Grahovo, 1898; verw.</p>
             <p>auislausas, LstInfst., IR. Nr. 90, 3. Komp., Galizien,</p>
             <p>k, Nowovosielce, 1897; gefallen (25./10. 1917).</p>
             <p>hanu, I LstInfst.. IR. Nr. 90, Galizien. T/nient,</p>
@@ -2191,7 +2191,7 @@
             <p>Deres Lajos, ErsResInfst., IR. Nr. 39, Ungarn, Eajdu,</p>
             <p>HajJuszoboszlb, 1881; kriegsgef., S;u’apul, Gonvernenient</p>
             <p>Wjatka, Rußland.</p>
-            <p>Dernovšek Josef, LstInfst., k. k. LstIR. Nr. 27, MGKomp. I, <country>Küstenland</country>, Görz, Krasno, 1894; verw.</p>
+            <p xml:id="vll.19180201_648.4204">Dernovšek Josef, LstInfst., k. k. LstIR. Nr. 27, MGKomp. I, <country>Küstenland</country>, Görz, Krasno, 1894; verw.</p>
             <p>Dersi Sändor. LstInfst., IR. Nr. 39. Ungarn, Biliar. Köly. 1895; kriegsgef., Altamura, Italien.</p>
             <p>Dävilla Theodor, Gefr., IR. Nr. 39. Ungarn, Unnyad,</p>
             <p>Ba-jesd, 1892; kriogsgnf., Avezzano Italien.</p>
@@ -2402,7 +2402,7 @@
             <p>Rußland.</p>
             <p>Eder Miklös, LstInfst., IR. Nr. 39, Ungarn, Hajdu, Balmaznj-</p>
             <p>väros. 1879; kriegsgef., Asinara, 2. Rep., Italien.</p>
-            <p>Egartner Andreas, ElekSold., ElekLehr. u. ErsBaon., ElekAbt. 1/16, <country>Kärnten</country>, Liesing, 1879; gestorben (17./10. 1917).</p>
+            <p xml:id="vll.19180201_648.4620">Egartner Andreas, ElekSold., ElekLehr. u. ErsBaon., ElekAbt. 1/16, <country>Kärnten</country>, Liesing, 1879; gestorben (17./10. 1917).</p>
             <p>Egri Gabor, LstInfst., IR. Nr. 39, Ungarn, Hajdu, Püspök-</p>
             <p>ladäny, 1892; krieg.sgef., Tschernjajew, Gebiet Syr-Daija.</p>
             <p>Rußland.</p>
@@ -2515,7 +2515,7 @@
             <p>Bares, 1895; kriegsgef., Galatz, Rumäniiien.</p>
             <p>Exl Stefan, Gefr., k. k. SchR. Nr. 5,&gt;, Niei</p>
             <p>Gänserndorf, Spannberg, 1897; gestorboen (5./i</p>
-            <p>Fabcic Franz, LstInfst., k. k. LstIR. Nr. 27, 3. Komp., <country>Krain</country>, Adelsberg, St. Veit, 1895; verw.</p>
+            <p xml:id="vll.19180201_648.4840">Fabcic Franz, LstInfst., k. k. LstIR. Nr. 27, 3. Komp., <country>Krain</country>, Adelsberg, St. Veit, 1895; verw.</p>
             <p>Fäbcr Hermann, Korp., k. u. LstIR. INr. 1, Ungarn, Csanäd, Mako, 1876; verw'.</p>
             <p>Faber Israel, Gefr., IR. Nr. 41, StbsAbt..., Galiz</p>
             <p>Biskupice, 1893; gefallen (8./10. 1917). .</p>
@@ -2728,7 +2728,7 @@
             <p>Filip Mihäly, ResZugst., IR. Nr. 39, Lngarn, Bilrar. Koalj;w</p>
             <p>Filäz'’l8t^S^Lstl^l^st IR. Nr. 39, Ungarn Tolna, Dunu-</p>
             <p>Tirol. Kufstein. Rattenberg, 1895; gefallen (14./11. 191J).</p>
-            <p>Finz Franz, LstInfst., k. k. LstIB. Nr. 27, 8. Komp., <country>Krain</country>, Littai, Leskovec, 1875; verw.</p>
+            <p xml:id="vll.19180201_648.5254">Finz Franz, LstInfst., k. k. LstIB. Nr. 27, 8. Komp., <country>Krain</country>, Littai, Leskovec, 1875; verw.</p>
             <p>Fi&lt;»k Käroly, LstInfst., IR. Nr. 39, Ungarn. Jnhar, Alimtsd,</p>
             <p>1883; kriegsgel.. Altamura, Italien.</p>
             <p>Fische; Franz! ResKorp., IR. Nr. 39 G. ^\omp., Unr-^n,</p>
@@ -2745,7 +2745,7 @@
             <p>.Seilnitz. 1894; gestorben (31./10. 1910. tr;.fain</p>
             <p>Fleckstadn Johann, Infst. IR. Nr. o2, Ungarn, ? Kistalu,</p>
             <p>1886; gestorben (13./10. lyi?). urirniiin</p>
-            <p>Fluch Johann, LstInfst., k. k. LstIR. Nr. 2, I. MGKomp., <country>Steiermark</country>, Liezen, Wildalpen, 1894; verw.</p>
+            <p xml:id="vll.19180201_648.5288">Fluch Johann, LstInfst., k. k. LstIR. Nr. 2, I. MGKomp., <country>Steiermark</country>, Liezen, Wildalpen, 1894; verw.</p>
             <p>Flucsa Stefan, LstInfst., IR. Nr. 39, Ungarn Szeben, 01t-</p>
             <p>alsösebes. 1895; kriegsgef., Kucchiamco, Itahem</p>
             <p>F«)dor B61a, ResErsInfstTitGefr., IR. Nr. 39, Ungmn, Hajdu,</p>
@@ -2771,7 +2771,7 @@
             <p>Frany Adolf, LstArb., IB. Nr. 83, zigeteitt c der M</p>
             <p>Wöllcrsdorf, Ungarn, Vas, St. PeUrfä, 181881; g</p>
             <p>(6./12. 1917).</p>
-            <p>Fras Josef, LstInfst., IR. Nr. 87, 16. Komp., <country>Steiermark</country>, Pettau, Sankt Andrä, 1899; verw.</p>
+            <p xml:id="vll.19180201_648.5340">Fras Josef, LstInfst., IR. Nr. 87, 16. Komp., <country>Steiermark</country>, Pettau, Sankt Andrä, 1899; verw.</p>
             <p>Frazik Kasimir, LstInfst., k. k. LstIR. Nr. . 27, 6 Galizien, Sambor, Dabröwka, 1870; verw\</p>
             <p>Frenca Georg, Zugsf., CR. Nr. 33, Ungarn, KKrassö</p>
             <p>Gorouy, 1868; gestorben (13. 11. U17).</p>
@@ -2789,7 +2789,7 @@
             <p>I Baranya, Öfaln, 1891; gefallen (19.9.—l./l"10. 191</p>
             <p>' Frieslicii Hermann, KaTi., k. u. k. FHR» Nr’lr. 29; i</p>
             <p>' Böhmen, Wamsdorf, 1890; gestorlen (15./1./11. 19</p>
-            <p>Frigelj Johann, LstInfst., k. k. LstIR., Nr. 27, 5. Komp., <country>Krain</country>, Gurkfeld, Groß-Dolina; 1875; verw.</p>
+            <p xml:id="vll.19180201_648.5376">Frigelj Johann, LstInfst., k. k. LstIR., Nr. 27, 5. Komp., <country>Krain</country>, Gurkfeld, Groß-Dolina; 1875; verw.</p>
             <p>I Frimmel Oskar, GefrTitKorp., 1R‘. Nr. r. 84,</p>
             <p>Niederösterreich, Hietzing, Purkersdorf, 1 1880;</p>
             <p>! (4./11. 1917).</p>
@@ -2892,7 +2892,7 @@
             <p>re, Rnßlßland.</p>
             <p>Lajos, ( Gefr., IR. Nr. 39, Ungarn, Hajdu, Debreezen.</p>
             <p>triegsgefpf.. Avezzano, Italien.</p>
-            <p>Gaischek Peter, Infst., IR. Nr. 47, <country>Steiermark</country>, Marburg, Sentovec, 1877; gestorben (6./9. 1917).</p>
+            <p xml:id="vll.19180201_648.5576">Gaischek Peter, Infst., IR. Nr. 47, <country>Steiermark</country>, Marburg, Sentovec, 1877; gestorben (6./9. 1917).</p>
             <p>bann. 1 LstInfst., IR. Nr. 90, 3. Komp., Galizien,</p>
             <p>UeEibmno, 1897; gelallen (22. —25.;10. 1917).</p>
             <p>oharui, . Infst., IR. Nr. 66, 21. Komp., Ungarn,</p>
@@ -3028,15 +3028,15 @@
             <p>pzilo, 1865: gestorben (7./7. 1917).</p>
             <p>Gjukie Kosta des Maiinko, Intsl., bh. IR. Nr. 2, Bosnien.</p>
             <p>Grabobee, 1891; gestorben (28./11. 1917).</p>
-            <p>Glad Anton, LstGefrTitKorp., k. k LstIR. Nr. 27, MGKomp., <country>Krain</country>, Gottschee, Fara, 1879; verw.</p>
-            <p>Glavan Karl, LstInfst., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Gurkfeld, Heiligenkreuz, 1896; verw.</p>
+            <p xml:id="vll.19180201_648.5842">Glad Anton, LstGefrTitKorp., k. k LstIR. Nr. 27, MGKomp., <country>Krain</country>, Gottschee, Fara, 1879; verw.</p>
+            <p xml:id="vll.19180201_648.5844">Glavan Karl, LstInfst., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Gurkfeld, Heiligenkreuz, 1896; verw.</p>
             <p>Gligneza .fäiios. Infst., HIR. Nr. 22. 3. Komp., Ungarn, Szilägy, Bäbcza, 1898; verw.</p>
             <p>Godor Anton, Er.sResInfst., IR. Nr. 39, Ungarn. Hajdu,</p>
             <p>llajdudorog. 1886; kriegsget’., Pawlowskij, Rußland.</p>
             <p>G’ogola Michael, LstInfst., IR. Nr. 12, 14. Korn]... Ungarn, Komärom, Imely, 1899; verw.</p>
             <p>Golnii Josef, ResGefr., IR. Nr. 3, Sturmkoinp., Mähren,</p>
             <p>V\ ;ill:’,clnseh Moseritsch, Groß-Bistfitz, 1885; verw.</p>
-            <p>Golc Andreas, LstInfst., k. k. LstIR. Nr. 27, 1. Komp., <country>Steiermark</country>, Rann, Pišece, 1872; verw.</p>
+            <p xml:id="vll.19180201_648.5858">Golc Andreas, LstInfst., k. k. LstIR. Nr. 27, 1. Komp., <country>Steiermark</country>, Rann, Pišece, 1872; verw.</p>
             <p>4«oldberger Andor, Kan., UFKR. Nr. 8, Ungarn, Bihar,</p>
             <p>1898; gestorben (18./9. 1917).</p>
             <p>4foldstelii Simon, Gefr., IR. Nr. 39, Ungarn, Szabolcs,</p>
@@ -3081,8 +3081,8 @@
             <p>Graser Franz. Infst., k. k. LstBezEmdo. NNr. 39,</p>
             <p>der ArbAbt. Nr. 285/1, Niedeösrerreicli,., Gmü</p>
             <p>mannschlag, 1882; gestorben (2)./ll. 1917)7).</p>
-            <p>Greblo Viktor, Gefr., k. k. SchR Nr. 5, MGKomp. III, <country>Istrien</country>, Parenzo, Torre, 1889; gestorben (6./8. 1917).</p>
-            <p>Gregoric Andreas, LstInfst., k. k. LstIR. Nr. 27, <country>Küstenland</country>, Görz, Oslavija, 1893; verw.</p>
+            <p xml:id="vll.19180201_648.5948">Greblo Viktor, Gefr., k. k. SchR Nr. 5, MGKomp. III, <country>Istrien</country>, Parenzo, Torre, 1889; gestorben (6./8. 1917).</p>
+            <p xml:id="vll.19180201_648.5950">Gregoric Andreas, LstInfst., k. k. LstIR. Nr. 27, <country>Küstenland</country>, Görz, Oslavija, 1893; verw.</p>
             <p>Gregoric Johann, Kan., k. u. k GAR. Nr.r. 19, ^</p>
             <p>Ungarn, Sopron, Perväny, 1872; gestorbeen (22./</p>
             <p>Gres Jänos. intst., IR. Nr. 67, Utgarn, Was, G</p>
@@ -3243,7 +3243,7 @@
             <p>.Haberzettl Karl, LstSchütze, k. k. SchR. Nr. 7, 12. Komp.,</p>
             <p>Böhmen, Karlsbad. Schömitz, 1899; gefallen (16./9.—17./9.</p>
             <p>1917).</p>
-            <p>Habisch Johann, Infst.. IR. Nr. 7. <country>Kärnten</country>, St. Veit, Hörzendorf, 1871; gestorben (28./11. 1917).</p>
+            <p xml:id="vll.19180201_648.6266">Habisch Johann, Infst.. IR. Nr. 7. <country>Kärnten</country>, St. Veit, Hörzendorf, 1871; gestorben (28./11. 1917).</p>
             <p>Hackoiiberg Johann, LstInfst., IR. Nr. 1, 11. Komp.,</p>
             <p>Schlesien. Freiwaldau. Oberlindewiese. 1882; gefallen (6./8.</p>
             <p>1917).</p>
@@ -3340,7 +3340,7 @@
             <p>Haniiel Jänos, Infst.. IR. Nr. 39, 5. Komp., Ungarn. Biliar,</p>
             <p>Ervasad, 1884; kriegsgef.. Kirssanow, Gouvernement 4'abow,</p>
             <p>Rußland.</p>
-            <p>Hansil Andreas, Infst., IR. Nr. 87, zugeteilt dem k. u. k. Pferdespit. Nr. 15, <country>Steiermark</country>, Luttenberg, Drakovci, 1879; gestorben (4./10. 1917).</p>
+            <p xml:id="vll.19180201_648.6454">Hansil Andreas, Infst., IR. Nr. 87, zugeteilt dem k. u. k. Pferdespit. Nr. 15, <country>Steiermark</country>, Luttenberg, Drakovci, 1879; gestorben (4./10. 1917).</p>
             <p>Haragos Mihäly. ErsResInfst., IR. Nr. 39, Ungarn, Biliar,</p>
             <p>Szentjobb, 1884; kriegsgef.. Altamura, Italien.</p>
             <p>Hanijda Vaszily, Infst., IR. Nr. 66, 8. Komp., Ungarn, Zemplän, Telepöcz. 1895. verw.</p>
@@ -3466,7 +3466,7 @@
             <p>ibosziö, ö, 1885: kriegsgef., Altainura. Italien. ‘</p>
             <p>ityä.'i, I Inltst., HIR. Nr. 15, 12. Komp.. Unaarn '«■yirrazä'zävod, 1889; verw.</p>
             <p>Inas, ln Inttst., IHR. Nr. 1.5, 12. Komi), Uugain SyitrazHzävod, 1885; verw.</p>
-            <p>Hermann Josef, Pion., PionB. Nr. 3, <country>Steiermark</country>, Leibnitz, St. Johann, 1893; gestorben, (12./10. 1917).</p>
+            <p xml:id="vll.19180201_648.6700">Hermann Josef, Pion., PionB. Nr. 3, <country>Steiermark</country>, Leibnitz, St. Johann, 1893; gestorben, (12./10. 1917).</p>
             <p>Sändor.or, Lstlntst.. IR. Nr. 39. l ngarn. Biliar</p>
             <p>J92; krieriegsgel. Nertscliinsk, Gebiet Transbaikalieii.</p>
             <p>l Zoltänäii, Lsllnlsf.. IR. Nr. 39, Unaarn. Hajdu,</p>
@@ -3657,7 +3657,7 @@
             <p>Tetschen, Steinschönau, 1890; gestorben (20./11. 1917).</p>
             <p>Hrcezkosi Nikolai, Infst., Iß. Nr. 41, 7. Komp., Galizien,</p>
             <p>Podhajee, Nowosiolka, 1873; gefallen (1.—lO./lO. 1917).</p>
-            <p>Hren Franz, LstInfst., k. k. LstIR. Nr. 27, 3. Komp., <country>Krain</country>, Loitsch, Laas, 1876; verw.</p>
+            <p xml:id="vll.19180201_648.7076">Hren Franz, LstInfst., k. k. LstIR. Nr. 27, 3. Komp., <country>Krain</country>, Loitsch, Laas, 1876; verw.</p>
             <p>Hrnosarik Jänos, Infst., HIß. Nr. 15, 9. Kornj)., Ungarn, Arva, Vitanova, 189G; verw.</p>
             <p>Hriibsa Rudolf, Schütze, IR. Nr. 82, zugetcilt dem k. k.</p>
             <p>SchR. Nr. 5, 3. Komp., Ungam, Nyitia, Pßterlak, 1898;</p>
@@ -3699,7 +3699,7 @@
             <p>Huszti Imre, Infst., IR. Nr. 09, 9. Komp.,., UngJl</p>
             <p>llajduhadhaz, 1890; kriegsgef., Namangan,i, Gebiet</p>
             <p>Rußland.</p>
-            <p>Hütter Andreas, LstInfst., k. k. LstIR, Nr. 27, <country>Steiermark</country>, Graz, Feldkirchen, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.7160">Hütter Andreas, LstInfst., k. k. LstIR, Nr. 27, <country>Steiermark</country>, Graz, Feldkirchen, 1898; verw.</p>
             <p>Hysiil Franz, LstKan., FstABaou. Nr. 4, Bdöhmen</p>
             <p>Stodulek, 1898; gestorben (31.10. 1917).</p>
             <p>Ihrahimovicz ßamo. Kan., k.u.k.GAR. Nr. 224,Bosui</p>
@@ -3721,7 +3721,7 @@
             <p>luire Gäbor, LstInfst., IR. Nr. 39, Ungaarn, Ha,</p>
             <p>sämsou, 1895; kriegsgef., Asinara, Italienn.</p>
             <p>Iiicze Franz, ResInfst., IR. Nr. 39, Lhigarim, Biha 1891; kriegsgef., Asinara, Italien.</p>
-            <p>Intihar Johann, LstInfst., k. k. LstIR. Nr. 27, II. MGKomp., <country>Krain</country>, Laibach, Iggdorf, 1897; verw.</p>
+            <p xml:id="vll.19180201_648.7204">Intihar Johann, LstInfst., k. k. LstIR. Nr. 27, II. MGKomp., <country>Krain</country>, Laibach, Iggdorf, 1897; verw.</p>
             <p>Iratoüi Josef, LstInfst., IR. Nr. 39, Ungaarn, Ha</p>
             <p>sämsou, 1895; kriegsgef., Asinara, Italienn.</p>
             <p>Ii'imie Josef, Infst., Iß. Nr. Gl, G. Komp.,., Ungai Obersia, 1884; verw.</p>
@@ -3771,7 +3771,7 @@
             <p>lael, Innfst., IR. Nr. 26, Ungarn, Fejer, Raracs,</p>
             <p>istorbeu i (26. 11. 1917).</p>
             <p>‘ncz, LLiStlnl'st., k. u. LstIR. Nr. 1, I. M.GKomp., Lereg, Vezdzälläs, 189-1; verw.</p>
-            <p>Jaklitsch Rudolf, LstInfst., k. k. LstIR. Nr. 27, StabtsAbt., <country>Krain</country>, Gottschee, Seele, 1895; verw.</p>
+            <p xml:id="vll.19180201_648.7298">Jaklitsch Rudolf, LstInfst., k. k. LstIR. Nr. 27, StabtsAbt., <country>Krain</country>, Gottschee, Seele, 1895; verw.</p>
             <p>&gt;rg, Lststluftst., IR. Nr. 39, Ungarn, Biliar, 1874;</p>
             <p>f., Paduula, Italien.</p>
             <p>OS, Infamst., IR. Nr. 39, Ungarn, Bihar, Vämosläz,</p>
@@ -3789,7 +3789,7 @@
             <p>»lartin, KKan., k. n. k. FlIR. Nr. 14, Batt. 2. Ungarn,</p>
             <p>u 28./100. 1917).</p>
             <p>Jänos, 1 llonved, IHR. Nr. 15, 11. Komi)., Ungarn, 1 , Latkööcz, 1874; verw.</p>
-            <p>Jančar Josef, LstInfst., k. k. LstIR. 27, 5. Komp., <country>Krain</country>, Littai; 1897; verw.</p>
+            <p xml:id="vll.19180201_648.7334">Jančar Josef, LstInfst., k. k. LstIR. 27, 5. Komp., <country>Krain</country>, Littai; 1897; verw.</p>
             <p>okop, 1 LstInfst., k. u. LstIB. Nr. 3, 11. Komp., Tenies, , Deliblät. 1881; verw.</p>
             <p>yörgy. Kan., IIGAR. 37, Ungarn, Nyilra, Lapas-</p>
             <p>, 1880; . gestorben (6./11. 1917).</p>
@@ -3825,7 +3825,7 @@
             <p>Jasö Istvän, Honved, HIR. Nr. 15, 11. Komp., Ungarn, Nvitra, Korlätfalva, 1897; verw.</p>
             <p>Javar Peter, Pion., EisenbK., Ungarn, Arad, Mutne, 1897;</p>
             <p>gestorben (26./10. 1917).</p>
-            <p>Jawornik Franz, Schütze, k. k SchR. Nr. 26, <country>Steiermark</country>, Gonobitz, Köbl, 1883; gestorben (23./10. 1917).</p>
+            <p xml:id="vll.19180201_648.7406">Jawornik Franz, Schütze, k. k SchR. Nr. 26, <country>Steiermark</country>, Gonobitz, Köbl, 1883; gestorben (23./10. 1917).</p>
             <p>JaworskI Ladislaus, Infst., IR. Nr. 40, Galizien, Strzyzöw,</p>
             <p>1874; gestorben (8./11. 1917).</p>
             <p>Jaworsky Nikolaus. LstInfst., k. k. LstlK. Nr. 27, 4. Komp., Galizien, Stary Sambor, 1896; verw.</p>
@@ -3978,7 +3978,7 @@
             <p>Keichenau a. Kii., .Swidnitz, 1890: gcdalkien (24.ii</p>
             <p>Kadler Friedrich, Infst.. IR. Nr. 28. Bööhrnen,</p>
             <p>^ 1881; gestorl(en (.30. 10. 1917</p>
-            <p>Kainz Karl, Schütze, k. k. SchR. Nr. 3, Lagerkmdo. Tulerhof, <country>Steiermark</country>, Graz, Tobelbad, 1877; gestorben (31.10.1917).</p>
+            <p xml:id="vll.19180201_648.7706">Kainz Karl, Schütze, k. k. SchR. Nr. 3, Lagerkmdo. Tulerhof, <country>Steiermark</country>, Graz, Tobelbad, 1877; gestorben (31.10.1917).</p>
             <p>1917..</p>
             <p>Kaki'ik J;iuos, lutst.. IR. Nr. 44, 7. Konmp., Un</p>
             <p>mogy. Berzenezr^, 1888; kriegsgef., 'Parira, Gou\</p>
@@ -4039,13 +4039,13 @@
             <p>ael, Infafst., IR. Nr. ö8, 7. Komp.. Ungarn. Arad. 18ÖO; V verw.</p>
             <p>icz, Infstst.. IR. Nr. 65), Ungarn. Tolna, Dimaszeiit-</p>
             <p>878, g(gestorben (3. 11. 15)17),</p>
-            <p>Katz Lukas, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Windischgraz, Ladenhofen, 1891; verw.</p>
+            <p xml:id="vll.19180201_648.7822">Katz Lukas, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Windischgraz, Ladenhofen, 1891; verw.</p>
             <p>Jakob, ), ErsResIiifst.. IR. Nr. tt, Ungarn. Tolua.</p>
             <p>885; krkriegsget., Rjäsan, V’^erEvSpit. Nr. 46, Rnll&gt;-</p>
             <p>Jakob.b, Lsllolst.. IK N’i. 41. Ungarn, Somogy.</p>
             <p>1894)4; kriegsgel'.. Kassimow. Gouvernement</p>
             <p>{iifsland.d.</p>
-            <p>Kavčič Franz, LstTitInfst., k. k. LstIR. Nr. 27. 1. Komp., <country>Krain</country>, Ziri, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.7834">Kavčič Franz, LstTitInfst., k. k. LstIR. Nr. 27. 1. Komp., <country>Krain</country>, Ziri, 1898; verw.</p>
             <p>Päl, L&gt;LstTntst., H!K. Nr. 15, 4. Komp., Ungarn, Köv:Vgig:i.s, 185)7; verw.</p>
             <p>Georg, . Lst8cliütze, k. k. LsillezKimlo. Nr. 31.</p>
             <p>dem 1 k. k. .SeliR. Nr. 31, 6. Komp.. .Schlesien,</p>
@@ -4055,7 +4055,7 @@
             <p>)zo, Infsifst., bli. IR. Nr. 4. zngeteilt dem bli. IR.</p>
             <p>* Komp.,»., Bosnien. Bugojno. Zijamet, 185)7; verw.</p>
             <p>Jidins.is, Lstlritst.. IR. Nr. 46. 10. 'felepliKomp., ('songnirrVd, Szeged. 185)7; verw.</p>
-            <p>Keinzl Johann, Kan., k. u. k. FHK. Nr. 6. <country>Kärnten</country>, St. Veit, Wieteting, 1895; gestorben (30.10. 1917).</p>
+            <p xml:id="vll.19180201_648.7854">Keinzl Johann, Kan., k. u. k. FHK. Nr. 6. <country>Kärnten</country>, St. Veit, Wieteting, 1895; gestorben (30.10. 1917).</p>
             <p>kob, Inliit'st., bli. EtappeuBaon. Nr. 12. Bosiiien,</p>
             <p>akut', MMajdan, 1881; ge.storlren (1. 11. 1917).</p>
             <p>Karl, InInfst., k. k. UstlnfiBaon. Nr. 23, Niedenister-</p>
@@ -4199,7 +4199,7 @@
             <p>Altstadt,</p>
             <p>Nr. 13 Oliniitz,</p>
             <p>1873; go.storben</p>
-            <p>Knafel Alois, Infst., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Radmannsdorf, Dreznica, 1872; verw.</p>
+            <p xml:id="vll.19180201_648.8136">Knafel Alois, Infst., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Radmannsdorf, Dreznica, 1872; verw.</p>
             <p>Knizek AVenzel, Schütze, k. k. SchR. Nr. 30, Böhmen,</p>
             <p>Pardubitz, Sezeniitz, 1868, gestorben (2./11. 1017).</p>
             <p>Kiiotek Istvän, LstInfst., HIR. Nr. 13, 4. Komp., Ungarn, Poz sony, Nagylevärd, 1897; verw.</p>
@@ -4209,13 +4209,13 @@
             <p>Koblyk Oleska, ' Infst., IR. Nr. 77, 6. Komp., Galizien, Turka, Holow sko, 1872, verw.</p>
             <p>Kol»olka Ferencz, llonv., IHR. Nr. 15, 9. Komp., Ungarn,</p>
             <p>4'iencscn, Turzölälva. 1897; veiav.</p>
-            <p>Kočina Johann, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Küstenland</country>, Görz, 1878; verw.</p>
-            <p>Kocjan Anton, LstInfst., k. k. LstIR. Nr. 27, 9. Komp., <country>Krain</country>, Littai, Stanga, 1897; verw.</p>
+            <p xml:id="vll.19180201_648.8156">Kočina Johann, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Küstenland</country>, Görz, 1878; verw.</p>
+            <p xml:id="vll.19180201_648.8158">Kocjan Anton, LstInfst., k. k. LstIR. Nr. 27, 9. Komp., <country>Krain</country>, Littai, Stanga, 1897; verw.</p>
             <p>Kocsis Sfelan. LstJäg, FJB. Nr. 20, 4. Komp., Ungarn, Nöpäd, Nagy-Ihu-öcz 1807; verw'.</p>
             <p>Koczis Georg, ErsResInfst., IR. Nr. 41. Ungarn, Somogy,</p>
             <p>Borzeneze, 18.'&lt;7; kriegsgef., Konotop. Ruliland.</p>
-            <p>Koczvar Georg, Infst., IR. Nr. 87, <country>Steiermark</country>, Cilli, Slance, 1872; gestorben (3./9. 1917).</p>
-            <p>Kodelja Johann, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Istrien</country>, Capodistria, Pinguente, 1876; verw.</p>
+            <p xml:id="vll.19180201_648.8166">Koczvar Georg, Infst., IR. Nr. 87, <country>Steiermark</country>, Cilli, Slance, 1872; gestorben (3./9. 1917).</p>
+            <p xml:id="vll.19180201_648.8168">Kodelja Johann, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Istrien</country>, Capodistria, Pinguente, 1876; verw.</p>
             <p>Kogut Vasil, LstInfst., IR. Nr. 00, 1. Komp., Galizien,</p>
             <p>Jaroslau, Ilobra, 1808; gefallen (23./10. 1017).</p>
             <p>Koliäii Mihäly, Infst.. IIL Nr. 65, Ungarn, Beieg, Diinkö-</p>
@@ -4239,7 +4239,7 @@
             <p>A</p>
             <p>Kollarek Josel, Infst., IR. Nr. 41, 3 Komp., , IJngai</p>
             <p>Magyarker. 1801; kriegsgef., Worune Udiiinsk, Ri</p>
-            <p>Kollegger Evstachino, LstInfst., k. k. LstIR., 5. Komp., <country>Steiermark</country>, Voitsberg. Geistthal, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.8216">Kollegger Evstachino, LstInfst., k. k. LstIR., 5. Komp., <country>Steiermark</country>, Voitsberg. Geistthal, 1898; verw.</p>
             <p>Koller Adolf. Infst., IR. Nr. 73, Hhmen. ‘ Karlsb</p>
             <p>gestorben (22. 10. 1017).</p>
             <p>K611Ö Ludwig, Gefr., IR. Nr. 82, f Komp.j., Ungj Ditrö, 1887; verw.</p>
@@ -4293,8 +4293,8 @@
             <p>Kosäii Miliäly, Uns., HtIR. Nr. 7, Uiigamn, Nyi</p>
             <p>szöllös, 1803; gestorben (20./7. 107).</p>
             <p>Kosar Nikolaus. Infst., IR. Nr. 11.1 Komp Wall. Meseritscli. 1803; verw.</p>
-            <p>Koschula Johann, Infst., IR. Nr. 70 zugeteilt dem ArbBaon. in Wieselberg, <country>Küstenland</country>, Triest, St. Groce, 1898; gestorben (23./10. 1917).</p>
-            <p>Košenina Franz, LstInfst., k. k. LstIR. Nr. 27, <country>Krain</country>, Laibach, Zwischenvässern, 1874; verw.</p>
+            <p xml:id="vll.19180201_648.8324">Koschula Johann, Infst., IR. Nr. 70 zugeteilt dem ArbBaon. in Wieselberg, <country>Küstenland</country>, Triest, St. Groce, 1898; gestorben (23./10. 1917).</p>
+            <p xml:id="vll.19180201_648.8326">Košenina Franz, LstInfst., k. k. LstIR. Nr. 27, <country>Krain</country>, Laibach, Zwischenvässern, 1874; verw.</p>
             <p>Kosiotynski Wa.syl. Traiusokl., 4'raiiBaon. , Nr. 14</p>
             <p>4’arnopol, Horodyszcze, 1868; getorben (. (7./11.</p>
             <p>Kosowicz Jakob, LstInfst., k. k. LstnfIR. NNr. 27 Galizien, Pobajee, 1875; verw.</p>
@@ -4305,7 +4305,7 @@
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=31&amp;zoom=33">[ Verlustliste - 19180201 - Seite 31 ]</ref>
             </ab>
-            <p>Koss Isidor, KorpTitZugf., k. k. LstBezKmdo. Nr. 4, zugeteilt dem ResSpit. Nr. 2, SanAbt., <country>Karnten</country>, Klagenfurt, 1869; gestorben (4.11.1917).</p>
+            <p xml:id="vll.19180201_648.8342">Koss Isidor, KorpTitZugf., k. k. LstBezKmdo. Nr. 4, zugeteilt dem ResSpit. Nr. 2, SanAbt., <country>Karnten</country>, Klagenfurt, 1869; gestorben (4.11.1917).</p>
             <p>ireas, ; LstInfst., IR. Nr. 82, 6. Komp., Ungarn, kjeaöfalilva, 1805; verw.</p>
             <p>ter, Zuggsf., IHK. Nr.l, zugeteiltdeni k.u.LstlK. Nr.5, UngJtarn, Tobia, Felsöireg, 1888; verw.</p>
             <p>inos, LLstlnt'st., k. u. LstlK. Nr. 19, 9. Komp.,</p>
@@ -4406,7 +4406,7 @@
             <p>Krejcik Josef, LstInfst.,* k. k. LstlK. Nr. 27, '"3. Koni])., Böhmen, Podßbrad, Üpolan, 1894; verw.</p>
             <p>Krenek Vinzenz, LstInfst. IR. Nr. 3, 12. Komp., Mähren,</p>
             <p>Wall. Meseritsch, Oberbeewa, 1870 verw. ;</p>
-            <p>Krenn Valto, Feldw., FJB. Nr. 9, 3. Komp., <country>Steiermark</country>, Judeuburg, Weißkirchen, 1897; gestorben (14./7. 1917).</p>
+            <p xml:id="vll.19180201_648.8544">Krenn Valto, Feldw., FJB. Nr. 9, 3. Komp., <country>Steiermark</country>, Judeuburg, Weißkirchen, 1897; gestorben (14./7. 1917).</p>
             <p>Kresmicker Alois, Trainsold.. TraiiiBaon. Nr. 8, Böhmen,</p>
             <p>Schüttenhofen, 1888; gestorben (25.|7. 1917).</p>
             <p>Kreuziger Josef, Korp., k. u. k. Staffel 551, Böhmen,</p>
@@ -4511,7 +4511,7 @@
             <p>Ungarn, Somogy, Bares, 187G; veiw.</p>
             <p>Kurnez Stelau, KorpTitZiigsf., IR. Nr. CG, 7, Ko)iij&gt;.,</p>
             <p>Ungarn, Zemplen, Jänosvägjisa, 1890; verw. i</p>
-            <p>Kurz Jakob, Schütze, k. k. Kärnt. Freiw. SchR. Nr. 2, MGKomp. II, <country>Kärnten</country>, Villach, Bleiberg, 1898; gefallen (25.10 bis 15.11. 1917).</p>
+            <p xml:id="vll.19180201_648.8748">Kurz Jakob, Schütze, k. k. Kärnt. Freiw. SchR. Nr. 2, MGKomp. II, <country>Kärnten</country>, Villach, Bleiberg, 1898; gefallen (25.10 bis 15.11. 1917).</p>
             <p>Kusnyar Jänos, Infst., HIR. Nr. 9. Ibigaiarn. Sa</p>
             <p>gestorben (29. 10. 1917).</p>
             <p>Knstosz Jänos, Gefr., IR. Nr. 4t Ungain, . Somo|</p>
@@ -4553,7 +4553,7 @@
             <p>Praehatitz, HIawatetz, 1898; verv.</p>
             <p>Lajie Mile, Infst.. EisenbR., EiscnbSieliAbUt. 121,</p>
             <p>Brody. Labaez, 1875; gestorben (G./IO. 191H7).</p>
-            <p>Lajovec Johann, LstInfst, k. k. LstIR. Nr. 27, <country>Krain</country>, Stein, Bresovitz, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.8832">Lajovec Johann, LstInfst, k. k. LstIR. Nr. 27, <country>Krain</country>, Stein, Bresovitz, 1898; verw.</p>
             <p>Lnkatas Georgy, Infst., HL Nr. C,3, 16. KKomp..</p>
             <p>rdvarhely. Szederjes. Ift99; gestorben (11.1./9. 191</p>
             <p>Lakatos BiMa, LstInfst., HIR. Nr. 15, MGKoiomp. 11 Esztergom. .Magynrszölgyen. 1891; verw.</p>
@@ -4596,7 +4596,7 @@
             <p>rngiigsrti, Hont, .8cImecz-6s-B61abanya, 1^99-,</p>
             <p>tizel, I&gt;sl&gt;st.S(;hützo. k k SchR. Nr. 7, 12 .^ Komp..</p>
             <p>Dauba a 1880; getallon (15./9.—1&lt;.9. 191 &lt;).</p>
-            <p>Lautar Anton, Infst., IR. Nr. 17, <country>Krain</country>, Krainburg, Selzach, gestorben (25. 11. 1917).</p>
+            <p xml:id="vll.19180201_648.8912">Lautar Anton, Infst., IR. Nr. 17, <country>Krain</country>, Krainburg, Selzach, gestorben (25. 11. 1917).</p>
             <p>Polar, •, Lstliig., FJB. Nr. 20, zugetoilt dem</p>
             <p>2:&gt;, 1.1. Komp.; Bosnien, Maglaj, Stupari, 1895;</p>
             <p>Uimitrvrv. l'raiusold., k. u. k. Jstaflel &lt;li, C»*ilizion,</p>
@@ -4612,7 +4612,7 @@
             <p>: llrynyn, Lstinfst., IR. Nr. 77. MG Komp II Drolioliobycz, Lnzek Uolny, 1898; verw.</p>
             <p>F'ranz, , Jiig., k. u. k. ArbSammelkader Lebring,</p>
             <p>i-k. Ilariiirtberg. MOnioliwald, 1885; gestorben (21.-8.</p>
-            <p>Legisa Johann, LstInfst., IR. Nr. 97, <country>Küstenland</country>, Sesana, Cerovlje, 1872; gestorben (30.10. 1917).</p>
+            <p xml:id="vll.19180201_648.8944">Legisa Johann, LstInfst., IR. Nr. 97, <country>Küstenland</country>, Sesana, Cerovlje, 1872; gestorben (30.10. 1917).</p>
             <p>arl, Lst.st 8 clintze. k. k. SeliR. Nr. 21, Nieder-</p>
             <p>li, Sebebeibbs, 8 t. Anton, 1898; gefallen (20./—Ol./ 8 .</p>
             <p>J, Infst.sl.. IR. Nr. 00. 0. Komi&gt;., Ungarn, Zenipltbi, atak, 181896; verw.</p>
@@ -4623,7 +4623,7 @@
             <p>Neii,sti.sta&lt;lt a. d. M.. ObniÄow, 1894; gefallen</p>
             <p>&gt;i")-</p>
             <p>obann. ,. Infst.. IR. Nr. 00 , 21. Komp.. Ungarn, ()krö.sliske, 1892; verw.</p>
-            <p>Lenart Johann, LstInfst., k. k. LstIR. Nr. 27, 8. Komp., <country>Küstenland</country>, Tolmein, Kobarid, 1890; verw.</p>
+            <p xml:id="vll.19180201_648.8966">Lenart Johann, LstInfst., k. k. LstIR. Nr. 27, 8. Komp., <country>Küstenland</country>, Tolmein, Kobarid, 1890; verw.</p>
             <p>feter. Kan., k. n. k. GAR. Nr. 21, Jlatt. 6 21,</p>
             <p>PozHOiDtu, 1875; gestorben (20./lO. 1917).</p>
             <p>l'ivadarar. Infst., IHR. ' Nr. 23, Ungarn, Hunyad.</p>
@@ -4751,26 +4751,26 @@
             <p>Maier Georg, LstInfst., IR. Nr. 73, MGKomp. I, Böhmen.</p>
             <p>M.arienbad, Kloinscliüttübor. 1884 ; voiw.</p>
             <p>Maiercsik Tamäs, Infst., IHR. Nr. 15, 9. Komp., Ungarn Nyitra, Alsölesztenv, 1897: verw. ’</p>
-            <p>Maierwieser Hubert, LstGefr., k. k. LstIR. Nr. 27. 9. Komp., <country>Steiermark</country>, Weiz, Birkfehl, 1896; verw.</p>
+            <p xml:id="vll.19180201_648.9216">Maierwieser Hubert, LstGefr., k. k. LstIR. Nr. 27. 9. Komp., <country>Steiermark</country>, Weiz, Birkfehl, 1896; verw.</p>
             <p>Majldt-Rapi Rafael, Infst., IR. Nr. 2, 4. Kom]»., Ungarn</p>
             <p>Häromszek, Kezdi-Väsärhely, 1899; verw. ’</p>
             <p>Majliilli Andreas, Infst.. IR. Nr. 2, 12. Komp., Ungarn. Iläromszek, Dalnok, 1896; verw.</p>
             <p>Major Jözscl, Jntst., IR. Nr. 44, 1. Koni|&gt;., Ungarn, Somogv</p>
             <p>Fajsz; 1884; kriegsgef., Ssimbirsk, Rußland.</p>
             <p>Ma.jszterov Läsziö, Infst., IHR. Nr. 6, 12. Komi)., Ungarn Macs-Bodrog, Temoriu, 1896; verw. ’</p>
-            <p>Mak Jakob, SchTitGefr., k. k. SchR. Nr. 26, 2. Komp., <country>Steiermark</country>, Marburg, St. Georgen, 1897; gestorben (23./8. 1917).</p>
+            <p xml:id="vll.19180201_648.9230">Mak Jakob, SchTitGefr., k. k. SchR. Nr. 26, 2. Komp., <country>Steiermark</country>, Marburg, St. Georgen, 1897; gestorben (23./8. 1917).</p>
             <p>Makos György, Kan., k. u. k. GAR. Nr. 19, Ungarn, Turöcz,</p>
             <p>Turöcztölgyes, 1878; gestorben (29.'9. 1917).</p>
-            <p>Makovec Max, LstInfst., k. k. LstIR. Nr. 27, 1. MGKomp. <country>Küstenland</country>, Görz, Haidenschaft, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.9236">Makovec Max, LstInfst., k. k. LstIR. Nr. 27, 1. MGKomp. <country>Küstenland</country>, Görz, Haidenschaft, 1898; verw.</p>
             <p>Makrai Jänos. Infst., HIR. Nr. 12, Ungarn, Szatmär, Nagv-</p>
             <p>itauya 1876; gest«&gt;rben (2./11. 1917).</p>
             <p>Maksa Franz, LstGefr., IR. Nr. 18, 8. Komp., Böhmen.</p>
             <p>Kolin, Skwfnow, 1895; gefallen (lO./ll. 1917).</p>
             <p>Mularuga Miklös, Infst., IR. Nr. 50, zugeteilt dem HIR.</p>
             <p>Nr. 6, 12. Komp., Ungarn, Bäcs-Bodrog, Paesör, 1896; verw.</p>
-            <p>Malb Simon, LstInfst., k. k. LstIR. Nr. 7, zugeteilt dem k. k. SchR. Nr. 23, 14. Komp., <country>Kärnten</country>, Klagenfurt, 1874; gestorben (1./7. 1917).</p>
+            <p xml:id="vll.19180201_648.9250">Malb Simon, LstInfst., k. k. LstIR. Nr. 7, zugeteilt dem k. k. SchR. Nr. 23, 14. Komp., <country>Kärnten</country>, Klagenfurt, 1874; gestorben (1./7. 1917).</p>
             <p>Malec Ladislaw, Infst., IR. Nr. 90, 3. Komp., Galizien, Cieszanöw, Narol Wies, 1893; verw.</p>
-            <p>Maleš Franz, Korp., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Stein, Minkendorf, 1890: verw.</p>
+            <p xml:id="vll.19180201_648.9254">Maleš Franz, Korp., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Stein, Minkendorf, 1890: verw.</p>
             <p>zugeteilt dem bh.</p>
             <p>Brany abri cic, 1869;</p>
             <p>Malesak Saldi. Infst., bh. IR. Nr. 3. Kompn., Bo.si</p>
@@ -4786,8 +4786,8 @@
             <p>Millyas Benjamin, Gefr., k. u. k. Tragti;ierstaff(</p>
             <p>Ungarn Maros-Torda. Erdöszentgvörgv,, 1888;</p>
             <p>(22./10. 1917).</p>
-            <p>Mandelc Georg, LstSchüize, k. k. SchR. Nr. 26, <country>Steiermark</country>, Pettau, 1884; gestorben (26. 10. 1917).</p>
-            <p>Mandler Michael, LstInfst., k. u. k. Verpflegsmagazin, <country>Kärnten</country>, Villach, 1890; gestorben (20./7. 1917).</p>
+            <p xml:id="vll.19180201_648.9286">Mandelc Georg, LstSchüize, k. k. SchR. Nr. 26, <country>Steiermark</country>, Pettau, 1884; gestorben (26. 10. 1917).</p>
+            <p xml:id="vll.19180201_648.9288">Mandler Michael, LstInfst., k. u. k. Verpflegsmagazin, <country>Kärnten</country>, Villach, 1890; gestorben (20./7. 1917).</p>
             <p>Mandnlija Michael, Infst., IR. Nr. 66, 6.'&gt;. Kninp Zemj)16n, Juhäszlak, 1894; verw.</p>
             <p>Mandzia Stefan Lstliilsf.. IR. Nr. 15,11. MtGKouif) Radziechöw, Stanislawczyk, 1889; verw.</p>
             <p>Mangro Demeter d. Jänos, LstGefr., IR. . Nr.</p>
@@ -4820,7 +4820,7 @@
             <p>VukSie, 1890;&gt;efallen (31./10. 1917).</p>
             <p>Mariciö JoUov d. Kilip, LstInfst., IR. Nr. 22,</p>
             <p>Dalmatien, Zara. Zemunik. 1883; gefalleen (16./</p>
-            <p>Marinšek Anton, LstInfst., k. k. GSchR. Nr. 2, <country>Krain</country>, Stein, Zupanje-Njive, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.9354">Marinšek Anton, LstInfst., k. k. GSchR. Nr. 2, <country>Krain</country>, Stein, Zupanje-Njive, 1898; verw.</p>
             <p>Marity Märton, Kan., HFKR. Nr. 1, üngataii, Bäc</p>
             <p>Bäcsborsod, 1873; gestorben (l./ll. 1917).</p>
             <p>Marjanovicz Anton, Ul., UR. Nr. 12, lUngaru,</p>
@@ -4862,7 +4862,7 @@
             <p>kenau, . Liebau, 1899; gefallen (lo.—17./9.</p>
             <p>lntst.,i,.. IR. Nr. 65, Böhmen, Pilsen. 1899;</p>
             <p>Ul. 191117).</p>
-            <p>Masser Peter, Infst. k. k. SchR. Nr. 26, <country>Steiermark</country>, D. Landsberg, 1872; gestorben (31./8. 1917).</p>
+            <p xml:id="vll.19180201_648.9432">Masser Peter, Infst. k. k. SchR. Nr. 26, <country>Steiermark</country>, D. Landsberg, 1872; gestorben (31./8. 1917).</p>
             <p>Lstlnlafst.. IR. Nr. 67. JUngarn, Liptö, Nagy-</p>
             <p>5; gestotorben (12./8. 1917).</p>
             <p>pär, Geiefr,, HIR. Nr. 1.'), 11. Komp., Ungain,</p>
@@ -4907,7 +4907,7 @@
             <p>g, LstlnInfst., IR. Nr. 62, Techn. Komp., Ungarn, 1897;7; verw.</p>
             <p>, Feldtdw., IHR. Nr. 7, zugetcilt dem HIR</p>
             <p>,MGKommp., Ungarn. Toroutäl, Ferenczhalom,</p>
-            <p>Maver Franz, LstSchütze, k. k. GschR. Nr. 2, <country>Krain</country>, Rudolfswerth, Gabrije, 1898; gestorben (17./7. 1917).</p>
+            <p xml:id="vll.19180201_648.9522">Maver Franz, LstSchütze, k. k. GschR. Nr. 2, <country>Krain</country>, Rudolfswerth, Gabrije, 1898; gestorben (17./7. 1917).</p>
             <p>Infst., ., IR. Nr. 44, 9. Komp., Ungarn, Somogy,</p>
             <p>l; kriegegsgef., Rußland.</p>
             <p>:.stSchüiütze, k. k. SchR. Nr. 7, III. MGKomp.,</p>
@@ -5038,7 +5038,7 @@
             <p>Rudki, Podzwierzyniec, 1897; gefallen (1./7.</p>
             <p>Moder Deszö, Matr. 4. Kl., K. Mar.. Ungarn, Bäcs-Bodrog</p>
             <p>Baja, 1895; gestorben (29./10. 1917).</p>
-            <p>Modrcič Anton, Gefr., k. k. LstInfBaon. Nr. 150, <country>Istrien</country>, Volosca-Abbazia, Moschienizze, 1877; gestorben (3./11.1917).</p>
+            <p xml:id="vll.19180201_648.9778">Modrcič Anton, Gefr., k. k. LstInfBaon. Nr. 150, <country>Istrien</country>, Volosca-Abbazia, Moschienizze, 1877; gestorben (3./11.1917).</p>
             <p>Moegari Stephan, LstInfst., IR. Nr. 44, Ungani, Jolna</p>
             <p>Zomba, 1893; kriegsgef., Galatz, Rumänien.</p>
             <p>Moig Stephan, Lstlntst., IR. Nr. 44, Ungarn, l^omogv, En-</p>
@@ -5196,7 +5196,7 @@
             <p>eraesvidd, 1885; kriegsgef., Woljennyj, Zvirkulin,</p>
             <p>itsk, Rdußland.</p>
             <p>iLstlnfsfet. HIR. Nr. 8, zugeteilt dem k. u. LstlR Eomp., I Ungant, Bäkäs, 1898; verw.</p>
-            <p>Nardin Johann, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Küstenland</country>, Görz, St. Andreas, 1889; verw.</p>
+            <p xml:id="vll.19180201_648.10088">Nardin Johann, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Küstenland</country>, Görz, St. Andreas, 1889; verw.</p>
             <p>Nedved Josef, Infst., IR. Nr. 94, Böhmen, Münchengrätz,</p>
             <p>Bosen, 1875; gestorben (27./10. 1917).</p>
             <p>Nedwed Johann, Kan., k. u. k. FHR. Nr. 29, Böhmen, Jicin,</p>
@@ -5268,7 +5268,7 @@
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=38&amp;zoom=33">[ Verlustliste - 19180201 - Seite 38 ]</ref>
             </ab>
-            <p>Nopeciuk Michael, Infst., IR. Nr. 7, <country>Kärnten</country>, Völkermarkt, 1868; gestorben (31./10. 1917).</p>
+            <p xml:id="vll.19180201_648.10226">Nopeciuk Michael, Infst., IR. Nr. 7, <country>Kärnten</country>, Völkermarkt, 1868; gestorben (31./10. 1917).</p>
             <p>SoTÄk Alois, LstGefr.,' k. k. SchR. Nr. 12, Böhmen, Ledeö Svötla, 1898; verw. ’</p>
             <p>lorak Anton InfstTitKorp., IR. Nr. 77, Böhmen, Smichov '</p>
             <p>Bubeneö, 1892; gestorben (9./11. 1917). ’</p>
@@ -5295,18 +5295,18 @@
             <p>Kaplitz. 1885, gestorben (21./10. 1917.)</p>
             <p>Oberndorf Johann. Infst., IR. Nr. 44, Ungarn Tolna Izmöny,</p>
             <p>1896; kriegsgef., Kasan, Spital Nr. 93, Rußland.</p>
-            <p>Oblack Mathias, LstInfst., IR. Nr. 17, <country>Krain</country>, Krainburg, Trata, 1895; gestorben (20./11. 1917.)</p>
-            <p>Oblak Franz, LstInfst., k. k. LstIR. Nr. 27, 8. Komp., <country>Krain</country>, Krainburg, Zelepniki, 1895; verw.</p>
-            <p>Oblak Franz, LstInfst., k. k. Lst. IR. Nr. 27, 6. Komp., <country>Krain</country>, Krainburg, Zelepniki, 1897; verw.</p>
+            <p xml:id="vll.19180201_648.10280">Oblack Mathias, LstInfst., IR. Nr. 17, <country>Krain</country>, Krainburg, Trata, 1895; gestorben (20./11. 1917.)</p>
+            <p xml:id="vll.19180201_648.10282">Oblak Franz, LstInfst., k. k. LstIR. Nr. 27, 8. Komp., <country>Krain</country>, Krainburg, Zelepniki, 1895; verw.</p>
+            <p xml:id="vll.19180201_648.10284">Oblak Franz, LstInfst., k. k. Lst. IR. Nr. 27, 6. Komp., <country>Krain</country>, Krainburg, Zelepniki, 1897; verw.</p>
             <p>Oblockov Ivan, Mair. 4. Kl., K. Mar., DaJmatien. Zara,</p>
             <p>1899; gestorben (14./7. 1917.)</p>
             <p>Obransky Josef, LstInfst., k. k. LstEtappB. Nr. 26, Mähren,</p>
             <p>Ib-oßnitz, Kleiidatein, 1869; gestorben (19./7. 1917.)</p>
-            <p>Obreza Johann, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Loitsch, Martinja, 1897; verw.</p>
-            <p>Oltzinger Johann. Infst., IR. Nr. 7, Komp. Oblt. Buchwieser, <country>Kärnten</country>, Villach, Saifnitz, 1899; gefallen (26./10. 1917.)</p>
+            <p xml:id="vll.19180201_648.10294">Obreza Johann, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Loitsch, Martinja, 1897; verw.</p>
+            <p xml:id="vll.19180201_648.10296">Oltzinger Johann. Infst., IR. Nr. 7, Komp. Oblt. Buchwieser, <country>Kärnten</country>, Villach, Saifnitz, 1899; gefallen (26./10. 1917.)</p>
             <p>Okity Vukan, Zugsf., bh. IR. Nr. 1, Bosnien, Blaza, 1884;</p>
             <p>gestorben (11./8. 1916).</p>
-            <p>Okorn Andreas, Infst., IR. Nr. 17, <country>Krain</country>, Polje, 1889; gestorben (12./ll. 1917).</p>
+            <p xml:id="vll.19180201_648.10302">Okorn Andreas, Infst., IR. Nr. 17, <country>Krain</country>, Polje, 1889; gestorben (12./ll. 1917).</p>
             <p>Okoric Soiil, Infst., bh. IR. Nr. 1, Bosnien, Foca, 1873,</p>
             <p>„ gestorben (25./10. 1917).</p>
             <p>Okrös Elias, Infst., IR. Nr. 46, II. Teleph. Komp., Ungarn, Csongräd, Horgos, 1885; verw.</p>
@@ -5349,7 +5349,7 @@
             <p>Pados Gergely, Gefr., HII. Nr. 83, zuget&lt;</p>
             <p>Nr. 34, 6. Komp.. Ungarn, Vas, Gyaiinö, 188</p>
             <p>Pagäcs Päl, Infst., HIR. Nr. 15, 12. Kwomp.. ! Alsökocsoba, 1898; verw.</p>
-            <p>Pak Johann, LstInfst., IR. Nr. 97, 5. Komp., <country>Steiermark</country>, Gonobitz, Oberlasche, 1870 gefallen (13. 9. 1917).</p>
+            <p xml:id="vll.19180201_648.10388">Pak Johann, LstInfst., IR. Nr. 97, 5. Komp., <country>Steiermark</country>, Gonobitz, Oberlasche, 1870 gefallen (13. 9. 1917).</p>
             <p>Päl Georg, Infst.. IR. Nr. 82, 5. Kooinp., Gyergyöszentiniklös, 1894; verw.</p>
             <p>Päl Georg, Infst., IR. Nr. 39, zugeteilt (dem IB</p>
             <p>Komp. II. Ungarn, Hajdu, lajdudorogg, 1887</p>
@@ -5505,10 +5505,10 @@
             <p>Peryiak Roman, Infst., IHR. Nr. 7, zugeteilt dem HIR.</p>
             <p>Nr. 19, 4. Komi).. Ungarn, Torontäl. Reva Ujfälu, 1892;</p>
             <p>gestorben (12./7. 1917).</p>
-            <p>Pesjak Josef, LstZugsf., k. k. LstIR. Nr. 27, 7. Komp., <country>Steiermark</country>, Cilli, Neuhaus, 1878; verw.</p>
+            <p xml:id="vll.19180201_648.10694">Pesjak Josef, LstZugsf., k. k. LstIR. Nr. 27, 7. Komp., <country>Steiermark</country>, Cilli, Neuhaus, 1878; verw.</p>
             <p>Peskir Stojan, Ul., UR. Nr. 5, Kroatien, Zagräb, MoStanica,</p>
             <p>1899; gestorben (4./11. 1917).</p>
-            <p>Petek Franz, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Krain</country>, Gottschee, Reifnitz, 1874; verw.</p>
+            <p xml:id="vll.19180201_648.10700">Petek Franz, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Krain</country>, Gottschee, Reifnitz, 1874; verw.</p>
             <p>Petröci Sändor, Infst., HIR. Nr. 3, 11. Komp., Ungarn.</p>
             <p>Csongräd, Szeged, 1896; gefallen (29./9. 1917).</p>
             <p>Pctrouczaii Nikolai, Infst., IR. Nr. 41, MGKomp. IV,</p>
@@ -5536,7 +5536,7 @@
             <p>LstIR. Nr. 5, MGKomp., Ungarn, Somogy, Räezegres. 1896; verw.</p>
             <p>Pinter Josef, LstInfst., IR. Nr. 44, Ungarn, Somogy, Szent-</p>
             <p>gäloskör, 1894; kriegsgef., Galatz, Rumänien.</p>
-            <p>Pirc Julius, LstGefr., k. k. LstIR. Nr. 27, 8. Komp., <country>Krain</country>, Stein, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.10756">Pirc Julius, LstGefr., k. k. LstIR. Nr. 27, 8. Komp., <country>Krain</country>, Stein, 1898; verw.</p>
             <p>Piroth Sändor, LstInfst., k. u. LstIR. Nr. 1, 4. Komp., Ungarn, Pest, Räezkeve, 1877; verw.</p>
             <p>Pirringer Franz, LstSchütze, k. k. SchR. Nr. 21, Nieder Niederösterreich, ­</p>
             <p>österreich, Niederösterreich, Pöggstali, Raxendorf, 1884; gefallen (11.—30.'9.</p>
@@ -5547,7 +5547,7 @@
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=40&amp;zoom=33">[ Verlustliste - 19180201 - Seite 40 ]</ref>
             </ab>
             <p>riHklak Auton, Lstlntst., IR. Nr. :}, 0. Koiii|)., Miiliron, VSetin. Väetin, 1897-, verw\</p>
-            <p>Pišlar Lukas, LstOffizStellvertreter. k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Laibach, 1873; verw.</p>
+            <p xml:id="vll.19180201_648.10772">Pišlar Lukas, LstOffizStellvertreter. k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Laibach, 1873; verw.</p>
             <p>PistuB Michael. LstSchütze, k. k. SchR. Nr. 31, 3. Komp.,</p>
             <p>Galizien, Rawa Ruska, Hujcze, 1898; gefallen (22./7. 1917).</p>
             <p>Piszczuta Nikolaus, LstOefr., IR. Nr. 30, TechnlnfKomp.,</p>
@@ -5569,7 +5569,7 @@
             <p>18G6; gestorben (23./11. 1917). ]</p>
             <p>Pliva Wilhelm, LstInfst., IR. Nr. 11, MGKomp. 1. Böhmen,</p>
             <p>Pisek, Urhovel, 1893; gestorben (13./9. 1917;.</p>
-            <p>Plodrrer Ernst, LstInfst., k. k. LstIR. Nr. 27, 5. Komp. <country>Steiermark</country>, Bruck a. d. Mur, Gubwerk, 1874; verw.</p>
+            <p xml:id="vll.19180201_648.10816">Plodrrer Ernst, LstInfst., k. k. LstIR. Nr. 27, 5. Komp. <country>Steiermark</country>, Bruck a. d. Mur, Gubwerk, 1874; verw.</p>
             <p>Poczos Istvän. Infst., HIR. Nr. 11, Ungarn Biri. Szabolcs,</p>
             <p>1899; gestorben (3./10. 1917).</p>
             <p>Podbrezsni Jänos, Honv., HIR. Nr. 15, 11. Komp. Ungarn,</p>
@@ -5638,8 +5638,8 @@
             <p>gestorben (29./8. 1917).</p>
             <p>Potvroznik Demie, Infst., IR. Nr. 41, &lt; Galiziei</p>
             <p>Podbereice, 1895; go.storben 4./11. 191717).</p>
-            <p>Prasnikar Josef, LstInfst., IR. Nr. 17, <country>Krain</country>, Littau, Vače, 1897; gestorben (23. 10. 1917).</p>
-            <p>Prassel Richard, LstInfst., IR. Nr. 97, 8. Komp., <country>Küstenland</country>, Triest, 1881; gestorben (29./8. 1917).</p>
+            <p xml:id="vll.19180201_648.10954">Prasnikar Josef, LstInfst., IR. Nr. 17, <country>Krain</country>, Littau, Vače, 1897; gestorben (23. 10. 1917).</p>
+            <p xml:id="vll.19180201_648.10956">Prassel Richard, LstInfst., IR. Nr. 97, 8. Komp., <country>Küstenland</country>, Triest, 1881; gestorben (29./8. 1917).</p>
             <p>Praxi Karl, KorpTitZugsf., k. k. SchR. . Nr. 29</p>
             <p>Böhmen, Urachatitz, Wallern, 1882; verww.</p>
             <p>Predacs Jänos. Infst., IHR. Nr. 15, Ungarirn, Bai</p>
@@ -5694,7 +5694,7 @@
             <p>iakouitaitz, Koiisiuov, 1889; venv. ^</p>
             <p>(’, ScliiUiiUze. k. k. SchR. Nr. 12, Böhmen. (’h31:hi.</p>
             <p>. 188585; gestorben (23./10. 1917).</p>
-            <p>Puchreiter Michl. Jäg., SturmBaon. Nr. 94. zugeteilt dem FJB. Nr. 8, 1. Komp., <country>Kärnten</country>, Spittal a. d. D. Rennweg, 1898; verw.</p>
+            <p xml:id="vll.19180201_648.11060">Puchreiter Michl. Jäg., SturmBaon. Nr. 94. zugeteilt dem FJB. Nr. 8, 1. Komp., <country>Kärnten</country>, Spittal a. d. D. Rennweg, 1898; verw.</p>
             <p>Iiifst.st.. k. k. LstWachdet. Budapest. Galizien,</p>
             <p>g Sokitkulowskj-, 1867; gestorben (26.,. 10. 1917).</p>
             <p>:, Korprp. IR. Nr. 79, Kroatien, Stubiea. 1877 ;</p>
@@ -5743,7 +5743,7 @@
             <p>197 ; gegestorboii (27./10. 1917).</p>
             <p>i, Jäg.,g., bli. FJB. Nr. 1, Bosnien, Vasarvaknp,</p>
             <p>orben (i (26./11. 1917).</p>
-            <p>Radinovics Gliezo, UI., UR. Nr. 5, <country>Istrien</country>, Pola, 1891: gestorebn (1.8. 1917).</p>
+            <p xml:id="vll.19180201_648.11158">Radinovics Gliezo, UI., UR. Nr. 5, <country>Istrien</country>, Pola, 1891: gestorebn (1.8. 1917).</p>
             <p>Gc, (refiefr., bh. IR. Nr. l. Bosnien, Prodae, 1886;</p>
             <p>(l./ll. 1 1917).</p>
             <p>Johammn, LstInfst., IR. Nr. 43, 4. Komp.. Ungarn, •reny, (. Oiwiczafalu, 1894 ; verw.</p>
@@ -5762,7 +5762,7 @@
             <p>Galizien, &gt;^6lkie\v, Bojanice, 1885; verw.</p>
             <p>Rak Franz, Lstlnlst., IR. Nr. 100, Stunnkomp., Schlesien,</p>
             <p>Friedek. Rasebkowiz, 1897; venv.</p>
-            <p>Rak Paul, Trainsold, Trainbaon. Nr. 3, <country>Steiermark</country>, Marburg, Boč, 1866; gestorben (20./10. 1917).</p>
+            <p xml:id="vll.19180201_648.11196">Rak Paul, Trainsold, Trainbaon. Nr. 3, <country>Steiermark</country>, Marburg, Boč, 1866; gestorben (20./10. 1917).</p>
             <p>Raku Ilija, LstJäg., FJB. Nr. 20 zugeteilt dem FJB. Nv. 23.</p>
             <p>1. Komp. Herzegowina. Kornjic, Podhum, 1886; verw.</p>
             <p>Rakowic Jaroslaus, LstSchütze. k. k. SchR. Nr. 6, 2. Komp.. Böhmen, Ib-ag, 1896; verw.</p>
@@ -5810,7 +5810,7 @@
             <p>Repec Istvan, Honv., HIR. Nr. 14, zugeteilt dem HIR. Nr. 314,</p>
             <p>MGKomp., Ungarn, lleves. Nyitra, 1801; yerw.</p>
             <p>Repesin Georg, infst.. IR. Nr. 66, 6. Komi)., Ungarn. Zemplen, Felsöteketepatak, 1898; verw.</p>
-            <p>Resch Anton, Infst., IR. Nr. 47. zugeteilt dem IR. Nr. 38. 3. Baukomp., <country>Steiermark</country>, Leibnitz, Oberhaag, 1885; g (6. 11. 1917).</p>
+            <p xml:id="vll.19180201_648.11292">Resch Anton, Infst., IR. Nr. 47. zugeteilt dem IR. Nr. 38. 3. Baukomp., <country>Steiermark</country>, Leibnitz, Oberhaag, 1885; g (6. 11. 1917).</p>
             <p>Resch Leopidd. Lst!ii!.-,t.. IR. Nr. 99. ziigeteiJl dem ;it.</p>
             <p>Nr. 73. 13. K,m:. Mähren, Nikolsluirg, 1897; gefallen;</p>
             <p>iJi*;.</p>
@@ -5845,7 +5845,7 @@
             <p>Robaty Mihäly. liifst., IR. Nr. Gb Komp.. Fiigarn. Zemplßn, Sosina, 1876; verw.</p>
             <p>Rofss Paul, LstKorp., k. k. SehR. Nr. 2, 2. Komp.,</p>
             <p>Oberöstei’ieich, Schärding, Enzenkircheii, 1895; vor« .</p>
-            <p>Roj Viktor, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Cilli, Vroslav, 1895; verw.</p>
+            <p xml:id="vll.19180201_648.11356">Roj Viktor, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Cilli, Vroslav, 1895; verw.</p>
             <p>lfci&gt;jiczek Viktor, LstInfst., IR. Nr. 100. 15. Komp. Schlesien, Bielitz, Ellgoth. 1897; verw.</p>
             <p>Bokosz Nikolanis, Gefr., k. u. k. FeldSpit. Nr. lOo, Galizien,</p>
             <p>Brzezany, 1887; gestorben (8., 11. 1917;.</p>
@@ -5855,14 +5855,14 @@
             <p>Galizien. Nisko, Zalotil, 1886; vervr.</p>
             <p>Ronunöw Max LstInfst., IR. Nr. 80, Galizien, Kainionka Str..</p>
             <p>Znratyn, 1898; gestorben (20.-8. 1917).</p>
-            <p>Romih Alois, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Rann, Dobje, 1899; verw.</p>
+            <p xml:id="vll.19180201_648.11376">Romih Alois, LstInfst., IR. Nr. 87, 14. Komp., <country>Steiermark</country>, Rann, Dobje, 1899; verw.</p>
             <p>Kosen Maier, Infst., IR. Nr. 80, (talizieii, ßrzezany. 1874;</p>
             <p>g^'.storbeii i28.G0. 1917b</p>
             <p>Kasciibaimi Abrabam, Schütze k. k. GSchR. Nr. 2,</p>
             <p>3. Komp... Galizien, Kolotnea, Korszöw, 1889; verw.</p>
             <p>Koseuberszki Jänos, lutst, HIR. Nr. 6, 12. Komp., Ungar/i.</p>
             <p>Bä&lt;*s-Bodrog, Szabadka, 1898; gelallen (23.10. 1917).</p>
-            <p>Rosmann Johann, LstJäg., TJR. Nr. 3. Sturmkomp., <country>Krain</country>, Stein, Kreuz, 1898; gefallen (25.10. 1917).</p>
+            <p xml:id="vll.19180201_648.11390">Rosmann Johann, LstJäg., TJR. Nr. 3. Sturmkomp., <country>Krain</country>, Stein, Kreuz, 1898; gefallen (25.10. 1917).</p>
             <p>Kosiier Andreas. Zugst. Luftfahrtrnppe. FliegErsKoinj).,</p>
             <p>Nr. 8, Mähren, Ohniitz. 1872; gestorben (29./11. 1917).</p>
             <p>Bosner Mätyäs, Infst., HIE. Nr. 18, IH. MGKomp., Ungarn Mosott. Ziiräny, 1895; verw.</p>
@@ -5871,7 +5871,7 @@
             <p>Kolli Israel, tstliitst.. JUR. Nr. 313. l iigajTi. Ugocsa. Nagy- SZÖÜÖ.S, 1898; verw.</p>
             <p>Roiibinek Franz, Infst., IR. Nr. 94, Böhmen, Tuiiiau.</p>
             <p>Petrusov)c(', 1890; gestorben (4.;11. 1917\</p>
-            <p>Rozman Johann, LstInfst., k. k. LstIR. Nr. 27. 1. Komp., <country>Krain</country>, Krainburg, Höflein,, 1872; verw.</p>
+            <p xml:id="vll.19180201_648.11408">Rozman Johann, LstInfst., k. k. LstIR. Nr. 27. 1. Komp., <country>Krain</country>, Krainburg, Höflein,, 1872; verw.</p>
             <p>Ku/ 8H Josef Infst., IR. Nr. 3. Ungarn, Bihar, Ermihäly- falva, 1882; verw.</p>
             <p>KdzKß Sändor. LstInfst.. HIR. Nr. 6, zugeteilt demk. u. tstlK.</p>
             <p>Nr. 17, 5. Komp., Ungarn. INies-Bodrog. Szabadka 1898; verw.</p>
@@ -5968,7 +5968,7 @@
             <p>Sclieibeihnfpr Michael, Trainsdd.. TiaiiiB.B. Nr.</p>
             <p>östeneifli. Mödling. .St. Valiiii. 1867; geeto</p>
             <p>1917.</p>
-            <p>Schellbauer Johann, Gefr., k. k. LstIR. Nr. 26, <country>Steiermark</country>, Weiz, Arnwiesen, 1879; verw.</p>
+            <p xml:id="vll.19180201_648.11602">Schellbauer Johann, Gefr., k. k. LstIR. Nr. 26, <country>Steiermark</country>, Weiz, Arnwiesen, 1879; verw.</p>
             <p>Scherer Jänos. Korp.. IK- N. 44. 10. . Kninn</p>
             <p>Tolna, Micsfa. 1886; krieggeb. Nishfilmij 14</p>
             <p>liiiid.</p>
@@ -5980,7 +5980,7 @@
             <p>Komi.</p>
             <p>Scherz F'ranz, Pion.. EisenbR., FeklbNompip. 2</p>
             <p>reich, Baden, Vöslan, 1884; gtstorbeu (7.7./11.</p>
-            <p>Schick Josef, Schütze, k. k. SchR. Nr. 24, <country>Krain</country>, Gurkfeld, Schmalzendorf, 1891: gestorben (10.9. 1917).</p>
+            <p xml:id="vll.19180201_648.11626">Schick Josef, Schütze, k. k. SchR. Nr. 24, <country>Krain</country>, Gurkfeld, Schmalzendorf, 1891: gestorben (10.9. 1917).</p>
             <p>Schiendorfer (Tottlieb Sehürzt. k. k. Kschj</p>
             <p>11. Komp.. Oberös;fiTcieh. (i;ii i'uGn. Bad-I</p>
             <pb n="43"
@@ -6117,7 +6117,7 @@
             <p>4'ren&lt;'sen. Rado^ka. 1876: gt'st&lt;jrben lU.,&lt;lt). J917 .</p>
             <p>Skebra Alfred. LiSt.''eliiitzi'. I.. i-. Seidl. Nr. 7, 2. Jvomp..</p>
             <p>Böliineii. Aussig. 1899; geiallen lo.i9.— I) • ‘ .</p>
-            <p>Skof Anton, LstInfst., k. k. LstIR. Nr. 27. 5. Komp.. <country>Krain</country>, Tschernembl, Dragomlja Vas, 1898: verw.</p>
+            <p xml:id="vll.19180201_648.11894">Skof Anton, LstInfst., k. k. LstIR. Nr. 27. 5. Komp.. <country>Krain</country>, Tschernembl, Dragomlja Vas, 1898: verw.</p>
             <p>Skonyr.u Adalh(*rr, intst. k. k. IjStIR. Nr. n2,^ t&lt;ah 7 .nM.</p>
             <p>Nowy Targ, Brzegi. ISy;». gcstorl'eu (8..U). 191 4 •.</p>
             <p>Slapovic Marat. Kerkerstiiill, k. u. k. MilStrafun.'»t. Aiml.</p>
@@ -6142,7 +6142,7 @@
             <p>Bdlinu'ii, Saaz. Miloschirz. 1807; "ostoibi*n (30./10. 1917).</p>
             <p>Soietaiiu dolianu, Lstliiisr., u. k LstlK. Nf. 6, IJölnneii,</p>
             <p>Jlühlhausen, Vopioo, IbOö; ^o.storben (17./8. 1917;.</p>
-            <p>Smrekar Josef, LstInfst., k. k. LstIR., Nr. 27, 3. Komp., <country>Krain</country>, Littai, Smartno, 1878; verw.</p>
+            <p xml:id="vll.19180201_648.11938">Smrekar Josef, LstInfst., k. k. LstIR., Nr. 27, 3. Komp., <country>Krain</country>, Littai, Smartno, 1878; verw.</p>
             <p>Sobek Kobert, Sapp.. 8a]&gt;pBaoii. Xr. 8. 8. Komp., ,Höhiu(‘ii.</p>
             <p>Pilgram, Patzau, 1880; &lt;&gt;(’storlK‘n 'l./li. 1917).</p>
             <p>Sobotka Johann. Infst.. IR. Nr. 21. BöLinon. llumpolotz,</p>
@@ -6177,9 +6177,9 @@
             <p>1872; gestorben 121./1I. 1917).</p>
             <p>Spalt Alois, Sehtitze. k. k. SchR. Xr. 2. Oberösterreich.</p>
             <p>Wels. Transenc'gg, 1892; gestorben (7./11. 1917)</p>
-            <p>Spetič Franz, LstInfst., k. k. LstIR. Nr. 27, 8. Komp., <country>Krain</country>, Adelsberg, Košana, 1880; verw.</p>
+            <p xml:id="vll.19180201_648.12008">Spetič Franz, LstInfst., k. k. LstIR. Nr. 27, 8. Komp., <country>Krain</country>, Adelsberg, Košana, 1880; verw.</p>
             <p>Spignt .länoK, Infst., MIR. Nr. 4. 12. Komp., Ungarn, Bekes, Gerendjis. 1879: verw.</p>
-            <p>Spreitzhofer Alois, LstInfst., k. k. LstIR. Nr. 27, II. MGKomp., <country>Steiermark</country>, Weiz, Fischbach, 1874; verw.</p>
+            <p xml:id="vll.19180201_648.12012">Spreitzhofer Alois, LstInfst., k. k. LstIR. Nr. 27, II. MGKomp., <country>Steiermark</country>, Weiz, Fischbach, 1874; verw.</p>
             <p>Srb Joset, Kan., k. k. sdiw. FAR. Nr! 26. Böhjnon, Kolin.</p>
             <p>Neudorf, 1873; gestorl)en 1./7. 1917'.</p>
             <p>Stabrjla Aleksander, UsUrrainsold., 4'rainbaon. Nr. 10,</p>
@@ -6241,7 +6241,7 @@
             <p>Apädia, 1870; gestorben (10./7. 1917).</p>
             <p>Stangl Thomas. Infst., IR. Xr. 52, Ungarn, Baranya. Xcinet-</p>
             <p>palkonyu, 1896; gestorben '2. 10. 1917,.</p>
-            <p>Stanisa Josef, LstInfst., k. k. LstIR. Nr. 27, 11. Komp., <country>Krain</country>, Rudolfswert, Schwarmbach, 1871; verw.</p>
+            <p xml:id="vll.19180201_648.12136">Stanisa Josef, LstInfst., k. k. LstIR. Nr. 27, 11. Komp., <country>Krain</country>, Rudolfswert, Schwarmbach, 1871; verw.</p>
             <p>Stanowski Josef, Scliütze. IR. Xr. 31. 2. Komp., Schlesien, Tcseht'ii, Bnkowetz. 1899; verw.</p>
             <p>Stark Tobias, Gefr., IR. Xr. 41, 5. Komp., Bukowina, Klm . polang, Jakobeny, 1882; verw.</p>
             <p>Stasnl Johann. TrainsolcU. Tr.-rinliaon. Xr. 9, Ungarn, Lazan,</p>
@@ -6330,10 +6330,10 @@
             <p>'eas, I Infst., IR. Nr. 44. Ungarn, Soraogy,</p>
             <p>1891; 1 kriegsgef., Kansk. Gouvernement Jenis-</p>
             <p>»land.</p>
-            <p>Struha Franz, KorpTitZugsf., IR. Nr. 41, Stabsabt., <country>Steiermark</country>, Graz, 1885; gefallen (8./10. 1917).</p>
+            <p xml:id="vll.19180201_648.12308">Struha Franz, KorpTitZugsf., IR. Nr. 41, Stabsabt., <country>Steiermark</country>, Graz, 1885; gefallen (8./10. 1917).</p>
             <p>oll, Infsfst., StbsPlerdespit. Neutitsehein, Böhmen,</p>
             <p>pv. Schöiönau. 1882; gestorben (28 /11. 1917).</p>
-            <p>Stukl Jakob, Infst. IR. Nr. 87, ArbAbt., <country>Steiermark</country>, Rann, 1889; gestorben (22./11. 1917).</p>
+            <p xml:id="vll.19180201_648.12314">Stukl Jakob, Infst. IR. Nr. 87, ArbAbt., <country>Steiermark</country>, Rann, 1889; gestorben (22./11. 1917).</p>
             <p>iJiann, liInfst., k. k. LstIR. Nr. 2, 01)erösterreich,</p>
             <p>hing, 18873; gestorben (24/10. 1917).</p>
             <p>lann, SiSchütze. k. k. ScliR. Nr. 34. RgtsStb.,</p>
@@ -6362,7 +6362,7 @@
             <p>Siisiijara Markus, Matr. 1. Kl..</p>
             <p>Dalmatien, Kniu, Uinlianovid.</p>
             <p>1917).</p>
-            <p>Susol Onufry, Schüze, k. k. SchR. Nr. 35, <country>Steiermark</country>, Rann, Topolovo, 1875; gestorben (5. 7. 1917).</p>
+            <p xml:id="vll.19180201_648.12372">Susol Onufry, Schüze, k. k. SchR. Nr. 35, <country>Steiermark</country>, Rann, Topolovo, 1875; gestorben (5. 7. 1917).</p>
             <p>Sutö Fereucz, Infst.. IHR. Nr. 21. zugeteilt «hau HIR</p>
             <p>Nr. 22, 1. Kurup., Unu'aM. Kis-Kiiküllö, Betlenszent- miklbs, 1893; verw.</p>
             <p>Sutö Vendeliu, LstInfst., IR. Nr. 14. Galizieu, Soiuogy,</p>
@@ -6459,7 +6459,7 @@
             <p>Tiszaszentiniklös. 1882; gestorben ;29./7. 1917 .</p>
             <p>Szeles .8tefan, Infst.. HIR. Nr. 11, Ungarn, .'^zatmär. Maloles,</p>
             <p>1889; gestorben (90.'b. 1917\</p>
-            <p>Szeli Georg, RUOffz. 1. Kl., k. k. FHR. Nr. 31, <country>Görz und Gradiska</country>, Gradiska, Poria, 1886; gestorben (9./8. 1917).</p>
+            <p xml:id="vll.19180201_648.12560">Szeli Georg, RUOffz. 1. Kl., k. k. FHR. Nr. 31, <country>Görz und Gradiska</country>, Gradiska, Poria, 1886; gestorben (9./8. 1917).</p>
             <p>S’/^niisi Miilton, Lstinfst., IR. Mr. .öl. 4. Komp., Ungarn,</p>
             <p>Kolozö, Magyarbihal, 1893; gestorben (10. 9. 1917).</p>
             <p>szeiiics Johann, Infst. IR. Nr. 60, ö. Komp., Ungarn. Ung,</p>
@@ -6629,7 +6629,7 @@
             <p>1917 .</p>
             <p>Taupie;'. Peter. 11.. UR. Nr. 7, 8. Scbwadr.. Bukowina,</p>
             <p>Ivotzmann. Useheehlieb, 1877; gestorben (22./11. 1917 .</p>
-            <p>Tavčar Anton, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Küstenland</country>, Sesana, Dutovlje, 1874: verw.</p>
+            <p xml:id="vll.19180201_648.12894">Tavčar Anton, LstInfst., k. k. LstIR. Nr. 27, 2. Komp., <country>Küstenland</country>, Sesana, Dutovlje, 1874: verw.</p>
             <p>T ix Julius. LstInfst.., IR. Nr. 32. zugeteilt dem IR. Nr. 04,</p>
             <p>17. Koinj»., Ungarn, Borsod. Miskolcz, 1899; verv^^</p>
             <p>Tebee l’odor, Tnfst., IR. Nr. 83. Ungarn, Arad. Z.-irandnaiLk-,</p>
@@ -6642,10 +6642,10 @@
             <p>Höhrnen. Ghviidim. Bv.stntz. 1898; gestorben (81./10.</p>
             <p>1917;.</p>
             <p>Teleiiko Uetor. LstInfst., Lst IR. N'r. 27, 4. Komp.. Galizien. Sokal, 1880; verw.</p>
-            <p>Telomeschnig Peter, Schütze, k. k. GSchR. Nr. 1, <country>Kärnten</country>, Klagenfart, 1894; gestorben (15.8. 1917).</p>
+            <p xml:id="vll.19180201_648.12920">Telomeschnig Peter, Schütze, k. k. GSchR. Nr. 1, <country>Kärnten</country>, Klagenfart, 1894; gestorben (15.8. 1917).</p>
             <p>Tenipsch Johann, Pion., EisenbR., Niederö.steiTeich, Kor-</p>
             <p>nenltiira'. 1870; gestorben (11.'7. 1917).</p>
-            <p>Terkov Johann, LstInfst., k. k. LstIR. Nr. 27. 2. Komp., <country>Krain</country>, Laibach, Dobrunje, 1870; verw.</p>
+            <p xml:id="vll.19180201_648.12926">Terkov Johann, LstInfst., k. k. LstIR. Nr. 27. 2. Komp., <country>Krain</country>, Laibach, Dobrunje, 1870; verw.</p>
             <p>'renior, lutst.. IR. Nr. 78, Slavonien, Veröcze, Orahoviea.</p>
             <p>1891; gestorbeii .9.;!l. 1917.</p>
             <p>Torzie Jovo, Schütze, k. k. SehR. Nr. 23, TechuInl’Komp..</p>
@@ -6704,8 +6704,8 @@
             <p>orben (4(4./ll. 1917).</p>
             <p>Traiainsold., Trainbaon. Nr. 4, Ungarn, B.äcs-</p>
             <p>Mita, 18(869; gestorben (16./6. 1917;.</p>
-            <p>Tas Kazimir, Kan., k. u. k. FstAR. Nr. 3. <country>Steiermark</country>, Marburg, Pobersch, 1888; gestorben (21./9. 1917).</p>
-            <p>Töbich Johann, Infst., k. k. LstIR. Nr. 27, 8. Komp., <country>Steiermark</country>, Leibnitz, Klein, 1877; verw.</p>
+            <p xml:id="vll.19180201_648.13044">Tas Kazimir, Kan., k. u. k. FstAR. Nr. 3. <country>Steiermark</country>, Marburg, Pobersch, 1888; gestorben (21./9. 1917).</p>
+            <p xml:id="vll.19180201_648.13046">Töbich Johann, Infst., k. k. LstIR. Nr. 27, 8. Komp., <country>Steiermark</country>, Leibnitz, Klein, 1877; verw.</p>
             <p>Wieuener Neustadt, Schönau im Gebirge, 1898; | Tofan Demeter, Kan., k. ii. k. FHR. Nr. 11 6. Batt.,</p>
             <p>). 11. 191917). j Galizien, Krosno, Ustrobna. 1888; gestorben (3./9. 1917)</p>
             <p>Infstit, HIR. Nr. 29, MGKomp. 111, Ung;irn. j Tolfln Janos, Infst., IR. Nr. 24, Ungarn, Alsö-Föh^r,</p>
@@ -6741,12 +6741,12 @@
             <p>Tomiak Iwan, LstKorp., IR. Nr. 30, TechnlntKoinp., Galizien, Sniatyn, llinee, 1872; verw.</p>
             <p>Tomic Kasko, Infst.. IR. Nr. 98, Hereegovina, .\lostai-.</p>
             <p>Drezince, 1893; gestorben (19./10. 1917). _ ' ,</p>
-            <p>Tomsič Anton, Schütze, k. k. SchR. Nr. 5, <country>Krain</country>, Adelsberg, 1899; gestorben (8. 11. 1917).</p>
+            <p xml:id="vll.19180201_648.13112">Tomsič Anton, Schütze, k. k. SchR. Nr. 5, <country>Krain</country>, Adelsberg, 1899; gestorben (8. 11. 1917).</p>
             <p>Toügor Sändor, Infst., ITIR. Nr. 3, MGKomp. III, I ngarn.</p>
             <p>Bihar, Nagxdeta, 1898; gefallen (2.'^./9. 1917).</p>
             <p>Topal 4'omo,' Schütze, k k. SchK. Nr. 23. Bosnien, ,1a |ci',</p>
             <p>1872: gestorben (30./8. 1917). ^</p>
-            <p>Toplak Josef, Kan., k. u. k. FstAR. Nr. 7 30.5 cm,. Mörserbatt. Nr. 17, <country>Steiermark</country>, Marburg, Karčovina, 1895; gestorben (13.6.1917).</p>
+            <p xml:id="vll.19180201_648.13122">Toplak Josef, Kan., k. u. k. FstAR. Nr. 7 30.5 cm,. Mörserbatt. Nr. 17, <country>Steiermark</country>, Marburg, Karčovina, 1895; gestorben (13.6.1917).</p>
             <p>gestorben (13./G. 1917).</p>
             <p>TopolOTic Anton, Kan., k. n. k. GAK. Nr. 12, Bosnien.</p>
             <p>Sieva, 187G; gestorben tJl./lO. 19n).</p>
@@ -6813,8 +6813,8 @@
             <p>Trost Anton, \SehiUze k. k. SchR. Nr. 2o. 3-1</p>
             <p>Bölimen. Starkenbach. Heidelberg, 1871; gestorbeit</p>
             <p>iOlT).</p>
-            <p>Trozt Jozef, Schütze, k. k. SchR. Nr. 3, <country>Steiermark</country>, Judenburg, Fohnsdorf. 1898; gestorben (6.9.1917).</p>
-            <p>Trstenjak Alois, Kan., k. u. k. FestArtR. Nr. 4, <country>Steiermark</country>, Pettau, Kartschovina, 1891; gestorben (5.11. 1917)</p>
+            <p xml:id="vll.19180201_648.13256">Trozt Jozef, Schütze, k. k. SchR. Nr. 3, <country>Steiermark</country>, Judenburg, Fohnsdorf. 1898; gestorben (6.9.1917).</p>
+            <p xml:id="vll.19180201_648.13258">Trstenjak Alois, Kan., k. u. k. FestArtR. Nr. 4, <country>Steiermark</country>, Pettau, Kartschovina, 1891; gestorben (5.11. 1917)</p>
             <p>Ti-njko Fri(-drich, Jäg., FJB. Nr. 28, Ihigarn, Krasso-,</p>
             <p>CMikas, 1872: gestorben (3/11. 19|7). ,</p>
             <p>Trybiifa .iohann, Schütze, k. k. ScliK. Nr. .54,^</p>
@@ -6890,7 +6890,7 @@
             <p>■ben (.30., 6. U17).</p>
             <p>Michaly. Infs., HIR. Nr. 19, Ungarn, Tolna, Bataszäk,</p>
             <p>gestorben rö/ll. 191Y).</p>
-            <p>Umar Mate, LstInfst., k. u. k. Staffel 1518, <country>Istrien</country>, Capodistria, 1867; gestorben (7./11. 1917).</p>
+            <p xml:id="vll.19180201_648.13404">Umar Mate, LstInfst., k. u. k. Staffel 1518, <country>Istrien</country>, Capodistria, 1867; gestorben (7./11. 1917).</p>
             <p>Franz, TitKo*p., k. k. SchR. Nr. 9, Böhmen, Saaz,</p>
             <p>gestorben (15/9. 1917).</p>
             <p>Alois, ScliTitlorp., k. k. SchR. Nr. 25, Niederöster-</p>
@@ -6907,7 +6907,7 @@
             <p>mp., Ungarn, Baranya, Bezdnn, 1885: verw.</p>
             <p>Seorg, Infst., IR. Nr. 31, Ungarn, Fogaras, Felsö-</p>
             <p>e, 1882; gestorben (27./10. 1917).</p>
-            <p>Urdik Andreas, Infst., IR. Nr. 97, <country>Görz und Gradiska</country>, Sesana, Temnica, 1890; gestorben (29./8. 1917).</p>
+            <p xml:id="vll.19180201_648.13438">Urdik Andreas, Infst., IR. Nr. 97, <country>Görz und Gradiska</country>, Sesana, Temnica, 1890; gestorben (29./8. 1917).</p>
             <p>Jakob, GeL, HIR. Nr. 6, 11. Komp., Ungarn,</p>
             <p>lodrog, Kula, 1896; gefallen (20./10. 1917).</p>
             <p>Bodor, Infst., IR. Nr. 41, 3. Komp., Ungarn, Fogaras,</p>
@@ -6915,7 +6915,7 @@
             <p>iniel, KerkSttifl., k. n. k. MilStrafanst., Ungarn, Pest,</p>
             <p>olt Kiskun, üagos, 1897; gestorben (29./7. 1917).</p>
             <p>KarAcsony, hfst., HIR. Nr. 4, Sturmkomp., Ungarn, Alsökoesoba, 1896; verw.</p>
-            <p>Ušlakar Alois, LstInfst., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Krainburg, 1891; verw.</p>
+            <p xml:id="vll.19180201_648.13454">Ušlakar Alois, LstInfst., k. k. LstIR. Nr. 27, 6. Komp., <country>Krain</country>, Krainburg, 1891; verw.</p>
             <p>Franz, Infst., k. k. LstlnfBaon. Nr. 44 5, Böhmen,</p>
             <p>)Ietz. Jiiitz, 187«; gestorben (6./11. 1917).</p>
             <p>c Eduard, LsInfst., IR. Nr. 74, zugeteilt dem IR.</p>
@@ -7039,7 +7039,7 @@
             <p>Tank# letvin, LstInfst., IR. Nr. 44, Ungarn, Tolna, Bedeg,</p>
             <p>U»4; kriegsgef., Romanow-Borissogliebsk, Gouvernement</p>
             <p>JsMSHwl, Rußland.</p>
-            <p>Vauschnik Jakob, VerpflSold., k. u. k. MilVerpflMag. in Budapest, <country>Görz und Gradiska</country>, Monfalcone, San Nikolaj, 1889; gestorben (4.8.1917)</p>
+            <p xml:id="vll.19180201_648.13696">Vauschnik Jakob, VerpflSold., k. u. k. MilVerpflMag. in Budapest, <country>Görz und Gradiska</country>, Monfalcone, San Nikolaj, 1889; gestorben (4.8.1917)</p>
             <p>gMtarben (4./8. 1917).</p>
             <p>TavAk JAnos, Infst., HIK Nr. 15, zugeteilt dem HIR.</p>
             <p>■r. 20i PionKomp., Ungarn, Nyitra, Lipovnok, 1899; verw.</p>
@@ -7059,7 +7059,7 @@
             <p>■•n, 1879; gestorben (20./11. 1917).</p>
             <p>TAcaka Karl, Zugsf., FJB. Nr. 2, Ungarn, Tolna, Nyulas,</p>
             <p>189fi; gestorben (17./10. 1917).</p>
-            <p>Vedovic Iinbro, Trainsold., TrainBaon. Nr. 13, <country>Istrien</country>, Voloca-Abbazia, Kalac, 1882; gestorben (16./10. 1917).</p>
+            <p xml:id="vll.19180201_648.13736">Vedovic Iinbro, Trainsold., TrainBaon. Nr. 13, <country>Istrien</country>, Voloca-Abbazia, Kalac, 1882; gestorben (16./10. 1917).</p>
             <p>TekabaTie Ale d. Ibro, Infst., bh. IE. Nr. 2, Bosnien, Vmo-</p>
             <p>grai, 1^7; gestorben 28./11. 1917).</p>
             <p>Tfdvofta Franz, Infst., IR. Nr. 28, 8. Komp., Böhmen,</p>
@@ -7109,8 +7109,8 @@
             <p>Brod, 1897; gestorben (l./ll. 1917).</p>
             <p>Yichmann Joset Infst., IR. Nr. 88, Böhmen, Luditi</p>
             <p>1897; (7./7. 1917). „ , ^</p>
-            <p>Vičič Alois, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Adelsberg, Čelje, 1897; verw.</p>
-            <p>Vida Florian, Kan., k. u. k. FHR. Nr. 42, <country>Steiermark</country>, Rann, Koprivnica, 1898; gestorben (25./11. 1917).</p>
+            <p xml:id="vll.19180201_648.13836">Vičič Alois, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Adelsberg, Čelje, 1897; verw.</p>
+            <p xml:id="vll.19180201_648.13838">Vida Florian, Kan., k. u. k. FHR. Nr. 42, <country>Steiermark</country>, Rann, Koprivnica, 1898; gestorben (25./11. 1917).</p>
             <p>ida JAnos, Infst., IR. Nr. 44, 12. Komp., Un^rn;</p>
             <p>Zseliczkisfalud, 1891; kriegsgef., Hquet Nr. 428,</p>
             <p>VIda Josef, Infst., IR. Nr. 44, Ungarn, Tolna,</p>
@@ -7121,12 +7121,12 @@
             <p>1871; gestorben 1./8. 1917).</p>
             <p>Tidi Joset, Infst., IR. 68, Ungarn, JAsz-Nagyku</p>
             <p>Jaszber6ny, 1884; gestorben (3./8. 1917).</p>
-            <p>Vidic Johann, LstInfst., k. k. LstIR. Nr. 27, <country>Krain</country>, Radmannsdorf, Veldes, 1879; verw.</p>
+            <p xml:id="vll.19180201_648.13860">Vidic Johann, LstInfst., k. k. LstIR. Nr. 27, <country>Krain</country>, Radmannsdorf, Veldes, 1879; verw.</p>
             <p>■ i» M ä M 11^ C\0 U&gt;tlB«VkAirV CaIvI</p>
             <p>Yidlm Josef, Infst., IR.’Nr. 28, Böhmen, Schlan,</p>
             <p>1898; gestorben (24./11. 1917).</p>
-            <p>Vidmar Anton, Kan., k. u. k. FstAR. Nr. 4, <country>Krain</country>, Rudolfswerth, Kleingloboko, 1878; gestorben (5./11. 1917).</p>
-            <p>Vidovic Johann, Infst., IR. Nr. 87, 16. Komp., <country>Steiermark</country>, Pettau, 1899; gestorben (26./11. 1917).</p>
+            <p xml:id="vll.19180201_648.13868">Vidmar Anton, Kan., k. u. k. FstAR. Nr. 4, <country>Krain</country>, Rudolfswerth, Kleingloboko, 1878; gestorben (5./11. 1917).</p>
+            <p xml:id="vll.19180201_648.13870">Vidovic Johann, Infst., IR. Nr. 87, 16. Komp., <country>Steiermark</country>, Pettau, 1899; gestorben (26./11. 1917).</p>
             <p>Ylehmann Rudolf, Infst.. IR. Nr. 88 Böhmen, I</p>
             <p>Schönhof, 1879; gestorben (27./9. 1917).</p>
             <p>Tlerilckl Anton, Korp., k. k. LstIR. Nr. 6, Böl</p>
@@ -7144,7 +7144,7 @@
             <p>9. Komp, Ungarn, BAkAs, Gadoros, 1894; verw.</p>
             <p>Yinki Johann, ErsResInfst., IR. Nr. 61, 12. Komp Temes, BuzAd, 1884; verw .</p>
             <p>YirAg Alexander, Gefr., IR. Nr. 82, 6. Koinp.,^ Udvarhely, Bibarczfalva, 1886; verw.</p>
-            <p>Yiseiitln Stefan, Infst., IR. Nr. 8, <country>Görz und Gradiska</country>, Görz, Opatiesclo, 1877; gestorben (l./ll. 1917).</p>
+            <p xml:id="vll.19180201_648.13906">Yiseiitln Stefan, Infst., IR. Nr. 8, <country>Görz und Gradiska</country>, Görz, Opatiesclo, 1877; gestorben (l./ll. 1917).</p>
             <p>Yisiier Georg, Infst., IR- Nr. 87, 1. Bauko^., x</p>
             <p>Graz, Schönegg, 1870; gestorben (22./10. 1917).</p>
             <p>Yiszgala Ignaz, Kan., k. u. k. FHR. Nr. 4, Bosnien</p>
@@ -7199,7 +7199,7 @@
             <p>ichael Imfst., IR. Nr. 66, MGKomp.. Ungarn, Zemplön, falu, 18B98; verw.</p>
             <p>Stanko,, Infst., bh. IR. Nr. 2, 15. Komp., Bosnien,</p>
             <p>i^rbljani,, 1898; gestorben (3./7. 1917).</p>
-            <p>Volk Johann, Kan., k. k. schw. FAR. Nr. 22, <country>Krain</country>, Slap, Adelsberg, 1896; gestorben (4./8. 1917).</p>
+            <p xml:id="vll.19180201_648.14010">Volk Johann, Kan., k. k. schw. FAR. Nr. 22, <country>Krain</country>, Slap, Adelsberg, 1896; gestorben (4./8. 1917).</p>
             <p>r Franz,, TitGefr., k. k. SchR. Nr. l, 2. Komp.,</p>
             <p>iBterreicHi, Wien, 1887; gestorben (8./8. 1917).</p>
             <p>»z, LstSapp., l8appBaon. Nr. 9, 7. Komp., Böhmen, rätz, Ceirnilov, 1897; verw.</p>
@@ -7265,7 +7265,7 @@
             <p>1897; gestorben (14/8. 1917).</p>
             <p>Waldhubcr Anton, LstJüg., TJR. Nr. 4, Tirol, Bozen, Gries,</p>
             <p>1866; g»‘storben (18./7. 1917).</p>
-            <p>Wallisch Emst, Jungschütze, TitZugsf.. Jungschütaenkorp. Triest, <country>Kärnten</country>, St. Veit, St. Donat, 1898; gestorben (8./9. 1917).</p>
+            <p xml:id="vll.19180201_648.14142">Wallisch Emst, Jungschütze, TitZugsf.. Jungschütaenkorp. Triest, <country>Kärnten</country>, St. Veit, St. Donat, 1898; gestorben (8./9. 1917).</p>
             <p>Walover Jakob, Infst., IR. Nr. 6, Ungarn, Bics-Bodrog,</p>
             <p>Szilberek, 1889; gestorben (30.10. 1917).</p>
             <p>Walter Josef, RcsZugsf., FJB. Nr. 21, 2. Komp., Mleder-</p>
@@ -7278,7 +7278,7 @@
             <p>Kralowitz, 1870; gestorben (G./8. 1917).</p>
             <p>Wanjo Johann, LstInfst., IR. Nr. 10, Galizien, Jawort&gt;w,</p>
             <p>Budzyn, 1893; gestorben (27./11. 1917).</p>
-            <p>Warde Richard, Infst., k. k. LstIR. Nr. 27, <country>Kärnten</country>, Völkermarkt, Griffen, 1899; gestorben (2./11. 1917).</p>
+            <p xml:id="vll.19180201_648.14168">Warde Richard, Infst., k. k. LstIR. Nr. 27, <country>Kärnten</country>, Völkermarkt, Griffen, 1899; gestorben (2./11. 1917).</p>
             <p>Waro Josef, Infst., HIR. Nr. 21, Ungarn, Alsö-Fehör,</p>
             <p>Magyarozd, 1898; gestorben (4./9. 1917).</p>
             <p>Warzoclm Klias, Lstlnfsf., IR. Nr. 90, ,H. Komp., Galixiwi Jaroslau, Monasterz, 1887; verw.</p>
@@ -7289,7 +7289,7 @@
             <p>Storozynelz, Petroutz, 1868; gestorben (9./10. 1917).</p>
             <p>Wasmntii Wolfram, EinjFrciw., KorpTitZugst, IR. Nr. 8,</p>
             <p>11. Komp., Mähren. Brünn, 1898: gefallen (24./10. 1M7).</p>
-            <p>Wassertheurer Jakob, LstSchütze, k. k. SchR. Nr. 16, <country>Steiermark</country>, Kirchbach, 1866; gestorben (6./7. 1917).</p>
+            <p xml:id="vll.19180201_648.14190">Wassertheurer Jakob, LstSchütze, k. k. SchR. Nr. 16, <country>Steiermark</country>, Kirchbach, 1866; gestorben (6./7. 1917).</p>
             <p>Watzka Johann Gefr., k. k. LstIR. Nr. 6, Böhmen, Taehan,</p>
             <p>Gotlrusch, 1880; gestorben (14./10. 1917),</p>
             <p>Waweycz Krye, Schütze, k. k. SchR. Nr. 34, GaJfzIe»,</p>
@@ -7391,7 +7391,7 @@
             <p>1917).</p>
             <p>WMiitoniak Stefan, Schütze, k. k. SchR. Nr. 19, 10</p>
             <p>Galizien, Stanislau, 18;'7; gestorben (21./lO. 1917</p>
-            <p>Wischner Alois, Schütze, k. k. SchR. Nr. 26, <country>Steiermark</country>, Gonobitz, Brezen, 1897; gestorben (27./7. 1917).</p>
+            <p xml:id="vll.19180201_648.14388">Wischner Alois, Schütze, k. k. SchR. Nr. 26, <country>Steiermark</country>, Gonobitz, Brezen, 1897; gestorben (27./7. 1917).</p>
             <p>W’itek Heinrich, Gefr., TcIR. Böhmen, Braunau, Rl</p>
             <p>1895; gestorben, (21./8. 1917).</p>
             <p>W’itcnok Michael, LstInfst., zugeteiit dem IR.</p>
@@ -7459,7 +7459,7 @@
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=53&amp;zoom=33">[ Verlustliste - 19180201 - Seite 53 ]</ref>
             </ab>
-            <p>Wuscher Johann, Infst., k. k. LstIR. Nr. 51, 5. Komp., <country>Krain</country>, Stein, St. Gotthardt, 1894; gestorben (3./7. 1917).</p>
+            <p xml:id="vll.19180201_648.14518">Wuscher Johann, Infst., k. k. LstIR. Nr. 51, 5. Komp., <country>Krain</country>, Stein, St. Gotthardt, 1894; gestorben (3./7. 1917).</p>
             <p>LstScliötze, k. k. SchR, Nr. 20</p>
             <p>ti’i Gropana, 1898; gestorben</p>
             <p>Nikolaius, Infsr., k. k. LsfIR. Nr. 32, 2. Komp.,</p>
@@ -7470,10 +7470,10 @@
             <p>Rawa ßuska, Gyniska, 1879; getallen (10./2.’</p>
             <p>Mlieb Lstlnhsi., IR. Nr. 18, 7. Korn).., Böhmen,</p>
             <p>itz, Necihanitz, 1896; gefallen (1. II. 1917)</p>
-            <p>Zabukovec Damjan, Infst., IR. Nr. 17, 16. Komp., <country>Krain</country>, Littai, Schalna, 1893; gestorben (2./11. 1917).</p>
+            <p xml:id="vll.19180201_648.14540">Zabukovec Damjan, Infst., IR. Nr. 17, 16. Komp., <country>Krain</country>, Littai, Schalna, 1893; gestorben (2./11. 1917).</p>
             <p>an, lnfs?t, IR. Nr. 83, Ungarn, Nyitra, Neboj.sza,</p>
             <p>Sterben 21,/7. 1917).</p>
-            <p>Zacharias Michael, Schütze, k. k. SchR. Nr. 26, <country>Steiermark</country>, Radkersburg, Wiesenbach, 1878; gestorben (8./11. 1917).</p>
+            <p xml:id="vll.19180201_648.14546">Zacharias Michael, Schütze, k. k. SchR. Nr. 26, <country>Steiermark</country>, Radkersburg, Wiesenbach, 1878; gestorben (8./11. 1917).</p>
             <p>^ikolaj, LstKan., k k. FHR. Nr. 43, Bukowina,</p>
             <p>itz. Szulbr&gt;metz, 1895, gC'torben (1./8. 1917).</p>
             <p>Istvän, Kan., HFKR. Nr. 7, Ungarn, Zala, Kis-</p>
@@ -7483,7 +7483,7 @@
             <p>ungeteilt dem bh. IR.</p>
             <p>. MbrKooinp., Bosnien. Ptozor, Duge, 1886; vcrw</p>
             <p>Ireas iLstInfst., k. k. LstIR. Nr. 27, 6. Komp.,</p>
-            <p>Žagar Andreas, LstInfst., k. k. LstIR. Nr. 27, 6. Komp., <country>Küstenland</country>, Tolmein, Žaga, 1876; verw.</p>
+            <p xml:id="vll.19180201_648.14566">Žagar Andreas, LstInfst., k. k. LstIR. Nr. 27, 6. Komp., <country>Küstenland</country>, Tolmein, Žaga, 1876; verw.</p>
             <p>in, LstA\rb., IR. Nr. 80, zueereilt der Flugzeug-</p>
             <p>e, Bako&gt;wina, Storozynetz, 1882; gestorben (8./11.</p>
             <p>Karoly, InfstNr.., HJR. Nr. 15, 9. Komp., Ungarn,</p>
@@ -7492,7 +7492,7 @@
             <p>1888; vearw.</p>
             <p>ann, Imfst., IR. Nr. 58. Galizien, Droliobycs,</p>
             <p>880; ge)-«torhen (5./9. 1917).</p>
-            <p>Zajc Ačpos, LstInfst., k. k. LstIR. Nr. 27, 1. Komp., <country>Krain</country>, Littai, Radachowatz, 1897; verw.</p>
+            <p xml:id="vll.19180201_648.14584">Zajc Ačpos, LstInfst., k. k. LstIR. Nr. 27, 1. Komp., <country>Krain</country>, Littai, Radachowatz, 1897; verw.</p>
             <p>:, Lstlnitst, k. u. k. LstEtappenBaon. Nr. 489,</p>
             <p>.^Mährern, Dobro More a. M., 1875; gestorben</p>
             <p>rhacl, S^chütze, k. k SchR. Nr. 19, 1. Komp.</p>
@@ -7517,7 +7517,7 @@
             <p>)rben (K0./7. 1917). ’</p>
             <p>'ranz KCarl, LsiJäg., FJB. Nr. 21, 2. Komp.,</p>
             <p>reich, Wien, 1898; gefallen (25./lu. 1917).</p>
-            <p>Zabela Johann, Infst., k. k. LstInfBaon. Nr. 30, 4. Komp., <country>Steiermark</country>, Pettau, Ivankofzon, 1879; gestorben (1.7. 1917).</p>
+            <p xml:id="vll.19180201_648.14634">Zabela Johann, Infst., k. k. LstInfBaon. Nr. 30, 4. Komp., <country>Steiermark</country>, Pettau, Ivankofzon, 1879; gestorben (1.7. 1917).</p>
             <p>»rencz. lInfst., HIR. Nr. 13 zug&lt;‘t‘'ilt dem HIR.</p>
             <p>jchn. Ktomp., Ungarn, Moson, Föltorony, 1896;</p>
             <p>efr., IR.. Nr. 57, Ga'izien, Dabrowa, Micliowicc,</p>
@@ -7602,8 +7602,8 @@
             <p>ZaU6 Mistota. Infst.. bh. IR. Nr. 2, ßosmen, Voicz 1890,</p>
             <p>ZaHaid^^JoseV Schütze k. k. ScbR. Nr. 5, Pisino,</p>
             <p>Albona Mitterburg, 1871; gestorben (7./10. 1J17).</p>
-            <p>Zupan Josef, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Radoljica, Gorje, 1879; verw.</p>
-            <p>Zupon Valentin, Zugsf., 30.5-cm.-MörserBatt. Nr. 30/7, <country>Krain</country>, Radmannsdorf, 1889; gestorben (27./8. 1917).</p>
+            <p xml:id="vll.19180201_648.14798">Zupan Josef, LstInfst., k. k. LstIR. Nr. 27, 4. Komp., <country>Krain</country>, Radoljica, Gorje, 1879; verw.</p>
+            <p xml:id="vll.19180201_648.14800">Zupon Valentin, Zugsf., 30.5-cm.-MörserBatt. Nr. 30/7, <country>Krain</country>, Radmannsdorf, 1889; gestorben (27./8. 1917).</p>
             <p>Znrawel Simon, LstKorp., IR- Nr. 90,^ 3. ^&lt;^mP 5</p>
             <p>Cieszanöw. Opaka, 1878; gefaben (2o./l0. U17).</p>
             <p>Znrek Anton, LstInfst., IR- Nr. 3, 8. Komp., Mahj leschau, Myslocowitz, 1891; verw. „</p>
@@ -7625,7 +7625,7 @@
             <p>Ir, Kottk Martin, Vorm., k. u. k. FHR. Nr. 33 st^t</p>
             <p>k. u. k. FKR. Nr. 14, Ungarn, Zala, Szentorbänhegy,</p>
             <p>1890, gestorben (23./8. 1917).</p>
-            <p>Arčon Anton, LstSapp., SappB. Nr. 3 statt SappB. Nr. 4, 3. Komp., <country>Görz und Gradiska</country>, Görz, Renče, 1898; gestorben (6./9. 1917).</p>
+            <p xml:id="vll.19180201_648.14844">Arčon Anton, LstSapp., SappB. Nr. 3 statt SappB. Nr. 4, 3. Komp., <country>Görz und Gradiska</country>, Görz, Renče, 1898; gestorben (6./9. 1917).</p>
             <p>bIhIc Mate, Infst., bli. IR. Nr. 4,</p>
             <p>govina statt Bosnien-Hercegovma, Mostar, Blatniea</p>
             <p>itattBlatnice, 1882statt 1881; q«</p>
@@ -7640,7 +7640,7 @@
             <p>Soffer false Krnpka Moses, LstSchütze stg</p>
             <p>k. k- SchR. Nr. 18, 3. Komp, Galizh</p>
             <p>Csarna, 1898; gestorben (9./8. 1917).</p>
-            <p>Feldbacher Michael statt Viktor, LstInfst., 3. Komp., <country>Steiermark</country>, Hartberg, Seibert; gestorben (10./9. 1917).</p>
+            <p xml:id="vll.19180201_648.14874">Feldbacher Michael statt Viktor, LstInfst., 3. Komp., <country>Steiermark</country>, Hartberg, Seibert; gestorben (10./9. 1917).</p>
             <p>Thensl Martin, LstInfst., IR. Nr. 47,^3</p>
             <p>Feldbach, Altenroarkt, 1882 statt 1879</p>
             <p>(10./9. 1917). .</p>

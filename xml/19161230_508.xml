@@ -313,7 +313,7 @@
             <p>j Käba Stanislaus, FregLt., KMar., Böhmen, Klattau, 1893; ; tot (6./ll. 1916).</p>
             <p>[ Keleiuen Alexander, Lt., IR. Nr. 37,8. Komp., LTigarn, Csongräd, Hödmezöväsdrhely, 1892; verw.</p>
             <p>i Kis Karl, Kdt. i. d. Res., FstAR. Nr. 3; tot (12. /8.1916).</p>
-            <p>Klasing Gustav, LinienSchiffsLt., KMar., <country>Küstenland</country>, Triest, 1884; tot (6./ll. 1916).</p>
+            <p xml:id="vll.19161230_508.526">Klasing Gustav, LinienSchiffsLt., KMar., <country>Küstenland</country>, Triest, 1884; tot (6./ll. 1916).</p>
             <p>I Klein Heinirich, Kdt. i. d. Res., bh. IR. Nr. 1,14. Komp., Ungarn,</p>
             <p>j ZempI6n„ Tolcsva, 1891; kriegsgef., Jaransk, Gouvernement</p>
             <p>I Wjatka, Rußland.</p>
@@ -323,7 +323,7 @@
             <p>Koeiolek Mlichael, Lt. i. d. Res., IR. Nr. 10, 2. Komp.; verw.</p>
             <p>Konopäsek Dr. Gottlieb, RgtsArzt d. R., SanTruppe; kriegsgef.,</p>
             <p>Rußland.</p>
-            <p>Kukovič Felix, Hptm., k. k. LIR. Nr. 37, 4. Komp., <country>Steiermark</country>, Rann, Montpreiss, 1884; kriegsgef., Italien.</p>
+            <p xml:id="vll.19161230_508.546">Kukovič Felix, Hptm., k. k. LIR. Nr. 37, 4. Komp., <country>Steiermark</country>, Rann, Montpreiss, 1884; kriegsgef., Italien.</p>
             <p>Löwy Mark, Lt. i. d. Res., IR. Nr. 61, Ungarn, Temesvär, 1888; verw., kriegsgef., Potenza, Italien.</p>
             <p>Luko§ Rudolf, Oblt. i. d. Res., IR. Nr. 10, 3. Komp., 1884; venv.</p>
             <p>Luniak Vinicenz, Lt., IR. Nr. 10, 3. Komp.; verw.</p>
@@ -405,7 +405,7 @@
             <p>4. Komp., Mähren, Mähr.-Weißkirchen, Neudek, 1897; verw.</p>
             <p>Halamas Friedrich, LstGefr. mit EinjFreiwAbz. TitFeldw.,</p>
             <p>IR. Nr. 1, 15. Komp., Schlesien, Troppau, 1893; verw.</p>
-            <p>Hoch Karl Leonhard, EinjFreiwStbsMaschWärter, KMar., <country>Steiermark</country>, Graz, 1892; verw., kriegsgef.</p>
+            <p xml:id="vll.19161230_508.704">Hoch Karl Leonhard, EinjFreiwStbsMaschWärter, KMar., <country>Steiermark</country>, Graz, 1892; verw., kriegsgef.</p>
             <p>Honen Josef, EinjFreiwTitKorp., IR. Nr. 36, 4. ErsKomp,,</p>
             <p>Böhmen, Starkenbach, Branna, 1894; kriegsgef., Rußland.</p>
             <p>Hooger Anton, EinjFreiwTitFeldw., IR. Nr. 99, zugeteilt dem</p>
@@ -422,7 +422,7 @@
             <p>Kreissl Ludwig, EinjFreiwFeldw., IR. Nr. 36, 11. Komp.,</p>
             <p>Böhmen, Podersam, 1892; kriegsgef., Spasskoje, Gebiet</p>
             <p>Primorsk, Rußland.</p>
-            <p>Kretschmer Alfred, EinjFreiwOberjäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 4. Komp., <country>Steiermark</country>, Judenburg, Knittelfeld, 1898; verw.</p>
+            <p xml:id="vll.19161230_508.738">Kretschmer Alfred, EinjFreiwOberjäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 4. Komp., <country>Steiermark</country>, Judenburg, Knittelfeld, 1898; verw.</p>
             <p>Kujal Karl, EinjFreiwTitFeldw., k. k. LIR. Nr. 30, 1. Komp.,</p>
             <p>Böhmen, Nachod, Rothkosteletz, 1895; verw.</p>
             <p>Libansky Jaromir, EinjFreiw., IR. Nr. 36, 2. ErsKomp., Böhmen,</p>
@@ -464,7 +464,7 @@
             <p>6. Komp., Niederösterreich, Hietzing Umgebung, Vöföscndori 1885; verw.</p>
             <p>Seeniayer Felix, EinjFreiwFeldw., SappB. Nr. 13, 1 Ungait</p>
             <p>Temes, Versecz, 1885; kriegsgef., Rußland.</p>
-            <p>Senitza Josef, EinjFreiwZugsf., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 4. Komp., <country>Steiermark</country>, Leoben, Göls; verw.</p>
+            <p xml:id="vll.19161230_508.822">Senitza Josef, EinjFreiwZugsf., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 4. Komp., <country>Steiermark</country>, Leoben, Göls; verw.</p>
             <p>Siegel Felix Franz, EinjFreiwTitFeldw., k. k. LIR. - Nr. 3(</p>
             <p>8. Komp., Niederösterreich, Wien, 1897; verv’.</p>
             <p>Straehovsky Veleslav, LstlnfstTitFeldw. mit EinjFrereiwAb^</p>
@@ -1473,7 +1473,7 @@
             <p>Covic Andrija, Infst., k. k. LIR. Nr. 37, 3./21. Marschkomp., Dalmatien, Makarska, 1897; verw. ... ,</p>
             <p>Covic Ivan, Korp., IR. Nr. 22, 20. Komp., Dalmatien, Makarska,</p>
             <p>1894* V6rw.</p>
-            <p>Credente Josef Andreas, Matrose 4. Kl , KMar., S. M. Torpedoboot "51T.", <country>Küstenland</country>, Volosca, Lovrana, 1885; tot (9./9. 1916).</p>
+            <p xml:id="vll.19161230_508.2792">Credente Josef Andreas, Matrose 4. Kl , KMar., S. M. Torpedoboot "51T.", <country>Küstenland</country>, Volosca, Lovrana, 1885; tot (9./9. 1916).</p>
             <p>CrhÄnrad, LstJäg., FJB. Nr. 13, 2. Komp., Mähren, Mähr.- Trübau, Jaromefitz, 1881; verw.</p>
             <p>Crljcn Ivan des Frane, Zugsf., IR. Nr. 22,13. Komp., Dalmatien, Sini 1891; verw. .</p>
             <p>Crnoievic Ivan, Infst., IR. Nr. 96, 3. Komp., Kroatien, Cazma, Sobocani, 1884; verw.</p>
@@ -1604,7 +1604,7 @@
             <p>ula Jäncos, Lstlnfst., IR. Nr. 45, Ungarn, Turöcz, Kost 3 'an,</p>
             <p>i9ö; krieegsgef., Charkow, Rußland.</p>
             <p>tych Frainz, Lstlnfst., k. k. LIR. Nr. 30, 2. Komp., Böhmen, hhenmaiuth, Chlum, 1889; verw.</p>
-            <p>Davanzo Bartolo Jakob, Matrose 1. Kl. M. V. M. KMar., S. M. Torpedoboot "51T.”, <country>Küstenland</country>, Pirano, 1888; verw.</p>
+            <p xml:id="vll.19161230_508.3048">Davanzo Bartolo Jakob, Matrose 1. Kl. M. V. M. KMar., S. M. Torpedoboot "51T.”, <country>Küstenland</country>, Pirano, 1888; verw.</p>
             <p>David Äron, Infst., IR. Nr. 37, 6. Komp., Ungarn, Bihar, Mada- räsz, 1895; verw.</p>
             <p>David Josef, Überheizer, KMar.. S.M. PatrBoot „B.rsch”,</p>
             <p>Ungarn, Bihar, Mezötelegd, 1890; tot (2./10.1916).</p>
@@ -2032,7 +2032,7 @@
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161230&amp;seite=17&amp;zoom=33">[ Verlustliste - 19161230 - Seite 17 ]</ref>
             </ab>
-            <p>Furlani Josef, ErsResInfst., k. k. LIR. Nr. 37, 17. Komp., <country>Küstenland</country>, Prvačina, 1888; tot (8./ll. 1916).</p>
+            <p xml:id="vll.19161230_508.3880">Furlani Josef, ErsResInfst., k. k. LIR. Nr. 37, 17. Komp., <country>Küstenland</country>, Prvačina, 1888; tot (8./ll. 1916).</p>
             <p>Futö S4ndor, Korp., k. u. LIR. Nr. 3, Ungarn, Hajdu, Nädudvar,</p>
             <p>1891; kriegsgef., Kasimow, Gouvernement Rjüsan, Rußland.</p>
             <p>Fäz§r Mihäly, Lstlnfst., k. u. LIR. Nr. 3, Ungarn, Hajdu,</p>
@@ -2139,9 +2139,9 @@
             <p>Wolostköw., 1891; kriegsgef., Urshum, Gouvernement Wjatka,</p>
             <p>Rußland.</p>
             <p>Gluvakovic Jiosip, Infst., IR. Nr. 96, 6. Komp., Slavonien, 2ti- panja, Gumja, 1894; verw.</p>
-            <p>Gmeiner Andreas, LstInfst., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Leoben, St. Stefan, 1887; verw.</p>
+            <p xml:id="vll.19161230_508.4094">Gmeiner Andreas, LstInfst., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Leoben, St. Stefan, 1887; verw.</p>
             <p>Giiida Johanni, Lstlnfst., IR. Nr. 90, Galizien, Jarosla.u, Zaradawa, 1895; verw.</p>
-            <p>Gödl Markus, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Leibnitz, 1892; verw.</p>
+            <p xml:id="vll.19161230_508.4098">Gödl Markus, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Leibnitz, 1892; verw.</p>
             <p>Golarits Johainn, Korp., IR. Nr. 37, Ungarn, Pest, Lajosmizse, 1891; verw.</p>
             <p>3</p>
             <pb n="18"
@@ -2161,7 +2161,7 @@
             <p>1891; kriegsgef., Susdal, Gouvernement Wladimir,Rußland.</p>
             <p>Gorst'ta Mato, Infst., IR. Nr. 96, PionAbt., Ki'oatien, Glina, Jukinac, 1890; verw.</p>
             <p>Göltlielier P'ranz, Infst., k. k. LstlR. Nr. 31,12. Komp., Mähren, Römerstadt, Friedrichsdorf, 1876; verw.</p>
-            <p>Grabner Karl, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Hartberg, Siebenbrunn, 1883; verw.</p>
+            <p xml:id="vll.19161230_508.4132">Grabner Karl, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Hartberg, Siebenbrunn, 1883; verw.</p>
             <p>Gracko Istvan, Infst., IR. Nr. 70, 5. Komp., Slavonien, Irig, Maradik, 1886; verw.</p>
             <p>Graf«! Josef, LstJäg., FJB. Nr. 28, ErsKomp., Ungarn, Hajdu,</p>
             <p>B Imazujväros, 1894; krieg.sgef., Rußland.</p>
@@ -2188,7 +2188,7 @@
             <p>Gruza I Johann, LstJäg., FJB. Nr. 28, ErsKomp., Ungarn, Temesill6sd, 1890; kriegsgef., Rußland.</p>
             <p>(rnibiicski Mark, Infst., k. u. LIR. Nr. 7, zugeteilt dem k. u.</p>
             <p>BIR. Nr.302, Ugarn, Torontäl, Szerbszentmarton, 1878; verw.</p>
-            <p>Gruber Sixtus, LstPatrf., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Murau, St. Blasen, 1895; verw.</p>
+            <p xml:id="vll.19161230_508.4186">Gruber Sixtus, LstPatrf., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Murau, St. Blasen, 1895; verw.</p>
             <p>Grubic Josip, Infst., IR. Nr. 96,3./XIX. Marschkomp., Kroatien, Kostainica, Majur, 1894; verw.</p>
             <p>Grubic Peter, Infst., IR. Nr. 70, 5. Komp., Slavonien, Sid, Kukujevei, 1895; verw.</p>
             <p>Grnic Joakim, Infst., IR. Nr. 70, 7. Komp., Slavonien, Vukovar, Negoslavci, 1884; verw.</p>
@@ -2448,7 +2448,7 @@
             <p>Holan Franz, Infst., IR. Nr. 36, 9. Komp., Böhmen, Podöbrad, Choteschitz, 1892; kriegsgef., Rußland.</p>
             <p>Holeczka Stefan, Lstlnfst., IR. Nr. 45; Ungarn, Bars, Csarad,</p>
             <p>• 1883; kriegsgef., Urshum, Gouvernement Wjatka. Rußland.</p>
-            <p>Höller Franz, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Voitsberg, St. Johann ob Hohenburg, 1885; verw.</p>
+            <p xml:id="vll.19161230_508.4694">Höller Franz, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Voitsberg, St. Johann ob Hohenburg, 1885; verw.</p>
             <p>llolman Johann, Lstlnfst., IR. Nr. 36, 3./V. Marschkomp.,</p>
             <p>Böhmen, Neubydäov, Prasek; kriegsgef.. Allgemeines Militär-</p>
             <p>spitalin Moskau, Rußland.</p>
@@ -3679,7 +3679,7 @@
             <p>Kuss Franz, Lstlnfst., IR. Nr. 36, 4. ErsKomp., Böhmen, Neu-</p>
             <p>bydzov, Sraidar, 1891; kriegsgef., Bachmut, Gouvernement</p>
             <p>Jekaterinoslaw, Rußland.</p>
-            <p>Kuss Karl, Infst., k. k. LIR. Nr. 23, 2. Komp., <country>Küstenland</country>, Triest, 1892; verw.</p>
+            <p xml:id="vll.19161230_508.7102">Kuss Karl, Infst., k. k. LIR. Nr. 23, 2. Komp., <country>Küstenland</country>, Triest, 1892; verw.</p>
             <p>Kusz Piotr, LstLifst., IR, Nr. 45, Galizien, Lisko, Böbrka, 1876;</p>
             <p>kriegsgeif., Staryj Oskol, Gouvernement Kursk, Rußland.</p>
             <p>Kuta Johann, LstLifst., k. k. LIR. Nr. 30, 6. Komp., Böhmen, Hohenmauth, Hruscliau, 1893; verw.</p>
@@ -4358,7 +4358,7 @@
             <p>-MiszineKZ JÄnos, Ijstlnfst., IR. Nr. 46, Ungarn, Arva, Felsö-</p>
             <p>zubrideza, 1886; kriegsgef., Urshum, Gouvernement Wjatka,</p>
             <p>Rüßlaland.</p>
-            <p>Mitag Petar, Infst., IR. Nr. 96, 1./XIX. Marschkomp., <country>Kärnten</country>, Wolfsberg, Unter-Drauburg, 1884; verw.</p>
+            <p xml:id="vll.19161230_508.8424">Mitag Petar, Infst., IR. Nr. 96, 1./XIX. Marschkomp., <country>Kärnten</country>, Wolfsberg, Unter-Drauburg, 1884; verw.</p>
             <p>MlftdeJelek Emanuel, Lstlnfst., k. k. LIR. Nr. 30, 4. Komp.,</p>
             <p>Böhramen, Pardubitz, Bejscht, 1888; verw</p>
             <p>Ml&amp;dek i Josef, Lstlnfst., k. k. LIR. Nr. 30, 6. Komp., Böhmen, Neuparaka, Tetin, 1896; verw.</p>
@@ -4491,8 +4491,8 @@
             <p>Mysllvec Josef, Infst., k. k. LstlR. Nr. 31, 8. Komp., Böhmen, Kh ttau, Cihan, 1877; verw.</p>
             <p>Mysllvojok Karl. Lstlnfst ,k. k. LIR. Nr. 30,8. Komp., Böhmen, Kuttenberg, Z-’ndau, 1896; verw.</p>
             <p>Mytka Oleksa, Infst., IR. Nr. 45. 2. Komp., Galizien, Jaworöw, Rogfttno, 1892; kriegsgef., Rußland.</p>
-            <p>Nachbargauer Johann, Jäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Liezen, Wildalpe, 1893; verw.</p>
-            <p>Nacinovič Mate des Ante, ErsResInfst., k. k. LIR. Nr 5, zugeteilt dem k. k. LIR. Nr. 37, 16. Komp., <country>Küstenland</country>, Pazin, 1886; verw.</p>
+            <p xml:id="vll.19161230_508.8684">Nachbargauer Johann, Jäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Liezen, Wildalpe, 1893; verw.</p>
+            <p xml:id="vll.19161230_508.8686">Nacinovič Mate des Ante, ErsResInfst., k. k. LIR. Nr 5, zugeteilt dem k. k. LIR. Nr. 37, 16. Komp., <country>Küstenland</country>, Pazin, 1886; verw.</p>
             <p>Nadlak Andreas, LstArb., k. k. LstlR. Nr. 34, LstArbAbt. 266,</p>
             <p>Galizien, Rnwa Ruska, Wröblaczyn, 1870; tot (Gestorbesn am</p>
             <p>17./lO. 1916, begr ben bei Alsö-Sebes, Ungarn)</p>
@@ -5117,7 +5117,7 @@
             <p>Pohorskky Josef, Infst., k. k. LIR. Nr. 30, 12. Komp., Böhmen,</p>
             <p>PoliÖdka, Breithenthal, 1893; tot (3./6.1916).</p>
             <p>Pobiis Georg, Jäg., FJB. Nr. 28, 4. Komp., Ungarn, Bihar, Erdö(odamos, 1890; kriegsgef., Rußland.</p>
-            <p>Pojer Filipp, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Judenburg, Allersdorf, 1871; verw.</p>
+            <p xml:id="vll.19161230_508.9906">Pojer Filipp, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Judenburg, Allersdorf, 1871; verw.</p>
             <p>Pojjie GGjuro, Infst., IR. Nr. 96, 7. Komp., Kroatien, Petrinja, Sunjaja, 1886; verw.</p>
             <p>Pokol EEmmerich, Jäg., FJB. Nr. 28, 4. Komp., Ungarn, Bihar,</p>
             <p>Erkölöbölkut, 1886; kriegsgef., Kußland.</p>
@@ -5490,7 +5490,7 @@
             <p>Szöröny, Barbos, 1891; kriegsgef., Rußland.</p>
             <p>R«ca Demeter, LstJäg,, FJB. Nr. 28, 4. Komp., Ungarn, fernes,</p>
             <p>Ujbodrog, 1883; ..riegsgef., Rußland. „</p>
-            <p>Rocco Benjamin, MaschQuartmeister, KMar., S. M. Torpedoboot „51 T“, <country>Küstenland</country>, Pola, 1896; tot (9./9. 1916).</p>
+            <p xml:id="vll.19161230_508.10634">Rocco Benjamin, MaschQuartmeister, KMar., S. M. Torpedoboot „51 T“, <country>Küstenland</country>, Pola, 1896; tot (9./9. 1916).</p>
             <p>R«gek Adolf, Lstlnfst., k. k. LIR. Nr. 30, 13. Komp., Rohmen, Senftenberg, Böhm. Rybna, 1892; verw ^</p>
             <p>Reten Jarosiaus, Lstlnfst., k. k. LIR. Nr. 30, 2. Komp., Böhmen,</p>
             <p>Hohenmauth, Ratschitz, 1896; tot (18./6. 1916).</p>
@@ -5827,7 +5827,7 @@
             </ab>
             <p>Sidor Mfichael, Lstlnfst., IR. Xr. 10, 2. Komp., 1893; verw.</p>
             <p>iSiecxka. Josef, Ul., UR. Nr. 2, Galizien,NowyTarg, Bialy Dunajec, 1893;; tot (15./8. 1915).</p>
-            <p>Siegl Joohann, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 3. Komp., <country>Steiermark</country>, Voitsberg, Lobming, 1871; tot (1. bis 31./10. 1916).</p>
+            <p xml:id="vll.19161230_508.11290">Siegl Joohann, LstJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 3. Komp., <country>Steiermark</country>, Voitsberg, Lobming, 1871; tot (1. bis 31./10. 1916).</p>
             <p>Sijakoviiö Ilija, Infst., IR. Nr. 70, 5. Komp., Slavonien, Viikovar, Trpimja, 1889; verw.</p>
             <p>Sikola J.losef, Lstlnfst., k. k. LIR. Nr. 30, 1. Komp., Böhmen, Semill, Chlistow, 1879; verw.</p>
             <p>Silberbcrrg Abraham, Kan., FHR. Nr. 2; verw.</p>
@@ -6126,7 +6126,7 @@
             <p>Senfiftenberg, Ritschka, 1896; kriegsgef., KuZnezk, Gouverne-</p>
             <p>raeiitit Saratow, Rußland. -</p>
             <p>Steineor Adolf, Lstlnfst., k. k. LIR. Nr. 30, 2. Komp., Böhmen, Lanodskron, Oberjohn.sdorf, 1886; verw.</p>
-            <p>Steiner Bartholomäus, ResJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 3. Komp., <country>Steiermark</country>, Murau, Seebach, 1885; verw.</p>
+            <p xml:id="vll.19161230_508.11876">Steiner Bartholomäus, ResJäg., FJB. Nr. 9, zugeteilt dem FJB. Nr. 16, 3. Komp., <country>Steiermark</country>, Murau, Seebach, 1885; verw.</p>
             <p>Steineor Heinrich, Lstlnfst., IR. Nr. 45, Ungarn, Veszprdm,</p>
             <p>Nosjszlop, 1879; verw., kriegsgef., Vereinigtes Evakuationsspital</p>
             <p>Nr. ] 17 in Moskau, Rußland.</p>
@@ -7005,7 +7005,7 @@
             <p>Voparil Josef, Lstlnfst., k. k. LIR. Nr. 30, 4. Komp., Böhmen, Leitomischl, Oberaujezd, 1891; verw.</p>
             <p>Vopoläk Anton, ErsResInfst., k. k. LIR. Nr. 30, 1. Komp.,</p>
             <p>Böhmen, Kuttenberg, Tfebeschitz, 1872; verw.</p>
-            <p>Voraber Franz, LstJäg., FJB. Nr. 9 zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Weiz, Krammersdorf, 1896; tot (1. bis 31./10. 1916).</p>
+            <p xml:id="vll.19161230_508.13592">Voraber Franz, LstJäg., FJB. Nr. 9 zugeteilt dem FJB. Nr. 16, 1. Komp., <country>Steiermark</country>, Weiz, Krammersdorf, 1896; tot (1. bis 31./10. 1916).</p>
             <p>VoriSek Wilhelm Augi^tin, Lstlnfst., IR. Nr. 36, 1. ErsKomp.,</p>
             <p>Böhmen, Kuttenbefg, 1884; kriegsgef., Kusnezk, Gouverne Gouvernement ­</p>
             <p>ment Gouvernement Tainbow, Rußland.</p>
@@ -7325,9 +7325,9 @@
             <p>Zlatiiik Franz, Lstlnfst, IR. Nr. 36, 1. Marschkomp., Böhmen.</p>
             <p>Neubydzow, 1894; kriegsgef., Krasnoufimsk, Gouvernement</p>
             <p>Perm, Rußland. ■</p>
-            <p>Zmasrk Alois, ResInfst., k. k. LIR. Nr. 37, 6. Komp., <country>Steiermark</country>, Pettau, Scherovinzen, 1882; verw.</p>
+            <p xml:id="vll.19161230_508.14220">Zmasrk Alois, ResInfst., k. k. LIR. Nr. 37, 6. Komp., <country>Steiermark</country>, Pettau, Scherovinzen, 1882; verw.</p>
             <p>2miko Dusan, Infst, IR. Nr. 22, 20. Komp., Dalmatien, Knin] 1884; verw'. i</p>
-            <p>Zmugg Alois, LstInfst, FJB. Nr. 9. zugeteilt dem FJB. Nr. 16, 3. Komp., <country>Steiermark</country>, Deutsch-Landsberg, Besenbach, 1887; verw.</p>
+            <p xml:id="vll.19161230_508.14224">Zmugg Alois, LstInfst, FJB. Nr. 9. zugeteilt dem FJB. Nr. 16, 3. Komp., <country>Steiermark</country>, Deutsch-Landsberg, Besenbach, 1887; verw.</p>
             <p>Zomboracz Mihäly, Gefr., k. u. LIR. Nr. 7, zugeteilt dem k. lu</p>
             <p>LIR. Nr. 302, Ungarn. Ujfalu, 1895; verw'. i</p>
             <p>Zon Paul, Infst, k. k. LstlR. Nr. 31, 3. Komp., Schlesien, Teschen] Bukowiec, 1896; verw'. ' i</p>

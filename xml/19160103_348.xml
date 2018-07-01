@@ -378,7 +378,7 @@
             <p>1883; kriegsgef- Beresowka, Transbaikalien, Rußland.</p>
             <p>Czech Albert, Lt. i. d Res., IR. Nr. 71, 7. Komp. Mähren Proß-</p>
             <p>nitz. 1887: kriegsgef., Berezowka. Transbaikalien, Rußland.</p>
-            <p>Dellefan Ernst, Oblt. i. V. d. Ev., k. k. LstIR. Nr. 409, Stab, <country>Steiermark</country>, Weiz, verw.</p>
+            <p xml:id="vll.19160103_348.650">Dellefan Ernst, Oblt. i. V. d. Ev., k. k. LstIR. Nr. 409, Stab, <country>Steiermark</country>, Weiz, verw.</p>
             <p>Dcoasi Järoslaus, Kdt. i. d. Res., k. k. LIR. Nr. 14, 1. Komp., Mähren. Brünn. 1894: verw.</p>
             <p>Dibiik Augurtm, Lt. i. d Res., IR. Nr. 9, Mähren, Hohenstadt,</p>
             <p>Fritscheiu 1884; kriegsgef. Semipaiat'nsk, Rußland.</p>
@@ -464,12 +464,12 @@
             <p>Neumann Franz, Lt., IR. Nr. 4,14. Komp.; tot(l.—4./11.1915)!</p>
             <p>Nov&amp;k Emerich, Lt., IR. Nr. 71, 5. Komp., Ungarn, Komärom,</p>
             <p>'Tata, 1890; kriegsgef., Beresowka, Transbaikalien, Rußland.</p>
-            <p>Odörfer Wilhelm, LstOblt., k. k. LstlR. Nr. 409, 5. Komp., <country>Steiermark</country>, Graz; tot (7.-10./10.1915}.</p>
+            <p xml:id="vll.19160103_348.816">Odörfer Wilhelm, LstOblt., k. k. LstlR. Nr. 409, 5. Komp., <country>Steiermark</country>, Graz; tot (7.-10./10.1915}.</p>
             <p>Ott Norbert Ludwig, Lt.I. d. Res., IR.Nr. 71,12. Komp., Böhmen,</p>
             <p>Brüx, 1883; kriegsgef., Beresowka, Transbaikalien, Rußland.</p>
             <p>Qttenreiter Julius, Kdt. i. d. Res., k. k. LIR. Nr. 14, 7. Komp.,</p>
             <p>Mähten, Brünn, 1880; tot (13./9. 1916). _■</p>
-            <p>Pawclek Bruno, LstOblt., k. k. LstlR. Nr. 409, 9. Komp., <country>Steiermark</country>, Gröbming, Bad Aussee; verw.</p>
+            <p xml:id="vll.19160103_348.826">Pawclek Bruno, LstOblt., k. k. LstlR. Nr. 409, 9. Komp., <country>Steiermark</country>, Gröbming, Bad Aussee; verw.</p>
             <p>Pazdera Friedrich, L't. i. d. Res., k. k. LIR. Nr. 14, 1. Komp.,</p>
             <p>Mähren, Groß Meseritsch, lirizsnau, 1892; vcrw.</p>
             <p>Pcrseli Anton, Fähnr. i. d. Res., IR. Nr. 8, 5. Komp., Mähren, Brünn, 1892; verw.</p>
@@ -535,7 +535,7 @@
             <p>Wagner Raimund Julius, KdtAsp., IR. Nr. 71,8. Komp., Ungarn,</p>
             <p>Budapest, 1887; kriegsgef., Station Nicolo-Alexandrowskaj a</p>
             <p>bei Chabarowska, Rußland.</p>
-            <p>Wamberger Felix, LstOblt., k. k. LstlR. Nr. 409, 8. Komp., <country>Steiermark</country>, Graz, 1880; verw.</p>
+            <p xml:id="vll.19160103_348.952">Wamberger Felix, LstOblt., k. k. LstlR. Nr. 409, 8. Komp., <country>Steiermark</country>, Graz, 1880; verw.</p>
             <p>Weinberger Robert, Lt., IR. Nr. 22, 4. Komp., Niederösterrcich, Wien, 1889; verw.</p>
             <p>Weiss Franz, Fähnr. i. d. Res., IR. Nr. 71, 2. Komp., Mähren,</p>
             <p>Tornau, Markt, 1889; kriegsgef., Beresowka, Transbaikalien,'</p>
@@ -551,7 +551,7 @@
             <p>Zemanek Josef, Lt., IR. Nr. 40, Böhmen, Königinliof, 1885; -kriegsgef., Dorf, Losewski Rußland.</p>
             <p>Zoilneritscli Maximil., LstLt., k. k. LstlR. Nr. 409, MCA. III,</p>
             <p>tot (24.-25./10. 1915).</p>
-            <p>Zuzzi Engelbert, Obst., k. k. LstIR. Nr. 409, BaonsStb., <country>Küstenland</country>, Tri?st; verw.</p>
+            <p xml:id="vll.19160103_348.984">Zuzzi Engelbert, Obst., k. k. LstIR. Nr. 409, BaonsStb., <country>Küstenland</country>, Tri?st; verw.</p>
             <p>Mannschaft.</p>
             <p>Abeles Ernst, Gefr., k. k. LIR. Nr. 14, 5. Komp., Niederster- ■ reich, Wien, 1875; verw. /</p>
             <p>Abinun Molo, Inft., bh. IR, Nr. 1, MilArbAbt. Nr. 201, Bosnien, Sarajevo, 1875; verw.</p>
@@ -2669,7 +2669,7 @@
             <p>Lasclsolier Josef, ErsRes., IR. Nr.- 84, 1. Marschkomp., Nieder-</p>
             <p>'österreieh, Wr.-Neustadt, Krumbach, 1879; kriegsgef., Ruß ­</p>
             <p>land.</p>
-            <p>Lauehart Hans, Inft., IR. Nr.. 4, 13. Komp., <country>Kärnten</country>, Friesach, St. Veit a. d. GL, 1888; verw.</p>
+            <p xml:id="vll.19160103_348.5106">Lauehart Hans, Inft., IR. Nr.. 4, 13. Komp., <country>Kärnten</country>, Friesach, St. Veit a. d. GL, 1888; verw.</p>
             <p>Lsurer Heinri^, Inft., IR. Nr. 49, MGA. II ; verw.</p>
             <p>Lax Franz, Zugsf., IR. Nr. 8, 4. Komp., Mähren, Brünn, Bohonitz, 1888; verw. '</p>
             <p>Lazar I Josef, Inft., IR. Nr. 8, 2. Komp., Mähren, Tischnowitz, Mähr. Kynitz, 1894; verw.. . • i</p>
@@ -2684,7 +2684,7 @@
             <p>Lechner Johann, Inft, IR. Nr. 8, 2. Komp., Niederösterrcieh, 1</p>
             <p>. Wr.-Neustadt, Lichtenegg, 1894; tot (5. —10./10. 1915). &gt;</p>
             <p>Leelmer Josef, Inft., IR. Nr. 49, 1. Komp., Niederösterrcieh, Lilien feld, Ramsau, 1894; verw.</p>
-            <p>Lechner Rudolf, Inft., k. k. LstlR. Nr. 25,11. Komp., <country>Steiermark</country>, Leoben, Hieflan, 1884; tot (18./10. 1915).</p>
+            <p xml:id="vll.19160103_348.5136">Lechner Rudolf, Inft., k. k. LstlR. Nr. 25,11. Komp., <country>Steiermark</country>, Leoben, Hieflan, 1884; tot (18./10. 1915).</p>
             <p>Lackel Johann, Inft. TitGcfr., IR. Nr. 8, 6. Komp., Mähren, Brünn, 1895; tot (5.-10./10. 1915).</p>
             <p>Ledl Wenzel, Inft., k. k: LstlR. Nr. 409, 3. Komp., Böhmen,</p>
             <p>Königinhof, Ilabrina, 1875; tot (25./10. 1915).</p>

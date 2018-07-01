@@ -416,7 +416,7 @@
             <p>Woronesch, Rußland.</p>
             <p>Kirasic Viktor, Oblt,, IR, Nr. 53, 5, Komp,, Kroatien, Ogulin, 1893;- kriegsgef., Rußland.</p>
             <p>Koller v. Ivan, Fahrn., HR. Nr. 1, 2. Esk,, Ungarn, Fejdr, Alap, 1891; verw.</p>
-            <p>Kordon Alfred, Oblt., IR. Nr. 98, 3. Komp., <country>Steiermark</country>, Marburg, 1890; kriegsgef., Dist ccamento, Casalmaggiore, Italien.</p>
+            <p xml:id="vll.19160302_385.720">Kordon Alfred, Oblt., IR. Nr. 98, 3. Komp., <country>Steiermark</country>, Marburg, 1890; kriegsgef., Dist ccamento, Casalmaggiore, Italien.</p>
             <p>Krista Jaroslaus Adolf, Oblt. i. d. Res., IR Nr. 98, 13. Komp,,</p>
             <p>Böhmen, Braunau, Polie, 1881; kriegsgef., Stadt Kostroma,</p>
             <p>Gouvernement Kostroma, Rußland,</p>
@@ -452,7 +452,7 @@
             <p>. StuSik Miroslav, Kdt. i, d. Res., FJB. Nr. 6, 4. Komp., Böhmen,</p>
             <p>Königliche Weinberge, Zwol, 1892;kriegsgef.,Poköw, Gouverne ­</p>
             <p>ment Wladimir, Rußland,'</p>
-            <p>Tomasini Paul, Oblt., IR. Nr. 98, 10. Komp., <country>Küstenland</country>, Gradiska, Villesse, 1887 kriegsgef., Stadt Kostroma, Gouvernement Kostroma, Rußland.</p>
+            <p xml:id="vll.19160302_385.792">Tomasini Paul, Oblt., IR. Nr. 98, 10. Komp., <country>Küstenland</country>, Gradiska, Villesse, 1887 kriegsgef., Stadt Kostroma, Gouvernement Kostroma, Rußland.</p>
             <p>Vccsey G&amp;a, Obst.it., fe, u, LstlR, Nr. 19, 1. Baon,, Ungarn; verw.</p>
             <p>¥14cil Franz, Kdt. i. d. Res., k. k. LIR. Nr. 12, 4. ErsKomp,,</p>
             <p>Mähren,' Mähr. Weißkirchen, Trschitz, 1891; ' kriegsgef.,</p>
@@ -4269,7 +4269,7 @@
             <p>Mikula Johann, Inft., IR. Nr. 37, 2. Komp., Ungarn, Biliar, Dombroväny, 1895; verw.</p>
             <p>LIR. Nr. 16, 0. Komp., Ungarn, Arva,</p>
             <p>Felsöleliota, 1887; kriegsgef/,' Rudan d. ' =—</p>
-            <p>Mikuli Peter des Ivo, ErsResKojp., k. k. LIR. Nr. 37,19. Komp., <country>Küstenland</country>, Parenzo, Montona, 1885; verw.</p>
+            <p xml:id="vll.19160302_385.8240">Mikuli Peter des Ivo, ErsResKojp., k. k. LIR. Nr. 37,19. Komp., <country>Küstenland</country>, Parenzo, Montona, 1885; verw.</p>
             <p>Milat-Iirtic Marko des Marin, ErsRes., k. k. LIR. Mr. 37, 3. Ers ­</p>
             <p>Komp., Dalmatien, Curzola, Blato, .1882; kriegsgef., Nis,</p>
             <p>Serbien-.</p>
@@ -6605,7 +6605,7 @@
             <p>gefangenschaft.) ' . '</p>
             <p>Zoe Pavao, jnft,, _k. u, LstlR, Kr. 27, Kroatien, Kostajniea,</p>
             <p>. Majnr, 1878; kriegsgef (In serbischer Kriegsgefangenschaft.)</p>
-            <p>Zega Andrea, LstInft., k. k. LIR. Kr. 37, 17. Komp., <country>Küstenland</country>, Sesana, Kopriva, 1891; verw.</p>
+            <p xml:id="vll.19160302_385.12798">Zega Andrea, LstInft., k. k. LIR. Kr. 37, 17. Komp., <country>Küstenland</country>, Sesana, Kopriva, 1891; verw.</p>
             <p>Zcllisko Franz, Inft., IB. Nr. 94, 4, ErsKomp., kriegsgef., Lais-</p>
             <p>hew, Gouvernement Kasan, Rußland.</p>
             <p>Zentan Anton, Inft.-, IR, Nr. 94, 1, ErsKomp.; kriegsgef,, Ka-</p>
@@ -6759,7 +6759,7 @@
             </ab>
             <p>Verlustliste Nr. 178. .</p>
             <p>Mannschaft.</p>
-            <p sameAs="VIL.178">Jäger von Johann, ErsRes., IR. Nr, 22, 3. Komp., <country>Kärnten</country>, Spittal, Gmünd, 1880. (Aus der Kriegsgefangenschaft zurück gekehrt.)</p>
+            <p xml:id="vll.19160302_385.13094" sameAs="VIL.178">Jäger von Johann, ErsRes., IR. Nr, 22, 3. Komp., <country>Kärnten</country>, Spittal, Gmünd, 1880. (Aus der Kriegsgefangenschaft zurück gekehrt.)</p>
             <p>zurückge ehrt.)</p>
             <p>Verlustliste Nr. 183.</p>
             <p>Offiziere.</p>

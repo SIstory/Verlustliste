@@ -376,7 +376,7 @@
             <p>Beyrer Josef, Hptm., LdschR. Nr. II, tot (26J8.—14./9. 1914).</p>
             <p>Blumka Hugo, Lt. i. d. Res., 1R. Nr. 09, 6. Komp., Niederöster ­ reich, Wien, 1887, kriegsgef.</p>
             <p>Bück Josef, Lt., IR., Nr. 49, 5. Komp., tot (23./II. 1914).</p>
-            <p>Brandt Ludwig, Kdt. i. d. Res., IR. Nr. 99, 13. Komp., <country>Steiermark</country>, Leöben, Eisenerz, 1892, verw.</p>
+            <p xml:id="vll.19150124_112.646">Brandt Ludwig, Kdt. i. d. Res., IR. Nr. 99, 13. Komp., <country>Steiermark</country>, Leöben, Eisenerz, 1892, verw.</p>
             <p>Brauer Adolf, Hptm., LdschR. Nr. II, verw. .</p>
             <p>Brenner Albert, Oblt. d. R., IR, Nr. 49, 9. Komp., Niederöster ­ reich, Wien, verw.</p>
             <p>Capek Alois, Kdt. i., d. Res., LdschR. Nr. II, verw.</p>
@@ -554,7 +554,7 @@
             <p>Krems a. d. D., 1880, veiw.</p>
             <p>Wurmbranil-Stupbach Wilhelm Graf, Lt. a. D., DR. Nr. 15,</p>
             <p>tot (15. /12.1914. (Beerdigt in Bobowa.)</p>
-            <p>Zeiler Rudolf, Oblt., k. k. LTR. Nr. 21, 5. Komp., <country>Krain</country>, Adelsberg, Budanjo, 1884, verw.</p>
+            <p xml:id="vll.19150124_112.990">Zeiler Rudolf, Oblt., k. k. LTR. Nr. 21, 5. Komp., <country>Krain</country>, Adelsberg, Budanjo, 1884, verw.</p>
             <p>Zelcnka Kar!, Kdt. i. d. Res., IR. Nr. 49, S. Komp., verw.</p>
             <p>Zclinki Method, Lt., LdschR. Nr. II, verw. (Wird gleichzeitig</p>
             <p>vermißt.;</p>
@@ -1099,7 +1099,7 @@
             <p>Dujka Johann, Inft'., k. k. LIR. Nr. 25, 2. Komp., Mähren, .Neu- llrozenkau, 1890, verw. '</p>
             <p>Dumböck Piudolf, ResInft., IR.Nr. 81,1. Komp., Mähren. Iglau, 1888, kriegsgef. (Moskau, Rußland).</p>
             <p>Dnmsegrgcr Josef, Drag., DR. Nr. 15, verw.</p>
-            <p>D unkt Franz, ResInft., IR. Nr. 84, 13. Komp., <country>Steiermark</country>, Graz, Wörth, 1881, verw. •</p>
+            <p xml:id="vll.19150124_112.2056">D unkt Franz, ResInft., IR. Nr. 84, 13. Komp., <country>Steiermark</country>, Graz, Wörth, 1881, verw. •</p>
             <p>Dunkler-Anton, ■■ Ldsch., LdschR. Nr. II, tot (Sept. 1914).</p>
             <p>Diirrbeek, Inft., k. k. LTR. Nr. 6, 10. Komp., verw. Dusch, Patrf., LdschR. Kr. II, verw.</p>
             <p>Dusicka Franz, ErsRes., k. k. LstB. Nr. 58, 1. Komp., Böhmen, Karolinehthai, Dr's, 1872, verw.</p>
@@ -1312,7 +1312,7 @@
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150124&amp;seite=12&amp;zoom=33">[ Verlustliste - 19150124 - Seite 12 ]</ref>
             </ab>
             <p>12 ' •' :</p>
-            <p>Forelier Anton, Inft., IR. Nr. 49, 5. Marschkomp., <country>Kärnten</country>, Klagenfurt, Ferlach. verw.</p>
+            <p xml:id="vll.19150124_112.2470">Forelier Anton, Inft., IR. Nr. 49, 5. Marschkomp., <country>Kärnten</country>, Klagenfurt, Ferlach. verw.</p>
             <p>Forster Lorenz, Trift. TitGefr., Iß. Kr. 49, 8. Komp., verw.</p>
             <p>Foyer! Johann, ErsRes., k. k. LIR, Nr. 21,1. Komp., Niederöster ­</p>
             <p>reich, Neunkirehen, Scheiblingkirchen, 1881, verw.</p>
@@ -1548,7 +1548,7 @@
             <p>Niederösterreieh, Melk, Pitzengrub, 3890, verw. '</p>
             <p>Gruber Johann, Ldscli., LdschR. Nr. II, verw.</p>
             <p>Gruber Josef, Patrf. TitUnterjag., LdschR. Nr. II, verw.</p>
-            <p>Gruber Josef, Zugsf., k. k. LFKDiv. Nr. 22, Batt. 2, <country>Steiermark</country>, Weiz, Gleisdorf, 188G, tot (23./10.1914).</p>
+            <p xml:id="vll.19150124_112.2936">Gruber Josef, Zugsf., k. k. LFKDiv. Nr. 22, Batt. 2, <country>Steiermark</country>, Weiz, Gleisdorf, 188G, tot (23./10.1914).</p>
             <p>Gruber Josef, Inft., k. k. LIR. Nr. 21,5. Komp., Niederösterreich,</p>
             <p>Amstetten, Krennstetten, 1892, verw. , '</p>
             <p>Grubcr Josef, Inft., k. k. LIR, Nr. 21, 10. Komp., Niederöster ­</p>
@@ -1868,7 +1868,7 @@
             <p>Hofer Leopold, Inft., IR. Nr. 49, 7. Komp., Niederösterreich, Melk, 1891, verw.</p>
             <p>Hofer Ludwig, Ldsch., LdschR. Nr. II, verw.</p>
             <p>Hofer Nikolaus, Ldsch., LdschR. Nr. II, verw.</p>
-            <p>Hofer Patritz, K&lt;&gt;rp., IR. Nr. 49,10. Komp., <country>Steiermark</country>, Weiz, Gersdorf., tot (27.-28./11. 1914).</p>
+            <p xml:id="vll.19150124_112.3558">Hofer Patritz, K&lt;&gt;rp., IR. Nr. 49,10. Komp., <country>Steiermark</country>, Weiz, Gersdorf., tot (27.-28./11. 1914).</p>
             <p>llöHltV Karl, Infi', IR. Nr., 49, 5. Marscljkomp., Nieder Österreich, Melk, Sicrning, verw.</p>
             <p>Hoffmann Gustav, Infi:., k. k. LIR. Nr. G, 9. Komp., verw.</p>
             <p>Hoffmann Michael, Inft., IR. Nr. 84,13. Komp., Niederösterreicli,</p>
@@ -2034,7 +2034,7 @@
             <p>Jcllineek Jakob, Zugsf., LdschR. Nr. II, verw.</p>
             <p>Jenewein Peter, Ldsch., LdschR. Nr. II, verw.</p>
             <p>Jereabek Franz, ErsRes., k. k. LIR. Nr. 21, 11. Komp., Mähren, Trebitsch, Zaschawitz, 1882, verw.</p>
-            <p>Jernej Georg, Inft., IR. Nr. 49, 9. Komp., <country>Kärnten</country>, Völkermarkt, verw.</p>
+            <p xml:id="vll.19150124_112.3884">Jernej Georg, Inft., IR. Nr. 49, 9. Komp., <country>Kärnten</country>, Völkermarkt, verw.</p>
             <p>Jezek Franz, EinjFreiw. TitUntcrjäg., LdschR. Nr. II, verw.</p>
             <p>Jindr&amp;k Johann, inft. TitGefr., IR. Nr. 102,11. Komp., Böhmen, Selcan, Borotin, 1886, tot (Nov. 1914).</p>
             <p>Verlusfcli&amp;te Nr. 112«</p>
@@ -2285,7 +2285,7 @@
             <p>Koller Franz, Inft. TitGefr., IIi. Nr. 49, 5. Marschkomp., Nieder ­ österreich, Melk, Auersdorf, verw.</p>
             <p>Koller Friedrich, ErsRes., IR. Nr. 44t, 4. Komp., verw.</p>
             <p>Koller Georg, ErsRes. Kan., FHR. Nr. 14, tot (27./11. 1914).</p>
-            <p>Koller Josef, ResInft., IR. Nr. 84, 14. Komp., <country>Steiermark</country>, Feldbach, Lembach, 1881, verw.</p>
+            <p xml:id="vll.19150124_112.4374">Koller Josef, ResInft., IR. Nr. 84, 14. Komp., <country>Steiermark</country>, Feldbach, Lembach, 1881, verw.</p>
             <p>Kollmann Anton, Inft. TitGefr., IR. Nr. 49, 10. Komp., Nieder ­</p>
             <p>österreich, St. Pölten, Ilaunoidstein, tot (27.—28./11. 1914).</p>
             <p>Kolm Leopohl. Inft., IR. Nr. 49; 3. Komp., verw.</p>
@@ -2300,7 +2300,7 @@
             <p>König Emil, Infi., k.k. LIR. Nr. 6, 2. Komp., verw.</p>
             <p>König Friedrich, Gefr. TitKorp., IR. Nr. 84, 13. Komp., Nieder ­</p>
             <p>österreich, Oberhollabrunn, Ober-Retzbach, 1890, verw.</p>
-            <p>König Johann, Inft., IR. Nr. 49, 10. Komp., <country>Kärnten</country>, St. Veit a. d. Glan, verw.</p>
+            <p xml:id="vll.19150124_112.4404">König Johann, Inft., IR. Nr. 49, 10. Komp., <country>Kärnten</country>, St. Veit a. d. Glan, verw.</p>
             <p>Kopezki Wenzel, Ldsch., LdschR. Nr. II, verw. Kopf, Ldsch., LdschR. Nr. II, verw.</p>
             <p>Kopp Franz, ErsRes., IR. Nr. 99, 12. Komp., Mahren, Nikols- burg, 1885, kriegsgef.</p>
             <p>Kopp Karl, Unterjiig., LdschR. Nr. II, verw.</p>
@@ -2574,7 +2574,7 @@
             <p>Lindner Josef, Patrf., LdsehR. Nr. II, verw.</p>
             <p>Linzmeier Ferdinand, Inft., k. k. LIR. Nr. 6, 10. Komp., verw.</p>
             <p>Lirsch Karl, Inttf, IR. Nr. 49,. 9. Komp., Niederösterreich, St. Pölten, Nussdorf, verw.</p>
-            <p>Lišac Anton, EinjFreiw. Korp., IR. Nr. 84, 13. Komp., <country>Krain</country>, Gottschee, Fara, 1894, verw.</p>
+            <p xml:id="vll.19150124_112.4940">Lišac Anton, EinjFreiw. Korp., IR. Nr. 84, 13. Komp., <country>Krain</country>, Gottschee, Fara, 1894, verw.</p>
             <p>List Johann, ErsRes., k. k. LIH. Nr. 21. 12. Komp.,■ Nieder ­</p>
             <p>österreich, Baden, Weisseiibach. '.1886. verw.</p>
             <p>List Johann, ErsRes., k. k. LIR. Nr. 21. 1.2. Komp., Niederöster ­ reich, Baden, Weissenbach, 188*&gt;, verw.</p>
@@ -2659,7 +2659,7 @@
             <p>Makwordi Vigilio. Ldsch., LdschR. Nr. II, verw.</p>
             <p>Malisch Josef, Korp., DR. Nr. 15, tot (15./12. 1914. Beerdigt in</p>
             <p>Ciefkovie.)</p>
-            <p>Malowrch Leopold. ErsRes., IR. Nr. 49, 7. Komp., <country>Krain</country>, Lois, 1883, verw.</p>
+            <p xml:id="vll.19150124_112.5104">Malowrch Leopold. ErsRes., IR. Nr. 49, 7. Komp., <country>Krain</country>, Lois, 1883, verw.</p>
             <p>Mal* Karl. Krslles., k. k. LIR. Nr. 21, 12. Komp., Niederöster ­ reich. Rahlen, Vöslau. 1884, verw.</p>
             <p>Malj Karl, Inft., k. k. LIR. Nr. 6, 2. Komp., verw,</p>
             <p>Maly Karl, Inft., k. k. LIR. Nr. f&gt;, 3. Komp., verw.</p>
@@ -3140,7 +3140,7 @@
             <p>Pilz Vinzenz, Inft., fc. k. L1R. Nr. G. 2. Komp., verw.</p>
             <p>Pimpl Anton, Inft., IR. Nr. 102, 7. Komp., Böhmen, Elbogen, Laiit.erbach, 1893, verw.</p>
             <p>Pinkel Josef, Patrf., LdschR, Nr. II, verw.</p>
-            <p>Pirc Franz, Vorm., k. k. LFKD. Nr. 22. Batt. 2, <country>Krain</country>, St. Michael, 1886, tot (23./10. 1914).</p>
+            <p xml:id="vll.19150124_112.6042">Pirc Franz, Vorm., k. k. LFKD. Nr. 22. Batt. 2, <country>Krain</country>, St. Michael, 1886, tot (23./10. 1914).</p>
             <p>Pillcr Josef, Inft., k. k. Uli. Nr. G, 3. Komp., verw.</p>
             <p>Pittner Karl, Inft., k.k. LIR. Nr. 6, 3. Komp., verw. Pizzoli, Ldsch., LdschR. Nr. II, verw:</p>
             <p>Plai.kncr, Ldsch., LdschR, Nr. II, verw.</p>
@@ -4328,7 +4328,7 @@
             <p>Vilroiter Matthias, Ldsch., LdsehR. Nr. II, verw.</p>
             <p>Vinatzer Josef, Patrf., LdsehR, Nr. II, tot(26./8.—14./9.1914).</p>
             <p>Viola Severino,' Ldsch., LdschTt, Nr. II, verw,</p>
-            <p>Visintin Peter, Inft., IR. Nr. 87, 14. Komp., <country>Küstenland</country>, Monfalcone, kriegsgef. (Elabuga, Gouvernement Kasan, Rußland.)</p>
+            <p xml:id="vll.19150124_112.8364">Visintin Peter, Inft., IR. Nr. 87, 14. Komp., <country>Küstenland</country>, Monfalcone, kriegsgef. (Elabuga, Gouvernement Kasan, Rußland.)</p>
             <p>Visitin Amon, Ldsch., LdsehR. Nr. II, verw.</p>
             <p>Vlaeh Josef, ErsRes., lc. k. LstB., Nr. 58, 1. Komp., Bohnen,</p>
             <p>Selean, ZvEstov, 1872, tot (9./ll^ 1914);</p>
@@ -4674,7 +4674,7 @@
             <p>Zulberti Domenico, Ldseh., LdscliR. Nr.'II, tot (26./8.-14./9.</p>
             <p>1914). , -</p>
             <p>S^upam Johann, ResInft., IR. Nr. 99,10. Komp., 1883, kriegsgef.</p>
-            <p>Zupančič Viktor, Korp., k. k. LFKD. Nr. 22, Batt. 2, <country>Krain</country>, Krainburg, 1893, tot (23./10. 1914).</p>
+            <p xml:id="vll.19150124_112.9044">Zupančič Viktor, Korp., k. k. LFKD. Nr. 22, Batt. 2, <country>Krain</country>, Krainburg, 1893, tot (23./10. 1914).</p>
             <p>Zuppa Gustav, Ldseh., LdsehR. Nr. II, verw.</p>
             <p>Zwanzmger Johann, Inft., IR. Nr. 84, 14. Komp., Niederöster ­</p>
             <p>reich, Kornonburg, Ober-Gänserndorf, 1892, verw. Zwick, Ldseh., LdschE. Nr. II, verw.</p>

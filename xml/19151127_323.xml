@@ -357,7 +357,7 @@
             <p>Die fühlenden Dalon werden nach Möglichkeit nachgetragen.</p>
             <p>Offiziere.</p>
             <p>Aälcf Sander, Oblt i. ,d. Ree,, IB. Nr. 78, 7. Komp., Slavonicn, Pozega, Kaptol, 1884, verw.</p>
-            <p>Aldrian Robert, Fahnr. i. d. Res., FJB. Nr. 2, 4. Komp., <country>Steiermark</country>, Groß-Florian, 1891, verw.</p>
+            <p xml:id="vll.19151127_323.608">Aldrian Robert, Fahnr. i. d. Res., FJB. Nr. 2, 4. Komp., <country>Steiermark</country>, Groß-Florian, 1891, verw.</p>
             <p>Bardaciä Albert, SanKdt. i. d. Res., IR. Nr. 55, verw.</p>
             <p>Baumgartner, Dr., Rud., Oblt., k. k. JLstB. Nr. 1G0, 1. Komp.,</p>
             <p>tot(3.—4./10.1915. War bereits einmal verwundet gemeldet.)</p>
@@ -471,7 +471,7 @@
             <p>Schallner Albert, EinjFreiw. TitFeldw., IR. Nr. 93, 14. Komp.,</p>
             <p>Mähren, Römerstadt, Klein-Stohl, 1888, tot (31./8. 1915).</p>
             <p>Schimpl Josef, KdtAsp., IR. Nr. 59, 1. Komp., Oberösterreieh, Vöcklabruck, Regau, 1893, verw.</p>
-            <p>Spannring Karl, Lt. i. d. Res., IR. Kr. 80, 2. ErsKomp., <country>Steiermark</country>, Graz, 1886; kriegsgef., Nomo-Beresowka.Transbaikalie«,</p>
+            <p xml:id="vll.19151127_323.830">Spannring Karl, Lt. i. d. Res., IR. Kr. 80, 2. ErsKomp., <country>Steiermark</country>, Graz, 1886; kriegsgef., Nomo-Beresowka.Transbaikalie«,</p>
             <p>Rußland.</p>
             <p>Stadler Johann, Kdt. i. d. Res., IR. Nr. 78, verw.</p>
             <p>Trata Nikolaus, Lt. i. d. Res., IR. Nr. 55, verw.</p>
@@ -1094,14 +1094,14 @@
             <p>Dohna, Kalna, 1888; kriegsgef,, Janansk, Gouvernement</p>
             <p>Wjatka, Rußland.</p>
             <p>Cclikovic x\nton, Inft., IR. Nr. 78, 1. Komp., Slavonien, Brod, Sibinj, 1895, verw.</p>
-            <p>Cerbatz Anton, Ldsch., LdschR, Nr. III, 1. Komp,, <country>Istrien</country>, 1882, tot (10.-20./9. 1915).</p>
+            <p xml:id="vll.19151127_323.2046">Cerbatz Anton, Ldsch., LdschR, Nr. III, 1. Komp,, <country>Istrien</country>, 1882, tot (10.-20./9. 1915).</p>
             <pb n="11"
                 facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151127&amp;seite=11&amp;zoom=33"/>
             <ab>
                <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151127&amp;seite=11&amp;zoom=33">[ Verlustliste - 19151127 - Seite 11 ]</ref>
             </ab>
             <p>Orhonek Josef, Luft., k. k. LIR. Nr. 32, 9. Komp., Mähren, _■ Frößnitz, Drahan, 189G, verw.</p>
-            <p>Černe Peter, Inft., IR. Nr. 1, zugeteilt vom k. k. LIR. Nr. 3, 15. Komp., <country>Küstenland</country>, Triest, 1897, verw.</p>
+            <p xml:id="vll.19151127_323.2054">Černe Peter, Inft., IR. Nr. 1, zugeteilt vom k. k. LIR. Nr. 3, 15. Komp., <country>Küstenland</country>, Triest, 1897, verw.</p>
             <p>iiinin Josef, Inft., fc. k, LstlR. Nr. 31, 12. Komp., Schlesien, w Troppan, Wald Olberdorf, 1874, verw.</p>
             <p>Cervcny Friedrich, ErsRes., IR. Nr. 98, 10. Komp., Böhmen,</p>
             <p>Policka, 1884; kriegsgef., Moskau, Rußland.</p>
@@ -1311,7 +1311,7 @@
             <p>» . berg, Rotnek, 1893; kriegsgef. (Gestorben am 15./12.1914im</p>
             <p>1. Reserve-Militärspital in Valjevo, Serbien.)</p>
             <p>Domokos Albert, Lstlnft., IR. Nr. 30, verw.</p>
-            <p>Donda Angelo, Inft., k. k. LIR. Nr. 32, 10. Komp., <country>Küstenland</country>, Gradico, Moraro, 1893, verw.</p>
+            <p xml:id="vll.19151127_323.2468">Donda Angelo, Inft., k. k. LIR. Nr. 32, 10. Komp., <country>Küstenland</country>, Gradico, Moraro, 1893, verw.</p>
             <p>Doppelhammer Josef, Korp,, k. k. LIR. Nr. 2, 5. Komp., venv.</p>
             <p>Doppler Josef, Inft., IR. Nr. 59,11. Komp., Salzburg, Tamsweg, Mariapfarr, 1886, verw.</p>
             <p>Doric Anton, Inft., IE. Nr. 78, 11. Komp., Slavonien, Slatina, Vocin, 1881, verw.</p>
@@ -1804,7 +1804,7 @@
             <p>Graber Johann, Lstlnft., IR. Nr. 59,1. Komp., Salzburg, Mattsee, 1888, verw.</p>
             <p>Gruber Josef, Inft. TitGefr., IR. Kr. 59, 3. Komp., Oberöster ­</p>
             <p>reich, Vöcklabruck, Schörfling, 1893, verw.</p>
-            <p>Gruber Josef, Inft., IR. Nr. 59, 5. Komp., <country>Steiermark</country>, Gröbming, Alt-Aussee, 1882, verw.</p>
+            <p xml:id="vll.19151127_323.3424">Gruber Josef, Inft., IR. Nr. 59, 5. Komp., <country>Steiermark</country>, Gröbming, Alt-Aussee, 1882, verw.</p>
             <p>Grubiä.i Iva-n, Inft., bh. IR. Nr. 4, 6. Komp., Bosnien, Prozor, 1891, verw.</p>
             <p>GruMngcr Franz, Inft., IR.Nr. 59, 2. Komp., Salzburg, Thalgau, 1894, verw.</p>
             <p>GrubmüHcr Johann, Inft., IR. Nr. 69, 6. Komp., Oberösterreich, Braunau, St. Johann, 1894, verw.</p>
@@ -2324,7 +2324,7 @@
             <p>Oberösterreich, Schärdirg, Taufkirchen, 1873, verw.</p>
             <p>Kaiser Franz, Lstlnft., IR. Nr. 59, 9. Komp., Oberösterrei^k,. Vöcklabruck, F(rna&lt;h, tot (31./8.1916).</p>
             <p>Kaiser J&lt; sef, Inft., IR. Nr. 59, 3. Komp., Oberösterreich, Vöckl»-. brutk, Frankerburg, 1894, verw.</p>
-            <p>Kaitna, Franz, EinjFreiw. TitKorp., IR. Nr. 59, 14. Komp., <country>Krain</country>, Gurkfeld, Ratsach, 1892, verw.</p>
+            <p xml:id="vll.19151127_323.4440">Kaitna, Franz, EinjFreiw. TitKorp., IR. Nr. 59, 14. Komp., <country>Krain</country>, Gurkfeld, Ratsach, 1892, verw.</p>
             <p>Kalsnj(g Gjuro, Inft., IR. Nr. 78, 2. Komp., Slavonien, SSatina, V. 6in, 1890; kriegsgef.</p>
             <p>Kakz'c Antfn, Ir.ft., IR. Nr. 78, 7. Komp., Sla-vcnien, Pcnji- Miht ijac, Sljiv&lt; ssevci, 1893, verw.</p>
             <p>Kalcniuk Nikckus, Lttlr-it, IR. Nr. 80, tet (19.-30./30.1915).</p>
@@ -2909,7 +2909,7 @@
             <p>Lciss Karl, Lstlnft., IR. Nr. 59, 5. Komp., Oberösterreich, See- walchen, 1894, verw. -</p>
             <p>Lcitl Karl, Ldsch., LdschR. Nr. III, 3. Komp., Oberösterreich, Braunau, St. Laurenz; kriegsgef.</p>
             <p>Leitner Anton, Inft., IR. Nr, 59, 4. Komp., Oberösterreich, Vöcklabruck, Timelkam, 1892, verw.</p>
-            <p>Leitner Johann, Inft., k. k. LstB. Nr. 160, 1. Komp., <country>Kärnten</country>, Klagenfurt, 1886, verw.</p>
+            <p xml:id="vll.19151127_323.5574">Leitner Johann, Inft., k. k. LstB. Nr. 160, 1. Komp., <country>Kärnten</country>, Klagenfurt, 1886, verw.</p>
             <p>Lejnar Jaroslaus, ResKompHorn., IR. Nr. 98, 10. Komp.,</p>
             <p>Böhmen, Kuttcnberg, Zbyzub, 1889; kriegsgef., Taschkent,</p>
             <p>Rnßland. . ,</p>
@@ -4372,7 +4372,7 @@
             <p>Scridon Art:nio, Offijrrsdienar, IR. Nr. 82, RgtsStb., Ungarn,</p>
             <p>Biszt'rcze-Naszöd, Füldra, 1887, verw. (Vom Stands des IR.</p>
             <p>Nr. 03.1</p>
-            <p>Servolo Cassio, Inft., IR. Nr. 78, 3. Komp., <country>Istrien</country>, Parenzo, Buje, 1896, verw.</p>
+            <p xml:id="vll.19151127_323.8422">Servolo Cassio, Inft., IR. Nr. 78, 3. Komp., <country>Istrien</country>, Parenzo, Buje, 1896, verw.</p>
             <p>Scrsv.i Peter, RasKompHorn., IR. Nr. 20, 11. Komp., Gilizien,</p>
             <p>Girlice, Sekowa, ,1881; kriegsgef., Saransk, Gouvernement</p>
             <p>Pensa, Rißland.</p>
@@ -4650,13 +4650,13 @@
             <p>Strkolj Kuzmann, Inft., IR, Nr. 22-, MGA. I, Dahnatien, Zara, Nona, 188S, verw.</p>
             <p>Strobl Alois, Inft., IR. Kr. 59. 6. Komp., Oberösterreich, Gries ­ kirchen, Bruckwaase», 1896, verw. f</p>
             <p>Streb! Alois, Inft., IR. Nr. 59, 14. Komp., Oberösterrcich, Ried, Gurten, 1894, verw. . _</p>
-            <p>Strohmayer Ernst, EinjFreiw. Korp, IR. Nr. 59, 6. Komp., <country>Steiermark</country>, Graz, 1896, verw.</p>
+            <p xml:id="vll.19151127_323.8966">Strohmayer Ernst, EinjFreiw. Korp, IR. Nr. 59, 6. Komp., <country>Steiermark</country>, Graz, 1896, verw.</p>
             <p>Strojny Michael, Jäg„ FJB. Nr. 13, 1. Komp., verw. .</p>
             <p>Siroleny Josef, Patrf., LdschR. Nr. III, 1. Kcmp., verw.</p>
             <p>Strnbecker Johann, Infi;.. III. Nr.. 59, 13. Komp., Salzburg, Hailein, Annaberg, 1877, verw.</p>
             <p>Sfrubreilcr Josef, Lstlnft., IR. Nr. 59, 9. Komp., Salzburg, Ilaliein, Golling, 1882, verw.</p>
             <p>Strugaccvie Stefan, Inft., IR. Nr. 78, 10. Komp., Slavonien, • Osijek, Valpovo, 1884, verw.</p>
-            <p>Strugger Math., Inft., k. k. LstB. Nr. 160. 2. Komp., <country>Kärnten</country>, Klagenfurt, Feistritz, 1885, tot (3.—4./10. 1915).</p>
+            <p xml:id="vll.19151127_323.8978">Strugger Math., Inft., k. k. LstB. Nr. 160. 2. Komp., <country>Kärnten</country>, Klagenfurt, Feistritz, 1885, tot (3.—4./10. 1915).</p>
             <p>Strumpfe Franz, Jäg., F JB. Nr. 2,3. Komp., Böhmen, Landskron, Wildensch wert, 1893, verw.</p>
             <p>StrycliFranz, ErsRes.. IR.Nr. 98,15. Komp., Böhmen,Pardubitz,</p>
             <p>Mäterov, 1891; kriegsgef., Moskau, Rußland.</p>
@@ -5253,7 +5253,7 @@
             </ab>
             <p>Zolmer Alfred, Infi., IR. Nr. 1,15. Komp., Schlesien, Freuden- thal, Obcr-Wildgrub, 1895, verw.</p>
             <p>Zök Alois, Inft., k. k. LIR. Nr. 2, 3. Komp., verw.</p>
-            <p>Zorzut Elias, LstZugsf., k. k. LstGendAssistenz, <country>Küstenland</country>, Gradisca, Cormons, 1875, tot (23-/5.—24./8. 1915).</p>
+            <p xml:id="vll.19151127_323.10136">Zorzut Elias, LstZugsf., k. k. LstGendAssistenz, <country>Küstenland</country>, Gradisca, Cormons, 1875, tot (23-/5.—24./8. 1915).</p>
             <p>Zeith Alois, Inft., IR. Nr. 93,14. Komp., Mähren, Römerstadt, Doberseik, 1892, tot (31./8. 1915).</p>
             <p>Zotla Johann, Lstlnft., IR. Nr. 30, verw.</p>
             <p>Zsfik Stefan, Inft., IR. Nr. 82,11. Komp., Ungarn, Csik, Csikdän- falva, 1889, verw.</p>

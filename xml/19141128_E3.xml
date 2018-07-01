@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="vll.19141128_E3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:lang="de"
+     xml:id="vll.19141128_E3">
     <teiHeader xml:lang="sl">
         <fileDesc>
             <titleStmt>
@@ -14,11 +16,9 @@
                 <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
                 <availability status="free">
                     <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-                    <p xml:lang="en">This work is licensed under the <ref
-                            target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                    <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                             Attribution 4.0 International License</ref>.</p>
-                    <p xml:lang="sl">To delo je ponujeno pod <ref
-                            target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                    <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                             Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
                 </availability>
                 <date when="2017"/>
@@ -46,11 +46,9 @@
         <body>
             <div>
                 <pb n="1"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=1&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=1&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=1&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 1 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=1&amp;zoom=33">[ Verlustliste - 19141128 - Seite 1 ]</ref>
                 </ab>
                 <p>K. 11. k. Krlftafsministpriuni.</p>
                 <p>E 3</p>
@@ -103,11 +101,9 @@
                 <p>Wien 1914.</p>
                 <p>Aus der Je. Je. Hui- und Staatsdruckerei.</p>
                 <pb n="2"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=2&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=2&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=2&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 2 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=2&amp;zoom=33">[ Verlustliste - 19141128 - Seite 2 ]</ref>
                 </ab>
                 <p>Belehrung. 1. Anfragen über den Aufenthalt und die Verwundung oder Krankheit der
                     Verwundeten, beziehungsweise</p>
@@ -194,11 +190,9 @@
                     compeLente cura d'atiiiue (lenitore delle</p>
                 <p>matricole).</p>
                 <pb n="3"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=3&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=3&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=3&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 3 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=3&amp;zoom=33">[ Verlustliste - 19141128 - Seite 3 ]</ref>
                 </ab>
                 <p>o</p>
                 <p>Abkürzungen.</p>
@@ -408,11 +402,9 @@
                 <p>\ ■</p>
                 <p>Ii.</p>
                 <pb n="4"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=4&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=4&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=4&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 4 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=4&amp;zoom=33">[ Verlustliste - 19141128 - Seite 4 ]</ref>
                 </ab>
                 <p>4 • ,</p>
                 <p>Reihenfolge 4 &lt;ler Bezeichnungen. — A jelz^sek sorroiulje. — Ponidi' wlajü. —
@@ -479,11 +471,9 @@
                 <p>Diilyk Michael, ErsRes., k. k. LIR. Nr. 35, 3. Komp., Galizien, Zborow.
                     Kudöbince, 1887, verw.</p>
                 <pb n="5"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=5&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=5&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=5&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 5 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=5&amp;zoom=33">[ Verlustliste - 19141128 - Seite 5 ]</ref>
                 </ab>
                 <p>ltolyuuy Stefan, lnft., k. k. LIR. Nr. 33, 3. Ers-Kotnp., Malmen. Zbaraz,
                     Utbrymoww, 1886, verw.</p>
@@ -607,11 +597,9 @@
                     1889, verw.</p>
                 <p>Kenits Abraham, lnft., IR. Nr. 80, 16. Komp., Galizien, Brody, 1886, verw.</p>
                 <pb n="6"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=6&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=6&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=6&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 6 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=6&amp;zoom=33">[ Verlustliste - 19141128 - Seite 6 ]</ref>
                 </ab>
                 <p>Kirszak Wasyl. Inft., IR. Nr. 95, 15. KÄmp., Galizien, Buczacz,</p>
                 <p>. l'scio Zielone ,1889, tut. i</p>
@@ -740,11 +728,9 @@
                 <p>Deüc Salih, Inft., bh. IR. Nr. 3, 1. ErsKomp., Bosnien, Gra- • da6ac, 1889,
                     tot.</p>
                 <pb n="7"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=7&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=7&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=7&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 7 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=7&amp;zoom=33">[ Verlustliste - 19141128 - Seite 7 ]</ref>
                 </ab>
                 <p>IbiUüijrit Salko, Gefr., Mi. TR. Nr. 3, 7. Komp., Bosnien. Zvor-</p>
                 <p>. nifc, Tr-• t'. iSSTi, veiv. &gt;</p>
@@ -895,11 +881,9 @@
                 <p>Knczevic Stanko, Jäg., bh. IR. Nr. 3,1/3. JägKomp., Bosnien, Derventa, Socanica
                     Vel., 1881, verw.</p>
                 <pb n="8"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=8&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=8&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=8&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 8 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=8&amp;zoom=33">[ Verlustliste - 19141128 - Seite 8 ]</ref>
                 </ab>
                 <p>3</p>
                 <p>Koci® Ahmet. Korp., bh. IR. Nr. 3, 1. Komp., Bosnien, BrCko öflic, 1891,
@@ -1046,11 +1030,9 @@
                 <p>Ramiß Meho, Inft., bh. IR. Nr. 3, 13. Komp., Bosnien, BrJko, Rahid, 1887,
                     tot.</p>
                 <pb n="9"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=9&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=9&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=9&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 9 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=9&amp;zoom=33">[ Verlustliste - 19141128 - Seite 9 ]</ref>
                 </ab>
                 <p>Ramiievifi Miijo, Korp., bh. IB. Nr v 3, 2. Komp., Bosnien, Bijel ­</p>
                 <p>jina. Jan ja, 1887, Ter«-.</p>
@@ -1182,11 +1164,9 @@
                 <p>1S85, verr. | riechiiw, Stanislawczyk, 1890, vww.</p>
                 <p>Ks.- ' ' ü</p>
                 <pb n="10"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=10&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=10&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=10&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 10 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=10&amp;zoom=33">[ Verlustliste - 19141128 - Seite 10 ]</ref>
                 </ab>
                 <p>Kopaniecld Johann. Inft., IR. Nr. 80, 13. Komp., Galizien, Zloczöw, Kruhöw, 1891,
                     verw.</p>
@@ -1234,7 +1214,7 @@
                     1892, verw.</p>
                 <p>Stclzig Friedrich, Fähnr., IR. Nr. 94,12. Komp., Böhmen, Böhm.- Leipa Lindenau,
                     1889; verw. *</p>
-                <p sameAs="VIL.13">Vogler Otto, Hptm., IR. Nr. 74, 13. Komp.,
+                <p xml:id="vll.19141128_E3.1552" sameAs="VIL.13">Vogler Otto, Hptm., IR. Nr. 74, 13. Komp.,
                         <country>Krain</country>, Laibach, 1878, verw.</p>
                 <p>\</p>
                 <p>Winter Alexander, Oblt., IR. Nr. 74, 16. Komp., Niederöster ­ reich, Wien, 1885,
@@ -1309,11 +1289,9 @@
                 <p>Fabian Franz, Reslnft., IR. Nr. 74, 13, Komp., Böhmen Semil, Vrat, 1887, verw.
                     ..</p>
                 <pb n="11"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=11&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=11&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=11&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 11 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=11&amp;zoom=33">[ Verlustliste - 19141128 - Seite 11 ]</ref>
                 </ab>
                 <p>- 11</p>
                 <p>Falfa Heinrich: In Et.. TR. Nr. 74, 2. Komp., Böhmen, Trantenan, il, Liebenrhal,
@@ -1466,11 +1444,9 @@
                 <p>9</p>
                 <p>i</p>
                 <pb n="12"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=12&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=12&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=12&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 12 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=12&amp;zoom=33">[ Verlustliste - 19141128 - Seite 12 ]</ref>
                 </ab>
                 <p>Pitnuoe Wenzel, Taft., IR. Nr. 74, 16. Komp., Böhmen, Jung- blinzlau,
                     Sovinka,.1891, verw.</p>
@@ -1604,11 +1580,9 @@
                     d. IR. Nr. 16, 3. Komp- t</p>
                 <p>1 Kroa Hen, \ sraidin. 16'93, "venv. | Ungarn. Tglö, Sjepes, fglö, verv.</p>
                 <pb n="13"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=13&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=13&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=13&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 13 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=13&amp;zoom=33">[ Verlustliste - 19141128 - Seite 13 ]</ref>
                 </ab>
                 <p>Janeäi Stefan. KdtAsp. i. d. Res. IT!. Xr.,1ß. 7. Komp.. Kroatien, ' 51iili»*r
                     Johann, 1&gt;r., KdtA&lt;sp. i. d. lies.. II - '. Nr. Iii, lo. Rorup.</p>
@@ -1733,7 +1707,7 @@
                     Waidendorf, 1890, verw.</p>
                 <p>Hwlzd Franz, Inft,, k. k. LIR, Nr. 24, 2. Komp., Mähren, Tischnowitz, Bondv
                     Skeje, 1884, verw.</p>
-                <p sameAs="VIL.14">Innerholer Wilhelm, EinjFreiw. TitKorp., k. k. LIR. Nr. 24, 10.
+                <p xml:id="vll.19141128_E3.2132" sameAs="VIL.14">Innerholer Wilhelm, EinjFreiw. TitKorp., k. k. LIR. Nr. 24, 10.
                     Komp., <country>Steiermark</country>, Graz, 1892, verw.</p>
                 <p>Jantiseliek Johann, Inft,, k. k. LIR. Nr. 24, 3. Komp., Nieder ­</p>
                 <p>österreich, Tulln, Groß Weikersdorl, 1890, verw.</p>
@@ -1746,11 +1720,9 @@
                 <p>Kasmlk Johann, Inft., k. k. LIR. Nr. 24, 7. Komp., Nieder ­</p>
                 <p>österreich, Mistelbach, Bischofswarth, 1887, tot.</p>
                 <pb n="14"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=14&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=14&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=14&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 14 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=14&amp;zoom=33">[ Verlustliste - 19141128 - Seite 14 ]</ref>
                 </ab>
                 <p>Keck Hubert, EinjFreiw. TifKom,, t. k. LIR. Nr. 24, 8. Komp.,</p>
                 <p>Niederöstorreich, Mistelbach, Feklsberg, 1890, verw.</p>
@@ -1900,11 +1872,9 @@
                 <p>Wilfling Leopold, Korp., k. k. LIR. Nr. 24, 3. Komp., Nieder ­</p>
                 <p>österreich, Korneuburg, Sierndorf, 1885, tot.</p>
                 <pb n="15"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=15&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=15&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=15&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 15 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=15&amp;zoom=33">[ Verlustliste - 19141128 - Seite 15 ]</ref>
                 </ab>
                 <p>Vfinklor (Vor?, Tnft,, k. Ic. LT 17. Nr. 2-1. 3. Komp., XfederRsIcr-</p>
                 <p>reicli, OberhoHaliiiinn, Groß Vitzdorf, 18S9, vVrv.</p>
@@ -1956,7 +1926,7 @@
                     1887», verw.</p>
                 <p>Siiiiiinck .laroslar. Lt.,-k. k. LIR. Nr. 19, 11. Komp., Böhmen, Zebnetz, 1802,
                     tot.</p>
-                <p sameAs="VIL.15">Starkel Emmerich, Hptm., IR. Nr. 41, 7. Komp.,
+                <p xml:id="vll.19141128_E3.2454" sameAs="VIL.15">Starkel Emmerich, Hptm., IR. Nr. 41, 7. Komp.,
                         <country>Steiermark</country>, Pettau, 1877, verw.</p>
                 <p>Stern Friedrich, Lt. i. d. Bes., k. k. Llli. Nr. 19, 1. Komp., Galizien. Lemberg,
                     1880, tot.</p>
@@ -2027,11 +1997,9 @@
                 <p>Candrea Maxim, Inft., IR. Nr. 41, 7. Komp., Bukowina, Kim- polung, Dorna
                     ICandreny, 1888, tot.</p>
                 <pb n="16"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=16&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=16&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=16&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 16 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=16&amp;zoom=33">[ Verlustliste - 19141128 - Seite 16 ]</ref>
                 </ab>
                 <p>Characzko Roman. Inft., k. k. LIR. Nr. 19, 3. Komp., (Mhieß.</p>
                 <p>Zölkiew. Zöltanee, 1887, venv.</p>
@@ -2070,7 +2038,7 @@
                     1892, verw.</p>
                 <p>^Endlicher Engelbert, Inft., IR. Nr. 93. 2. Komp., Mähren, Mähr- Schönberg,
                     Bue.helsdorf,1892, verw.</p>
-                <p sameAs="VIL.15">Evers Friedrich, Vorm., FIIR. Nr. 3, Batt. 1,
+                <p xml:id="vll.19141128_E3.2588" sameAs="VIL.15">Evers Friedrich, Vorm., FIIR. Nr. 3, Batt. 1,
                         <country>Steiermark</country>, Marburg, Gonobitz, 1890, verw.</p>
                 <p>Ftlz Adolf Dawid, Inft., k. k. LIR. Nr. 19, 6. Komp., Galizien, Lemberg, 1888,
                     verw.</p>
@@ -2084,7 +2052,7 @@
                     1885, verw.</p>
                 <p>Forberger Alois, ErsRes., IR. Nr. 93, 2. Komp., Mähren, Mähr. Trübau, Mähr.
                     Hennersdorf, 1888, tot.</p>
-                <p sameAs="VIL.15">Forstner Blasius, Kan., FHR, Nr. 3, Batt. 1,
+                <p xml:id="vll.19141128_E3.2602" sameAs="VIL.15">Forstner Blasius, Kan., FHR, Nr. 3, Batt. 1,
                         <country>Steiermark</country>, Cilli, Groß Pircschitz, 1887, verw.</p>
                 <p>Forys Basil, Inft., k. k. LIR. Nr. 19, 11, Komp., Galizien, Pa- mionka, Wyrow,
                     1883, verw.</p>
@@ -2116,11 +2084,11 @@
                     verw.</p>
                 <p>Gottcsmann Salomon, StbsFeldw., IR. Nr. 41, 6. Komp., Buko ­ wina, Suczawa,
                     Meretzei, 1880, verw.</p>
-                <p>Grassmugg Friedrich, ResOberkan., FHR. Nr. 3, Batt. 1,
+                <p xml:id="vll.19141128_E3.2636">Grassmugg Friedrich, ResOberkan., FHR. Nr. 3, Batt. 1,
                         <country>Steiermark</country>, Graz, Grainbach, 1884, verw.</p>
                 <p>Grigorean Sawa, ErsRes., IR. Nr. 41, 10. Komp., Bukowina, Suczawa, Solanetz,
                     1886, verw.</p>
-                <p sameAs="VIL.15">Grimm Josef, Kan., FHR. Nr. 3, Batt, 1,
+                <p xml:id="vll.19141128_E3.2640" sameAs="VIL.15">Grimm Josef, Kan., FHR. Nr. 3, Batt, 1,
                         <country>Steiermark</country>, Graz, Raaba, 1890, verw.</p>
                 <p>Gronosfajski Stanislaus, Inft., k. k. LIR, Nr. 19, 6. Komp.,</p>
                 <p>Galizien, Przemyslany, Gliniany, 1882, verw.</p>
@@ -2177,13 +2145,11 @@
                     Giuchoiviee, 1892, verw.</p>
                 <p>Janik Johann, Offiziersdiener, k. k. LIR. Nr. 19, 7. Komp., Galizien, Rzeszöw,
                     Hyme, 1890, verw.</p>
-                <p sameAs="VIL.15">Janisch Johann, Korp., FHR, Nr. 3, Batt. 1, <country>Steiermark</country>, Feldbach, Groß-Steinbach, 1890, verw.</p>
+                <p xml:id="vll.19141128_E3.2704" sameAs="VIL.15">Janisch Johann, Korp., FHR, Nr. 3, Batt. 1, <country>Steiermark</country>, Feldbach, Groß-Steinbach, 1890, verw.</p>
                 <pb n="17"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=17&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=17&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=17&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 17 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=17&amp;zoom=33">[ Verlustliste - 19141128 - Seite 17 ]</ref>
                 </ab>
                 <p>1?</p>
                 <p>Jaroszek Demeter, Jnlt., k. k. LIR. Nr. 19, Galizien, Lemberg, Podliski wlk.,
@@ -2252,7 +2218,7 @@
                     verw.</p>
                 <p>Kre5tk Ludwig, Reslnft., IR. Nr. 93, 2. Komp., Mähren, Littau, Dzbel, 1889,
                     tot.</p>
-                <p sameAs="VIL.15">Krenn Johann, Unterkan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Mürzzuschlag, Wartberg,
+                <p xml:id="vll.19141128_E3.2780" sameAs="VIL.15">Krenn Johann, Unterkan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Mürzzuschlag, Wartberg,
                     1892, verw.</p>
                 <p>Krestyn Alexander, Reslnft., IR. Nr. 93, 2. Komp., Mähren, ■Sternberg, Schönwald,
                     1886, verw.</p>
@@ -2301,11 +2267,11 @@
                     1892, verw. . . ■</p>
                 <p>Litwin Martin, Korp., k. k. LIR. Nr. 19, 3. Komp., Galizien, Lemberg, Sichöw,
                     1890, verw.-</p>
-                <p sameAs="VIL.15">Luchetto Matthäus, Offiziersdiener, FHR. Nr. 3, Batt. 1, <country>Istrien</country>, Pola, 1891,
+                <p xml:id="vll.19141128_E3.2834" sameAs="VIL.15">Luchetto Matthäus, Offiziersdiener, FHR. Nr. 3, Batt. 1, <country>Istrien</country>, Pola, 1891,
                     tot.</p>
                 <p>i Lucyk Jakob, Inft., k. k. LIR. Nr. 19,3. Komp., Galizien, Sokal, 2uzel, 1890,
                     verw.</p>
-                <p sameAs="VIL.15">Lukas Franz, ResKan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Graz Umgebung, Grambach,
+                <p xml:id="vll.19141128_E3.2838" sameAs="VIL.15">Lukas Franz, ResKan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Graz Umgebung, Grambach,
                     1889, verw.</p>
                 <p>Lwowski Basil, Inft., k. k. LIR. Nr. 19, 5. Komp., Galizien, Brzezany, Szybolin,
                     1890, verw.</p>
@@ -2338,11 +2304,9 @@
                 <p>3 ' " "</p>
                 <p>t</p>
                 <pb n="18"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=18&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=18&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=18&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 18 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=18&amp;zoom=33">[ Verlustliste - 19141128 - Seite 18 ]</ref>
                 </ab>
                 <p>Michailiuk Michael, Korp., IR. Nr. 41, 2. Komp., Bukowina, Sereth, Untersynoutz,
                     1890, verw.</p>
@@ -2363,7 +2327,7 @@
                     1891, verw. -</p>
                 <p>Mudryj Michael, Offiziersdiener, k. k. LIR. Nr. 19, 7. Komp.,</p>
                 <p>Galizien, Kamionka, Dziedrilöw, 1885, tot.</p>
-                <p sameAs="VIL.15">Muhin Johann, ResKan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Graz Stadt, 1887,
+                <p xml:id="vll.19141128_E3.2902" sameAs="VIL.15">Muhin Johann, ResKan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Graz Stadt, 1887,
                     verw.</p>
                 <p>Miiller Andreas, Zugsf., IR. Nr. 93, 1. Komp., Mähren, Littau, Wachtl, 1889,
                     verw.</p>
@@ -2395,7 +2359,7 @@
                     verw.</p>
                 <p>Nowicki Jan, Inft., k. k. LIR. Nr. 19, 7. Komp., Galizien, Sokal, Leszköw, 1880,
                     tot.</p>
-                <p sameAs="VIL.15">Obst Peter, Kan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Hartberg, Kriegersbach, 1892,
+                <p xml:id="vll.19141128_E3.2934" sameAs="VIL.15">Obst Peter, Kan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Hartberg, Kriegersbach, 1892,
                     verw.</p>
                 <p>Ohliuk Demeter, Reslnft., IR. Nr. 41, 6. Komp., Bukowina, Radautz, Seietin, 1886,
                     verw.</p>
@@ -2409,7 +2373,7 @@
                     verw.</p>
                 <p>Osznst Johann, Korp., k. k. LIR. Nr. 19, 7. Komp., Galizien, Bobrka, Kmiesiota,
                     1882, verw.</p>
-                <p sameAs="VIL.15">Otter Josef, Vorm., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Leibnitz, Pisdorf, 1891,
+                <p xml:id="vll.19141128_E3.2948" sameAs="VIL.15">Otter Josef, Vorm., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Leibnitz, Pisdorf, 1891,
                     verw.</p>
                 <p>Palagean Nikolai, Reslnft., IR. Nr. 41, 3. Komp., Bukowina, Czernowitz, Ostritza,
                     1884, verw.</p>
@@ -2444,7 +2408,7 @@
                     1885, verw.</p>
                 <p>Pijtkowsld Michael, Gefr., k. k. LIR. Nr. 19, 6. Komp., Galizien, Brzezany,
                     Hucisko, 1891, verw.</p>
-                <p sameAs="VIL.15">Pichler Josef, ResKan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Hartberg, Unterrohr,
+                <p xml:id="vll.19141128_E3.2986" sameAs="VIL.15">Pichler Josef, ResKan., FHR. Nr. 3, Batt. 1, <country>Steiermark</country>, Hartberg, Unterrohr,
                     1885, verw.</p>
                 <p>l'ietruszcwski Johann, Inft., k. k. LIR. Nr. 19,5. Komp., Galizien. Brzezany,
                     Wierzbow, 1888, verw.</p>
@@ -2493,11 +2457,9 @@
                 <p>Rodi€ Trivun d. Jovo, Inft., IR. Nr. 93, 2. Komp., Bosnien, Sanski-Most, Usora,
                     1890, verw.</p>
                 <pb n="19"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=19&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=19&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=19&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 19 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=19&amp;zoom=33">[ Verlustliste - 19141128 - Seite 19 ]</ref>
                 </ab>
                 <p>Bossowski Michael, Inft., k. k-LIR. Nr. 19, 3. Komp., Galizicni Z.lkiew,
                     Botiatycze, 1892, verw.</p>
@@ -2543,7 +2505,7 @@
                     Szlachecka, 1891, verw.</p>
                 <p>Skipor Dumitru, ErsRes., IR. Nr. 41, 4. Erskomp., Bukowina, Storozynetz,
                     Idzestie, 1884, verw.</p>
-                <p sameAs="VIL.15">Skočij Franz, ResFahrkan., FHR. Nr. 3, Batt. 2, <country>Istrien</country>, Volosca, Materija, 1888,
+                <p xml:id="vll.19141128_E3.3090" sameAs="VIL.15">Skočij Franz, ResFahrkan., FHR. Nr. 3, Batt. 2, <country>Istrien</country>, Volosca, Materija, 1888,
                     verw.</p>
                 <p>Skyva Josef, Inft., IR. Nr. 93,2. Komp.,Mähren,LUtau, fiimnitz, 1890, tot.</p>
                 <p>Slabicki Martin, Inft., k. k. LIR. Nr. 19, 3. Komp., Galizien,</p>
@@ -2586,7 +2548,7 @@
                     Jaktoröw, 1887, verw.</p>
                 <p>Surma Paul, Offiziersdiener, k. k. LIR. Nr. 19, 9 Komp., Gali ­</p>
                 <p>zien, Kamionka, Derewlany, 1888, kriegsgef.</p>
-                <p sameAs="VIL.15">Svigelj Anton, Inft., IR. Nr. 93, 3. Komp., <country>Krain</country>, Laibach, Brunndorf, 1893,
+                <p xml:id="vll.19141128_E3.3140" sameAs="VIL.15">Svigelj Anton, Inft., IR. Nr. 93, 3. Komp., <country>Krain</country>, Laibach, Brunndorf, 1893,
                     verw.</p>
                 <p>Sworyn Johann, Inft., k. k. LIR. Nr. 19, 3. Komp., Galizien, Lemberg, Janyczöw
                     Stary, 1891, tot.</p>
@@ -2630,7 +2592,7 @@
                     1886, tot.</p>
                 <p>Thom Maximilian, Korp., IR. Nr. 93, 3. Komp., Mähren, Mähr.- Schönberg,
                     Mähr.-Altstadt, 1890, verw.</p>
-                <p sameAs="VIL.15">Tiefnig Michael, ResOberkan., FHR. Nr. 3, Batt. 2, <country>Kärnten</country>, Spittal, Berg, 1885,
+                <p xml:id="vll.19141128_E3.3184" sameAs="VIL.15">Tiefnig Michael, ResOberkan., FHR. Nr. 3, Batt. 2, <country>Kärnten</country>, Spittal, Berg, 1885,
                     verw.</p>
                 <p>Tintiunyk Michael, ErsRes., k. k. LIR. Nr. 19, 8. Komp., Galizien, Zolkiew,
                     Zeldec, 1888, verw.</p>
@@ -2648,11 +2610,9 @@
                 <p>Tutscli Stefan, Korp., IR. Nr. 93, 2. Komp., Mähren, Mähr.- Trübau, Uttigsdorf,
                     1890, verw.</p>
                 <pb n="20"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=20&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=20&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=20&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 20 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=20&amp;zoom=33">[ Verlustliste - 19141128 - Seite 20 ]</ref>
                 </ab>
                 <p>Ulicki Nikolaus, Inft., k. k. LIR. Nr. 19, 5. Komp., Galizien, Sokal, Tyszyca,
                     verw. -</p>
@@ -2678,7 +2638,7 @@
                     1882, verw..</p>
                 <p>Wladykn. Nikolaus, Inft., k. k. LIR. Nr. 19, 7. Komp., Galizien, 2oikiew, 2uköw
                     mosty, 3882, verw.</p>
-                <p sameAs="VIL.15">Wolf Alois, ErsRes., FHR. Nr, 3, Batt. 1, <country>Steiermark</country>, Feldbach, Kölldorf,
+                <p xml:id="vll.19141128_E3.3232" sameAs="VIL.15">Wolf Alois, ErsRes., FHR. Nr, 3, Batt. 1, <country>Steiermark</country>, Feldbach, Kölldorf,
                     1891, tot.</p>
                 <p>Wolf Alois, Reslnft., IR. Nr. 93, 2. Komp., Mähren, Hohen ­ stadt, Ohrnes, 1886,
                     verw.</p>
@@ -2778,11 +2738,9 @@
                 <p>Wilschowilz Josef, Lt. i. d. Res., IR. Nr. 55,14. Komp., Mähren, Brünn, Segen
                     Gottes, 1887, tot.</p>
                 <pb n="21"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=21&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=21&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=21&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 21 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=21&amp;zoom=33">[ Verlustliste - 19141128 - Seite 21 ]</ref>
                 </ab>
                 <p>Mannschaft.</p>
                 <p>Ahlich Franz, ErsRes., FJB. Kr. 16, 1. Marschkomp., Schlesien,</p>
@@ -2925,11 +2883,9 @@
                 <p>Majdak Johann,ErsRes., IR. Nr. 56,14." Komp., Galizien, Zywiec» Przyboröw, 1888,
                     tot.</p>
                 <pb n="22"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=22&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=22&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=22&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 22 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=22&amp;zoom=33">[ Verlustliste - 19141128 - Seite 22 ]</ref>
                 </ab>
                 <p>Malina Josef, ErsRes., IR. Nr. 66,12. Komp., Galizien, Myslenice, Bienköwka,
                     1881, verw.</p>
@@ -3057,11 +3013,9 @@
                 <p>Knott Alois, Lt. i. d. Res., k. k. LIR. Nr. 35, 7. Komp., Böhmen, Landskron,
                     Sichelsdorf, 1884, verw.</p>
                 <pb n="23"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=23&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=23&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=23&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 23 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=23&amp;zoom=33">[ Verlustliste - 19141128 - Seite 23 ]</ref>
                 </ab>
                 <p>Mannschaft.</p>
                 <p>üalogh Andreas, Inft., k. u. LstlR. Nr. 31, 10. Komp., Ungarn, Komärom, Mocsa,
@@ -3190,11 +3144,9 @@
                 <p>Bajer Johann, Vorm., FKR. Nr. 36, Batt. 5, Ungarn, Kis-Kütül- lö, Hosszuaszö,
                     1891, verw.</p>
                 <pb n="24"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=24&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=24&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=24&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 24 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=24&amp;zoom=33">[ Verlustliste - 19141128 - Seite 24 ]</ref>
                 </ab>
                 <p>Bajkan Georg, Reslnft., IR. Nr. 64, 1. Komp., Ungarn, Alsö- Feh4r, Üdalya, 1886,
                     verw.</p>
@@ -3341,11 +3293,9 @@
                 <p>Ilanesko Peter, KompIIorn., IR. Nr.' 64, 7. Komp., Ungarn, Hunyad, Brettyelin,
                     1888, verw.</p>
                 <pb n="25"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=25&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=25&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=25&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 25 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=25&amp;zoom=33">[ Verlustliste - 19141128 - Seite 25 ]</ref>
                 </ab>
                 <p>He.jus Johann, Reslnft., IB. Nr. 64,1. Komp., Ungarn, Hunyad, Szuliget, 1886,
                     verw.</p>
@@ -3496,11 +3446,9 @@
                 <p>Murar Johann, Inft., IR. Nr. 64, 7. Komp., Ungarn, Hunyad, Voja, 1885,
                     kriegsgef.</p>
                 <pb n="26"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=26&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=26&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=26&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 26 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=26&amp;zoom=33">[ Verlustliste - 19141128 - Seite 26 ]</ref>
                 </ab>
                 <p>Murza Josef, ResGefr., IR. Nr. 64,15. Komp., Ungarn, Alsöfehik, Borbänd, 1888,
                     verw.</p>
@@ -3650,11 +3598,9 @@
                 <p>Sztanes Alexander, Reslnft. TitZugsf., IR. Nr. 64, 15. Komp., Ungarn, Hunyad,
                     Nagy&amp;g, 1889, verw.</p>
                 <pb n="27"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=27&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=27&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=27&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 27 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=27&amp;zoom=33">[ Verlustliste - 19141128 - Seite 27 ]</ref>
                 </ab>
                 <p>•27"</p>
                 <p>Sztank Georg, Korp., IR. Nr. 64, 3. Komp., Ungarn, Hunyad, PetrozsSny, 1891,
@@ -3780,11 +3726,9 @@
                 <p>Hcllebrand Emil Johann, Zugsf., IR. Nr. 4, 14. Komp., Nieder ­</p>
                 <p>österreich, Bruck a. d. L., Schwechat, 1888, verw.</p>
                 <pb n="28"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=28&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=28&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=28&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 28 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=28&amp;zoom=33">[ Verlustliste - 19141128 - Seite 28 ]</ref>
                 </ab>
                 <p>Herd In Karl, Inft., IR. Nr. 4, 13. Komp., Schlesien, J&amp;gerndorr,
                     Groß-Raaden, 1886, verw.</p>
@@ -3798,7 +3742,7 @@
                     Pistyn, 1885, verw.</p>
                 <p>John Karl, Inft., IR. Nr. 4,13. Komp., Niederösterreich, Mistelr bach, Hagenberg,
                     1883, verw.</p>
-                <p sameAs="VIL.19">Kain Hermann, Inft., IR. Nr. 4, 13. Komp., <country>Kärnten</country>, St. Veit, Metnitz, 1890,
+                <p xml:id="vll.19141128_E3.4484" sameAs="VIL.19">Kain Hermann, Inft., IR. Nr. 4, 13. Komp., <country>Kärnten</country>, St. Veit, Metnitz, 1890,
                     verw.</p>
                 <p>Kirchner Richard, Zugsf., IR. Nr. 4,13. Komp., Niederösterreich, Wien, 1885,
                     verw.</p>
@@ -3817,11 +3761,11 @@
                     Wien, 1887, verw.</p>
                 <p>Luchnycz Iwan, ErsRes. Jag., FJB. Nr. 30, 3. Komp., Galizien, Kolomea,
                     Dobrowödka, 1887, verw.</p>
-                <p sameAs="VIL.19">Mandl Balthasar, Gefr., IR. Nr. 4, 14. Komp., <country>Steiermark</country>, Graz Umgebung, Schrems,
+                <p xml:id="vll.19141128_E3.4506" sameAs="VIL.19">Mandl Balthasar, Gefr., IR. Nr. 4, 14. Komp., <country>Steiermark</country>, Graz Umgebung, Schrems,
                     1892, verw.</p>
                 <p>Manhardt Eduaid, Inft., IR. Nr. 4, 13. Komp., Niederösterreich, Gänserndorf,
                     Dürnkrut, 1885, verw.</p>
-                <p sameAs="VIL.19">Meinhardt Ulrich, Inft., IR. Nr. 4, 15. Komp., <country>Kärnten</country>, Klagenfurt,
+                <p xml:id="vll.19141128_E3.4510" sameAs="VIL.19">Meinhardt Ulrich, Inft., IR. Nr. 4, 15. Komp., <country>Kärnten</country>, Klagenfurt,
                     Himmelberg, 1889, verw.</p>
                 <p>Negrycz Theodor, ResJäg., FJB. Nr. 30, 4. Komp., Galizien, Peczenizyn, Berezöwn,,
                     1883, verw.</p>
@@ -3850,7 +3794,7 @@
                     Wien/1888, verw.</p>
                 <p>Rottensteiner Johann, Korp., IR. Nr. 4, 13. Komp., Nieder ­</p>
                 <p>österreich, Wiener-Neustadt, Dreistetten, 1889, verw.</p>
-                <p sameAs="VIL.19">Schadler Alois, Inft., IR. Nr. 4,14. Komp., <country>Steiermark</country>, Feldbach, Hrusdorf,
+                <p xml:id="vll.19141128_E3.4552" sameAs="VIL.19">Schadler Alois, Inft., IR. Nr. 4,14. Komp., <country>Steiermark</country>, Feldbach, Hrusdorf,
                     1890, verw.</p>
                 <p>Sehattcnberger Johann, Inft., IR. Nr. 4,14. Komp., Niederöster ­</p>
                 <p>reich, Oberhollabrunn, Suttenbrunn, 1890, verw.</p>
@@ -3912,11 +3856,9 @@
                 <p>Czerny Viktor, Oblt., k. k. LstlR. Nr.. 22, 4. Komp., Mähren, Sterzendorf,
                     Littau, 1880, verw.</p>
                 <pb n="29"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=29&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=29&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=29&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 29 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=29&amp;zoom=33">[ Verlustliste - 19141128 - Seite 29 ]</ref>
                 </ab>
                 <p>Drotlef Hermann, Lt., IR. Nr. 25, 6. Komp., Ungarn, Szeben, Alczina, 1891,
                     verw.</p>
@@ -3929,7 +3871,7 @@
                 <p>Corzjcki Niko Ritter von, Lt., k. k. LstlR. Nr. 22, 10. Komp.,</p>
                 <p>Bukowina, Sereth, Czerepkoutz, 1877, verw.</p>
                 <p>Haebcrle Karl, Oblt., IR. Nr. 25, 11. Komp., Ungarn, Pozsony, 1885, verw.</p>
-                <p sameAs="VIL.20">Hauska Karl, Hptm., IR. Nr. 25, 7. Komp., <country>Istrien</country>, Gradiska, Farra, 1876,
+                <p xml:id="vll.19141128_E3.4650" sameAs="VIL.20">Hauska Karl, Hptm., IR. Nr. 25, 7. Komp., <country>Istrien</country>, Gradiska, Farra, 1876,
                     verw.</p>
                 <p>Hegyi Siegmund, Fähnr. i. d. Res., IR, Nr. 25, 2. Komp., Ungarn, Abauj-Torna,
                     Löh, 1883, verw.</p>
@@ -3960,7 +3902,7 @@
                 <p>Rclics Milan, Hptm., IR. Nr. 25, 8. Komp., Kroatien, Belovär, Taxkosevac, 1878,
                     verw.</p>
                 <p>Rozanic Karl, Oblt., FJB. Nr. 32, Kroatien, Zägräb, Sissek, 1887, verw.</p>
-                <p sameAs="VIL.20">Schlich« Hubert, Oblt., IR. Nr. 25, 4. Komp., <country>Steiermark</country>, Leibnitz, Aflenz, 1887,
+                <p xml:id="vll.19141128_E3.4686" sameAs="VIL.20">Schlich« Hubert, Oblt., IR. Nr. 25, 4. Komp., <country>Steiermark</country>, Leibnitz, Aflenz, 1887,
                     verw.</p>
                 <p>Sichert Otto, Lt. i. d. Res., IR. Nr. 25, 9. Komp., Mähren, Mistek, Friedland,
                     1883, verw.</p>
@@ -4045,11 +3987,9 @@
                 <p>Bozo Johann, Inft., IR." Nr. 25, 3. Komp., Ungarn, Go'mSr-' Kishoat, Uzapajiyit,
                     1887, verw.</p>
                 <pb n="30"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=30&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=30&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=30&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 30 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=30&amp;zoom=33">[ Verlustliste - 19141128 - Seite 30 ]</ref>
                 </ab>
                 <p>80</p>
                 <p>Bracsok Martin, Init., IR. Nr. 25, 4. Komp., Ungarn, Nögräd, Losoncznagyfalu,
@@ -4202,11 +4142,9 @@
                 <p>Friedmann Pinkasz-6 Aron ,Jäg., FJB. Nr. 32, 2. Komp., Ungarn, Ugocsa,
                     Tiszaujlak, 1892, verw.</p>
                 <pb n="31"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=31&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=31&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=31&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 31 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=31&amp;zoom=33">[ Verlustliste - 19141128 - Seite 31 ]</ref>
                 </ab>
                 <p>Frakuska Johann, ErsRes., FJB. Nr. 32, Ungarn, Liptö FeMr- patak, 1888, tot.</p>
                 <p>Frundza Peter, Inft., k. k. LstlR. Nr. 22, 7. Komp., Buko ­</p>
@@ -4357,11 +4295,9 @@
                 <p>Kcdzuch Stefan, ResZugsf., FJB. Nr. 32, 1. Komp., Ungarn, Szepes, Löcse, 1882,
                     verw.</p>
                 <pb n="32"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=32&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=32&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=32&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 32 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=32&amp;zoom=33">[ Verlustliste - 19141128 - Seite 32 ]</ref>
                 </ab>
                 <p>Keller Josef, Reslnft. TitGefr., IR. Nr. 25, 6, Komp., Ungarn, Zölyom, Sebesär,
                     3883, verw.</p>
@@ -4515,11 +4451,9 @@
                 <p>Luszpay Georg, Inft., IR. Nr. 25, 9. Komp., Ungarn, Gömör-</p>
                 <p>Kishont, Muränyszabadi, 1886, verw. .. ,</p>
                 <pb n="33"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=33&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=33&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=33&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 33 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=33&amp;zoom=33">[ Verlustliste - 19141128 - Seite 33 ]</ref>
                 </ab>
                 <p>BB</p>
                 <p>Major Stefan; Inft., IR. Kr. 25, 3. Komp., Ungarn, Zölyom, Dobö, 1892, verw.</p>
@@ -4668,11 +4602,9 @@
                 <p>Pocsubay Andreas, ResKorp. TitZugsf., IR. Nr. 25, 12. Komp.,</p>
                 <p>Ungarn, Gömör-Kishont, Dobsina, 1887, tot.</p>
                 <pb n="34"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=34&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=34&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=34&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 34 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=34&amp;zoom=33">[ Verlustliste - 19141128 - Seite 34 ]</ref>
                 </ab>
                 <p>PocKuhay Johann, Inft., IR. Nr. 25, 3. Komp., Ungarn, Gömör- Kishont, Dobsina,
                     1883, verw.</p>
@@ -4823,11 +4755,9 @@
                 <p>Sztrlcz Jözsef, Inft., IR. Nr. 25, 3. Komp.* Ungarn, Zölyom, Urvölgv, 1890,
                     verw.</p>
                 <pb n="35"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=35&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=35&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=35&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 35 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=35&amp;zoom=33">[ Verlustliste - 19141128 - Seite 35 ]</ref>
                 </ab>
                 <p>Szuchi Johann, Inft. TitGefr., IR, Nr. 25, 4. Komp., Ungarn, Zölyom, 1892,
                     verw.</p>
@@ -4978,11 +4908,9 @@
                 <p>Zubek Theodor, Korp., k. k. LstlR. Nr. 22, 7. Komp., Bukowina, Storozynetz,
                     Bobestie, 1880, verw. ,</p>
                 <pb n="36"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=36&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=36&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=36&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 36 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=36&amp;zoom=33">[ Verlustliste - 19141128 - Seite 36 ]</ref>
                 </ab>
                 <p>Verlustliste Nr. 21.</p>
                 <p>Offiziere,</p>
@@ -5092,11 +5020,9 @@
                 <p>^Lik^iSS^ot 61 ^ 5 "' PJB ' Nr ' 29 ' Ungarn ' Gönlör - Kis!l0Ilt '</p>
                 <p>ftesoMchäe!, Unterjäg., FJB. Nr. 29, Ungarn, Zölyom, Ras ztö, loöy, verw.</p>
                 <pb n="37"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=37&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=37&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=37&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 37 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=37&amp;zoom=33">[ Verlustliste - 19141128 - Seite 37 ]</ref>
                 </ab>
                 <p>Friedrich Johann, ErsRes., IR. Nr. 25, 4. Marschkomp., Ungarn, Nögräd,
                     Divenyoroszi, 1886, verw.</p>
@@ -5220,11 +5146,9 @@
                     verw.</p>
                 <p>Krapka Franz, Jäg., FJB. Nr. 29, Ungarn, Gömör-Kishont, Ragäly, 188ö, verw.</p>
                 <pb n="38"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=38&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=38&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=38&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 38 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=38&amp;zoom=33">[ Verlustliste - 19141128 - Seite 38 ]</ref>
                 </ab>
                 <p>Krawczuk Gregor, Inft., IR. Nr.80,16.Komp., Galizien, Zloczöw, Baluczyn, lci/2,
                     verw.</p>
@@ -5349,11 +5273,9 @@
                 <p>Pocsanowszky Andreas, Jäg., FJB. Nr. 29, Ungarn, Gömör- Kishont, Felsösajö, 1885,
                     verw.</p>
                 <pb n="39"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=39&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=39&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=39&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 39 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=39&amp;zoom=33">[ Verlustliste - 19141128 - Seite 39 ]</ref>
                 </ab>
                 <p>Podhora Andreas, Jag., FJB. Nr. 29, Ungarn, Nögräd, Mälna- patak, 1887, verw.</p>
                 <p>Podhornik Stefan, Patrf., FJB. Nr. 29, Ungarn, Nögräd, Bag- lyasalja, 1889,
@@ -5476,11 +5398,9 @@
                 <p>Zagrobelny Kasimir, Gefr. TitKorp., IR. Nr, 80, 13. Komp., Galizien, Zloczöw,
                     Wicyi), 1888, tot.</p>
                 <pb n="40"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=40&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=40&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=40&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 40 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=40&amp;zoom=33">[ Verlustliste - 19141128 - Seite 40 ]</ref>
                 </ab>
                 <p>Zaj?c Josef, Inft., IR. Nr. 80, 13. Komp., Galizien, Zboröw, Milno, 1891,
                     verw.</p>
@@ -5508,7 +5428,7 @@
                     Warwarynce, 1890, verw.</p>
                 <p>Rodler Egon, Oblt., IR. Nr. 95, 1. Komp., Mähren, Brünn, Adamsthal, 1887,
                     verw.</p>
-                <p sameAs="VIL.23">Silber Karl, von, Hptm., IR. Nr. 95, 4. Komp., <country>Steiermark</country>, Graz, Grodenberg, Lankowitz, 1870, verw.</p>
+                <p xml:id="vll.19141128_E3.6428" sameAs="VIL.23">Silber Karl, von, Hptm., IR. Nr. 95, 4. Komp., <country>Steiermark</country>, Graz, Grodenberg, Lankowitz, 1870, verw.</p>
                 <p>Strohbach Hugo, Lt. i. d. Res., IR. Nr. 95, 1. Komp., Böhmen, Rumburg, Khoa,
                     1885, verw.</p>
                 <p>Szymonowicz Sigismund, Hptm., IR. Nr. 95,-1. Komp., Galizien, Sambor, Blazöw,
@@ -5597,11 +5517,9 @@
                 <p>Hacker Jakob Kersch, ErsRes., IR. Nr. 24, 4. Marschkomp., Galizien, Kolomea,
                     1880, verw.</p>
                 <pb n="41"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=41&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=41&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=41&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 41 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=41&amp;zoom=33">[ Verlustliste - 19141128 - Seite 41 ]</ref>
                 </ab>
                 <p>ilanezaryk Simon, Inft., lB.'Xr. t&gt;5, 7. Komp., Gaiizien, Hivsiatyn, |
                     Kopyczynee, 1887, verw.</p>
@@ -5746,11 +5664,9 @@
                 <p>WüSkmv Andreas, ErsResKan., FKR. Nr. 32, ResKBatt.,</p>
                 <p>Galiz.ien, Zolkiew, Borowce, 18S3, verw.</p>
                 <pb n="42"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=42&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=42&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=42&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 42 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=42&amp;zoom=33">[ Verlustliste - 19141128 - Seite 42 ]</ref>
                 </ab>
                 <p>Hasyii'itU'z Wasvl, KcsTnft., Iß. Nr. 05, fi. Kcmp., Galizicn.</p>
                 <p>Zaleszczyki, Bedrvkowce, 1888, venv. •</p>
@@ -5852,11 +5768,9 @@
                 <p>Varjan Vazul, Jäg., FJB. Nr. 32, 1. Maischkomp., Ungarn, Säros. Komlösa, 1878,
                     verw. '</p>
                 <pb n="43"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=43&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=43&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=43&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 43 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=43&amp;zoom=33">[ Verlustliste - 19141128 - Seite 43 ]</ref>
                 </ab>
                 <p>"Verlustliste Nr. 2,7.</p>
                 <p>Offiziere.</p>
@@ -5979,11 +5893,9 @@
                 <p>Ölähbaksa, 1891, verw.</p>
                 <p>Szt. Nyires, 1889, verw.</p>
                 <pb n="44"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=44&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=44&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=44&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 44 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=44&amp;zoom=33">[ Verlustliste - 19141128 - Seite 44 ]</ref>
                 </ab>
                 <p>u</p>
                 <p>Verlustliste Nr. 28.</p>
@@ -6041,7 +5953,7 @@
                 <p>Verlustliste Nr. 29.</p>
                 <p>' Offiziere.</p>
                 <p>LÄszlu A.ndieas, Kdt.i. d. Res., SappB. Nr. 14,1. Komp., Ungarn, I </p> 
-                <p sameAs="VIL.29">Mlaker Albin, Lt., SappB.Nr. 14, 6. Komp., <country>Steiermark</country>, Marburg, Obernan, 1890, verw.</p>
+                <p xml:id="vll.19141128_E3.7056" sameAs="VIL.29">Mlaker Albin, Lt., SappB.Nr. 14, 6. Komp., <country>Steiermark</country>, Marburg, Obernan, 1890, verw.</p>
                 <p>Mannschaft.</p>
                 <p>Haas Karl, SappB. Nf. 14, 6. Komp., Böhmen, Kladno, 1882,</p>
                 <p>»er«. (Bereits eingerückt.)</p>
@@ -6072,11 +5984,9 @@
                     Vajnäg, 1889, verw.</p>
                 <p>Kruspl Eduard, Kdt., IR. Nr. 85, 10. Komp., Mähren, Znairu, 1888, verw.</p>
                 <pb n="45"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=45&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=45&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=45&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 45 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=45&amp;zoom=33">[ Verlustliste - 19141128 - Seite 45 ]</ref>
                 </ab>
                 <p>«y-—-——annr um an WH"</p>
                 <p>Lengvel Kamillo, Kdt,, IR. Nr. 85, 10. Komp., Ungarn, Fiume, 1888, tot.</p>
@@ -6168,11 +6078,9 @@
                 <p>Jlt&amp;tä Gavro.. K *d., GAR. Nr. 6, KnBatt. 2, Bosnien, Gracank!&gt;, Kicora«,
                     1891, vor« . Kotulie, 1889. verw. I</p>
                 <pb n="46"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=46&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=46&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=46&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 46 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=46&amp;zoom=33">[ Verlustliste - 19141128 - Seite 46 ]</ref>
                 </ab>
                 <p>Flaschner Otto, Lt. i. d. Res., IR. Nr. 28, Böhmen, Böhm. Leipa, 1882, tot. _
                     ;</p>
@@ -6264,11 +6172,9 @@
                 <p>Tolli Dcsideriu?, EiniFreir. TitUnteriäg.. FJB. Nr. 12, S. Komp., Ungarn,
                     Ersekuivär, Kagysuiäny, ltUi, tot.</p>
                 <pb n="47"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=47&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=47&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=47&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 47 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=47&amp;zoom=33">[ Verlustliste - 19141128 - Seite 47 ]</ref>
                 </ab>
                 <p>Verlustliste Nr. 45.</p>
                 <p>Offiziere.</p>
@@ -6392,11 +6298,9 @@
                     1881, verw.</p>
                 <p>Franz Kar!, Inft. TiKMr., II'«. Nr. 28, 9. Konip.. Böhmen, Piag-, 1891, verw.</p>
                 <pb n="48"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=48&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=48&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=48&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 48 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=48&amp;zoom=33">[ Verlustliste - 19141128 - Seite 48 ]</ref>
                 </ab>
                 <p>Fuchs Franz, Korp., IR. Kr. 28, 12. Komp. Böhmen. Kralupp a. d. M., Votvovic,
                     1890, verw. • '•</p>
@@ -6526,11 +6430,9 @@
                     verw.</p>
                 <p>Krejci Ferdinand, Inft., IR. Nr. 28,11- Krtmp., Böhmen, Kladno 1891, verw.</p>
                 <pb n="49"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=49&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=49&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=49&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 49 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=49&amp;zoom=33">[ Verlustliste - 19141128 - Seite 49 ]</ref>
                 </ab>
                 <p>Krejt'i .Tosof, Korp., III. Nr. 28, 9. Komp., Böhmen, Pr.ig, 1880.</p>
                 <p>'tot.</p>
@@ -6665,11 +6567,9 @@
                 <p>Prttfhiwka Josel. 1'ritr. TitGefr., IR. Nr. 28, 10. Komp., Böhmen, Smichov,
                     Radlic, .1888, verw.</p>
                 <pb n="50"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=50&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=50&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=50&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 50 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=50&amp;zoom=33">[ Verlustliste - 19141128 - Seite 50 ]</ref>
                 </ab>
                 <p>PrwrMzka Karl, Gefr., IR. Nr. 2.« 2. Komp.. Pehmen, Kladno,</p>
                 <p>luocehlav. 18!)2,-'ver\v.</p>
@@ -6815,11 +6715,9 @@
                 <p>Svoboda August, Inft., IR. Nr. 28,9. Komp., Böhmen, Kgl. " ein* berge,
                     Kundratitz, 1888, verw.</p>
                 <pb n="51"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=51&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=51&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=51&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 51 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=51&amp;zoom=33">[ Verlustliste - 19141128 - Seite 51 ]</ref>
                 </ab>
                 <p>Taussig Ervin, EfsP.es., Iß. Xr. 28, 1?. K mip.. Böhmen. Prag, 1890, tot.</p>
                 <p>Teatsch Ladislaus, Litt., Iii. Nr. 28, 9. IC'jinp., Böhmen, Sebian, Viiiafic,
@@ -6938,11 +6836,9 @@
                 <p>N'ah'.oväky ;Taröslaii?,"R?sTntt. statt Inft , Iß. Xr. 74, 11. Komp., Böhmen,
                     Jifin, rodhrad, 1884, tot</p>
                 <pb n="52"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=52&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=52&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=52&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 52 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=52&amp;zoom=33">[ Verlustliste - 19141128 - Seite 52 ]</ref>
                 </ab>
                 <p>Verlustliste Nr. 13.</p>
                 <p>Mannschaft.</p>
@@ -7008,7 +6904,7 @@
                 <p>österreich, Neunkirchen, Rohrbach a. St., 1889. verw.</p>
                 <p>Beitbl Johann, ErsRes. statt Inft., IR. Kr. 4,13. Komp., Nieder ­</p>
                 <p>österreich, Korneuburg, Hagen brunn, 1886. verw.</p>
-                <p sameAs="VIL.19">Gspandl Alois statt Gspanl, Inft., IR. Nr. 4, 13. Komp., <country>Steiermark</country>, Feldbach,
+                <p xml:id="vll.19141128_E3.8264" sameAs="VIL.19">Gspandl Alois statt Gspanl, Inft., IR. Nr. 4, 13. Komp., <country>Steiermark</country>, Feldbach,
                     Auersbach, 1890, verw.</p>
                 <p>Kisslinsjer Robert Josef statt Haslinger, ErsRes. statt Inft.,</p>
                 <p>IR. Nr. 4, 14. Komp., Niederösterreich, Wien, 1892, verw.</p>
@@ -7018,7 +6914,7 @@
                 <p>Niederösterreich, Wr. Keustadt, Theresienfeld, 1880, verw.</p>
                 <p>Lokaj Johann, ErsResInft. statt Zugs!., IR. Kr. 4, 13. Komp.. Mähren, Guding,
                     Landshut, 18S8, verw.</p>
-                <p sameAs="VIL.19">Mervar Franz statt Merwar, Inft., IR. Nr. 4, 15. Komp., <country>Steiermark</country>,
+                <p xml:id="vll.19141128_E3.8278" sameAs="VIL.19">Mervar Franz statt Merwar, Inft., IR. Nr. 4, 15. Komp., <country>Steiermark</country>,
                     Voitsberg, 1890, verw.</p>
                 <p>l'losciinizsehnik Adalbert statt Ploselmilsehnik, Korp. statt</p>
                 <p>Inft., IR. Kr. 4,14. Komp., Niederösterreich,ien, 1885, verw.</p>
@@ -7035,11 +6931,9 @@
                 <p>Schwarz Kar!. ErsRes. statt Infi., IR. Nr. 4,13. Komp., Nieder ­ österreich,
                     Wien, 1888, verw. .</p>
                 <pb n="53"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=53&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=53&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=53&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 53 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=53&amp;zoom=33">[ Verlustliste - 19141128 - Seite 53 ]</ref>
                 </ab>
                 <p>^saaaasB</p>
                 <p>Seier Johann statt Rudolf, Gefr., TR. Nr. 4, 13. Komp., Nieder-</p>
@@ -7128,11 +7022,9 @@
                 <p>/ Silb «n Wenzel, Tnft. TitGefr., IR. Nr. 28, 10. Komp., Rühmen, Melnik,
                     Choruschitz statt Krö«itz, 1SS7, verw.</p>
                 <pb n="54"
-                    facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=54&amp;zoom=33"/>
+                facs="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=54&amp;zoom=33"/>
                 <ab>
-                    <ref
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=54&amp;zoom=33"
-                        >[ Verlustliste - 19141128 - Seite 54 ]</ref>
+                    <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141128&amp;seite=54&amp;zoom=33">[ Verlustliste - 19141128 - Seite 54 ]</ref>
                 </ab>
                 <p>B ericlitigung-en.</p>
                 <p>Verlustliste Nr. 7.</p>
