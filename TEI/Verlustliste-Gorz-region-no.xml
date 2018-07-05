@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Goriška in Gradiščanska</title>
+            <title>Osebe brez označenega okraja</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../Verlustliste.xml">TEI Corpus za XML direktorij</ref>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="vll.19160829_457.11776">
+               <note>Zorzenon Basilio, LstJäg., TJR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Görz - Gradiska</country>
+               </birth>
+               <note>1893; kriegsgef., Pensa, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160919_466.1178">
+               <note>Bandely Josef, LstPatrf., LdschR. Nr. III, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180103_640.7294">
+               <note>Komel August, GefrTitKorp., IR. Nr. 3, zugeteilt dem FeldgendKmdo Blatisto</note>
+               <birth>
+                  <country>Görz</country>
+               </birth>
+               <note>1892; gestorben (4./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180415_667.15236">
+               <note>Pišanič Georg, Infst., IR. Nr. 78</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+               </birth>
+               <note>1885. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180429_670.4720">
+               <note>Gorianz Andre, Infst., IR. Nr. 97, PionAbt.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+               </birth>
+               <note>1879. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180429_670.13882">
+               <note>Podgornik Justus, ErsResInfst., IR. Nr. 7</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+               </birth>
+               <note>1887; kriegsgef. (War kriegsgef. Im Austeuschwege als Kriegsinavlider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180824_692.7056">
+               <note>Kovačič Seil-, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+               </birth>
+               <note>1900; gestorben (7.4.1918)</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

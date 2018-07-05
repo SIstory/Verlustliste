@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Štajerska</title>
+            <title>Osebe brez označenega okraja</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../Verlustliste.xml">TEI Corpus za XML direktorij</ref>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="vll.19141117_60.2070">
+               <note>Fladišar Johann, ErsRes., IR. Nr. 17, MarschB.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1884, verw.</note>
+            </person>
+            <person xml:id="vll.19141117_60.5596">
+               <note>Rajovc Franz, Zugsf. TitFe'dw., IR. Nr. 87, 13. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19141202_71.6158" sameAs="VIL.18">
+               <note>Schweighofer Ernst, Oblt., k. k. LIR. Nr. 1, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>statt Niederösterreich, Graz statt Wien, 1891, verw.</note>
+            </person>
+            <person xml:id="vll.19141207_75.6782">
+               <note>Tretanek Franz</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Elabuga, Gouv. Kasan, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150113_101.942">
+               <note>Allmer Josef, ResInft., k. k. LIR. Nr. 3,12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150113_101.2234">
+               <note>Fink Martin, ErsRes., k. k. LIR. Nr. 3, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150113_101.5226">
+               <note>Napolt Thomas, Inft., k. k. LIR. Nr. 3, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150113_101.5888">
+               <note>Poier Alois, ResInft., k. k. LIR. Nr. 3, 12. Komp. </note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150113_101.6264">
+               <note>Resch Franz, Inft., k. k. LIR. Nr. 3, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150113_101.6680">
+               <note>Schwarhofer Franz, Inft., k. k. LIR. Nr. 3, 4, Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (22. /10. 1914).</note>
+            </person>
+            <person xml:id="vll.19150113_101.6724">
+               <note>Sechacher Theodor, Gefr., k. k. LIR. Nr. 3, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (2./11. 1914).</note>
+            </person>
+            <person xml:id="vll.19150113_101.7250">
+               <note>Süppacher Leopold, Inft., k. k. LIR. Nr. 3, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150129_116.708">
+               <note>Kleinschek Alois, Lt. i. d. Res., TJR. Nr. 4, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1884, tot (26./10.—3./11. 1914).</note>
+            </person>
+            <person xml:id="vll.19150130_117.1434">
+               <note>Bodlos Anton, Inft., k. k. LIR. Nr. 3, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (Nov. 1914).</note>
+            </person>
+            <person xml:id="vll.19150130_117.2180">
+               <note>Felber Johann, Inft., k. k. LIR. Nr. 3, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150130_117.3940">
+               <note>Kollin Josef, Inft., k. k. LIR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19150130_117.4224">
+               <note>Kriadler, Inft., k. k. LIR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150130_117.8096">
+               <note>Zechner Alois, Inft., k. k. LIR. Nr. 3, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150204_120.3472">
+               <note>Hanhsmann Hubert, Vizewachtm., k. k. LstIR. Nr. 25, vo Stande des LdstiendKmdo. Nr. C, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150204_120.8184">
+               <note>Spörk Anton, Vizewachtm., k. k. LstIR. Nr. 25, vom Stande des LdsGendKmdo. Nr. 6, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150204_120.8186">
+               <note>Spörk Johann, Vizewachtm., k. k. LstIR. Nr. 25, vom Stande des LdsGendKmdo. Nr. 6, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150213_125.4904">
+               <note>Krendl Karl, Inft., k. k. LIR. Nr. 3, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150213_125.7414">
+               <note>Schleicher Willibald. Inft., k. k. LIR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150213_125.9642" sameAs="VIL.21">
+               <note>Wultsch Anton, Zugsf., FJR. Nr. 9, 1. Komp </note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>statt Niederösterreich, Murau statt Bruck a. d. L., Oberwölz statt Schweehat, 1890, verw., kriegsgef. (Charkow, Rußland. — War tot ausgewiesen.)</note>
+            </person>
+            <person xml:id="vll.19150220_130.9616">
+               <note>Benkö Franz, Inft., IR. Nr. 83</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1886, tot (21.—25./12.1914).</note>
+            </person>
+            <person xml:id="vll.19150302_135.4098">
+               <note>Kirschas Franz, UOff.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>Motenburg?, kriegsgef. (Atkarsk, Gouvernement Ssaratow, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150303_136.8236" sameAs="VIL.24">
+               <note>Deutschmann Johann, ErsRes., IR. Nr. 47, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>St. Jakob, 1882, verw.</note>
+            </person>
+            <person xml:id="vll.19150303_136.9314" sameAs="VIL.24">
+               <note>Kranner Josef statt Anton, ResInft. statt Inft., IR. Nr. 47, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1886, tot.</note>
+            </person>
+            <person xml:id="vll.19150317_143.710">
+               <note>Fiala Ferdinand, Lt. i. d. Res., k. k. LIR. Nr. 3, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150317_143.714">
+               <note>Firbas Oskar, Dr. phil., Lt., k. k. LIR. Nr. 3, RgtsStb.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150317_143.924">
+               <note>Rölling Stefan, Fähnr. i, d. Res., k. k. LIR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (4./2. 1915).</note>
+            </person>
+            <person xml:id="vll.19150317_143.2488">
+               <note>Eger Peter, Inft., k. k. LIR, Nr. 3. 8.,Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1881, verw.</note>
+            </person>
+            <person xml:id="vll.19150317_143.8150">
+               <note>Slawetz Anton, Inft.,k. k. LIR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150322_146.3142">
+               <note>Finschger Wekoslav, Art.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw., kriegsgef. (Spital Nr. 10 in Moskau, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150326_149.8174">
+               <note>Presner Josef, ResInft., IR. Nr. 47, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150327_150.9368">
+               <note>Zettelbauer Johann, Inft.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Woronesh, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150406_155.6992">
+               <note>Pillich Andreas, Inft., IR. Nr. 47, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150408_156.7060">
+               <note>Podkrischik Anton, Inft.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw., kriegsgef. (Charkow, Rußland,)</note>
+            </person>
+            <person xml:id="vll.19150408_156.8660">
+               <note>Strauss Ruppert, Inft.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw., kriegsgef. (Charkov, Rußland.).</note>
+            </person>
+            <person xml:id="vll.19150409_157.4556">
+               <note>Klauscher Josef, Inft.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Bijsk, Gouvernement Tomsk, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150413_159.1748">
+               <note>Buchleitner Josef, Inft., IR. Nr. 27, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150413_159.2466">
+               <note>Doz Georg, Inft., IR. Nr. 27, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150414_160.2428">
+               <note>Erlbacher Josef, Feldw., PionB. Nr. 2, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150414_160.9890">
+               <note>Wank Bruno,, ResKan., FKR. Nr. 5, MunPark</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150415_161.2170">
+               <note>Erhart Josef, Oberpion., PionB. Nr. 3, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150415_161.3658">
+               <note>Karlin Martin, Fahrsold., PionB. Nr. 3,1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150416_162.9390">
+               <note>Schrantz Johann</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Cetinje, Montenegro.)</note>
+            </person>
+            <person xml:id="vll.19150416_162.10836">
+               <note>Tischler Angust, Iiorp., GAR. Nr. 3, GbKnBatt. 2</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150421_164.3666">
+               <note>Guber Karl, Inft.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150504_171.4856">
+               <note>Liebmaim Anton, ErsRes., k. k. LIR. Nr. 3, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (6./1.1915).</note>
+            </person>
+            <person xml:id="vll.19150504_171.5794">
+               <note>Neubauer Franz, Inft., k. k. LIR. Nr. 3, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150504_171.8032">
+               <note>Strohmaier Alois, Gefr., k. k. LIR. Nr. 26, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150504_171.8754">
+               <note>Urschitz Michael, Inft., k. k. LIR. Nr.'S, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150505_172.2064">
+               <note>Czvetics J6zsef, Inft., k. u. LIR. Nr. 18," 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150506_173.2554">
+               <note>Flcik Josef, Inft., k. lc. LIR; Nr. 3, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2630">
+               <note>Fragner Vinzenz, Inf!., IR. Kr. 27. ,13. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2958">
+               <note>Grilitsck Franz, Jäg., FJB. Nr. 9, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.4196">
+               <note>Kaufmann Alois, Inft., k. k. LIR. Nr. 3, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.5680">
+               <note>Martinschiitz Julius, Inlt, IE. Nr. 27, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.7030">
+               <note>Pöltl Karl, Feldw., k. k. LIE. Nr. 3, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.7300">
+               <note>Potocnik Augustin, Inft., k. k. LIR. Nr. 4</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.8198">
+               <note>Schwab Franz, Inft., k. k. LIR. Nr. 3, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.8790">
+               <note>Sterdisnik Peter, Korp., IR. Nr. 87, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.10346">
+               <note>Wildling Urban, ErsEes., FJB. Nr. 7, ErsKomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.10762" sameAs="VIL.121">
+               <note>Eberhardt Viktor, Korp., k. k. ME. Nr. 4, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.10868">
+               <note>Spork Josef, Korp., IE. Nr. 27, 11. Komp.,'. </note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150516_178.11276">
+               <note>Trpin Johann, Inft., IK. Nr. 87, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1880, kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150519_181.9928" sameAs="VIL.32">
+               <note>Baumgartner Kajetan, Infi, IR. Nr.*27, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>I Evakuationsspital Nr. 8 in Moskau, Rußland. War verw,</note>
+            </person>
+            <person xml:id="vll.19150602_186.11504" sameAs="VIL.24">
+               <note>Grill Gregor,Gefr. TitKorp., IR. Nr. 47; 7. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150625_200.2872">
+               <note>Fagosin Alois</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw., kriegsgef. (Evakuationslazarett in Nishnij-Nowgorod, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150625_200.4730">
+               <note>Karner Georg, Inft., IR. Nr. 58, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1880, verw.</note>
+            </person>
+            <person xml:id="vll.19150625_200.7990">
+               <note>Poser Jphann, Inft., IR. Nr. 58, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19150710_208.3050">
+               <note>Goldner Johann</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw., kriegsgef. (Kragujevac, Garnisonsspital, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19150710_208.8108">
+               <note>Stenker Frau ja</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Drinaer Garnisonsspitalin Valjevc-Kruschcwatz, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19150713_209.3422">
+               <note>Flcischhaeker Johann, Offiziersdiener, k. k. LHDiv. Nr. 45, Batt. 3</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (24.—31./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150720_215.11222">
+               <note>Winklcr Richard, Gefr., IR. Nr. 27, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19150722_217.1208">
+               <note>Banmhackl Matthias, Init., IR. Nr. 5S, 7. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1880, venv.</note>
+            </person>
+            <person xml:id="vll.19150722_217.3512">
+               <note>Haupannuer. Vinzenz, Inft., IR. Nr. 58, 7. Komp.. </note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1887, verw.</note>
+            </person>
+            <person xml:id="vll.19150726_220.9258">
+               <note>Treidl Matthias, Jäg,, TJR. Nr. 1, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1894, verw.</note>
+            </person>
+            <person xml:id="vll.19150729_223.7996">
+               <note>Pacher Rupert, Inft., IR. Nr. 17, 2. Komp.,. </note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1894, verw. ,</note>
+            </person>
+            <person xml:id="vll.19150805_229.2238">
+               <note>Egger Johann,. Inft., IR. Nr. 27, ,10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150805_229.8540">
+               <note>Stcgmiiller Wilhelm, RUOffz. II. Kl. Tit. I, IR. Nr. 27, 7. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1892, verw.</note>
+            </person>
+            <person xml:id="vll.19150806_230.6352">
+               <note>Schöning« August, Lstlnft., k. k. LIR. Nr. £6, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150816_239.2044">
+               <note>CzemoSa Johann, Inft., IR. Nr. 15,' 14. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150816_239.9812">
+               <note>Zorko Andreas, Inft., IR. Nr..15, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1889, verw.</note>
+            </person>
+            <person xml:id="vll.19150818_241.6134">
+               <note>Mcdwid Matias, Inft., IR. Nr. 15, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1884, kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150819_242.790">
+               <note>KBgeler Karl, Kdt. i. d. Res., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.2326">
+               <note>Fluch Johann, StbsFeldw., IR. Nr. 27, 15. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.6642">
+               <note>Schröttcr Johann, Jag., FJB. Nr. 9, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.7034">
+               <note>Sonnleitner Stefan, Fahrkan., k. k. LFKD. Nr. 22, Batt. 1</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19150820_243.7498">
+               <note>Reischl Josef, Inft., IR. Nr. 58, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1890, verw.</note>
+            </person>
+            <person xml:id="vll.19150822_245.814">
+               <note>Traunil» Anton, Fähnr,, k. k. LIR..Nr. 26,1. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150822_245.1652">
+               <note>Bnisiee Anton, l'nft„lB. Nr. 58, 7. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1891,venr.</note>
+            </person>
+            <person xml:id="vll.19150822_245.4092">
+               <note>Klampfer Franz, Inft., k. k. LIR. Nr. 26,' 1. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (7./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19150822_245.5788">
+               <note>Neubauer Johann, Inft., IR. Nr. 58, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1890, verw.</note>
+            </person>
+            <person xml:id="vll.19150825_247.5480">
+               <note>Mesarec Vinzenz, Inft., k. k. LIR. Nr. 35, 2. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895, tot (28./5.—30./5. 1915).</note>
+            </person>
+            <person xml:id="vll.19150825_247.6032">
+               <note>Ofner Alois, Inft., k. k. LIR. Nr. 36, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895, ■ verw. ■ '</note>
+            </person>
+            <person xml:id="vll.19150825_247.9198">
+               <note>Wrisk Philip,'Inft,,'Ji k. LIR. Nr. 33, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895, venv.</note>
+            </person>
+            <person xml:id="vll.19150825_247.9404">
+               <note>Zolokar Franz, Inft., k. k. LIR. Nr. 36, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19150826_248.826">
+               <note>KlemeBclc Andreas, Kdt. i. d. Ees., IE. Nr.- 87, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150830_252.828">
+               <note>Leitner August, KdtAsp., k. k. LIR. Nr. 3, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>tot (13./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150830_252.7360">
+               <note>Rest Johann, Gefr, .k. k. LIR. Nr. 3, RgtsStb.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1892, verw,</note>
+            </person>
+            <person xml:id="vll.19150830_252.9454">
+               <note>Wiedner Simon, Gefr., k. k. LIR. Nr. 3, 3., Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150907_260.2658">
+               <note>Duller Ludwig, Inft., k. k. LIR. Nr. 3, l./X. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150907_260.3596">
+               <note>Gruber I Franz, LstInft., IR. Nr. 27, l./X. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1891, tot (30./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19150907_260.3920">
+               <note>Herbst Rudolf, Gefr., k. k. LIR. Nr. 3, l./X. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150917_268.928">
+               <note>Adam Anton, Inft., IR. Nr. 47, 2./X. Marschkomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1839, verw.</note>
+            </person>
+            <person xml:id="vll.19150918_269.6144">
+               <note>Kusmacz Filip, Inft., IR. Nr. 40, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1896, verw.</note>
+            </person>
+            <person xml:id="vll.19150920_270.7980">
+               <note>Schöberl Alexander, Korp., IR. Nr. 12, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1891, verw.</note>
+            </person>
+            <person xml:id="vll.19150922_271.2554">
+               <note>Dürnberger Anton</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef. (Gestorben am 6./12. 1914 im 1. Reserve-Militärspital in Cacak, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19150924_273.2982">
+               <note>Heinzel Josef, Inft., IR. Nr. 58, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1881, verw.</note>
+            </person>
+            <person xml:id="vll.19150924_273.8836">
+               <note>Wohlmütter Josef, Inft., IR. Nr. 58, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1887,' verw.</note>
+            </person>
+            <person xml:id="vll.19150925_274.4178">
+               <note>Karp Johann</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef., gestorben am 10./12. 1915 in Caiak, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19150925_274.7264">
+               <note>Polanc Stefan, Inft., k. k. LIR. Nr. 4</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893, tot (5./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150926_275.5342">
+               <note>Leskovcek Rudolf, Inft., k. k. LstMarschB. Nr. 23, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1896, verw.</note>
+            </person>
+            <person xml:id="vll.19150928_277.4110">
+               <note>Jelen Franz, Inft., IR. Nr. 87, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1894, verw.</note>
+            </person>
+            <person xml:id="vll.19150928_277.6992">
+               <note>Pelko Blasius, Inft., k. k. LIR, Nr. 26, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1881, verw.</note>
+            </person>
+            <person xml:id="vll.19150928_277.7422">
+               <note>Prejac Josef, Inft., IR. Nr. 87, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1882, verw.</note>
+            </person>
+            <person xml:id="vll.19150928_277.9986">
+               <note>Zachvinik Franz, Inft., k. k. LstB. Nr. 157, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1885, verw.</note>
+            </person>
+            <person xml:id="vll.19150929_278.1298">
+               <note>Blazič Anton, Inft., IR. Nr. 58, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1891, verw.</note>
+            </person>
+            <person xml:id="vll.19151008_287.794">
+               <note>Abram Josef, Inft., IR. Nr. 15, 14. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1881, verw.</note>
+            </person>
+            <person xml:id="vll.19151008_287.958">
+               <note>Babicz Jakob, Inft., IR. Nr. 15, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1879, verw.</note>
+            </person>
+            <person xml:id="vll.19151008_287.1332">
+               <note>Blaziner Andreas, Inft., IR. Nr. 15, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1889, verw.</note>
+            </person>
+            <person xml:id="vll.19151008_287.2750">
+               <note>Glowa Valentin, Inft, IR. Nr. 15, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19151012_290.4920">
+               <note>Kocmuth Johann, Inft., k. k. LIR. Nr. 26, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1894, verw.</note>
+            </person>
+            <person xml:id="vll.19151016_294.3780">
+               <note>Holzeind Gabriel, Jäg., FJB. Nr. 9, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>ir-, ber 2' Obersaifen, 1887, verw.</note>
+            </person>
+            <person xml:id="vll.19151022_298.10834">
+               <note>Wipfler Simon, Jäg,, TJR. Nr. 4, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19151025_300.3964">
+               <note>Kalcher Franz, Lstlnft., IR. Nr. 89, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1885, verw.</note>
+            </person>
+            <person xml:id="vll.19151028_303.6440">
+               <note>Nowak Jakob, Inft., IR. Nr. 15, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1879, verw.</note>
+            </person>
+            <person xml:id="vll.19151028_303.6904">
+               <note>Perusyl Franz, Inft., IR. Nr. 15, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1878, verw.</note>
+            </person>
+            <person xml:id="vll.19151028_303.7356">
+               <note>Puff Johann, Inft., k. k. LIR. Nr. 36, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1878, verw.</note>
+            </person>
+            <person xml:id="vll.19151105_307.7922">
+               <note>Pichler Franz, Inft. TitGefr., IR, Nr. 49, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1881, verw.</note>
+            </person>
+            <person xml:id="vll.19151107_309.3680">
+               <note>Grossor Franz, Inft., k. k. LIR. Nr. 22, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.7814">
+               <note>Pusznik Anton, LstInft., IR. Nr. 55, 10. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1891, verw.</note>
+            </person>
+            <person xml:id="vll.19151122_320.9776">
+               <note>Rottmann Alois, Gefr,, IR. Nr.47,4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19151122_320.10022">
+               <note>Santl Franz, Inft,, IR, Nr. 47, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19151122_320.11974">
+               <note>Wagner Franz, Inft, k. k. LstlR. Nr. 3, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1877, kriegsgef., Chabarowsk, Gebiet Primojsk. Rußland.</note>
+            </person>
+            <person xml:id="vll.19151123_321.1336">
+               <note>Beer Johann, lnft., IR. Nr. 4. 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1890, tot (10./9. 1915).</note>
+            </person>
+            <person xml:id="vll.19151202_327.2532">
+               <note>Felser Leopold, Inft., k. k. LstIR Nr 2, 3 /II. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19151202_327.8614">
+               <note>Strasser Johann, Ldsch., LdschR. Nr. II, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1896, verw.</note>
+            </person>
+            <person xml:id="vll.19151208_331.5146">
+               <note>Leskovsek Johann, Inft., IR. Nr. 97, MGA.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151221_339.4016">
+               <note>Hoffner Franz, UOff.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw., kriegsgef., Evakuationsspital Nr. 45 in Rjasan, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160107_351.3828">
+               <note>Gmeiner Franz, Inft., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 26), 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19160108_352.7776">
+               <note>Švab Peter, Inft., k. k. LIR. Nr. 26, 4 Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1897; tot (31./10. 1915).</note>
+            </person>
+            <person xml:id="vll.19160110_353.1690">
+               <note>Bonstingl Peter, Jäg., FJB, Nr. 3, Stb.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19160110_353.4838">
+               <note>Kager Franz, Unterjäg., FJB. Nr. Stb.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1879; verw.</note>
+            </person>
+            <person xml:id="vll.19160401_402.1650">
+               <note>Bukovec Jakob, Inft., IR. Nr. 87, 13. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1873; verw.</note>
+            </person>
+            <person xml:id="vll.19160414_408.10730">
+               <note>Sackel Johann, LstInft., k. k. LIR. Nr. 26, 4. ErsKomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1894, kriegsgef., Pensa, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160512_420.1512">
+               <note>Blazinšek Valentin, Inft., k. k. LIR. Nr. 23, 4. Komp</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160529_425.4392">
+               <note>Gabron Franz, Schütze TitGefr., k. k. Kärntner FreiwSchützenReg., 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1897; tot (28./4.1916).</note>
+            </person>
+            <person xml:id="vll.19160529_425.4794">
+               <note>Gratz Johann, Gefr., k. k. LIR. Nr. 3</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1878, kriegsgef., Beresowka, Gebijt Transbaikalien, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160529_425.6638">
+               <note>Kickmeier Josef, Inft., k. k. LIR. Nr. 3</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19160531_426.10140">
+               <note>Schweighofer Johann, Inft., k. k. LstB. Nr. 152, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1877; verw.</note>
+            </person>
+            <person xml:id="vll.19160605_428.12286">
+               <note>Stegne Paul, Inft., k. k. LstIR. Nr. 32, RgtsStb.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1880; verw. (Ortsdaten unleserlich.)</note>
+            </person>
+            <person xml:id="vll.19160624_434.5860">
+               <note>Jammernegg Karl, Inft., IR. Nr. 47, zugeteilt dem k. k. LstB. Nr. 30, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1885; verw.</note>
+            </person>
+            <person xml:id="vll.19160706_438.5986">
+               <note>Hütter Johann, LstInft., IR. Nr. 58, 3. ErsKomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1880; kriegsgef., Vigevano, Italien.</note>
+            </person>
+            <person xml:id="vll.19160706_438.16098">
+               <note>Windisch Josef, LstInft, IR. Nr. 58, 3. ErsKomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1890; kriegsgef., Vigevano, Italien.</note>
+            </person>
+            <person xml:id="vll.19160718_442.10808">
+               <note>Skof Franz, Inft., IR. Nr. 47, 11. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1887; verw.</note>
+            </person>
+            <person xml:id="vll.19160720_443.856">
+               <note>Vodopiutz Eugen, Fähnr. i. d. Res., k. k. LIR. Nr. 35, zugeteilt dem k. k. LstGendB. Nr. 1, StabsAbt.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1892; verw.</note>
+            </person>
+            <person xml:id="vll.19160729_446.10670">
+               <note>Schmiedt Ludwig, LstInft., k. k. LIR. Nr. 20, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; tot (6.-12./6. 1916).</note>
+            </person>
+            <person xml:id="vll.19160729_446.10696">
+               <note>Schröek Johann, Inft., k. k. LIR. Nr. 20, 9. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19160819_454.1738">
+               <note>Blazicz Josef, Inft., IR. Nr. 40, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19160824_455.6680">
+               <note>Maier Johann, LstInft., IR. Nr. 47, 6. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19160824_455.7018">
+               <note>Meßner Josef, Jäg., FJB. Mjr. Schenk, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1886; verw.</note>
+            </person>
+            <person xml:id="vll.19160907_461.4142">
+               <note>Gajsek Walentin, LstInfst., IR. Nr. 15, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1878; verw.</note>
+            </person>
+            <person xml:id="vll.19160914_464.9542">
+               <note>Pölzl Franz, LstInfst., IR. Nr. 58, 4, Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1890; verw.</note>
+            </person>
+            <person xml:id="vll.19161101_485.10656">
+               <note>Pušnik Franz, Infst., k. k. LIR. Nr. 26, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1897; tot (13./7. 1916).</note>
+            </person>
+            <person xml:id="vll.19161101_485.12654">
+               <note>Tomper Anton, Infst., k. k. LIR. Nr. 26, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1888; verw.</note>
+            </person>
+            <person xml:id="vll.19161113_489.5688">
+               <note>Kleemeier Johann, LstInfst., IR. Nr. 30, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19161113_489.9862">
+               <note>Schrottner Johann, Infst., IR. Nr. 30, 6. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1883; verw.</note>
+            </person>
+            <person xml:id="vll.19161113_489.10620">
+               <note>Stöger Josef, Infst., IR. Nr. 30, 6. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1881; verw.</note>
+            </person>
+            <person xml:id="vll.19161202_496.418">
+               <note>Janschekowitsch Rudolf, Oblt., LIR. Nr. 6, 5. Esk.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1888; tot (18.-19./8.1916).</note>
+            </person>
+            <person xml:id="vll.19161223_506.2562">
+               <note>Eisenberger Johann, Jäg., FJB. Nr. 8, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1882; verw.</note>
+            </person>
+            <person xml:id="vll.19170329_544.15810">
+               <note>Kummer Rudolf, GefrTitKorp., IR. Nr. 47, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>Radkersburg; tot. (Laut Meldung des russischen Roten Kreuzes gestorben am 28./2. 1915 in Krasnojarsk, Rußland. Nicht legal nachgewiesen. War kriegsget. gemeldet.)</note>
+            </person>
+            <person xml:id="v11.19170418_556.3830">
+               <note>Gruber Michael, Infst., k. k. LstIR. Nr. 27, MGKomp. I</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="v11.19170418_556.10368">
+               <note>Stibor Karl, Komp., IR. Nr. 47, 14. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>Feldbach (18.—19./11. 1916).</note>
+            </person>
+            <person xml:id="v11.19170418_556.10932">
+               <note>Tandler Anton, LstInfst., IR. Nr. 47, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1890; verw.</note>
+            </person>
+            <person xml:id="vll.19170423_558.7046">
+               <note>Lenger Ferdinand, LstInfst., IR. Nr. 30</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; kriegsgef. (War verw. und kriegsgef. in Rußland. Als Austauschinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19170423_558.12196">
+               <note>Thonhofer Jakob, LstInfst., IR. Nr. 58, 2. ErsKomp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>kriegsgef., Karsun, Gouvernement Simbirsk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19170430_563.3646">
+               <note>Gams Leopold, Infst., IR.  Nr. 47</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1894; verw.</note>
+            </person>
+            <person xml:id="vll.19170507_568.8638">
+               <note>Pirnik Peter, Infst., k. k. LIR. Nr. 26, 5. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19170507_568.10862">
+               <note>Treffler Franz, Gefr., k. k. LIR. Nr. 3, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1875; kriegsgef., S. Maria C. V., Italien.</note>
+            </person>
+            <person xml:id="vll.19170508_569.10172">
+               <note>Ortner Alois, LstInfst., IR. Nr. 58, 13. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1883; verw</note>
+            </person>
+            <person xml:id="vll.19170731_604.2196">
+               <note>Crippa Julius, Korp., k. k. FreiwSchB. Nr. 4, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1897; verw.</note>
+            </person>
+            <person xml:id="vll.19170731_604.6396">
+               <note>Leskošek Johann, SchützeTitGefr., k. k. freiw. SchB. Nr. IV, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19170814_607.6152">
+               <note>Mateža Franz, Infst. IR. Nr. 47, MGKomp. I</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1887; verw.</note>
+            </person>
+            <person xml:id="vll.19170814_607.6484">
+               <note>Močinič Anton, LstInfst., IR. Nr. 47, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1877; verw.</note>
+            </person>
+            <person xml:id="vll.19170814_607.7572">
+               <note>Pock Alois, LstInfst., IR. Nr. 47, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19171005_613.2562">
+               <note>Brinovar Franz, Infst., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1883; gefallen (1.—31./8. 1916).</note>
+            </person>
+            <person xml:id="vll.19180105_641.12070">
+               <note>Siebenburger Johann, LstInfst., ER.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1877; gestorben (2./10. 1917).</note>
+            </person>
+            <person xml:id="v11.19180126_646.14348">
+               <note>Skamen Franz, Infst., IR. Nr. 87, 16. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1899; verw.</note>
+            </person>
+            <person xml:id="vll.19180129_647.1252">
+               <note>Alic Franz, Schütze, k. k. SchR. Nr. 26, 2. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180129_647.1326">
+               <note>Art Josef, Schütze, k. k. SchR. Nr. 26, 8. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180129_647.11958">
+               <note>Richter Josef, Gefr., k. k. SchR. Nr. 26, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="v11.19180221_653.3122">
+               <note>Fijawsz Rudolf, LstInfst., IR. Nr. 58</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; kriegsgef., Djedilowo, Rußland.</note>
+            </person>
+            <person xml:id="v11.19180223_654.404">
+               <note>Bayer Josef, Lt. i. d. Res., FJB. Nr. 9, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1895; gefallen (11./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180305_656.9884">
+               <note>Molan Martin, LstInfst., IR. Nr. 87, 4. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1898; verw.</note>
+            </person>
+            <person xml:id="vll.19180309_658.4974">
+               <note>Krem Franz, LstSchütze, k. k. SchR. Nr. 26, zugeteilt dem IR. Nr. 87, 3. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1899; verw.</note>
+            </person>
+            <person xml:id="vll.19180415_667.16162">
+               <note>Richter Alois, Trainsold., IR. Nr. 1, zugeteilt der TrainDiv. Nr. 1</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1885; kriegsgef. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180515_674.12664">
+               <note>Sehlcter Kaspar LsUilg., FJB. Nr. 7, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19180605_678.8272">
+               <note>Kepp Leopold, Infst., IR. Nr. 47, 7. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1899; verw.</note>
+            </person>
+            <person xml:id="vll.19180723_687.4828">
+               <note>Holzapfel Franz, LstJäg., FJB. Nr. 9, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19180812_690.11420">
+               <note>Seheer Otto, ZugsfTitF Idw., k. k. SchR. Nr. 3</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19181011_698.7096">
+               <note>Herbst Karl, Korp., k. k. SchR. Nr. 3, 12. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19181105_700.14600">
+               <note>Seran Franz, LstKfst., IR. Nr. 87</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1898, kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19181204_703.2802">
+               <note>Braunitzer Alois, Infst., IR. Nr. 107, 1. Komp.</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>gestorben (18./7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181204_703.3472">
+               <note>Cvetko Franz, Trainsold., TrainB. Nr. 3</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1897; gestorben (29./8. 1918).</note>
+            </person>
+            <person xml:id="vll.19181219_705.4940">
+               <note>Gasperitsch Franz, Kan., k. u. k. FAR. Nr. 106</note>
+               <birth>
+                  <country>Steiermark</country>
+               </birth>
+               <note>1884; gestorben (18./7. 1918).</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
