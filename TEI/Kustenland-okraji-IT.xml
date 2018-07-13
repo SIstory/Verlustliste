@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Primorska</title>
+            <title>Seznam okrajev: Italija</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../Verlustliste.xml">TEI Corpus za XML direktorij</ref>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            
+         </listPlace>
+      </body>
+   </text>
+</TEI>
