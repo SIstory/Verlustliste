@@ -32,45 +32,47 @@
       <body>
          <listPlace>
             <place>
-               <placeName>Adelsberg</placeName>
+               <placeName xml:lang="sl">Postojna</placeName>
+               <placeName xml:lang="de">Adelsberg</placeName>
                <idno>vll.19150916_267.1678</idno>
                <idno>vll.19151107_309.6220</idno>
                <idno>vll.19160201_368.7448</idno>
                <idno>vll.19180129_647.6872</idno>
             </place>
             <place>
-               <placeName>Cilli</placeName>
+               <placeName xml:lang="sl">Celje</placeName>
+               <placeName xml:lang="de">Cilli</placeName>
                <idno>vll.19151028_303.3540</idno>
                <idno>vll.19160621_433.7220</idno>
             </place>
             <place>
-               <placeName>Copodistria</placeName>
+               <placeName xml:lang="sl">Koper</placeName>
+               <placeName xml:lang="de">Capodistria</placeName>
                <idno>vll.19151107_309.1650</idno>
             </place>
             <place>
-               <placeName>Dobrava</placeName>
+               <placeName xml:lang="sl">Dobrava</placeName>
                <idno>vll.19150916_267.4044</idno>
             </place>
             <place>
-               <placeName>Vökermarkt</placeName>
-               <idno>vll.19150901_254.5032</idno>
-            </place>
-            <place>
-               <placeName>Golač</placeName>
+               <placeName xml:lang="sl">Golac</placeName>
                <idno>vll.19151112_313.4418</idno>
             </place>
             <place>
-               <placeName>Gonobitz</placeName>
+               <placeName xml:lang="sl">Konjice</placeName>
+               <placeName xml:lang="de">Gonobitz</placeName>
                <idno>vll.19151107_309.4568</idno>
             </place>
             <place>
-               <placeName>Gottschee</placeName>
+               <placeName xml:lang="sl">Kočevje</placeName>
+               <placeName xml:lang="de">Gottschee</placeName>
                <idno>vll.19151122_320.3106</idno>
                <idno>vll.19160219_379.12762</idno>
                <idno>vll.19180514_673.9492</idno>
             </place>
             <place>
-               <placeName>Gurkfeld</placeName>
+               <placeName xml:lang="sl">Krško</placeName>
+               <placeName xml:lang="de">Gurkfeld</placeName>
                <idno>vll.19151105_307.3450</idno>
                <idno>vll.19151105_307.8498</idno>
                <idno>vll.19160617_432.7578</idno>
@@ -80,7 +82,8 @@
                <idno>vll.19150830_252.2478</idno>
             </place>
             <place>
-               <placeName>Laibach</placeName>
+               <placeName xml:lang="sl">Ljubljana</placeName>
+               <placeName xml:lang="de">Laibach</placeName>
                <idno>vll.19150814_237.5662</idno>
                <idno>vll.19151107_309.9420</idno>
                <idno>vll.19151107_309.10834</idno>
@@ -90,77 +93,83 @@
                <idno>vll.19181111_701.7006</idno>
             </place>
             <place>
-               <placeName>Lavamund</placeName>
+               <placeName xml:lang="sl">Labud</placeName>
+               <placeName xml:lang="de">Lavamund</placeName>
                <idno>vll.19160412_407.5546</idno>
             </place>
             <place>
-               <placeName>Letinje</placeName>
+               <placeName xml:lang="sl">Letinje</placeName>
+               <placeName xml:lang="">Lettenstätten</placeName>
                <idno>vll.19150119_107.7762</idno>
             </place>
             <place>
-               <placeName>Loitsch</placeName>
+               <placeName xml:lang="sl">Logatec</placeName>
+               <placeName xml:lang="de">Loitsch</placeName>
                <idno>vll.19150916_267.4454</idno>
                <idno>vll.19170731_604.11940</idno>
                <idno>vll.19171025_620.2212</idno>
             </place>
             <place>
-               <placeName>Luttenberg</placeName>
+               <placeName xml:lang="sl">Ljutomer</placeName>
+               <placeName xml:lang="de">Luttenberg</placeName>
                <idno>vll.19151008_287.9530</idno>
             </place>
             <place>
-               <placeName>Marburg</placeName>
+               <placeName xml:lang="sl">Maribor</placeName>
+               <placeName xml:lang="de">Marburg</placeName>
                <idno>vll.19151002_281.7362</idno>
                <idno>vll.19151002_281.9004</idno>
             </place>
             <place>
-               <placeName>Pettau</placeName>
+               <placeName xml:lang="sl">Ptuj</placeName>
+               <placeName xml:lang="de">Pettau</placeName>
                <idno>vll.19141230_88.7362</idno>
             </place>
             <place>
-               <placeName>Radmannsdorf</placeName>
+               <placeName xml:lang="sl">Radovljica</placeName>
+               <placeName xml:lang="de">Radmannsdorf</placeName>
                <idno>vll.19150322_146.9906</idno>
             </place>
             <place>
-               <placeName>Rudolfswert</placeName>
+               <placeName xml:lang="sl">Novo mesto</placeName>
+               <placeName xml:lang="de">Rudolfswert</placeName>
                <idno>vll.19150916_267.7238</idno>
             </place>
             <place>
-               <placeName>Saldenhofen</placeName>
+               <placeName xml:lang="sl">Vuzenica</placeName>
+               <placeName xml:lang="de">Saldenhofen</placeName>
                <idno>vll.19150415_161.8058</idno>
             </place>
             <place>
-               <placeName>Schwarzenbach</placeName>
+               <placeName xml:lang="sl">Črna na Koroškem</placeName>
+               <placeName xml:lang="de">Schwarzenbach</placeName>
                <idno>vll.19150818_241.7468</idno>
             </place>
             <place>
-               <placeName>Sesana</placeName>
+               <placeName xml:lang="sl">Sežana</placeName>
+               <placeName xml:lang="de">Sesana</placeName>
                <idno>vll.19171010_615.11080</idno>
             </place>
             <place>
-               <placeName>Stein</placeName>
+               <placeName xml:lang="sl">Kamnik</placeName>
+               <placeName xml:lang="de">Stein</placeName>
                <idno>vll.19151109_310.6480</idno>
             </place>
             <place>
-               <placeName>Streiteben Guttaring</placeName>
-               <idno>vll.19150319_144.6972</idno>
-            </place>
-            <place>
-               <placeName>Tolmein</placeName>
+               <placeName xml:lang="sl">Tolmin</placeName>
+               <placeName xml:lang="de">Tolmein</placeName>
                <idno>vll.19160118_360.5534</idno>
             </place>
             <place>
-               <placeName>Visnogora</placeName>
+               <placeName xml:lang="sl">Višnja gora</placeName>
+               <placeName xml:lang="de">Visnogora</placeName>
                <idno>vll.19151010_289.7746</idno>
             </place>
             <place>
-               <placeName>Windischgratz</placeName>
+               <placeName xml:lang="sl">Slovenj Gradec</placeName>
+               <placeName xml:lang="de">Windischgratz</placeName>
                <idno>vll.19160108_352.8230</idno>
             </place>
-            <place>
-               <placeName>Wolfsberg</placeName>
-               <idno>vll.19180603_677.10814</idno>
-            </place>
-            
          </listPlace>
       </body>
    </text>
