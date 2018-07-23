@@ -9878,10 +9878,10 @@
                <note>Glödnitz, 1892, tot (21./4. 1915).</note>
             </person>
             <person xml:id="vll.19150520_182.1964">
-               <note>Cg-onn Bartholomü, Int)., IR. Nr. 7, 9. Komp.</note>
+               <note>Cgonz Bartholomü, Int., IR. Nr. 7, 9. Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Schwaberg</region>
+                  <region>Schwabegg</region>
                </birth>
                <note>Völkermarkt, 1881, tot (April 1915).</note>
             </person>
@@ -19970,9 +19970,9 @@
                <note>Schoaß Franz, ErsRes., k. k. LIR. Nr. 4</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>&gt;_t. \ciu</region>
+                  <region>Sct. Veit</region>
                </birth>
-               <note>Metfiitz, 1886, kriegsgef. (Chabarowsk, Rußland.)</note>
+               <note>Metnitz, 1886, kriegsgef. (Chabarowsk, Rußland.)</note>
             </person>
             <person xml:id="vll.19150819_242.6592">
                <note>Schsitsch Peter, Inft., IR. Nr. 7,14.*Komp.</note>
@@ -21098,9 +21098,9 @@
                <note>Kokall Georg, Inft., IR. Nr. 7,11. Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Gikermarkt</region>
+                  <region>Völkermarkt</region>
                </birth>
-               <note>Tettengupf, 1887, kriegsgef.</note>
+               <note>Fettengupf, 1887, kriegsgef.</note>
             </person>
             <person xml:id="vll.19150901_254.5060">
                <note>Koller Johann, Inft., IR. Nr. 7, 11. Komp.</note>
@@ -23066,7 +23066,7 @@
                <note>Kirn Matthias, Inft., IR. Nr. 55, 12. Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Dobraea</region>
+                  <region>Dobrava</region>
                </birth>
                <note>1895, verw.</note>
             </person>
@@ -27498,7 +27498,7 @@
                <note>Faullant Paul, ErsRes., k. ki LIR. Nr. 4</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Völfsberg</region>
+                  <region>Wolfsberg</region>
                </birth>
                <note>St. Georgen, 1886; kriegsgef., Vladimir, Rußland.</note>
             </person>
@@ -28986,7 +28986,7 @@
                <note>Dexl Johann, Inft., IR. Nr. 15, 13. Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Tv T o!fs- berg</region>
+                  <region>Wolfsberg</region>
                </birth>
                <note>1891, verw.</note>
             </person>
@@ -30618,7 +30618,7 @@
                <note>Fuchs Simon, Inft., k. k. LIR. Nr. 86, 7. Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Solfsberg</region>
+                  <region>Wolfsberg</region>
                </birth>
                <note>Reichenfels, 1879, verw. .</note>
             </person>
@@ -34826,9 +34826,9 @@
                <note>Mišič Lorenz statt Franz, Lstlnft., k. k. LIR. Nr. 4</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>WegsebeMer IMnrfch statt WegstLaMer</region>
+                  <region>Klagenfurt</region>
                </birth>
-               <note>Inft., k k. LIR. Nr 4,</note>
+               <note>Maria Rain, 1892; Inft., k k. LIR. Nr 4,</note>
             </person>
             <person xml:id="vll.19151202_327.2332">
                <note>Eisner Max, TitGefr., TirLstlB. Nr. 1</note>
@@ -37690,9 +37690,9 @@
                <note>Vallant Urban, Inft., IR. Nr. 7,12. Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>WoMerg</region>
+                  <region>Wolfsberg</region>
                </birth>
-               <note>Gosel, 1894; verw.</note>
+               <note>Gösel, 1894; verw.</note>
             </person>
             <person xml:id="vll.19160118_360.10286">
                <note>Weber Matthias, Zugsf., IR.Nr. 7,10. Komp.</note>
@@ -45618,7 +45618,7 @@
                <note>Slamanig Maximilian, Inft., k. k. LIR. Nr. 4, 9, Komp.</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>Sr. \&gt;Jt</region>
+                  <region>St. Veit</region>
                </birth>
                <note>1891; kriegsgef., Rußland.</note>
             </person>
@@ -70645,11 +70645,12 @@
                <note>­</note>
             </person>
             <person xml:id="vll.19180603_677.10814">
-               <note>Otto Johaim, LstInfst., k. k. SchR. Nr. 18</note>
+               <note>Otto Johann, LstInfst., k. k. SchR. Nr. 18</note>
                <birth>
                   <country>Kärnten</country>
-                  <region>WoMAtrg</region>
+                  <region>Wolfsberg</region>
                </birth>
+               <note>Kienberg, 1896; gefallen (3.8.1915).</note>
             </person>
             <person xml:id="vll.19180603_677.11474">
                <note>Prani, Jäg., FJB, Nr. 8, 1. Komp.</note>

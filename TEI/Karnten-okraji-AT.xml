@@ -32,15 +32,8 @@
       <body>
          <listPlace>
             <place>
-               <placeName>&gt;_t. \ciu</placeName>
+               <placeName>Sct. Veit</placeName>
                <idno>vll.19150819_242.6588</idno>
-            </place>
-            <place>
-               <placeName>Adelsberg</placeName>
-               <idno>vll.19150916_267.1678</idno>
-               <idno>vll.19151107_309.6220</idno>
-               <idno>vll.19160201_368.7448</idno>
-               <idno>vll.19180129_647.6872</idno>
             </place>
             <place>
                <placeName>Altendorf</placeName>
@@ -68,9 +61,6 @@
                <idno>vll.19151028_303.6918</idno>
                <idno>v11.19180221_653.9736</idno>
                <idno>vll.19190129_708.4082</idno>
-            </place>
-            <place>
-               <placeName>Blomberg</placeName>
                <idno>vll.19151008_287.8152</idno>
             </place>
             <place>
@@ -86,17 +76,8 @@
                <idno>vll.19150816_239.3170</idno>
             </place>
             <place>
-               <placeName>Büagenfart</placeName>
+               <placeName>Klagenfart</placeName>
                <idno>vll.19180605_678.11420</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
-               <idno>vll.19151028_303.3540</idno>
-               <idno>vll.19160621_433.7220</idno>
-            </place>
-            <place>
-               <placeName>Copodiabu</placeName>
-               <idno>vll.19151107_309.1650</idno>
             </place>
             <place>
                <placeName>Dauba</placeName>
@@ -111,10 +92,6 @@
                <placeName>Deutschgriffen</placeName>
                <idno>vll.19181002_696.2752</idno>
                <idno>vll.19181011_698.14462</idno>
-            </place>
-            <place>
-               <placeName>Dobraea</placeName>
-               <idno>vll.19150916_267.4044</idno>
             </place>
             <place>
                <placeName>Ebendorf</placeName>
@@ -226,10 +203,6 @@
                <idno>vll.19150206_121.8746</idno>
             </place>
             <place>
-               <placeName>Gikermarkt</placeName>
-               <idno>vll.19150901_254.5032</idno>
-            </place>
-            <place>
                <placeName>Glan</placeName>
                <idno>vll.19151107_309.8512</idno>
             </place>
@@ -241,23 +214,9 @@
                <placeName>Gmünd</placeName>
                <idno>vll.19150902_255.7548</idno>
             </place>
-            <place>
-               <placeName>Golač</placeName>
-               <idno>vll.19151112_313.4418</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz</placeName>
-               <idno>vll.19151107_309.4568</idno>
-            </place>
-            <place>
+           <place>
                <placeName>Gotcze</placeName>
                <idno>vll.19150916_267.4998</idno>
-            </place>
-            <place>
-               <placeName>Gottschee</placeName>
-               <idno>vll.19151122_320.3106</idno>
-               <idno>vll.19160219_379.12762</idno>
-               <idno>vll.19180514_673.9492</idno>
             </place>
             <place>
                <placeName>Grabing</placeName>
@@ -269,21 +228,12 @@
                <idno>vll.19151008_287.1478</idno>
             </place>
             <place>
-               <placeName>Gurkfeld</placeName>
-               <idno>vll.19151105_307.3450</idno>
-               <idno>vll.19151105_307.8498</idno>
-               <idno>vll.19160617_432.7578</idno>
-            </place>
-            <place>
                <placeName>Göisel</placeName>
                <idno>vll.19170904_610.12286</idno>
             </place>
             <place>
-               <placeName>Hagen- fürt</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19150925_274.4906</idno>
-            </place>
-            <place>
-               <placeName>Hagenfurt</placeName>
                <idno>vll.19150830_252.8942</idno>
             </place>
             <place>
@@ -291,61 +241,22 @@
                <idno>vll.19151112_313.2922</idno>
             </place>
             <place>
-               <placeName>Haraagor</placeName>
+               <placeName>Hermagor</placeName>
                <idno>vll.19180527_675.9940</idno>
-            </place>
-            <place>
-               <placeName>Harmagor</placeName>
                <idno>vll.19171010_615.11776</idno>
-            </place>
-            <place>
-               <placeName>Hcermagor</placeName>
                <idno>vll.19150211_124.2862</idno>
-            </place>
-            <place>
-               <placeName>Hcrina'^or</placeName>
                <idno>vll.19160617_432.13696</idno>
-            </place>
-            <place>
-               <placeName>Hcrma</placeName>
                <idno>vll.19150925_274.1776</idno>
-            </place>
-            <place>
-               <placeName>Hcrmagor</placeName>
                <idno>vll.19150319_144.12246</idno>
-            </place>
-            <place>
-               <placeName>Hcrmagrn*</placeName>
                <idno>vll.19160307_387.2168</idno>
-            </place>
-            <place>
-               <placeName>Heim;gor</placeName>
                <idno>vll.19150916_267.3584</idno>
-            </place>
-            <place>
-               <placeName>Heimagor</placeName>
                <idno>vll.19150729_223.4676</idno>
-            </place>
-            <place>
-               <placeName>Heisnagor</placeName>
                <idno>vll.19180605_678.14512</idno>
-            </place>
-            <place>
-               <placeName>Hemagor</placeName>
                <idno>vll.19161223_506.7550</idno>
                <idno>vll.19180403_665.826</idno>
-            </place>
-            <place>
-               <placeName>Henaagor</placeName>
                <idno>vll.19150415_161.4606</idno>
                <idno>vll.19180723_687.10994</idno>
-            </place>
-            <place>
-               <placeName>Hennag</placeName>
                <idno>vll.19150814_237.5024</idno>
-            </place>
-            <place>
-               <placeName>Hennagor</placeName>
                <idno>vll.19150720_215.2794</idno>
                <idno>vll.19150731_225.10006</idno>
                <idno>vll.19150812_235.5894</idno>
@@ -354,45 +265,18 @@
                <idno>vll.19150812_235.10922</idno>
                <idno>vll.19160617_432.14646</idno>
                <idno>vll.19180605_678.15974</idno>
-            </place>
-            <place>
-               <placeName>Hennugor</placeName>
                <idno>vll.19150812_235.11460</idno>
-            </place>
-            <place>
-               <placeName>Henpagor</placeName>
                <idno>vll.19160307_387.10072</idno>
-            </place>
-            <place>
-               <placeName>Her- magor</placeName>
                <idno>vll.19150731_225.11128</idno>
                <idno>vll.19150825_247.3328</idno>
-            </place>
-            <place>
-               <placeName>Herinagor</placeName>
                <idno>vll.19150906_259.8456</idno>
                <idno>vll.19150926_275.9946</idno>
                <idno>vll.19151130_325.12354</idno>
-            </place>
-            <place>
-               <placeName>Herlhagor</placeName>
                <idno>vll.19150510_175.972</idno>
-            </place>
-            <place>
-               <placeName>Herma- . gor</placeName>
                <idno>vll.19151016_294.1250</idno>
-            </place>
-            <place>
-               <placeName>Hermag</placeName>
                <idno>vll.19150814_237.2344</idno>
                <idno>vll.19150814_237.4368</idno>
-            </place>
-            <place>
-               <placeName>Hermago'r</placeName>
                <idno>vll.19150902_255.2520</idno>
-            </place>
-            <place>
-               <placeName>Hermagor</placeName>
                <idno>vll.19141117_60.4804</idno>
                <idno>vll.19141212_78.3720</idno>
                <idno>vll.19141221_83.6136</idno>
@@ -873,148 +757,55 @@
                <idno>vll.19190114_709.1282</idno>
                <idno>vll.19190114_709.14866</idno>
                <idno>vll.19190129_708.9922</idno>
-            </place>
-            <place>
-               <placeName>Hermagor </placeName>
                <idno>vll.19180531_676.7200</idno>
-            </place>
-            <place>
-               <placeName>Hermagor Dellach</placeName>
                <idno>vll.19150925_274.4204</idno>
-            </place>
-            <place>
-               <placeName>Hermagor Reisach</placeName>
                <idno>vll.19150925_274.7180</idno>
-            </place>
-            <place>
-               <placeName>Hermagor.</placeName>
                <idno>vll.19150413_159.900</idno>
-            </place>
-            <place>
-               <placeName>Hermagor. Birnbaum</placeName>
                <idno>vll.19150819_242.2394</idno>
-            </place>
-            <place>
-               <placeName>Hermagor. St. Georgen</placeName>
                <idno>vll.19160307_387.1282</idno>
-            </place>
-            <place>
-               <placeName>Hermagor/ Mitschig</placeName>
                <idno>vll.19150812_235.10998</idno>
-            </place>
-            <place>
-               <placeName>Hermagör</placeName>
                <idno>vll.19150715_211.5496</idno>
-            </place>
-            <place>
-               <placeName>Hermargor</placeName>
                <idno>vll.19150322_146.3768</idno>
-            </place>
-            <place>
-               <placeName>Hermatgor</placeName>
                <idno>vll.19180403_665.12936</idno>
-            </place>
-            <place>
-               <placeName>Hermegor</placeName>
                <idno>vll.19151109_310.6034</idno>
                <idno>vll.19151122_320.2108</idno>
-            </place>
-            <place>
-               <placeName>Hermngor</placeName>
                <idno>vll.19150925_274.3448</idno>
-            </place>
-            <place>
-               <placeName>Hermsgor</placeName>
                <idno>vll.19150816_239.2224</idno>
-            </place>
-            <place>
-               <placeName>Hermägor</placeName>
                <idno>vll.19150902_255.2060</idno>
-            </place>
-            <place>
-               <placeName>Hernagor</placeName>
                <idno>vll.19181204_703.8924</idno>
-            </place>
-            <place>
-               <placeName>Herniagor</placeName>
                <idno>vll.19150812_235.3914</idno>
-            </place>
-            <place>
-               <placeName>Hernugor</placeName>
                <idno>vll.19150819_242.3324</idno>
-            </place>
-            <place>
-               <placeName>Hernuigor</placeName>
                <idno>vll.19150928_277.7514</idno>
-            </place>
-            <place>
-               <placeName>Herrn;:gor</placeName>
                <idno>vll.19150925_274.9722</idno>
-            </place>
-            <place>
-               <placeName>Herrnagor</placeName>
                <idno>vll.19151130_325.12450</idno>
-            </place>
-            <place>
-               <placeName>Herüiagor</placeName>
                <idno>vll.19150928_277.8424</idno>
             </place>
             <place>
-               <placeName>Holfsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19160307_387.6426</idno>
             </place>
             <place>
-               <placeName>Hormagor</placeName>
+               <placeName>Hermagor</placeName>
                <idno>vll.19150520_182.6194</idno>
-            </place>
-            <place>
-               <placeName>Hrmagor</placeName>
                <idno>vll.19180527_675.10348</idno>
-            </place>
-            <place>
-               <placeName>Hwmagor</placeName>
                <idno>vll.19150731_225.6810</idno>
             </place>
             <place>
-               <placeName>IClagenfurt</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19150925_274.4002</idno>
-            </place>
-            <place>
-               <placeName>IClagon- furt</placeName>
                <idno>vll.19160531_426.11996</idno>
-            </place>
-            <place>
-               <placeName>IOageiifurt</placeName>
                <idno>vll.19160310_390.7246</idno>
-            </place>
-            <place>
-               <placeName>IOagenfurfc</placeName>
                <idno>vll.19160310_390.1100</idno>
             </place>
             <place>
-               <placeName>ITermagor</placeName>
+               <placeName>hermagor</placeName>
                <idno>vll.19150916_267.6540</idno>
-            </place>
-            <place>
-               <placeName>Ilcnnaeor Weißbriach</placeName>
                <idno>vll.19151130_325.12244</idno>
-            </place>
-            <place>
-               <placeName>Ilcrmagbr</placeName>
                <idno>vll.19150819_242.6592</idno>
-            </place>
-            <place>
-               <placeName>Ilcrmagor</placeName>
                <idno>vll.19150304_137.3684</idno>
                <idno>vll.19150729_223.11404</idno>
                <idno>vll.19151007_286.7716</idno>
-            </place>
-            <place>
-               <placeName>IlermagoD Görischach</placeName>
                <idno>vll.19151007_286.4454</idno>
-            </place>
-            <place>
-               <placeName>Ilermagor</placeName>
                <idno>vll.19150304_137.3692</idno>
                <idno>vll.19150701_203.10688</idno>
                <idno>vll.19150701_203.10794</idno>
@@ -1027,9 +818,6 @@
                <idno>vll.19150906_259.6638</idno>
                <idno>vll.19150910_263.4408</idno>
                <idno>vll.19151007_286.6494</idno>
-            </place>
-            <place>
-               <placeName>Ilermogor</placeName>
                <idno>vll.19150819_242.1418</idno>
             </place>
             <place>
@@ -1045,32 +833,14 @@
                <idno>vll.19181126_702.4386</idno>
             </place>
             <place>
-               <placeName>Ivlagen- jfurt</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19150906_259.7018</idno>
-            </place>
-            <place>
-               <placeName>Ivlagenfurtj Kollmannsdorf</placeName>
                <idno>vll.19151007_286.3732</idno>
-            </place>
-            <place>
-               <placeName>Ivlagenv furt</placeName>
                <idno>vll.19160531_426.6382</idno>
-            </place>
-            <place>
-               <placeName>Iüa"cnfurt Glanegg</placeName>
                <idno>vll.19150925_274.6910</idno>
-            </place>
-            <place>
-               <placeName>Iüagen- furt</placeName>
                <idno>vll.19150928_277.6218</idno>
-            </place>
-            <place>
-               <placeName>Iüagenfurt</placeName>
                <idno>vll.19150710_208.6518</idno>
                <idno>vll.19151007_286.7248</idno>
-            </place>
-            <place>
-               <placeName>JClagenfurt</placeName>
                <idno>vll.19160531_426.7328</idno>
             </place>
             <place>
@@ -1082,30 +852,18 @@
                <idno>vll.19180515_674.7202</idno>
             </place>
             <place>
-               <placeName>K'ageu- furt</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19181019_699.4530</idno>
-            </place>
-            <place>
-               <placeName>KIagenfurt</placeName>
                <idno>vll.19180305_656.11454</idno>
-            </place>
-            <place>
-               <placeName>Kagenfurt</placeName>
                <idno>vll.19150322_146.6414</idno>
                <idno>vll.19150331_153.748</idno>
                <idno>vll.19151122_320.12714</idno>
                <idno>vll.19160722_444.14570</idno>
-            </place>
-            <place>
-               <placeName>Kaiagenfurt</placeName>
                <idno>vll.19150731_225.4436</idno>
-            </place>
-            <place>
-               <placeName>Kalgenfurt</placeName>
                <idno>vll.19160804_448.13350</idno>
             </place>
             <place>
-               <placeName>Kapfen- berg</placeName>
+               <placeName>Kapfenberg</placeName>
                <idno>vll.19150816_239.4896</idno>
             </place>
             <place>
@@ -1113,23 +871,14 @@
                <idno>vll.19160824_455.3618</idno>
             </place>
             <place>
-               <placeName>Khgenfurt</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19150925_274.2372</idno>
                <idno>v11.19180223_654.13882</idno>
-            </place>
-            <place>
-               <placeName>Kiagenfu'rt</placeName>
                <idno>vll.19150816_239.7664</idno>
-            </place>
-            <place>
-               <placeName>Kiagenfurt</placeName>
                <idno>vll.19150906_259.1654</idno>
                <idno>v11.19171204_633.9558</idno>
                <idno>vll.19180830_693.11342</idno>
                <idno>vll.19181204_703.1168</idno>
-            </place>
-            <place>
-               <placeName>Kiagenfurt Ebene Reichenau</placeName>
                <idno>vll.19180323_662.2680</idno>
             </place>
             <place>
@@ -1137,139 +886,46 @@
                <idno>vll.19151008_287.5144</idno>
             </place>
             <place>
-               <placeName>Kkgcnfnrt</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19160307_387.9080</idno>
-            </place>
-            <place>
-               <placeName>Kkgenfart</placeName>
                <idno>vll.19180603_677.16470</idno>
-            </place>
-            <place>
-               <placeName>Kkgenfurt</placeName>
                <idno>vll.19151002_281.2958</idno>
-            </place>
-            <place>
-               <placeName>Kkgenfürt</placeName>
                <idno>vll.19150926_275.782</idno>
-            </place>
-            <place>
-               <placeName>Kla- genfurt</placeName>
                <idno>vll.19151008_287.9670</idno>
-            </place>
-            <place>
-               <placeName>Kla?en- furt</placeName>
                <idno>vll.19150816_239.7108</idno>
-            </place>
-            <place>
-               <placeName>Kla^enfurt</placeName>
                <idno>vll.19150812_235.1356</idno>
                <idno>vll.19160523_423.3810</idno>
                <idno>vll.19160617_432.14826</idno>
-            </place>
-            <place>
-               <placeName>Klaeen- furt</placeName>
                <idno>vll.19150819_242.4962</idno>
-            </place>
-            <place>
-               <placeName>Klaeenfurt</placeName>
                <idno>vll.19150925_274.2680</idno>
-            </place>
-            <place>
-               <placeName>Klaeenfurt St. Urban</placeName>
                <idno>vll.19150819_242.3674</idno>
-            </place>
-            <place>
-               <placeName>Klag.mfurt</placeName>
                <idno>vll.19160824_455.10324</idno>
-            </place>
-            <place>
-               <placeName>Klaganfurt</placeName>
                <idno>vll.19150617_195.782</idno>
                <idno>vll.19180411_666.882</idno>
-            </place>
-            <place>
-               <placeName>Klagchfurt</placeName>
                <idno>vll.19151130_325.12428</idno>
-            </place>
-            <place>
-               <placeName>Klagcnfiirt</placeName>
                <idno>vll.19160321_396.1964</idno>
-            </place>
-            <place>
-               <placeName>Klagcnfnrt</placeName>
                <idno>vll.19150812_235.10826</idno>
-            </place>
-            <place>
-               <placeName>Klagcntnrt</placeName>
                <idno>vll.19151007_286.6840</idno>
-            </place>
-            <place>
-               <placeName>Klageeafurt</placeName>
                <idno>vll.19180307_657.9542</idno>
-            </place>
-            <place>
-               <placeName>Klageeofart</placeName>
                <idno>vll.19180307_657.9556</idno>
-            </place>
-            <place>
-               <placeName>Klagefurt</placeName>
                <idno>vll.19161223_506.11046</idno>
                <idno>vll.19180313_659.6398</idno>
                <idno>vll.19181126_702.13696</idno>
-            </place>
-            <place>
-               <placeName>Klagefürt</placeName>
                <idno>vll.19150304_137.6338</idno>
-            </place>
-            <place>
-               <placeName>Klagehfurt</placeName>
                <idno>vll.19141221_83.3496</idno>
-            </place>
-            <place>
-               <placeName>Klageiifart; Weizelsdorf</placeName>
                <idno>vll.19150812_235.10184</idno>
-            </place>
-            <place>
-               <placeName>Klageiifurt</placeName>
                <idno>vll.19150925_274.6666</idno>
                <idno>vll.19160617_432.15798</idno>
-            </place>
-            <place>
-               <placeName>Klagejifurt</placeName>
                <idno>vll.19150630_202.1092</idno>
-            </place>
-            <place>
-               <placeName>Klagemfurt</placeName>
                <idno>vll.19180527_675.8950</idno>
-            </place>
-            <place>
-               <placeName>Klagen</placeName>
                <idno>vll.19150731_225.6416</idno>
-            </place>
-            <place>
-               <placeName>Klagen fnrt</placeName>
                <idno>vll.19151008_287.7586</idno>
                <idno>vll.19160617_432.11388</idno>
-            </place>
-            <place>
-               <placeName>Klagen furt</placeName>
                <idno>vll.19181019_699.8408</idno>
-            </place>
-            <place>
-               <placeName>Klagen fürt</placeName>
                <idno>vll.19150906_259.5452</idno>
-            </place>
-            <place>
-               <placeName>Klagen- fnrt</placeName>
                <idno>vll.19151007_286.2512</idno>
                <idno>vll.19151008_287.8900</idno>
-            </place>
-            <place>
-               <placeName>Klagen- fur't</placeName>
                <idno>vll.19151012_290.8866</idno>
-            </place>
-            <place>
-               <placeName>Klagen- furt</placeName>
                <idno>vll.19150731_225.3700</idno>
                <idno>vll.19150816_239.1060</idno>
                <idno>vll.19150816_239.8346</idno>
@@ -1277,50 +933,20 @@
                <idno>vll.19151008_287.5216</idno>
                <idno>vll.19160531_426.8922</idno>
                <idno>vll.19181019_699.6178</idno>
-            </place>
-            <place>
-               <placeName>Klagen- j furt</placeName>
                <idno>vll.19150916_267.6214</idno>
-            </place>
-            <place>
-               <placeName>Klagen-. furt</placeName>
                <idno>vll.19150814_237.2402</idno>
-            </place>
-            <place>
-               <placeName>KlagenEurt</placeName>
                <idno>vll.19150225_133.10342</idno>
-            </place>
-            <place>
-               <placeName>Klagenenfurt</placeName>
                <idno>vll.19150415_161.1182</idno>
-            </place>
-            <place>
-               <placeName>Klagenfart</placeName>
                <idno>vll.19151002_281.10308</idno>
                <idno>vll.19160108_352.5082</idno>
                <idno>vll.19171127_631.10006</idno>
                <idno>vll.19180201_648.12920</idno>
-            </place>
-            <place>
-               <placeName>Klagenfiirt</placeName>
                <idno>vll.19150304_137.9762</idno>
                <idno>vll.19150816_239.2426</idno>
                <idno>vll.19160108_352.8390</idno>
-            </place>
-            <place>
-               <placeName>Klagenfirrt</placeName>
                <idno>vll.19190114_709.10022</idno>
-            </place>
-            <place>
-               <placeName>Klagenfiurt</placeName>
                <idno>vll.19171108_626.4736</idno>
-            </place>
-            <place>
-               <placeName>Klagenfkrt</placeName>
                <idno>vll.19180315_660.9852</idno>
-            </place>
-            <place>
-               <placeName>Klagenflirt</placeName>
                <idno>vll.19150413_159.6844</idno>
                <idno>vll.19150701_203.3270</idno>
                <idno>vll.19150812_235.5706</idno>
@@ -1331,26 +957,11 @@
                <idno>vll.19151008_287.7296</idno>
                <idno>vll.19151012_290.10626</idno>
                <idno>vll.19160108_352.2772</idno>
-            </place>
-            <place>
-               <placeName>Klagenflirt. St. Thomas</placeName>
                <idno>vll.19150906_259.3848</idno>
-            </place>
-            <place>
-               <placeName>Klagenflirtfurt</placeName>
                <idno>vll.19150925_274.1322</idno>
-            </place>
-            <place>
-               <placeName>Klagenfmt</placeName>
                <idno>vll.19150812_235.8940</idno>
                <idno>vll.19170507_568.7130</idno>
-            </place>
-            <place>
-               <placeName>Klagenfnrr</placeName>
                <idno>vll.19150520_182.3246</idno>
-            </place>
-            <place>
-               <placeName>Klagenfnrt</placeName>
                <idno>vll.19150211_124.7722</idno>
                <idno>vll.19150816_239.7844</idno>
                <idno>vll.19150925_274.8896</idno>
@@ -1365,45 +976,18 @@
                <idno>vll.19161005_473.10566</idno>
                <idno>vll.19181111_701.12378</idno>
                <idno>vll.19190129_708.10948</idno>
-            </place>
-            <place>
-               <placeName>Klagenfnut</placeName>
                <idno>v11.19170418_556.11982</idno>
-            </place>
-            <place>
-               <placeName>Klagenfprt</placeName>
                <idno>vll.19150513_177.3954</idno>
-            </place>
-            <place>
-               <placeName>Klagenfuct</placeName>
                <idno>vll.19180709_684.16554</idno>
-            </place>
-            <place>
-               <placeName>Klagenfuijt</placeName>
                <idno>vll.19151007_286.8860</idno>
-            </place>
-            <place>
-               <placeName>Klagenfuit</placeName>
                <idno>vll.19150731_225.8150</idno>
                <idno>vll.19150819_242.2024</idno>
                <idno>vll.19151021_297.934</idno>
                <idno>vll.19160108_352.6070</idno>
                <idno>vll.19180527_675.9466</idno>
-            </place>
-            <place>
-               <placeName>Klagenfur</placeName>
                <idno>vll.19160401_402.9710</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurf</placeName>
                <idno>vll.19151008_287.4444</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurfc</placeName>
                <idno>vll.19151016_294.9858</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt</placeName>
                <idno>vll.19141115_58_59.8854</idno>
                <idno>vll.19141117_60.912</idno>
                <idno>vll.19141121_66_67.9808</idno>
@@ -3103,111 +2687,39 @@
                <idno>vll.19190129_708.18682</idno>
                <idno>vll.19190129_708.19916</idno>
                <idno>vll.19190129_708.20576</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt Feistritz</placeName>
                <idno>vll.19170329_544.2856</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt Grafenstein</placeName>
                <idno>vll.19180515_674.13174</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt Steindorf</placeName>
                <idno>vll.19150925_274.3808</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt Umg.</placeName>
                <idno>vll.19160824_455.6222</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt Unterlqibl</placeName>
                <idno>vll.19150819_242.7072</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt statt Spittal</placeName>
                <idno>vll.19171127_631.16846</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt' St. Thomas</placeName>
                <idno>vll.19150819_242.4832</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt.</placeName>
                <idno>vll.19151008_287.4332</idno>
                <idno>vll.19180501_671.13584</idno>
                <idno>vll.19180514_673.12554</idno>
                <idno>vll.19180628_683.5102</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Ebene Reichenau</placeName>
                <idno>vll.19180411_666.12796</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Ebonthal</placeName>
                <idno>vll.19151008_287.7822</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Feistritz</placeName>
                <idno>vll.19160108_352.6986</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Grafenstein</placeName>
                <idno>vll.19160108_352.3038</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Himmclbcrg</placeName>
                <idno>vll.19150816_239.2452</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Maria Saal</placeName>
                <idno>vll.19150925_274.5762</idno>
                <idno>vll.19181219_705.15322</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Maria-Wörth</placeName>
                <idno>vll.19150925_274.7652</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Mossburg</placeName>
                <idno>vll.19161223_506.12586</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Poggersdorf</placeName>
                <idno>vll.19160531_426.6772</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. St. Martin</placeName>
                <idno>vll.19160418_410.1932</idno>
                <idno>vll.19180313_659.13890</idno>
                <idno>vll.19180625_682.6134</idno>
                <idno>vll.19181204_703.14244</idno>
                <idno>vll.19181219_705.10710</idno>
                <idno>vll.19181219_705.12306</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. St. Martin bei Klagenfurt</placeName>
                <idno>vll.19180603_677.7450</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. St. Peter</placeName>
                <idno>vll.19180429_670.6040</idno>
                <idno>vll.19180928_695.7054</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. St. Ruprecht</placeName>
                <idno>vll.19181111_701.4464</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt. Steuerberg</placeName>
                <idno>vll.19180501_671.1358</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurt; Gnesau</placeName>
                <idno>vll.19161223_506.10816</idno>
-            </place>
-            <place>
-               <placeName>Klagenfurth</placeName>
                <idno>vll.19150206_121.3158</idno>
                <idno>vll.19150313_141.4824</idno>
                <idno>vll.19151008_287.1976</idno>
@@ -3219,28 +2731,13 @@
                <idno>vll.19180515_674.6470</idno>
                <idno>vll.19180709_684.12346</idno>
                <idno>vll.19181219_705.13464</idno>
-            </place>
-            <place>
-               <placeName>Klagenfut</placeName>
                <idno>vll.19180415_667.15682</idno>
-            </place>
-            <place>
-               <placeName>Klagenfut St. Ruprecht</placeName>
                <idno>vll.19180515_674.12854</idno>
-            </place>
-            <place>
-               <placeName>Klagenfutt</placeName>
                <idno>vll.19150513_177.6578</idno>
                <idno>vll.19150513_177.14554</idno>
                <idno>vll.19150925_274.4594</idno>
                <idno>vll.19180531_676.15170</idno>
-            </place>
-            <place>
-               <placeName>Klagenfuvt</placeName>
                <idno>vll.19150304_137.5512</idno>
-            </place>
-            <place>
-               <placeName>Klagenfürt</placeName>
                <idno>vll.19150409_157.6376</idno>
                <idno>vll.19150413_159.6304</idno>
                <idno>vll.19150710_208.8056</idno>
@@ -3249,172 +2746,64 @@
                <idno>vll.19160108_352.3858</idno>
                <idno>vll.19160118_360.10936</idno>
                <idno>vll.19180605_678.12548</idno>
-            </place>
-            <place>
-               <placeName>Klagenfürt. Mieger</placeName>
                <idno>vll.19190129_708.13804</idno>
-            </place>
-            <place>
-               <placeName>Klagenia«. Zell</placeName>
                <idno>vll.19150925_274.9130</idno>
-            </place>
-            <place>
-               <placeName>Klageniurt</placeName>
                <idno>vll.19151008_287.2102</idno>
                <idno>vll.19171010_615.10966</idno>
-            </place>
-            <place>
-               <placeName>Klagenlurt</placeName>
                <idno>vll.19150701_203.8558</idno>
                <idno>vll.19150925_274.2492</idno>
                <idno>vll.19160114_357.2468</idno>
                <idno>vll.19160307_387.11648</idno>
                <idno>vll.19181219_705.7552</idno>
-            </place>
-            <place>
-               <placeName>Klagenttirt</placeName>
                <idno>vll.19151007_286.6950</idno>
-            </place>
-            <place>
-               <placeName>Klagenturt</placeName>
                <idno>vll.19150906_259.2952</idno>
                <idno>vll.19180330_664.1040</idno>
-            </place>
-            <place>
-               <placeName>Klagen« fürt</placeName>
                <idno>vll.19151012_290.8608</idno>
-            </place>
-            <place>
-               <placeName>Klagerfurt</placeName>
                <idno>vll.19150322_146.6452</idno>
                <idno>vll.19180603_677.7432</idno>
                <idno>vll.19181005_697.12844</idno>
                <idno>vll.19181111_701.8416</idno>
-            </place>
-            <place>
-               <placeName>Klagerufurt</placeName>
                <idno>vll.19180511_672.13558</idno>
-            </place>
-            <place>
-               <placeName>Klagesnfurt</placeName>
                <idno>vll.19180514_673.8900</idno>
-            </place>
-            <place>
-               <placeName>Klageufart</placeName>
                <idno>vll.19180605_678.13686</idno>
-            </place>
-            <place>
-               <placeName>Klageufnrt</placeName>
                <idno>vll.19160617_432.11074</idno>
-            </place>
-            <place>
-               <placeName>Klageufurt</placeName>
                <idno>vll.19160108_352.826</idno>
                <idno>vll.19180419_668.18632</idno>
                <idno>vll.19180424_669.13016</idno>
                <idno>vll.19180511_672.6628</idno>
                <idno>vll.19180514_673.7488</idno>
-            </place>
-            <place>
-               <placeName>Klageufurt.</placeName>
                <idno>vll.19190129_708.12562</idno>
-            </place>
-            <place>
-               <placeName>Klageunfurt</placeName>
                <idno>v11.19170418_556.2194</idno>
-            </place>
-            <place>
-               <placeName>Klageüfurt</placeName>
                <idno>vll.19150913_264.1266</idno>
-            </place>
-            <place>
-               <placeName>Klaggenfurt</placeName>
                <idno>vll.19170424_559.10876</idno>
-            </place>
-            <place>
-               <placeName>Klagnfurt</placeName>
                <idno>vll.19160919_466.5694</idno>
-            </place>
-            <place>
-               <placeName>Klagonfart</placeName>
                <idno>vll.19150812_235.10378</idno>
-            </place>
-            <place>
-               <placeName>Klagonfurt</placeName>
                <idno>vll.19160307_387.6178</idno>
                <idno>vll.19160516_421.434</idno>
                <idno>vll.19160523_423.11018</idno>
                <idno>vll.19160603_427.3998</idno>
                <idno>vll.19180514_673.612</idno>
-            </place>
-            <place>
-               <placeName>Klagonlurt</placeName>
                <idno>vll.19151012_290.4614</idno>
-            </place>
-            <place>
-               <placeName>Klagtmfurt</placeName>
                <idno>vll.19180424_669.3708</idno>
-            </place>
-            <place>
-               <placeName>Klagtnfurt</placeName>
                <idno>vll.19151202_327.4806</idno>
-            </place>
-            <place>
-               <placeName>Klagwifurt</placeName>
                <idno>vll.19150819_242.5716</idno>
-            </place>
-            <place>
-               <placeName>Klagönfurt</placeName>
                <idno>vll.19150322_146.4178</idno>
-            </place>
-            <place>
-               <placeName>Klamnfurt</placeName>
                <idno>vll.19150819_242.3242</idno>
-            </place>
-            <place>
-               <placeName>Klangenfurt</placeName>
                <idno>vll.19150906_259.9468</idno>
-            </place>
-            <place>
-               <placeName>Klatenfurt</placeName>
                <idno>vll.19180330_664.4800</idno>
-            </place>
-            <place>
-               <placeName>Klcgenfurt</placeName>
                <idno>vll.19150623_199.766</idno>
-            </place>
-            <place>
-               <placeName>Klegenfurt</placeName>
                <idno>vll.19151122_320.7602</idno>
-            </place>
-            <place>
-               <placeName>Klgenfurt</placeName>
                <idno>v11.19180227_655.11112</idno>
                <idno>vll.19180514_673.8682</idno>
-            </place>
-            <place>
-               <placeName>Kliigenfurt</placeName>
                <idno>vll.19150925_274.1708</idno>
-            </place>
-            <place>
-               <placeName>Klngenfurt</placeName>
                <idno>vll.19160401_402.12170</idno>
-            </place>
-            <place>
-               <placeName>Klrgenfurt</placeName>
                <idno>vll.19150322_146.11266</idno>
-            </place>
-            <place>
-               <placeName>Klägenfurt</placeName>
                <idno>vll.19150322_146.4970</idno>
                <idno>vll.19171113_627.1352</idno>
             </place>
             <place>
                <placeName>Kollnitz</placeName>
                <idno>vll.19150713_209.2132</idno>
-            </place>
-            <place>
-               <placeName>Kolnitz</placeName>
                <idno>vll.19150408_156.3622</idno>
             </place>
             <place>
@@ -3426,42 +2815,18 @@
                <idno>vll.19161223_506.9476</idno>
             </place>
             <place>
-               <placeName>Ktageu- furth</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19151008_287.1326</idno>
-            </place>
-            <place>
-               <placeName>Küagen- furt</placeName>
                <idno>vll.19150731_225.9464</idno>
             </place>
             <place>
-               <placeName>Labada</placeName>
-               <idno>vll.19150830_252.2478</idno>
-            </place>
-            <place>
-               <placeName>Laibach</placeName>
-               <idno>vll.19150814_237.5662</idno>
-               <idno>vll.19151107_309.9420</idno>
-               <idno>vll.19151107_309.10834</idno>
-               <idno>vll.19170417_555.9580</idno>
-               <idno>vll.19171025_620.11242</idno>
-               <idno>vll.19180527_675.10734</idno>
-               <idno>vll.19181111_701.7006</idno>
-            </place>
-            <place>
-               <placeName>Lands- kron</placeName>
-               <idno>vll.19150813_236.730</idno>
-            </place>
-            <place>
                <placeName>Landskron</placeName>
+               <idno>vll.19150813_236.730</idno>
                <idno>vll.19151103_306.706</idno>
             </place>
             <place>
                <placeName>Laun</placeName>
                <idno>v11.19180214_652.13970</idno>
-            </place>
-            <place>
-               <placeName>Lavamiind</placeName>
-               <idno>vll.19160412_407.5546</idno>
             </place>
             <place>
                <placeName>Leibnitz</placeName>
@@ -3475,10 +2840,6 @@
             <place>
                <placeName>Leonhard</placeName>
                <idno>vll.19150809_232.3564</idno>
-            </place>
-            <place>
-               <placeName>Letinje</placeName>
-               <idno>vll.19150119_107.7762</idno>
             </place>
             <place>
                <placeName>Lichtenegg</placeName>
@@ -3509,27 +2870,12 @@
                <idno>vll.19151010_289.9406</idno>
             </place>
             <place>
-               <placeName>Loitsch</placeName>
-               <idno>vll.19150916_267.4454</idno>
-               <idno>vll.19170731_604.11940</idno>
-               <idno>vll.19171025_620.2212</idno>
-            </place>
-            <place>
                <placeName>Lorenzenberg</placeName>
                <idno>vll.19170417_555.3382</idno>
             </place>
             <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19151008_287.9530</idno>
-            </place>
-            <place>
                <placeName>Lölling</placeName>
                <idno>vll.19150413_159.10376</idno>
-            </place>
-            <place>
-               <placeName>Marburg</placeName>
-               <idno>vll.19151002_281.7362</idno>
-               <idno>vll.19151002_281.9004</idno>
             </place>
             <place>
                <placeName>Maria-Feicht</placeName>
@@ -3589,10 +2935,6 @@
                <idno>vll.19180315_660.3246</idno>
             </place>
             <place>
-               <placeName>Pettau</placeName>
-               <idno>vll.19141230_88.7362</idno>
-            </place>
-            <place>
                <placeName>Pisweg</placeName>
                <idno>v11.19180214_652.3556</idno>
             </place>
@@ -3607,10 +2949,6 @@
             <place>
                <placeName>Pörtschach</placeName>
                <idno>vll.19181002_696.14308</idno>
-            </place>
-            <place>
-               <placeName>Radmannsdorf</placeName>
-               <idno>vll.19150322_146.9906</idno>
             </place>
             <place>
                <placeName>Rannweg</placeName>
@@ -3638,10 +2976,6 @@
                <idno>vll.19180319_661.10220</idno>
             </place>
             <place>
-               <placeName>Rudolfswert</placeName>
-               <idno>vll.19150916_267.7238</idno>
-            </place>
-            <place>
                <placeName>Runnoos</placeName>
                <idno>vll.19150816_239.3810</idno>
             </place>
@@ -3658,24 +2992,11 @@
                <idno>vll.19150925_274.9598</idno>
             </place>
             <place>
-               <placeName>Sal- . deinhofen</placeName>
-               <idno>vll.19150415_161.8058</idno>
-            </place>
-            <place>
-               <placeName>Sanct Veit</placeName>
+               <placeName>Sankt Veit</placeName>
                <idno>vll.19161113_489.12238</idno>
                <idno>vll.19180328_663.14844</idno>
-            </place>
-            <place>
-               <placeName>Sank. Veit</placeName>
                <idno>vll.19180429_670.8772</idno>
-            </place>
-            <place>
-               <placeName>Sankt  </placeName>
                <idno>vll.19150416_162.9432</idno>
-            </place>
-            <place>
-               <placeName>Sankt Veit</placeName>
                <idno>vll.19150816_239.6732</idno>
                <idno>vll.19150906_259.7332</idno>
                <idno>vll.19150925_274.1770</idno>
@@ -3708,17 +3029,8 @@
                <idno>vll.19190103_707.1856</idno>
                <idno>vll.19190103_707.6318</idno>
                <idno>vll.19190103_707.10516</idno>
-            </place>
-            <place>
-               <placeName>Sankt Veit a. d. Glan</placeName>
                <idno>vll.19180429_670.11276</idno>
-            </place>
-            <place>
-               <placeName>Sankt Veit. Witing</placeName>
                <idno>vll.19150821_244.6826</idno>
-            </place>
-            <place>
-               <placeName>Sankt Veith</placeName>
                <idno>vll.19160208_373.7426</idno>
             </place>
             <place>
@@ -3730,27 +3042,19 @@
                <idno>vll.19151105_307.1418</idno>
             </place>
             <place>
-               <placeName>Schwaberg</placeName>
+               <placeName>Schwabegg</placeName>
                <idno>vll.19150520_182.1964</idno>
-            </place>
-            <place>
-               <placeName>Schwarzen- ift bach</placeName>
-               <idno>vll.19150818_241.7468</idno>
             </place>
             <place>
                <placeName>Schützen R</placeName>
                <idno>vll.19151016_294.2888</idno>
             </place>
             <place>
-               <placeName>Sesana</placeName>
-               <idno>vll.19171010_615.11080</idno>
-            </place>
-            <place>
                <placeName>Si Millstatt</placeName>
                <idno>vll.19180814_691.13418</idno>
             </place>
             <place>
-               <placeName>Sittal</placeName>
+               <placeName>Spittal</placeName>
                <idno>vll.19150928_277.6576</idno>
             </place>
             <place>
@@ -3758,58 +3062,28 @@
                <idno>vll.19151122_320.12720</idno>
             </place>
             <place>
-               <placeName>Sjjittal</placeName>
+               <placeName>Spittal</placeName>
                <idno>v11.19170418_556.8722</idno>
             </place>
             <place>
-               <placeName>Solfsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19151019_295.2844</idno>
                <idno>vll.19160401_402.7342</idno>
             </place>
             <place>
-               <placeName>SpLttal</placeName>
+               <placeName>Spittal</placeName>
                <idno>vll.19151007_286.2420</idno>
-            </place>
-            <place>
-               <placeName>Spi ttal</placeName>
                <idno>vll.19150901_254.7776</idno>
-            </place>
-            <place>
-               <placeName>SpiftaJ</placeName>
                <idno>vll.19160118_360.2312</idno>
-            </place>
-            <place>
-               <placeName>Spiital</placeName>
                <idno>vll.19180514_673.8066</idno>
-            </place>
-            <place>
-               <placeName>Spiitala. d. Dr.</placeName>
                <idno>vll.19171005_613.754</idno>
-            </place>
-            <place>
-               <placeName>Spillal a. Dr.</placeName>
                <idno>vll.19160412_407.16758</idno>
-            </place>
-            <place>
-               <placeName>Spiltal</placeName>
                <idno>vll.19160208_373.5024</idno>
-            </place>
-            <place>
-               <placeName>Spinal</placeName>
                <idno>vll.19150812_235.5458</idno>
                <idno>vll.19170507_568.2862</idno>
-            </place>
-            <place>
-               <placeName>Spit-tal</placeName>
                <idno>vll.19150906_259.1886</idno>
                <idno>vll.19150906_259.7128</idno>
-            </place>
-            <place>
-               <placeName>Spitai</placeName>
                <idno>vll.19150812_235.7408</idno>
-            </place>
-            <place>
-               <placeName>Spital</placeName>
                <idno>vll.19150206_121.4406</idno>
                <idno>vll.19150218_129.1910</idno>
                <idno>vll.19150313_141.3530</idno>
@@ -3864,38 +3138,14 @@
                <idno>vll.19180824_692.12046</idno>
                <idno>vll.19181002_696.16876</idno>
                <idno>vll.19190114_709.17204</idno>
-            </place>
-            <place>
-               <placeName>Spital B.</placeName>
                <idno>vll.19151008_287.4382</idno>
-            </place>
-            <place>
-               <placeName>Spital a</placeName>
                <idno>vll.19151004_283.6092</idno>
-            </place>
-            <place>
-               <placeName>Spital a. D.</placeName>
                <idno>vll.19150106_95.5974</idno>
                <idno>vll.19151218_337.9710</idno>
-            </place>
-            <place>
-               <placeName>Spital a. Dr.</placeName>
                <idno>vll.19160114_357.1044</idno>
-            </place>
-            <place>
-               <placeName>Spital a. Prau</placeName>
                <idno>vll.19180814_691.2052</idno>
-            </place>
-            <place>
-               <placeName>Spital a. d</placeName>
                <idno>vll.19151002_281.1156</idno>
-            </place>
-            <place>
-               <placeName>Spital a. d. D</placeName>
                <idno>vll.19160510_419.590</idno>
-            </place>
-            <place>
-               <placeName>Spital a. d. D.</placeName>
                <idno>vll.19151002_281.9526</idno>
                <idno>vll.19151008_287.1514</idno>
                <idno>vll.19151008_287.7132</idno>
@@ -3903,17 +3153,8 @@
                <idno>vll.19160722_444.9188</idno>
                <idno>vll.19160914_464.5490</idno>
                <idno>vll.19171017_618.14572</idno>
-            </place>
-            <place>
-               <placeName>Spital a. d. Donau</placeName>
                <idno>vll.19150923_272.8644</idno>
-            </place>
-            <place>
-               <placeName>Spital a. d. Dr.</placeName>
                <idno>v11.19180227_655.6664</idno>
-            </place>
-            <place>
-               <placeName>Spital a. d. Drau</placeName>
                <idno>vll.19151107_309.3960</idno>
                <idno>vll.19151215_336.3754</idno>
                <idno>vll.19160715_441.10274</idno>
@@ -3922,79 +3163,28 @@
                <idno>vll.19180105_641.10662</idno>
                <idno>vll.19180124_645.7510</idno>
                <idno>vll.19180305_656.11710</idno>
-            </place>
-            <place>
-               <placeName>Spital a./d. D.</placeName>
                <idno>vll.19151124_322.5866</idno>
-            </place>
-            <place>
-               <placeName>Spital an der Drau</placeName>
                <idno>vll.19180319_661.16192</idno>
-            </place>
-            <place>
-               <placeName>Spitala. D.</placeName>
                <idno>vll.19150428_168.3030</idno>
-            </place>
-            <place>
-               <placeName>Spitala. d. D.</placeName>
                <idno>vll.19160531_426.8336</idno>
-            </place>
-            <place>
-               <placeName>Spitall</placeName>
                <idno>vll.19150225_133.7402</idno>
                <idno>vll.19150313_141.8352</idno>
-            </place>
-            <place>
-               <placeName>Spitfal</placeName>
                <idno>vll.19160118_360.6966</idno>
-            </place>
-            <place>
-               <placeName>Spitfal a. d. D.</placeName>
                <idno>vll.19151008_287.9116</idno>
-            </place>
-            <place>
-               <placeName>Spithal</placeName>
                <idno>vll.19150322_146.8070</idno>
-            </place>
-            <place>
-               <placeName>Spitt al</placeName>
                <idno>vll.19150812_235.9090</idno>
-            </place>
-            <place>
-               <placeName>Spitt al a. d. D.</placeName>
                <idno>vll.19151215_336.1022</idno>
-            </place>
-            <place>
-               <placeName>Spitta!</placeName>
                <idno>vll.19150731_225.8330</idno>
-            </place>
-            <place>
-               <placeName>Spitta!; Lendorf</placeName>
                <idno>vll.19150731_225.2664</idno>
-            </place>
-            <place>
-               <placeName>SpittaE</placeName>
                <idno>vll.19151215_336.5356</idno>
-            </place>
-            <place>
-               <placeName>SpittaJ</placeName>
                <idno>vll.19150812_235.5106</idno>
                <idno>vll.19150819_242.6794</idno>
                <idno>vll.19151007_286.4154</idno>
-            </place>
-            <place>
-               <placeName>SpittaJ a. d. Dr.</placeName>
                <idno>vll.19160208_373.1048</idno>
-            </place>
-            <place>
-               <placeName>Spittai</placeName>
                <idno>vll.19150925_274.9168</idno>
                <idno>vll.19151007_286.6966</idno>
                <idno>vll.19151122_320.4368</idno>
                <idno>vll.19180330_664.8044</idno>
-            </place>
-            <place>
-               <placeName>Spittal</placeName>
                <idno>vll.19141121_66_67.9604</idno>
                <idno>vll.19141128_E3.3184</idno>
                <idno>vll.19141129_E4.1496</idno>
@@ -5203,61 +4393,19 @@
                <idno>vll.19190129_708.12496</idno>
                <idno>vll.19190129_708.13366</idno>
                <idno>vll.19190129_708.14204</idno>
-            </place>
-            <place>
-               <placeName>Spittal  a. d. D.</placeName>
                <idno>vll.19160512_420.5404</idno>
-            </place>
-            <place>
-               <placeName>Spittal - a.' d. D.</placeName>
                <idno>vll.19151007_286.6732</idno>
-            </place>
-            <place>
-               <placeName>Spittal Dollach</placeName>
                <idno>vll.19150812_235.5882</idno>
-            </place>
-            <place>
-               <placeName>Spittal Irschen</placeName>
                <idno>vll.19151012_290.10158</idno>
-            </place>
-            <place>
-               <placeName>Spittal Mörtschach</placeName>
                <idno>vll.19171005_613.12990</idno>
-            </place>
-            <place>
-               <placeName>Spittal Radenthein</placeName>
                <idno>vll.19150906_259.2630</idno>
-            </place>
-            <place>
-               <placeName>Spittal Saxenburg</placeName>
                <idno>vll.19180330_664.13218</idno>
-            </place>
-            <place>
-               <placeName>Spittal Umgebung</placeName>
                <idno>vll.19161101_485.12568</idno>
-            </place>
-            <place>
-               <placeName>Spittal a D.</placeName>
                <idno>vll.19150925_274.862</idno>
-            </place>
-            <place>
-               <placeName>Spittal a d. D.</placeName>
                <idno>vll.19170731_604.4752</idno>
-            </place>
-            <place>
-               <placeName>Spittal a d. D. Kolpnitza</placeName>
                <idno>vll.19151107_309.8190</idno>
-            </place>
-            <place>
-               <placeName>Spittal a d. Dran</placeName>
                <idno>vll.19180330_664.10688</idno>
-            </place>
-            <place>
-               <placeName>Spittal a d. Drau</placeName>
                <idno>vll.19180531_676.3128</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. D.</placeName>
                <idno>vll.19150319_144.12410</idno>
                <idno>vll.19150812_235.2684</idno>
                <idno>vll.19150826_248.4226</idno>
@@ -5275,43 +4423,22 @@
                <idno>vll.19180415_667.19018</idno>
                <idno>vll.19180415_667.19032</idno>
                <idno>vll.19180805_689.7256</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. Dr.</placeName>
                <idno>vll.19150819_242.6176</idno>
                <idno>vll.19170507_568.9472</idno>
                <idno>vll.19180330_664.13354</idno>
                <idno>vll.19190114_709.14682</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. Drau</placeName>
                <idno>vll.19150731_225.7364</idno>
                <idno>vll.19151122_320.12484</idno>
                <idno>vll.19160110_353.12190</idno>
                <idno>vll.19171005_613.2526</idno>
                <idno>vll.19171027_621.2486</idno>
                <idno>v11.19180227_655.11654</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. D„ Lind</placeName>
                <idno>vll.19160108_352.1366</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. P.</placeName>
                <idno>vll.19161005_473.7782</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. T.</placeName>
                <idno>vll.19160826_456.12622</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d</placeName>
                <idno>vll.19151002_281.10300</idno>
                <idno>vll.19151010_289.12690</idno>
                <idno>vll.19170424_559.7384</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. D.</placeName>
                <idno>vll.19150710_208.874</idno>
                <idno>vll.19150812_235.778</idno>
                <idno>vll.19150812_235.910</idno>
@@ -5350,17 +4477,8 @@
                <idno>vll.19180415_667.3698</idno>
                <idno>vll.19180531_676.11870</idno>
                <idno>vll.19190103_707.5630</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. D. Rennweg</placeName>
                <idno>vll.19180201_648.11060</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. D. Zwickenberg</placeName>
                <idno>vll.19170901_609.4666</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. Dr.</placeName>
                <idno>vll.19150819_242.5430</idno>
                <idno>vll.19150819_242.6556</idno>
                <idno>vll.19160412_407.13824</idno>
@@ -5379,17 +4497,8 @@
                <idno>vll.19180330_664.7870</idno>
                <idno>vll.19180514_673.3652</idno>
                <idno>vll.19180709_684.7966</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. Dr. Malta</placeName>
                <idno>vll.19180123_644.14350</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. Dran</placeName>
                <idno>vll.19160615_431.12890</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. Drau</placeName>
                <idno>vll.19150225_133.7768</idno>
                <idno>vll.19150516_178.3436</idno>
                <idno>vll.19150719_214.8814</idno>
@@ -5445,176 +4554,53 @@
                <idno>vll.19190103_707.9690</idno>
                <idno>vll.19190103_707.13542</idno>
                <idno>vll.19190129_708.5148</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. Gl.</placeName>
                <idno>vll.19180403_665.10308</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. J)r.</placeName>
                <idno>vll.19180514_673.8412</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d. Prau</placeName>
                <idno>vll.19180527_675.9284</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d.D.</placeName>
                <idno>vll.19160401_402.7758</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d: D.</placeName>
                <idno>vll.19150928_277.7120</idno>
-            </place>
-            <place>
-               <placeName>Spittal a. d; Drau</placeName>
                <idno>vll.19160412_407.3684</idno>
-            </place>
-            <place>
-               <placeName>Spittal a.-d. Gi.</placeName>
                <idno>vll.19161005_473.10484</idno>
-            </place>
-            <place>
-               <placeName>Spittal a./D.</placeName>
                <idno>vll.19160605_428.14498</idno>
                <idno>vll.19160919_466.3260</idno>
-            </place>
-            <place>
-               <placeName>Spittal a.d.D.</placeName>
                <idno>vll.19151030_304.7878</idno>
-            </place>
-            <place>
-               <placeName>Spittal i a. d. Drau</placeName>
                <idno>vll.19180713_685.12150</idno>
-            </place>
-            <place>
-               <placeName>Spittal t. d. Drau</placeName>
                <idno>v11.19180227_655.2306</idno>
-            </place>
-            <place>
-               <placeName>Spittal а. d. Dr.. Millstatt</placeName>
                <idno>vll.19180330_664.9540</idno>
-            </place>
-            <place>
-               <placeName>Spittal. Itebesing</placeName>
                <idno>vll.19160412_407.6782</idno>
-            </place>
-            <place>
-               <placeName>Spittal. Kleblach</placeName>
                <idno>vll.19150812_235.8514</idno>
-            </place>
-            <place>
-               <placeName>Spittal. Ober Millstadt</placeName>
                <idno>vll.19171222_638.12084</idno>
-            </place>
-            <place>
-               <placeName>Spittal. Steinfold</placeName>
                <idno>vll.19150812_235.2536</idno>
-            </place>
-            <place>
-               <placeName>Spittal; Brüggen</placeName>
                <idno>vll.19150814_237.4948</idno>
-            </place>
-            <place>
-               <placeName>Spittal; Eisentraiten</placeName>
                <idno>vll.19150814_237.5116</idno>
-            </place>
-            <place>
-               <placeName>Spittal; Radenthein</placeName>
                <idno>vll.19160426_412.17182</idno>
-            </place>
-            <place>
-               <placeName>SpittalV Irschen</placeName>
                <idno>vll.19150901_254.4778</idno>
-            </place>
-            <place>
-               <placeName>Spittala. D. Puck</placeName>
                <idno>vll.19151012_290.8006</idno>
-            </place>
-            <place>
-               <placeName>Spittala. d. D.</placeName>
                <idno>vll.19160919_466.5702</idno>
                <idno>v11.19180227_655.4380</idno>
-            </place>
-            <place>
-               <placeName>Spittala. d. Drau</placeName>
                <idno>vll.19150605_188.2722</idno>
-            </place>
-            <place>
-               <placeName>Spittfbi</placeName>
                <idno>vll.19160108_352.8266</idno>
-            </place>
-            <place>
-               <placeName>Spittil</placeName>
                <idno>vll.19181219_705.2540</idno>
-            </place>
-            <place>
-               <placeName>Spitts</placeName>
                <idno>vll.19150916_267.4978</idno>
-            </place>
-            <place>
-               <placeName>Spitts!</placeName>
                <idno>vll.19150731_225.6788</idno>
-            </place>
-            <place>
-               <placeName>Spitts! a. d. D.</placeName>
                <idno>vll.19151008_287.1116</idno>
-            </place>
-            <place>
-               <placeName>Spitts!a. D.</placeName>
                <idno>vll.19150710_208.7510</idno>
-            </place>
-            <place>
-               <placeName>Spitts]</placeName>
                <idno>vll.19150901_254.8096</idno>
-            </place>
-            <place>
-               <placeName>Spitttl a. d. Drau</placeName>
                <idno>vll.19151113_314.7912</idno>
-            </place>
-            <place>
-               <placeName>Spittul a. U.</placeName>
                <idno>vll.19161005_473.5616</idno>
-            </place>
-            <place>
-               <placeName>Spitt»)</placeName>
                <idno>vll.19150812_235.10398</idno>
-            </place>
-            <place>
-               <placeName>Spitt»]</placeName>
                <idno>vll.19151007_286.2986</idno>
-            </place>
-            <place>
-               <placeName>Spittäb</placeName>
                <idno>vll.19160621_433.1128</idno>
-            </place>
-            <place>
-               <placeName>Spittäl</placeName>
                <idno>vll.19141117_60.4302</idno>
                <idno>vll.19160118_360.3938</idno>
-            </place>
-            <place>
-               <placeName>Spitä a. D.</placeName>
                <idno>vll.19150916_267.2264</idno>
-            </place>
-            <place>
-               <placeName>Spjttäl</placeName>
                <idno>vll.19150916_267.902</idno>
-            </place>
-            <place>
-               <placeName>Splttal</placeName>
                <idno>vll.19150819_242.2354</idno>
-            </place>
-            <place>
-               <placeName>Spttal</placeName>
                <idno>vll.19160824_455.974</idno>
             </place>
             <place>
-               <placeName>Sr. \&gt;Jt</placeName>
+               <placeName>St. Veit</placeName>
                <idno>vll.19160617_432.12418</idno>
-            </place>
-            <place>
-               <placeName>St</placeName>
                <idno>vll.19141121_66_67.9568</idno>
                <idno>vll.19150218_129.7060</idno>
                <idno>vll.19150313_141.9294</idno>
@@ -5645,13 +4631,7 @@
                <idno>vll.19160621_433.5994</idno>
                <idno>vll.19160722_444.7118</idno>
                <idno>vll.19180830_693.10314</idno>
-            </place>
-            <place>
-               <placeName>St . Veit</placeName>
                <idno>vll.19160108_352.8812</idno>
-            </place>
-            <place>
-               <placeName>St Veit</placeName>
                <idno>vll.19150313_141.3624</idno>
                <idno>vll.19150413_159.2658</idno>
                <idno>vll.19150516_178.4016</idno>
@@ -5680,30 +4660,12 @@
                <idno>vll.19180605_678.14710</idno>
                <idno>vll.19180628_683.3614</idno>
                <idno>vll.19180830_693.11358</idno>
-            </place>
-            <place>
-               <placeName>St Veit a. d. Gl.</placeName>
                <idno>vll.19171108_626.12740</idno>
                <idno>vll.19181111_701.12374</idno>
-            </place>
-            <place>
-               <placeName>St Veit a. d. Glan</placeName>
                <idno>vll.19170507_568.3482</idno>
-            </place>
-            <place>
-               <placeName>St Weitra</placeName>
                <idno>vll.19151008_287.8790</idno>
-            </place>
-            <place>
-               <placeName>St! Veit</placeName>
                <idno>vll.19151007_286.3454</idno>
-            </place>
-            <place>
-               <placeName>St-</placeName>
                <idno>vll.19150812_235.10822</idno>
-            </place>
-            <place>
-               <placeName>St. "Veit</placeName>
                <idno>vll.19151007_286.4482</idno>
             </place>
             <place>
@@ -5722,6 +4684,10 @@
                <placeName>St. Georgen</placeName>
                <idno>vll.19150812_235.9608</idno>
                <idno>vll.19180723_687.9078</idno>
+            </place>
+            <place>
+               <placeName>St. Georgen</placeName>
+               <idno>vll.19181019_699.13928</idno>
             </place>
             <place>
                <placeName>St. Jakob</placeName>
@@ -5774,7 +4740,7 @@
                <idno>vll.19171108_626.8360</idno>
             </place>
             <place>
-               <placeName>St. Neit</placeName>
+               <placeName>St. Veit</placeName>
                <idno>vll.19160405_404.11056</idno>
             </place>
             <place>
@@ -5824,7 +4790,7 @@
                <idno>v11.19171204_633.9500</idno>
             </place>
             <place>
-               <placeName>St. Teit a. d</placeName>
+               <placeName>St. Veit a. d</placeName>
                <idno>vll.19180610_679.8924</idno>
             </place>
             <place>
@@ -5836,23 +4802,11 @@
                <idno>vll.19151008_287.9374</idno>
             </place>
             <place>
-               <placeName>St. V A. Deutsch-Griffen</placeName>
-               <idno>vll.19190114_709.14038</idno>
-            </place>
-            <place>
-               <placeName>St. Veeit</placeName>
-               <idno>vll.19180307_657.6180</idno>
-            </place>
-            <place>
-               <placeName>St. Veifc.ilüttcnbei'g</placeName>
-               <idno>vll.19151130_325.12300</idno>
-            </place>
-            <place>
-               <placeName>St. Veiit a. d. Glan</placeName>
-               <idno>vll.19180307_657.4438</idno>
-            </place>
-            <place>
                <placeName>St. Veit</placeName>
+               <idno>vll.19190114_709.14038</idno>
+               <idno>vll.19180307_657.6180</idno>
+               <idno>vll.19151130_325.12300</idno>
+               <idno>vll.19180307_657.4438</idno>
                <idno>vll.19141121_66_67.8978</idno>
                <idno>vll.19141128_E3.4484</idno>
                <idno>vll.19141203_72_E5.14250</idno>
@@ -6904,66 +5858,21 @@
                <idno>vll.19190129_708.11272</idno>
                <idno>vll.19190129_708.12640</idno>
                <idno>vll.19190129_708.20018</idno>
-            </place>
-            <place>
-               <placeName>St. Veit </placeName>
                <idno>vll.19160401_402.9516</idno>
-            </place>
-            <place>
-               <placeName>St. Veit . a.d. Gl.</placeName>
                <idno>vll.19150616_194.3142</idno>
-            </place>
-            <place>
-               <placeName>St. Veit Brückl</placeName>
                <idno>vll.19170731_604.8478</idno>
-            </place>
-            <place>
-               <placeName>St. Veit Guttaring</placeName>
                <idno>vll.19150812_235.8314</idno>
-            </place>
-            <place>
-               <placeName>St. Veit Hüttenberg</placeName>
                <idno>vll.19150731_225.7870</idno>
-            </place>
-            <place>
-               <placeName>St. Veit Lölling</placeName>
                <idno>vll.19151122_320.3346</idno>
-            </place>
-            <place>
-               <placeName>St. Veit Straßburg</placeName>
                <idno>vll.19151130_325.12220</idno>
-            </place>
-            <place>
-               <placeName>St. Veit Sörg</placeName>
                <idno>vll.19181126_702.6988</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a</placeName>
                <idno>vll.19150825_247.1988</idno>
                <idno>vll.19180515_674.11006</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a d Glan</placeName>
                <idno>vll.19150731_225.8052</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a d. Gl.</placeName>
                <idno>vll.19180330_664.12904</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a". d. Gl.</placeName>
                <idno>vll.19150901_254.10616</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. Geb.</placeName>
                <idno>vll.19150322_146.8840</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. Gl</placeName>
                <idno>vll.19180403_665.5598</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. Gl.</placeName>
                <idno>vll.19150814_237.5520</idno>
                <idno>vll.19160426_412.626</idno>
                <idno>vll.19160615_431.7574</idno>
@@ -6977,9 +5886,6 @@
                <idno>vll.19170507_568.3874</idno>
                <idno>vll.19170731_604.4218</idno>
                <idno>vll.19181224_706.7204</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. Glan</placeName>
                <idno>vll.19150710_208.3784</idno>
                <idno>vll.19150710_208.6912</idno>
                <idno>vll.19150805_229.7070</idno>
@@ -6989,35 +5895,14 @@
                <idno>vll.19160807_449.732</idno>
                <idno>vll.19160919_466.3818</idno>
                <idno>vll.19180613_680.13798</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. K.</placeName>
                <idno>vll.19161012_476.7496</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d</placeName>
                <idno>vll.19151109_310.6256</idno>
                <idno>vll.19160826_456.478</idno>
                <idno>vll.19171027_621.4268</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d Glan</placeName>
                <idno>vll.19160706_438.6742</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d.</placeName>
                <idno>vll.19161101_485.13576</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. D.</placeName>
                <idno>vll.19150225_133.4868</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. G'.</placeName>
                <idno>vll.19150816_239.4904</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. G.</placeName>
                <idno>vll.19150707_206.6126</idno>
                <idno>vll.19150731_225.3870</idno>
                <idno>vll.19160401_402.654</idno>
@@ -7030,23 +5915,11 @@
                <idno>v11.19170418_556.3210</idno>
                <idno>vll.19171113_627.2336</idno>
                <idno>vll.19180403_665.12730</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. GL</placeName>
                <idno>vll.19150819_242.2774</idno>
                <idno>vll.19171121_630.7096</idno>
                <idno>vll.19180511_672.3094</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Gh</placeName>
                <idno>vll.19161005_473.9600</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Gl</placeName>
                <idno>vll.19150816_239.8000</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Gl.</placeName>
                <idno>vll.19150506_173.7502</idno>
                <idno>vll.19150616_194.1696</idno>
                <idno>vll.19150701_203.6408</idno>
@@ -7100,13 +5973,7 @@
                <idno>vll.19181224_706.10648</idno>
                <idno>vll.19181224_706.11126</idno>
                <idno>vll.19181224_706.14406</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Gl. Straßburg</placeName>
                <idno>v11.19170418_556.736</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Glan</placeName>
                <idno>vll.19141223_85_86.10836</idno>
                <idno>vll.19141231_89.2556</idno>
                <idno>vll.19150124_112.4404</idno>
@@ -7178,201 +6045,67 @@
                <idno>vll.19180709_684.3728</idno>
                <idno>vll.19180713_685.5874</idno>
                <idno>vll.19181005_697.6296</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Glau</placeName>
                <idno>vll.19170731_604.4258</idno>
                <idno>v11.19180126_646.5342</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. d. Gleise</placeName>
                <idno>vll.19190103_707.14802</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a. • d. Glau</placeName>
                <idno>vll.19150816_239.7056</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a./GIan</placeName>
                <idno>vll.19150902_255.2344</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a./Gl.</placeName>
                <idno>vll.19160426_412.12066</idno>
                <idno>vll.19160615_431.6534</idno>
                <idno>vll.19160722_444.5364</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a./Glan</placeName>
                <idno>vll.19160807_449.10860</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a./H.</placeName>
                <idno>vll.19160615_431.12914</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a.Gl. St. Salvator</placeName>
                <idno>vll.19150901_254.6798</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a.d. GL</placeName>
                <idno>vll.19150819_242.4364</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a.d. Gl.</placeName>
                <idno>vll.19160512_420.5700</idno>
-            </place>
-            <place>
-               <placeName>St. Veit a.d. Glan</placeName>
                <idno>vll.19150816_239.8126</idno>
                <idno>vll.19180511_672.11554</idno>
                <idno>vll.19180531_676.9202</idno>
-            </place>
-            <place>
-               <placeName>St. Veit an der Glan</placeName>
                <idno>vll.19150819_242.8256</idno>
                <idno>vll.19151105_307.4222</idno>
-            </place>
-            <place>
-               <placeName>St. Veit ä. d. Gl.</placeName>
                <idno>vll.19180514_673.5378</idno>
-            </place>
-            <place>
-               <placeName>St. Veit-</placeName>
                <idno>vll.19150819_242.3238</idno>
-            </place>
-            <place>
-               <placeName>St. Veit.</placeName>
                <idno>vll.19150313_141.9434</idno>
                <idno>vll.19150925_274.5744</idno>
-            </place>
-            <place>
-               <placeName>St. Veit. Deutsch-GrilFon</placeName>
                <idno>vll.19160412_407.10216</idno>
-            </place>
-            <place>
-               <placeName>St. Veit. Eberstein</placeName>
                <idno>vll.19150925_274.4326</idno>
-            </place>
-            <place>
-               <placeName>St. Veit. Köttelach</placeName>
                <idno>vll.19150925_274.5750</idno>
-            </place>
-            <place>
-               <placeName>St. Veit. Weitersfeld</placeName>
                <idno>vll.19181224_706.10596</idno>
-            </place>
-            <place>
-               <placeName>St. Veit. a. d. Gl.</placeName>
                <idno>vll.19170430_563.12424</idno>
-            </place>
-            <place>
-               <placeName>St. Veit. a. d. Glan</placeName>
                <idno>vll.19150901_254.8240</idno>
-            </place>
-            <place>
-               <placeName>St. Veit; kriegsgef.</placeName>
                <idno>vll.19160523_423.3592</idno>
-            </place>
-            <place>
-               <placeName>St. Veita. Gl.</placeName>
                <idno>vll.19160804_448.10192</idno>
-            </place>
-            <place>
-               <placeName>St. Veita. d. Glan</placeName>
                <idno>vll.19150313_141.740</idno>
                <idno>vll.19151002_281.5656</idno>
                <idno>vll.19151002_281.9552</idno>
-            </place>
-            <place>
-               <placeName>St. Veith</placeName>
                <idno>vll.19151004_283.3906</idno>
                <idno>vll.19160208_373.3442</idno>
                <idno>vll.19170824_608.1548</idno>
                <idno>vll.19180415_667.19140</idno>
-            </place>
-            <place>
-               <placeName>St. Veitt</placeName>
                <idno>vll.19171127_631.8372</idno>
-            </place>
-            <place>
-               <placeName>St. Vfc.it</placeName>
                <idno>vll.19151007_286.6508</idno>
-            </place>
-            <place>
-               <placeName>St. Voit a. d. Gl.</placeName>
                <idno>vll.19161005_473.9598</idno>
-            </place>
-            <place>
-               <placeName>St. Volt</placeName>
                <idno>vll.19160110_353.5002</idno>
-            </place>
-            <place>
-               <placeName>St. V’eit</placeName>
                <idno>vll.19160824_455.12148</idno>
-            </place>
-            <place>
-               <placeName>St. Weit</placeName>
                <idno>vll.19170424_559.11314</idno>
                <idno>vll.19171119_629.14954</idno>
                <idno>vll.19180305_656.13934</idno>
-            </place>
-            <place>
-               <placeName>St. Weitz</placeName>
                <idno>vll.19151008_287.4728</idno>
-            </place>
-            <place>
-               <placeName>St. eit</placeName>
                <idno>vll.19180515_674.12772</idno>
-            </place>
-            <place>
-               <placeName>St. heorgen</placeName>
-               <idno>vll.19181019_699.13928</idno>
-            </place>
-            <place>
-               <placeName>St. veit</placeName>
                <idno>vll.19180830_693.13614</idno>
-            </place>
-            <place>
-               <placeName>St.-Veit</placeName>
                <idno>vll.19150812_235.8652</idno>
-            </place>
-            <place>
-               <placeName>St.. Veit</placeName>
                <idno>vll.19150701_203.3808</idno>
                <idno>vll.19150812_235.11022</idno>
-            </place>
-            <place>
-               <placeName>St.; Veit</placeName>
                <idno>vll.19160108_352.7102</idno>
-            </place>
-            <place>
-               <placeName>St.V^ft</placeName>
                <idno>vll.19150819_242.2240</idno>
-            </place>
-            <place>
-               <placeName>St.Veit</placeName>
                <idno>vll.19150103_91.9538</idno>
                <idno>vll.19150428_168.11096</idno>
                <idno>vll.19150816_239.6600</idno>
                <idno>vll.19151007_286.3636</idno>
                <idno>vll.19180403_665.2632</idno>
-            </place>
-            <place>
-               <placeName>St.Veit a. d. Glan</placeName>
                <idno>vll.19160401_402.9106</idno>
-            </place>
-            <place>
-               <placeName>St.Veith</placeName>
                <idno>vll.19150816_239.5170</idno>
-            </place>
-            <place>
-               <placeName>StVeit</placeName>
                <idno>vll.19160108_352.8494</idno>
-            </place>
-            <place>
-               <placeName>Stein</placeName>
-               <idno>vll.19151109_310.6480</idno>
             </place>
             <place>
                <placeName>Steindorf</placeName>
@@ -7393,10 +6126,6 @@
                <idno>vll.19150516_178.2288</idno>
             </place>
             <place>
-               <placeName>Streit Guttaring</placeName>
-               <idno>vll.19150319_144.6972</idno>
-            </place>
-            <place>
                <placeName>Suittal</placeName>
                <idno>vll.19151130_325.12254</idno>
             </place>
@@ -7405,15 +6134,9 @@
                <idno>vll.19180429_670.8674</idno>
             </place>
             <place>
-               <placeName>Taiviä</placeName>
-               <idno>vll.19151008_287.2300</idno>
-            </place>
-            <place>
-               <placeName>Tarvia</placeName>
-               <idno>vll.19150816_239.9406</idno>
-            </place>
-            <place>
                <placeName>Tarvis</placeName>
+               <idno>vll.19151008_287.2300</idno>
+               <idno>vll.19150816_239.9406</idno>
                <idno>vll.19141204_74.5546</idno>
                <idno>vll.19141204_74.7004</idno>
                <idno>vll.19151012_290.7540</idno>
@@ -7422,7 +6145,7 @@
                <idno>vll.19160525_424.7778</idno>
             </place>
             <place>
-               <placeName>Tillach</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19150819_242.3744</idno>
                <idno>vll.19171005_613.12438</idno>
             </place>
@@ -7431,15 +6154,11 @@
                <idno>vll.19151008_287.8322</idno>
             </place>
             <place>
-               <placeName>Tolmein</placeName>
-               <idno>vll.19160118_360.5534</idno>
-            </place>
-            <place>
                <placeName>Trebesing</placeName>
                <idno>vll.19150810_233.4698</idno>
             </place>
             <place>
-               <placeName>Tv T o!fs- berg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19151008_287.1948</idno>
             </place>
             <place>
@@ -7447,7 +6166,7 @@
                <idno>vll.19150506_173.4070</idno>
             </place>
             <place>
-               <placeName>Uermagor</placeName>
+               <placeName>Hermagor</placeName>
                <idno>vll.19160108_352.660</idno>
             </place>
             <place>
@@ -7455,19 +6174,19 @@
                <idno>vll.19180718_686.11744</idno>
             </place>
             <place>
-               <placeName>V illah Finkenstein</placeName>
+               <placeName>Villah Finkenstein</placeName>
                <idno>vll.19150816_239.5808</idno>
             </place>
             <place>
-               <placeName>VBlkermarkt St. Kanzian</placeName>
+               <placeName>Völkermarkt St. Kanzian</placeName>
                <idno>vll.19150925_274.6100</idno>
             </place>
             <place>
-               <placeName>VUlach</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19170726_602.12198</idno>
             </place>
             <place>
-               <placeName>VWkortnarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150812_235.838</idno>
             </place>
             <place>
@@ -7483,60 +6202,39 @@
                <idno>vll.19151112_313.2594</idno>
             </place>
             <place>
-               <placeName>Velkermarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150925_274.7972</idno>
             </place>
             <place>
-               <placeName>Verlach</placeName>
+               <placeName>Ferlach</placeName>
                <idno>vll.19151028_303.5652</idno>
             </place>
             <place>
-               <placeName>Vfflach</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19150901_254.2476</idno>
             </place>
             <place>
-               <placeName>Vfilfccr- markt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150902_255.7442</idno>
             </place>
             <place>
-               <placeName>Vfllacb</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19151008_287.7584</idno>
-            </place>
-            <place>
-               <placeName>Vfllach</placeName>
                <idno>vll.19150925_274.6780</idno>
             </place>
             <place>
-               <placeName>Vfllkermarkt</placeName>
+               <placeName>Völlkermarkt</placeName>
                <idno>vll.19150925_274.7426</idno>
             </place>
             <place>
-               <placeName>ViHach</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19151007_286.5716</idno>
-            </place>
-            <place>
-               <placeName>ViUach</placeName>
                <idno>vll.19170430_563.9046</idno>
                <idno>vll.19180307_657.11276</idno>
-            </place>
-            <place>
-               <placeName>Viflach</placeName>
                <idno>vll.19150729_223.6888</idno>
-            </place>
-            <place>
-               <placeName>ViiJaeh</placeName>
                <idno>vll.19160108_352.1772</idno>
-            </place>
-            <place>
-               <placeName>Viiiach</placeName>
                <idno>vll.19180305_656.6120</idno>
-            </place>
-            <place>
-               <placeName>Viilacb</placeName>
                <idno>vll.19151122_320.12756</idno>
-            </place>
-            <place>
-               <placeName>Viilach</placeName>
                <idno>vll.19150413_159.1914</idno>
                <idno>vll.19150819_242.8082</idno>
                <idno>vll.19150819_242.8214</idno>
@@ -7546,32 +6244,20 @@
                <idno>vll.19181005_697.9802</idno>
             </place>
             <place>
-               <placeName>Viilkürraarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150925_274.948</idno>
             </place>
             <place>
-               <placeName>Viillaich</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19171127_631.8638</idno>
-            </place>
-            <place>
-               <placeName>VilJach</placeName>
                <idno>vll.19150710_208.2920</idno>
                <idno>vll.19160307_387.10726</idno>
-            </place>
-            <place>
-               <placeName>Vilach</placeName>
                <idno>vll.19160414_408.5598</idno>
                <idno>vll.19171130_632.2412</idno>
                <idno>vll.19180323_662.5684</idno>
                <idno>vll.19180429_670.13510</idno>
                <idno>vll.19190114_709.7642</idno>
-            </place>
-            <place>
-               <placeName>Vilch</placeName>
                <idno>vll.19180429_670.6516</idno>
-            </place>
-            <place>
-               <placeName>Viliach</placeName>
                <idno>vll.19150313_141.7632</idno>
                <idno>vll.19150313_141.7774</idno>
                <idno>vll.19150816_239.9800</idno>
@@ -7581,49 +6267,19 @@
                <idno>vll.19151028_303.9470</idno>
                <idno>vll.19180129_647.5986</idno>
                <idno>v11.19180223_654.10790</idno>
-            </place>
-            <place>
-               <placeName>Viliaeh</placeName>
                <idno>vll.19150812_235.1466</idno>
-            </place>
-            <place>
-               <placeName>Viliarh</placeName>
                <idno>vll.19150925_274.4570</idno>
-            </place>
-            <place>
-               <placeName>Vilkclr</placeName>
                <idno>vll.19150731_225.7744</idno>
-            </place>
-            <place>
-               <placeName>Vill'ach</placeName>
                <idno>vll.19150906_259.8604</idno>
-            </place>
-            <place>
-               <placeName>VillAch</placeName>
                <idno>vll.19160529_425.3694</idno>
-            </place>
-            <place>
-               <placeName>Villa:h</placeName>
                <idno>vll.19160605_428.3334</idno>
-            </place>
-            <place>
-               <placeName>Villac Stockenboj</placeName>
                <idno>vll.19150925_274.8948</idno>
-            </place>
-            <place>
-               <placeName>Villacb</placeName>
                <idno>vll.19150812_235.918</idno>
                <idno>vll.19150824_246.9122</idno>
                <idno>vll.19151010_289.11816</idno>
                <idno>vll.19160118_360.2162</idno>
                <idno>vll.19160624_434.6982</idno>
-            </place>
-            <place>
-               <placeName>Villacch</placeName>
                <idno>vll.19180309_658.15014</idno>
-            </place>
-            <place>
-               <placeName>Villach</placeName>
                <idno>vll.19141202_71.5264</idno>
                <idno>vll.19141204_74.2992</idno>
                <idno>vll.19141222_84.7456</idno>
@@ -8943,94 +7599,28 @@
                <idno>vll.19190129_708.9884</idno>
                <idno>vll.19190129_708.11060</idno>
                <idno>vll.19190129_708.12940</idno>
-            </place>
-            <place>
-               <placeName>Villach ; St. Jakob</placeName>
                <idno>vll.19151007_286.5760</idno>
-            </place>
-            <place>
-               <placeName>Villach Landskron</placeName>
                <idno>vll.19150819_242.3486</idno>
-            </place>
-            <place>
-               <placeName>Villach Lind ob Velden</placeName>
                <idno>vll.19181011_698.10548</idno>
-            </place>
-            <place>
-               <placeName>Villach St. Jakob</placeName>
                <idno>vll.19161014_477.12738</idno>
-            </place>
-            <place>
-               <placeName>Villach Stadt</placeName>
                <idno>vll.19151221_339.8822</idno>
-            </place>
-            <place>
-               <placeName>Villach l^ndskron</placeName>
                <idno>vll.19180429_670.10382</idno>
-            </place>
-            <place>
-               <placeName>Villach' Arriach</placeName>
                <idno>vll.19150906_259.5654</idno>
-            </place>
-            <place>
-               <placeName>Villach-Treffen</placeName>
                <idno>vll.19150925_274.9966</idno>
-            </place>
-            <place>
-               <placeName>Villach. Arriach</placeName>
                <idno>vll.19190103_707.4260</idno>
-            </place>
-            <place>
-               <placeName>Villach. Bleibeig</placeName>
                <idno>vll.19150812_235.7126</idno>
-            </place>
-            <place>
-               <placeName>Villach. Maria Gail</placeName>
                <idno>vll.19160108_352.3992</idno>
-            </place>
-            <place>
-               <placeName>Villach. Pattendorf</placeName>
                <idno>vll.19180403_665.6222</idno>
-            </place>
-            <place>
-               <placeName>Villach. Pontafel</placeName>
                <idno>vll.19150812_235.6828</idno>
                <idno>vll.19151215_336.8094</idno>
-            </place>
-            <place>
-               <placeName>Villach. St. Jakob</placeName>
                <idno>vll.19150925_274.8126</idno>
-            </place>
-            <place>
-               <placeName>Villach. Tarvis</placeName>
                <idno>vll.19160617_432.10306</idno>
-            </place>
-            <place>
-               <placeName>Villach. Weissenstein</placeName>
                <idno>vll.19180515_674.4580</idno>
-            </place>
-            <place>
-               <placeName>Villach; Lind a. Velden</placeName>
                <idno>vll.19150731_225.8856</idno>
-            </place>
-            <place>
-               <placeName>Villach; verw.</placeName>
                <idno>vll.19161212_501.506</idno>
-            </place>
-            <place>
-               <placeName>Villacii</placeName>
                <idno>vll.19181011_698.10546</idno>
-            </place>
-            <place>
-               <placeName>Villacn</placeName>
                <idno>vll.19150731_225.3300</idno>
-            </place>
-            <place>
-               <placeName>Villadi</placeName>
                <idno>vll.19180603_677.7874</idno>
-            </place>
-            <place>
-               <placeName>Villaeh</placeName>
                <idno>vll.19150513_177.14618</idno>
                <idno>vll.19150520_182.6530</idno>
                <idno>vll.19150708_207.6510</idno>
@@ -9043,83 +7633,40 @@
                <idno>vll.19151008_287.9804</idno>
                <idno>vll.19151215_336.1086</idno>
                <idno>vll.19160108_352.3434</idno>
-            </place>
-            <place>
-               <placeName>Villaeh- Landskron</placeName>
                <idno>vll.19150925_274.5782</idno>
-            </place>
-            <place>
-               <placeName>Villaoh</placeName>
                <idno>vll.19180527_675.16020</idno>
-            </place>
-            <place>
-               <placeName>Villaoh. St. Jakob im Rosontlwile</placeName>
                <idno>vll.19160617_432.3210</idno>
-            </place>
-            <place>
-               <placeName>Villarh</placeName>
                <idno>vll.19150925_274.6166</idno>
-            </place>
-            <place>
-               <placeName>Villath</placeName>
                <idno>vll.19160818_453.6216</idno>
-            </place>
-            <place>
-               <placeName>Villaöh</placeName>
                <idno>vll.19170430_563.1974</idno>
-            </place>
-            <place>
-               <placeName>Villlach</placeName>
                <idno>v11.19170418_556.9668</idno>
-            </place>
-            <place>
-               <placeName>Villuch</placeName>
                <idno>vll.19150925_274.1744</idno>
-            </place>
-            <place>
-               <placeName>Villäch</placeName>
                <idno>vll.19150206_121.3042</idno>
                <idno>vll.19150322_146.2948</idno>
                <idno>vll.19150731_225.6536</idno>
                <idno>vll.19150812_235.1976</idno>
                <idno>vll.19150928_277.10140</idno>
                <idno>vll.19151007_286.5720</idno>
-            </place>
-            <place>
-               <placeName>Visnogöra</placeName>
-               <idno>vll.19151010_289.7746</idno>
-            </place>
-            <place>
-               <placeName>Viuacn</placeName>
                <idno>vll.19160118_360.8592</idno>
-            </place>
-            <place>
-               <placeName>Viüach</placeName>
                <idno>vll.19150925_274.4330</idno>
-            </place>
-            <place>
-               <placeName>Vllaach</placeName>
                <idno>vll.19160523_423.11058</idno>
             </place>
             <place>
-               <placeName>Vo derberg</placeName>
+               <placeName>Voderberg</placeName>
                <idno>vll.19181019_699.11092</idno>
             </place>
             <place>
-               <placeName>VoiKermarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19151007_286.6666</idno>
             </place>
             <place>
-               <placeName>Voifcsberg</placeName>
-               <idno>vll.19151002_281.10324</idno>
-            </place>
-            <place>
-               <placeName>Voikermarkt</placeName>
-               <idno>vll.19180514_673.5774</idno>
-            </place>
-            <place>
                <placeName>Voitsbeig</placeName>
+               <idno>vll.19151002_281.10324</idno>
                <idno>vll.19151002_281.4948</idno>
+            </place>
+            <place>
+               <placeName>Völkermarkt</placeName>
+               <idno>vll.19180514_673.5774</idno>
             </place>
             <place>
                <placeName>Voitsberg</placeName>
@@ -9130,35 +7677,20 @@
                <idno>vll.19160417_409.4146</idno>
             </place>
             <place>
-               <placeName>Voitsberg. Krottendorf</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19150928_277.9946</idno>
-            </place>
-            <place>
-               <placeName>Volfsberg</placeName>
                <idno>vll.19160426_412.10000</idno>
                <idno>vll.19170507_568.10494</idno>
                <idno>vll.19171119_629.7794</idno>
                <idno>vll.19180625_682.5626</idno>
             </place>
             <place>
-               <placeName>Volke.- mark</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150816_239.3404</idno>
-            </place>
-            <place>
-               <placeName>Volker Volkermarkt</placeName>
                <idno>vll.19180603_677.7012</idno>
-            </place>
-            <place>
-               <placeName>Volkermakrt</placeName>
                <idno>v11.19180209_651.4012</idno>
-            </place>
-            <place>
-               <placeName>Volkermark</placeName>
                <idno>vll.19151008_287.6048</idno>
                <idno>vll.19180515_674.6364</idno>
-            </place>
-            <place>
-               <placeName>Volkermarkt</placeName>
                <idno>vll.19150211_124.3306</idno>
                <idno>vll.19150322_146.1056</idno>
                <idno>vll.19150322_146.10086</idno>
@@ -9244,58 +7776,19 @@
                <idno>vll.19181204_703.9440</idno>
                <idno>vll.19181219_705.10646</idno>
                <idno>vll.19190129_708.13046</idno>
-            </place>
-            <place>
-               <placeName>Volkermarkt Griffen</placeName>
                <idno>vll.19150819_242.3240</idno>
-            </place>
-            <place>
-               <placeName>Volkermarkt Prävali</placeName>
                <idno>vll.19170329_544.9758</idno>
-            </place>
-            <place>
-               <placeName>Volkermarkt. Griffen</placeName>
                <idno>vll.19180620_681.7822</idno>
-            </place>
-            <place>
-               <placeName>Volkermarkt. St. Peter am Wallersberg</placeName>
                <idno>vll.19181204_703.14948</idno>
-            </place>
-            <place>
-               <placeName>Volkerrnarkt</placeName>
                <idno>vll.19150304_137.9744</idno>
-            </place>
-            <place>
-               <placeName>Volkersmarkt</placeName>
                <idno>vll.19151109_310.8808</idno>
-            </place>
-            <place>
-               <placeName>Volkmarkt</placeName>
                <idno>vll.19150322_146.8238</idno>
                <idno>vll.19160617_432.8128</idno>
-            </place>
-            <place>
-               <placeName>Vollmarkt</placeName>
                <idno>vll.19150211_124.4960</idno>
-            </place>
-            <place>
-               <placeName>VÄeimarkt</placeName>
                <idno>vll.19180605_678.14494</idno>
-            </place>
-            <place>
-               <placeName>Vßl- kermarkt</placeName>
                <idno>vll.19160108_352.6340</idno>
-            </place>
-            <place>
-               <placeName>Vßlbormarkt</placeName>
                <idno>vll.19151008_287.8302</idno>
-            </place>
-            <place>
-               <placeName>Vßlkemiarkt</placeName>
                <idno>vll.19151008_287.3444</idno>
-            </place>
-            <place>
-               <placeName>Vßlkermarkt</placeName>
                <idno>vll.19150520_182.4994</idno>
             </place>
             <place>
@@ -9303,11 +7796,8 @@
                <idno>vll.19170824_608.792</idno>
             </place>
             <place>
-               <placeName>Vöiker- markt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19151008_287.4574</idno>
-            </place>
-            <place>
-               <placeName>Vöikermarkt</placeName>
                <idno>vll.19150313_141.7332</idno>
                <idno>vll.19150812_235.7542</idno>
                <idno>vll.19151008_287.7290</idno>
@@ -9318,100 +7808,40 @@
                <idno>vll.19160615_431.15668</idno>
                <idno>vll.19160624_434.16384</idno>
                <idno>vll.19180515_674.990</idno>
-            </place>
-            <place>
-               <placeName>Vöjkermarkt</placeName>
                <idno>vll.19150812_235.3656</idno>
-            </place>
-            <place>
-               <placeName>Vökermarkt</placeName>
                <idno>vll.19170424_559.10508</idno>
                <idno>vll.19180323_662.2970</idno>
                <idno>vll.19180531_676.2922</idno>
-            </place>
-            <place>
-               <placeName>Völ- . kermarkt</placeName>
                <idno>vll.19150901_254.10760</idno>
-            </place>
-            <place>
-               <placeName>Völfcermarkt</placeName>
                <idno>vll.19180515_674.15560</idno>
             </place>
             <place>
-               <placeName>Völfsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19151007_286.2556</idno>
             </place>
             <place>
-               <placeName>Völk erMarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150812_235.11466</idno>
-            </place>
-            <place>
-               <placeName>Völk.'i-markt</placeName>
                <idno>vll.19150816_239.3426</idno>
-            </place>
-            <place>
-               <placeName>Völkarmarkt</placeName>
                <idno>vll.19180514_673.6850</idno>
-            </place>
-            <place>
-               <placeName>Völkcr- l markt</placeName>
                <idno>vll.19150729_223.11466</idno>
-            </place>
-            <place>
-               <placeName>Völkcrmarkt</placeName>
                <idno>vll.19150812_235.11414</idno>
-            </place>
-            <place>
-               <placeName>Völkcrnuakt</placeName>
                <idno>vll.19160824_455.1782</idno>
-            </place>
-            <place>
-               <placeName>Völkcrroarkt</placeName>
                <idno>vll.19150731_225.7958</idno>
-            </place>
-            <place>
-               <placeName>Völke'rmarkt</placeName>
                <idno>vll.19150819_242.5472</idno>
-            </place>
-            <place>
-               <placeName>Völkei markt</placeName>
                <idno>vll.19150901_254.4770</idno>
-            </place>
-            <place>
-               <placeName>Völkeimarkt</placeName>
                <idno>vll.19150925_274.1788</idno>
                <idno>vll.19181219_705.12728</idno>
-            </place>
-            <place>
-               <placeName>Völkeitnarkt</placeName>
                <idno>vll.19181111_701.2876</idno>
-            </place>
-            <place>
-               <placeName>Völkeiutarkt</placeName>
                <idno>vll.19150916_267.4460</idno>
-            </place>
-            <place>
-               <placeName>Völkemarkt</placeName>
                <idno>vll.19160412_407.14016</idno>
                <idno>vll.19160523_423.12936</idno>
                <idno>vll.19160605_428.6860</idno>
                <idno>vll.19160605_428.11094</idno>
                <idno>vll.19180501_671.8906</idno>
-            </place>
-            <place>
-               <placeName>Völkemrarkt</placeName>
                <idno>vll.19190129_708.13600</idno>
-            </place>
-            <place>
-               <placeName>Völkenmarkt</placeName>
                <idno>vll.19160108_352.820</idno>
-            </place>
-            <place>
-               <placeName>Völkennaikt</placeName>
                <idno>vll.19150812_235.5414</idno>
-            </place>
-            <place>
-               <placeName>Völkennarkt</placeName>
                <idno>vll.19150322_146.2566</idno>
                <idno>vll.19150520_182.10128</idno>
                <idno>vll.19151007_286.2356</idno>
@@ -9419,59 +7849,26 @@
                <idno>vll.19160108_352.1690</idno>
                <idno>vll.19161005_473.3778</idno>
                <idno>vll.19180605_678.14604</idno>
-            </place>
-            <place>
-               <placeName>Völker Völkermarkt</placeName>
                <idno>vll.19160531_426.3120</idno>
                <idno>vll.19160531_426.6542</idno>
                <idno>vll.19180515_674.11448</idno>
                <idno>vll.19180603_677.6614</idno>
                <idno>vll.19180603_677.9888</idno>
-            </place>
-            <place>
-               <placeName>Völker markt</placeName>
                <idno>vll.19150816_239.4634</idno>
-            </place>
-            <place>
-               <placeName>Völker' markt</placeName>
                <idno>vll.19150814_237.4958</idno>
-            </place>
-            <place>
-               <placeName>Völker- . markt</placeName>
                <idno>vll.19150814_237.6246</idno>
                <idno>vll.19150816_239.2934</idno>
-            </place>
-            <place>
-               <placeName>Völker- Markt</placeName>
                <idno>vll.19160108_352.2064</idno>
-            </place>
-            <place>
-               <placeName>Völker- _ markt</placeName>
                <idno>vll.19150731_225.7812</idno>
-            </place>
-            <place>
-               <placeName>Völker- j markt</placeName>
                <idno>vll.19151008_287.9234</idno>
-            </place>
-            <place>
-               <placeName>Völker- marbt</placeName>
                <idno>vll.19150819_242.3196</idno>
-            </place>
-            <place>
-               <placeName>Völker- mark</placeName>
                <idno>vll.19151008_287.4322</idno>
-            </place>
-            <place>
-               <placeName>Völker- markt</placeName>
                <idno>vll.19150731_225.4176</idno>
                <idno>vll.19150816_239.1470</idno>
                <idno>vll.19150819_242.2236</idno>
                <idno>vll.19150819_242.3818</idno>
                <idno>vll.19151008_287.9758</idno>
                <idno>vll.19151020_296.804</idno>
-            </place>
-            <place>
-               <placeName>Völkeraarkt</placeName>
                <idno>vll.19160108_352.8848</idno>
             </place>
             <place>
@@ -9479,32 +7876,14 @@
                <idno>vll.19150816_239.4950</idno>
             </place>
             <place>
-               <placeName>Völkerinarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19181224_706.14218</idno>
-            </place>
-            <place>
-               <placeName>Völkerm.arkt Rückersdorf</placeName>
                <idno>vll.19151007_286.3584</idno>
-            </place>
-            <place>
-               <placeName>Völkermackt</placeName>
                <idno>vll.19180305_656.8772</idno>
-            </place>
-            <place>
-               <placeName>Völkermaikt</placeName>
                <idno>vll.19150925_274.6830</idno>
                <idno>vll.19151130_325.8852</idno>
-            </place>
-            <place>
-               <placeName>VölkermarM</placeName>
                <idno>vll.19150819_242.3784</idno>
-            </place>
-            <place>
-               <placeName>Völkermarit</placeName>
                <idno>vll.19150713_209.6870</idno>
-            </place>
-            <place>
-               <placeName>Völkermark</placeName>
                <idno>vll.19150225_133.5136</idno>
                <idno>vll.19150816_239.1786</idno>
                <idno>vll.19150816_239.6804</idno>
@@ -9514,17 +7893,8 @@
                <idno>vll.19160704_437.8332</idno>
                <idno>vll.19180429_670.12814</idno>
                <idno>vll.19180910_694.3588</idno>
-            </place>
-            <place>
-               <placeName>Völkermarki</placeName>
                <idno>vll.19181204_703.11874</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkl</placeName>
                <idno>vll.19160307_387.6482</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt</placeName>
                <idno>vll.19141117_60.2442</idno>
                <idno>vll.19141203_72_E5.12438</idno>
                <idno>vll.19141209_76.5548</idno>
@@ -10729,199 +9099,67 @@
                <idno>vll.19190129_708.14572</idno>
                <idno>vll.19190129_708.15856</idno>
                <idno>vll.19190129_708.18114</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt </placeName>
                <idno>vll.19181019_699.10520</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt Feistritz</placeName>
                <idno>vll.19150925_274.5120</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt Galizirn</placeName>
                <idno>vll.19150925_274.3716</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt Griffen</placeName>
                <idno>vll.19171113_627.6456</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt.</placeName>
                <idno>vll.19180330_664.12614</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. Griffen</placeName>
                <idno>vll.19181005_697.7916</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. Schwabegg</placeName>
                <idno>vll.19170731_604.5088</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. Seeland</placeName>
                <idno>vll.19180309_658.10572</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. Seifling</placeName>
                <idno>vll.19150925_274.4926</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. Sittersdorf</placeName>
                <idno>vll.19150812_235.7504</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. St. Peter a. W.</placeName>
                <idno>vll.19160426_412.13238</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt. St. Veit</placeName>
                <idno>vll.19181011_698.8148</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt; Globasnitz</placeName>
                <idno>vll.19150906_259.7628</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt; Leifling</placeName>
                <idno>vll.19150910_263.3502</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkt; kriegsgef.</placeName>
                <idno>vll.19151027_302.8200</idno>
                <idno>vll.19160315_392.9692</idno>
-            </place>
-            <place>
-               <placeName>Völkermarkz</placeName>
                <idno>v11.19180223_654.14022</idno>
-            </place>
-            <place>
-               <placeName>Völkermatkt</placeName>
                <idno>vll.19150206_121.8842</idno>
-            </place>
-            <place>
-               <placeName>Völkermsrkt</placeName>
                <idno>vll.19150819_242.3736</idno>
-            </place>
-            <place>
-               <placeName>Völkern</placeName>
                <idno>vll.19150218_129.4730</idno>
-            </place>
-            <place>
-               <placeName>Völkern)arkt</placeName>
                <idno>vll.19150925_274.4462</idno>
-            </place>
-            <place>
-               <placeName>Völkernarkt</placeName>
                <idno>vll.19190103_707.10610</idno>
-            </place>
-            <place>
-               <placeName>Völkerniarkt</placeName>
                <idno>vll.19150925_274.1076</idno>
                <idno>vll.19160617_432.7024</idno>
                <idno>vll.19160824_455.3930</idno>
-            </place>
-            <place>
-               <placeName>Völkerpiarkt</placeName>
                <idno>vll.19150428_168.9988</idno>
-            </place>
-            <place>
-               <placeName>Völkerraarkt</placeName>
                <idno>vll.19160615_431.7966</idno>
                <idno>vll.19180323_662.2964</idno>
-            </place>
-            <place>
-               <placeName>Völkerrarkt</placeName>
                <idno>vll.19170329_544.15086</idno>
-            </place>
-            <place>
-               <placeName>Völkerrawkt</placeName>
                <idno>vll.19180723_687.16858</idno>
-            </place>
-            <place>
-               <placeName>Völkerrmarkt</placeName>
                <idno>vll.19150322_146.9052</idno>
                <idno>vll.19160426_412.7224</idno>
                <idno>vll.19160617_432.12152</idno>
                <idno>vll.19170507_568.11678</idno>
-            </place>
-            <place>
-               <placeName>Völkerwarkt</placeName>
                <idno>vll.19160108_352.5254</idno>
-            </place>
-            <place>
-               <placeName>Völkerznarkt</placeName>
                <idno>vll.19160307_387.9078</idno>
-            </place>
-            <place>
-               <placeName>Völkmarkt</placeName>
                <idno>vll.19160427_413.818</idno>
                <idno>vll.19181011_698.17490</idno>
-            </place>
-            <place>
-               <placeName>Völkormarkt</placeName>
                <idno>vll.19160307_387.8486</idno>
-            </place>
-            <place>
-               <placeName>Völkprrnaikt</placeName>
                <idno>vll.19151130_325.12240</idno>
-            </place>
-            <place>
-               <placeName>Völkremarkt</placeName>
                <idno>vll.19150413_159.7612</idno>
-            </place>
-            <place>
-               <placeName>Völksrm&amp;fkt</placeName>
                <idno>vll.19151012_290.3292</idno>
-            </place>
-            <place>
-               <placeName>Völktarmarkt</placeName>
                <idno>vll.19181111_701.9902</idno>
-            </place>
-            <place>
-               <placeName>Völktrmarkt</placeName>
                <idno>vll.19150731_225.7306</idno>
-            </place>
-            <place>
-               <placeName>Völliermarkt</placeName>
                <idno>vll.19160307_387.2098</idno>
-            </place>
-            <place>
-               <placeName>Völlkermarkt</placeName>
                <idno>vll.19170901_609.9430</idno>
                <idno>vll.19180403_665.11776</idno>
                <idno>vll.19180514_673.4832</idno>
-            </place>
-            <place>
-               <placeName>Völllmarkt</placeName>
                <idno>vll.19160401_402.9356</idno>
-            </place>
-            <place>
-               <placeName>Vötkermarkt</placeName>
                <idno>vll.19160704_437.3774</idno>
-            </place>
-            <place>
-               <placeName>Vöölkermarkt</placeName>
                <idno>vll.19160516_421.12128</idno>
             </place>
             <place>
-               <placeName>Vükch</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19151012_290.7092</idno>
-            </place>
-            <place>
-               <placeName>Vülach</placeName>
                <idno>vll.19170731_604.11232</idno>
             </place>
             <place>
-               <placeName>VülkK'rmarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19180625_682.8458</idno>
-            </place>
-            <place>
-               <placeName>Vülkenuarkt</placeName>
                <idno>vll.19150812_235.9332</idno>
-            </place>
-            <place>
-               <placeName>Vülkermarkt</placeName>
                <idno>vll.19150313_141.4198</idno>
                <idno>vll.19150616_194.11828</idno>
                <idno>vll.19150812_235.8506</idno>
@@ -10930,9 +9168,6 @@
                <idno>vll.19151215_336.10536</idno>
                <idno>vll.19161014_477.11956</idno>
                <idno>vll.19171220_637.6344</idno>
-            </place>
-            <place>
-               <placeName>Vőlkennarkt</placeName>
                <idno>vll.19160804_448.1606</idno>
             </place>
             <place>
@@ -10940,19 +9175,13 @@
                <idno>vll.19150925_274.7624</idno>
             </place>
             <place>
-               <placeName>Wblfsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19180419_668.3274</idno>
-            </place>
-            <place>
-               <placeName>Wclfaberg</placeName>
                <idno>vll.19150729_223.10940</idno>
-            </place>
-            <place>
-               <placeName>Wclfsbcrg</placeName>
                <idno>vll.19180928_695.15390</idno>
             </place>
             <place>
-               <placeName>WegsebeMer IMnrfch statt WegstLaMer</placeName>
+               <placeName>Klagenfurt</placeName>
                <idno>vll.19151130_325.12708</idno>
             </place>
             <place>
@@ -10977,7 +9206,7 @@
                <idno>vll.19150816_239.6870</idno>
             </place>
             <place>
-               <placeName>Welfsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19170424_559.11482</idno>
                <idno>vll.19180514_673.10802</idno>
             </place>
@@ -10994,10 +9223,6 @@
                <idno>vll.19170424_559.11996</idno>
             </place>
             <place>
-               <placeName>Windischgratz</placeName>
-               <idno>vll.19160108_352.8230</idno>
-            </place>
-            <place>
                <placeName>Winklern</placeName>
                <idno>v11.19180209_651.5354</idno>
             </place>
@@ -11006,136 +9231,45 @@
                <idno>vll.19160108_352.8274</idno>
             </place>
             <place>
-               <placeName>WoHsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19150819_242.6136</idno>
-            </place>
-            <place>
-               <placeName>WoKsbcrg Ettendorf</placeName>
                <idno>vll.19150925_274.5784</idno>
-            </place>
-            <place>
-               <placeName>WoLfsbcrg</placeName>
                <idno>vll.19151130_325.12212</idno>
-            </place>
-            <place>
-               <placeName>WoMAtrg</placeName>
-               <idno>vll.19180603_677.10814</idno>
-            </place>
-            <place>
-               <placeName>WoMerg</placeName>
                <idno>vll.19160118_360.9966</idno>
-            </place>
-            <place>
-               <placeName>Wohsberg</placeName>
                <idno>vll.19180330_664.12710</idno>
-            </place>
-            <place>
-               <placeName>Woifs- berg</placeName>
                <idno>vll.19160108_352.2230</idno>
-            </place>
-            <place>
-               <placeName>Woifsberg</placeName>
                <idno>vll.19150906_259.9070</idno>
                <idno>vll.19160529_425.10494</idno>
                <idno>vll.19160722_444.8080</idno>
                <idno>vll.19171005_613.13826</idno>
                <idno>vll.19180603_677.9272</idno>
-            </place>
-            <place>
-               <placeName>Wolf.sbcrg</placeName>
                <idno>vll.19160617_432.10250</idno>
-            </place>
-            <place>
-               <placeName>Wolfaberg</placeName>
                <idno>vll.19160108_352.8600</idno>
-            </place>
-            <place>
-               <placeName>Wolfberg</placeName>
                <idno>vll.19151008_287.9282</idno>
                <idno>vll.19180824_692.7882</idno>
-            </place>
-            <place>
-               <placeName>Wolfeberg</placeName>
                <idno>vll.19150906_259.8828</idno>
                <idno>vll.19180605_678.13918</idno>
-            </place>
-            <place>
-               <placeName>Wolffherg</placeName>
                <idno>vll.19160307_387.10086</idno>
-            </place>
-            <place>
-               <placeName>Wolffiberg</placeName>
                <idno>vll.19161223_506.8282</idno>
-            </place>
-            <place>
-               <placeName>Wolfiberg</placeName>
                <idno>vll.19180429_670.8802</idno>
-            </place>
-            <place>
-               <placeName>Wolfisbeyg</placeName>
                <idno>vll.19181219_705.2892</idno>
-            </place>
-            <place>
-               <placeName>Wolfs Wolfsberg</placeName>
                <idno>vll.19180723_687.1536</idno>
                <idno>vll.19181005_697.5300</idno>
-            </place>
-            <place>
-               <placeName>Wolfs- ' berg</placeName>
                <idno>vll.19150731_225.3646</idno>
-            </place>
-            <place>
-               <placeName>Wolfs- berg</placeName>
                <idno>vll.19150906_259.7278</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbarg</placeName>
                <idno>vll.19150213_125.658</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbcrg</placeName>
                <idno>vll.19170424_559.4278</idno>
                <idno>vll.19180514_673.9002</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbeg</placeName>
                <idno>vll.19181126_702.17268</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbeig</placeName>
                <idno>vll.19180514_673.3810</idno>
                <idno>vll.19180531_676.6014</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbeirg</placeName>
                <idno>vll.19180323_662.6624</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbejg</placeName>
                <idno>vll.19180511_672.4482</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbelg</placeName>
                <idno>vll.19150731_225.6672</idno>
-            </place>
-            <place>
-               <placeName>Wolfsber? Lindhof</placeName>
                <idno>vll.19150925_274.6098</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbere</placeName>
                <idno>vll.19150206_121.3274</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbere Walbenstein</placeName>
                <idno>vll.19150819_242.4118</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberf Eitweg</placeName>
                <idno>vll.19150906_259.5442</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg</placeName>
                <idno>vll.19141204_74.3016</idno>
                <idno>vll.19141209_76.6634</idno>
                <idno>vll.19150103_91.4036</idno>
@@ -12058,78 +10192,24 @@
                <idno>vll.19190129_708.7660</idno>
                <idno>vll.19190129_708.9004</idno>
                <idno>vll.19190129_708.16260</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg St. Stefan</placeName>
                <idno>vll.19150925_274.5670</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg-</placeName>
                <idno>vll.19150910_263.7156</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. Granitzthal</placeName>
                <idno>vll.19180814_691.15850</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. Kamp</placeName>
                <idno>vll.19151008_287.9564</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. Preitenegg</placeName>
                <idno>vll.19190103_707.13680</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. Pölling</placeName>
                <idno>vll.19181105_700.12008</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St</placeName>
                <idno>vll.19180429_670.18100</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St. Georgen</placeName>
                <idno>v11.19180223_654.12286</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St. Gteorgen</placeName>
                <idno>v11.19180221_653.3662</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St. Johann</placeName>
                <idno>vll.19180527_675.3912</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St. Margarethen</placeName>
                <idno>vll.19170731_604.3586</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St. Michael</placeName>
                <idno>vll.19180620_681.4534</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. St. Stefan</placeName>
                <idno>vll.19160401_402.5658</idno>
                <idno>vll.19180514_673.9196</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg. Unter-Hrauberg</placeName>
                <idno>vll.19180830_693.10202</idno>
-            </place>
-            <place>
-               <placeName>Wolfsberg; St. Georgen</placeName>
                <idno>vll.19151007_286.3506</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbertr</placeName>
                <idno>vll.19150816_239.8576</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbesg</placeName>
                <idno>vll.19150925_274.7440</idno>
-            </place>
-            <place>
-               <placeName>Wolfsborg</placeName>
                <idno>vll.19150119_107.2788</idno>
                <idno>vll.19150816_239.7900</idno>
                <idno>vll.19160307_387.3646</idno>
@@ -12138,158 +10218,83 @@
                <idno>vll.19160529_425.6396</idno>
                <idno>vll.19160907_461.11032</idno>
                <idno>vll.19180403_665.4972</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbrp</placeName>
                <idno>vll.19160307_387.4586</idno>
-            </place>
-            <place>
-               <placeName>Wolfsbsrg</placeName>
                <idno>vll.19151007_286.6396</idno>
                <idno>vll.19151105_307.3816</idno>
-            </place>
-            <place>
-               <placeName>Wolfsgberg</placeName>
                <idno>vll.19160615_431.13564</idno>
-            </place>
-            <place>
-               <placeName>Wolfshcrg</placeName>
                <idno>vll.19160603_427.12996</idno>
-            </place>
-            <place>
-               <placeName>Wolfsl»eig</placeName>
                <idno>vll.19170329_544.2894</idno>
-            </place>
-            <place>
-               <placeName>Wolfsserg</placeName>
                <idno>vll.19151012_290.10114</idno>
-            </place>
-            <place>
-               <placeName>Wolfstarg</placeName>
                <idno>vll.19151105_307.2952</idno>
-            </place>
-            <place>
-               <placeName>Wolftberg</placeName>
                <idno>vll.19180501_671.9574</idno>
-            </place>
-            <place>
-               <placeName>Woliberg</placeName>
                <idno>vll.19160118_360.9964</idno>
-            </place>
-            <place>
-               <placeName>Wolifsberg</placeName>
                <idno>vll.19150906_259.1480</idno>
-            </place>
-            <place>
-               <placeName>Wolisberg</placeName>
                <idno>vll.19150925_274.9136</idno>
                <idno>v11.19180223_654.1510</idno>
             </place>
             <place>
-               <placeName>Wolkermarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19150701_203.3494</idno>
             </place>
             <place>
-               <placeName>Wolksberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19151107_309.10658</idno>
-            </place>
-            <place>
-               <placeName>Wollfsberg</placeName>
                <idno>vll.19160426_412.12870</idno>
                <idno>vll.19180307_657.4560</idno>
-            </place>
-            <place>
-               <placeName>Wolls- Mg</placeName>
                <idno>vll.19160412_407.11788</idno>
-            </place>
-            <place>
-               <placeName>Wollsbcrg</placeName>
                <idno>vll.19151007_286.7852</idno>
-            </place>
-            <place>
-               <placeName>Wollsberg</placeName>
                <idno>vll.19150129_116.7860</idno>
                <idno>vll.19151008_287.9194</idno>
                <idno>vll.19151109_310.6872</idno>
                <idno>vll.19151109_310.7222</idno>
                <idno>vll.19151215_336.6850</idno>
                <idno>vll.19180805_689.6008</idno>
-            </place>
-            <place>
-               <placeName>Wolsberg</placeName>
                <idno>vll.19160529_425.9226</idno>
-            </place>
-            <place>
-               <placeName>Woltsberg</placeName>
                <idno>vll.19150211_124.3118</idno>
                <idno>vll.19151130_325.12662</idno>
                <idno>vll.19170731_604.8480</idno>
                <idno>vll.19171113_627.9632</idno>
                <idno>vll.19180501_671.11514</idno>
-            </place>
-            <place>
-               <placeName>Wolvsberg</placeName>
                <idno>vll.19160118_360.7234</idno>
-            </place>
-            <place>
-               <placeName>Wolügberg</placeName>
                <idno>vll.19151105_307.11260</idno>
-            </place>
-            <place>
-               <placeName>Wölfsberg</placeName>
                <idno>vll.19150510_175.10218</idno>
                <idno>vll.19151130_325.12462</idno>
                <idno>vll.19160405_404.11576</idno>
                <idno>vll.19160706_438.12192</idno>
             </place>
             <place>
-               <placeName>Wölkermarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19171127_631.8264</idno>
             </place>
             <place>
-               <placeName>Wülfsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19160824_455.10386</idno>
             </place>
             <place>
-               <placeName>Yiilach</placeName>
+               <placeName>Villach</placeName>
                <idno>vll.19150812_235.11182</idno>
-            </place>
-            <place>
-               <placeName>Yillach</placeName>
                <idno>vll.19150812_235.2778</idno>
                <idno>vll.19150816_239.9324</idno>
                <idno>vll.19150819_242.7544</idno>
                <idno>vll.19150925_274.7558</idno>
                <idno>vll.19151008_287.3116</idno>
                <idno>vll.19160118_360.10286</idno>
-            </place>
-            <place>
-               <placeName>Yillaeh</placeName>
                <idno>vll.19160108_352.664</idno>
                <idno>vll.19160108_352.7558</idno>
             </place>
             <place>
-               <placeName>Yoitsborg</placeName>
+               <placeName>Voitsberg</placeName>
                <idno>vll.19160824_455.12802</idno>
             </place>
             <place>
-               <placeName>Yv'ollsberg</placeName>
+               <placeName>Wolfsberg</placeName>
                <idno>vll.19151130_325.12302</idno>
             </place>
             <place>
-               <placeName>YöRcrmarkt</placeName>
+               <placeName>Völkermarkt</placeName>
                <idno>vll.19160523_423.7376</idno>
-            </place>
-            <place>
-               <placeName>Yöl- . kermarkt</placeName>
                <idno>vll.19150814_237.3046</idno>
-            </place>
-            <place>
-               <placeName>Yölkermarltt</placeName>
                <idno>vll.19150826_248.1184</idno>
-            </place>
-            <place>
-               <placeName>Yüiissr- markt</placeName>
                <idno>vll.19150710_208.3256</idno>
             </place>
             <place>
