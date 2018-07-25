@@ -32,94 +32,46 @@
       <body>
          <listPlace>
             <place>
-               <placeName>Auzze</placeName>
+               <placeName xml:lang="sl">Avče</placeName>
+               <placeName xml:lang="it">Auzzo</placeName>
                <idno>vll.19161123_492.11126</idno>
             </place>
             <place>
-               <placeName>Bata</placeName>
+               <placeName xml:lang="sl">Bate</placeName>
                <idno>vll.19170417_555.2736</idno>
-            </place>
-            <place>
-               <placeName>Bate</placeName>
                <idno>vll.19170814_607.5912</idno>
             </place>
             <place>
-               <placeName>Breginj</placeName>
+               <placeName xml:lang="sl">Breginj</placeName>
+               <placeName xml:lang="it">Bergogna</placeName>
                <idno>vll.19180718_686.13550</idno>
             </place>
             <place>
-               <placeName>Cepowan</placeName>
+               <placeName xml:lang="sl">Čepovan</placeName>
+               <placeName xml:lang="it">Cepowan</placeName>
                <idno>vll.19180105_641.10896</idno>
+               <idno>vll.19180118_643.10658</idno>
+               <idno>vll.19180429_670.13888</idno>
             </place>
             <place>
-               <placeName>Chiopris</placeName>
-               <idno>v11.19180209_651.1864</idno>
-            </place>
-            <place>
-               <placeName>Chiopris-Viscone</placeName>
-               <idno>vll.19180723_687.12156</idno>
-            </place>
-            <place>
-               <placeName>Cormons</placeName>
-               <idno>vll.19160609_430.2600</idno>
-            </place>
-            <place>
-               <placeName>Deskla</placeName>
+               <placeName xml:lang="sl">Deskle</placeName>
+               <placeName xml:lang="it">Descla</placeName>
                <idno>vll.19161014_477.4140</idno>
             </place>
             <place>
-               <placeName>Dornberg</placeName>
+               <placeName xml:lang="sl">Dornberk</placeName>
+               <placeName xml:lang="it">Montespino</placeName>
                <idno>vll.19180610_679.11630</idno>
             </place>
             <place>
-               <placeName>Gargora</placeName>
+               <placeName xml:lang="sl">Grgar</placeName>
+               <placeName xml:lang="it">Gargaro</placeName>
                <idno>v11.19180214_652.4170</idno>
             </place>
             <place>
-               <placeName>Gorz</placeName>
-               <idno>vll.19160919_466.1664</idno>
-            </place>
-            <place>
-               <placeName>Gradisca</placeName>
-               <idno>vll.19160919_466.1534</idno>
-               <idno>vll.19160926_469.12548</idno>
-               <idno>vll.19161017_478.11760</idno>
-               <idno>vll.19180313_659.650</idno>
-               <idno>vll.19180315_660.4960</idno>
-               <idno>vll.19180323_662.5434</idno>
-               <idno>vll.19180330_664.10410</idno>
-               <idno>vll.19180330_664.16200</idno>
-               <idno>vll.19180613_680.4782</idno>
-               <idno>vll.19180801_688.3188</idno>
-               <idno>vll.19180801_688.9334</idno>
-               <idno>vll.19180824_692.2220</idno>
-               <idno>vll.19181002_696.12432</idno>
-               <idno>vll.19181105_700.9824</idno>
-               <idno>vll.19181105_700.10226</idno>
-               <idno>vll.19181219_705.16446</idno>
-            </place>
-            <place>
-               <placeName>Gradiska</placeName>
-               <idno>vll.19160523_423.9674</idno>
-               <idno>vll.19160525_424.7878</idno>
-               <idno>vll.19160807_449.10374</idno>
-               <idno>vll.19171220_637.9384</idno>
-               <idno>vll.19171222_638.5892</idno>
-               <idno>vll.19180105_641.6942</idno>
-               <idno>vll.19180201_648.12560</idno>
-               <idno>vll.19180305_656.11620</idno>
-               <idno>vll.19180527_675.12826</idno>
-               <idno>vll.19180814_691.10002</idno>
-               <idno>vll.19181111_701.6722</idno>
-               <idno>vll.19181111_701.13168</idno>
-               <idno>vll.19181219_705.16504</idno>
-            </place>
-            <place>
-               <placeName>Gradiska-Ramans</placeName>
-               <idno>vll.19160720_443.1488</idno>
-            </place>
-            <place>
-               <placeName>Görz</placeName>
+               <placeName xml:lang="sl">Gorica</placeName>
+               <placeName xml:lang="it">Gorizia</placeName>
+               <placeName xml:lang="de">Görz</placeName>
                <idno>vll.19160523_423.12874</idno>
                <idno>vll.19160525_424.5320</idno>
                <idno>vll.19160715_441.8776</idno>
@@ -311,180 +263,63 @@
                <idno>vll.19190103_707.13066</idno>
                <idno>vll.19190114_709.15442</idno>
                <idno>vll.19190114_709.18162</idno>
-            </place>
-            <place>
-               <placeName>Görz.</placeName>
                <idno>vll.19181126_702.9924</idno>
-            </place>
-            <place>
-               <placeName>Görz. Dol. Otlica</placeName>
                <idno>vll.19180204_649.15078</idno>
-            </place>
+               <idno>vll.19160919_466.1664</idno>
+            </place>            
             <place>
-               <placeName>Haidenschaft</placeName>
+               <placeName xml:lang="sl">Ajdovščina</placeName>
+               <placeName xml:lang="it">Aidussina</placeName>
+               <placeName xml:lang="de">Haidenschaft</placeName>
                <idno>vll.19181224_706.4882</idno>
-            </place>
-            <place>
-               <placeName>Haiderschaft</placeName>
                <idno>vll.19181011_698.13422</idno>
-            </place>
-            <place>
-               <placeName>Heidenschaft</placeName>
                <idno>vll.19160624_434.3862</idno>
             </place>
             <place>
-               <placeName>Heiligenkreis</placeName>
+               <placeName xml:lang="sl">Sveti Križ</placeName>
+               <placeName xml:lang="it">S. Croce</placeName>
+               <placeName xml:lang="de">Heiligenkreuz</placeName>
                <idno>vll.19180105_641.4280</idno>
             </place>
             <place>
-               <placeName>Idria</placeName>
+               <placeName xml:lang="sl">Idrija</placeName>
                <idno>vll.19180323_662.8812</idno>
             </place>
             <place>
-               <placeName>Kojsko</placeName>
+               <placeName xml:lang="sl">Kojsko</placeName>
+               <placeName xml:lang="it">Quisca</placeName>
                <idno>vll.19180610_679.7142</idno>
             </place>
             <place>
-               <placeName>Komen</placeName>
+               <placeName xml:lang="sl">Komen</placeName>
                <idno>vll.19160919_466.9138</idno>
             </place>
             <place>
-               <placeName>Lesana</placeName>
-               <idno>vll.19180411_666.15682</idno>
-               <idno>vll.19180805_689.2278</idno>
-               <idno>vll.19180830_693.6706</idno>
-            </place>
-            <place>
-               <placeName>Lokovec</placeName>
+               <placeName xml:lang="sl">Lokovec</placeName>
                <idno>vll.19180613_680.14534</idno>
             </place>
             <place>
-               <placeName>Lonzano</placeName>
-               <idno>vll.19180204_649.2590</idno>
-            </place>
-            <place>
-               <placeName>Lucinico</placeName>
-               <idno>vll.19181224_706.4934</idno>
-            </place>
-            <place>
-               <placeName>Mofalcone</placeName>
-               <idno>vll.19180718_686.16146</idno>
-            </place>
-            <place>
-               <placeName>Monfalcone</placeName>
-               <idno>vll.19160603_427.956</idno>
-               <idno>vll.19160720_443.1384</idno>
-               <idno>vll.19160807_449.3816</idno>
-               <idno>vll.19160807_449.7654</idno>
-               <idno>vll.19160818_453.1108</idno>
-               <idno>vll.19160926_469.7334</idno>
-               <idno>vll.19160926_469.10716</idno>
-               <idno>vll.19161005_473.4078</idno>
-               <idno>vll.19161005_473.8464</idno>
-               <idno>vll.19161005_473.11840</idno>
-               <idno>vll.19161007_474.3194</idno>
-               <idno>vll.19161014_477.1470</idno>
-               <idno>vll.19161014_477.11528</idno>
-               <idno>vll.19161024_481.8596</idno>
-               <idno>vll.19161128_494.2000</idno>
-               <idno>vll.19161128_494.6354</idno>
-               <idno>vll.19170331_546.11022</idno>
-               <idno>vll.19170424_559.2028</idno>
-               <idno>vll.19170501_564.2514</idno>
-               <idno>vll.19170814_607.2370</idno>
-               <idno>vll.19171108_626.10520</idno>
-               <idno>vll.19171210_634.1090</idno>
-               <idno>vll.19171210_634.5646</idno>
-               <idno>vll.19171220_637.2484</idno>
-               <idno>vll.19180105_641.10756</idno>
-               <idno>vll.19180123_644.5558</idno>
-               <idno>vll.19180201_648.3102</idno>
-               <idno>vll.19180201_648.13696</idno>
-               <idno>v11.19180209_651.13384</idno>
-               <idno>v11.19180214_652.2782</idno>
-               <idno>v11.19180223_654.1356</idno>
-               <idno>v11.19180223_654.12832</idno>
-               <idno>vll.19180305_656.9728</idno>
-               <idno>vll.19180307_657.12434</idno>
-               <idno>vll.19180309_658.2036</idno>
-               <idno>vll.19180323_662.3464</idno>
-               <idno>vll.19180323_662.14322</idno>
-               <idno>vll.19180330_664.12240</idno>
-               <idno>vll.19180403_665.2524</idno>
-               <idno>vll.19180424_669.19646</idno>
-               <idno>vll.19180424_669.20456</idno>
-               <idno>vll.19180429_670.20562</idno>
-               <idno>vll.19180511_672.3004</idno>
-               <idno>vll.19180514_673.8284</idno>
-               <idno>vll.19180514_673.10856</idno>
-               <idno>vll.19180527_675.4428</idno>
-               <idno>vll.19180531_676.2252</idno>
-               <idno>vll.19180603_677.2918</idno>
-               <idno>vll.19180603_677.5292</idno>
-               <idno>vll.19180605_678.16406</idno>
-               <idno>vll.19180613_680.4006</idno>
-               <idno>vll.19180620_681.2302</idno>
-               <idno>vll.19180620_681.4452</idno>
-               <idno>vll.19180713_685.3104</idno>
-               <idno>vll.19180718_686.3512</idno>
-               <idno>vll.19180718_686.8700</idno>
-               <idno>vll.19180718_686.12522</idno>
-               <idno>vll.19180801_688.4414</idno>
-               <idno>vll.19180814_691.14406</idno>
-               <idno>vll.19180824_692.4444</idno>
-               <idno>vll.19180824_692.14686</idno>
-               <idno>vll.19181002_696.3930</idno>
-               <idno>vll.19181002_696.10206</idno>
-               <idno>vll.19181005_697.2558</idno>
-               <idno>vll.19181011_698.4628</idno>
-               <idno>vll.19181011_698.11656</idno>
-               <idno>vll.19181011_698.12188</idno>
-               <idno>vll.19181111_701.1712</idno>
-               <idno>vll.19181111_701.2836</idno>
-               <idno>vll.19181111_701.8928</idno>
-            </place>
-            <place>
-               <placeName>Moss</placeName>
-               <idno>vll.19171108_626.3714</idno>
-            </place>
-            <place>
-               <placeName>Opatjeselo</placeName>
+               <placeName xml:lang="sl">Opatjeselo</placeName>
+               <placeName xml:lang="it">Opacchiasella</placeName>
                <idno>vll.19180603_677.9032</idno>
             </place>
             <place>
-               <placeName>Ozeljan</placeName>
+               <placeName xml:lang="sl">Ozeljan</placeName>
+               <placeName xml:lang="it">Ossegliano San Michele</placeName>
                <idno>vll.19170814_607.8134</idno>
             </place>
             <place>
-               <placeName>Perteole</placeName>
-               <idno>vll.19180713_685.12052</idno>
-            </place>
-            <place>
-               <placeName>Podgora</placeName>
+               <placeName xml:lang="sl">Podgora</placeName>
                <idno>vll.19180625_682.7830</idno>
             </place>
             <place>
-               <placeName>Ponikve</placeName>
+               <placeName xml:lang="sl">Ponikve</placeName>
                <idno>vll.19180330_664.9094</idno>
-            </place>
-            <place>
-               <placeName>Ponikwe</placeName>
                <idno>v11.19180221_653.5176</idno>
             </place>
-            <place>
-               <placeName>Romans</placeName>
-               <idno>vll.19170814_607.1680</idno>
-            </place>
-            <place>
-               <placeName>Ronchi</placeName>
-               <idno>vll.19180429_670.2934</idno>
-            </place>
-            <place>
-               <placeName>San Loenzo di Mossa</placeName>
-               <idno>vll.19180620_681.4476</idno>
-            </place>
-            <place>
-               <placeName>Sesana</placeName>
+           <place>
+               <placeName xml:lang="sl">Sežana</placeName>
+               <placeName xml:lang="it">Sesana</placeName>
                <idno>vll.19151224_342.8436</idno>
                <idno>vll.19160701_436.10736</idno>
                <idno>vll.19160715_441.8596</idno>
@@ -561,34 +396,32 @@
                <idno>vll.19190103_707.10430</idno>
                <idno>vll.19190114_709.10114</idno>
                <idno>vll.19190129_708.1320</idno>
-            </place>
-            <place>
-               <placeName>Sezana</placeName>
                <idno>vll.19171121_630.12670</idno>
                <idno>vll.19180313_659.7158</idno>
-            </place>
+               <idno>vll.19180411_666.15682</idno>
+               <idno>vll.19180805_689.2278</idno>
+               <idno>vll.19180830_693.6706</idno>
+            </place>            
             <place>
-               <placeName>Solkan</placeName>
+               <placeName xml:lang="sl">Solkan</placeName>
+               <placeName xml:lang="it">Salcano</placeName>
                <idno>vll.19180328_663.8518</idno>
             </place>
             <place>
-               <placeName>Sovodnje</placeName>
-               <idno>vll.19180330_664.10320</idno>
-            </place>
-            <place>
-               <placeName>St. Marein</placeName>
+               <placeName xml:lang="sl">Šmarje</placeName>
+               <placeName xml:lang="de">St. Marein</placeName>
                <idno>vll.19180812_690.11282</idno>
             </place>
             <place>
-               <placeName>St. Michael</placeName>
+               <placeName xml:lang="sl">Šmihel</placeName>
+               <placeName xml:lang="it">St. Michael</placeName>
                <idno>vll.19181204_703.8894</idno>
             </place>
             <place>
-               <placeName>St. Tolmein</placeName>
+               <placeName xml:lang="sl">Tolmin</placeName>
+               <placeName xml:lang="it">Tolmino</placeName>
+               <placeName xml:lang="de">Tolmein</placeName>
                <idno>vll.19181005_697.9394</idno>
-            </place>
-            <place>
-               <placeName>Tolmein</placeName>
                <idno>vll.19160523_423.10374</idno>
                <idno>vll.19160829_457.6708</idno>
                <idno>vll.19160907_461.7546</idno>
@@ -681,32 +514,21 @@
                <idno>vll.19190114_709.12802</idno>
                <idno>vll.19190129_708.1318</idno>
                <idno>vll.19190129_708.15872</idno>
-            </place>
-            <place>
-               <placeName>Tolmin</placeName>
                <idno>vll.19180315_660.10588</idno>
             </place>
             <place>
-               <placeName>Tomaj</placeName>
+               <placeName xml:lang="sl">Tomaj</placeName>
                <idno>vll.19180610_679.12318</idno>
             </place>
             <place>
-               <placeName>Tribuša</placeName>
+               <placeName xml:lang="sl">Tribuša</placeName>
                <idno>vll.19180429_670.8090</idno>
             </place>
             <place>
-               <placeName>Triest</placeName>
-               <idno>v11.19171204_633.12220</idno>
-            </place>
-            <place>
-               <placeName>Vogrsko</placeName>
+               <placeName xml:lang="sl">Vogrsko</placeName>
+               <placeName xml:lang="it">Voghersca</placeName>
                <idno>vll.19171130_632.2406</idno>
-            </place>
-            <place>
-               <placeName>Čepovan</placeName>
-               <idno>vll.19180118_643.10658</idno>
-               <idno>vll.19180429_670.13888</idno>
-            </place>
+            </place>            
          </listPlace>
       </body>
    </text>
