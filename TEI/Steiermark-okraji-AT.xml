@@ -122,17 +122,8 @@
                <idno>vll.19150826_248.8874</idno>
                <idno>vll.19150830_252.5904</idno>
                <idno>vll.19160108_352.3290</idno>
-            </place>
-            <place>
-               <placeName>Ausseo</placeName>
                <idno>vll.19150805_229.8204</idno>
-            </place>
-            <place>
-               <placeName>Ausse«</placeName>
                <idno>vll.19150925_274.1042</idno>
-            </place>
-            <place>
-               <placeName>Aussäe</placeName>
                <idno>vll.19150802_226.3486</idno>
             </place>
             <place>
@@ -2498,6 +2489,10 @@
                <placeName>Dmfccb Land»hr.rg</placeName>
                <idno>vll.19151022_298.804</idno>
             </place>
+            <place>
+               <placeName>Drauchen</placeName>
+               <idno>vll.19160605_428.3232</idno>
+            </place>            
             <place>
                <placeName>Donawitz</placeName>
                <idno>vll.19150907_260.1278</idno>
@@ -9379,6 +9374,23 @@
             <place>
                <placeName>Harrberg</placeName>
                <idno>vll.19150331_153.9346</idno>
+            </place>
+            <place>
+               <placeName>Haltberg</placeName>
+               <idno>vll.19160804_448.6992</idno>
+            </place>            
+            <place>
+               <placeName>Hamberg</placeName>
+               <idno>vll.19150625_200.8964</idno>
+               <idno>vll.19160108_352.2312</idno>
+            </place>
+            <place>
+               <placeName>Har.berg</placeName>
+               <idno>vll.19180723_687.9818</idno>
+            </place>
+            <place>
+               <placeName>Harberg</placeName>
+               <idno>vll.19180527_675.9148</idno>
             </place>
             <place>
                <placeName>Harsberg</placeName>
@@ -17746,10 +17758,6 @@
                <idno>vll.19151016_294.7416</idno>
             </place>
             <place>
-               <placeName>Umgebung Cilli</placeName>
-               <idno>vll.19160531_426.2404</idno>
-            </place>
-            <place>
                <placeName>Umgebung Graz</placeName>
                <idno>vll.19141117_60.6652</idno>
                <idno>vll.19150312_140.3000</idno>
@@ -20270,7 +20278,16 @@
                <placeName>Übelbach</placeName>
                <idno>vll.19150625_200.7488</idno>
                <idno>vll.19160108_352.3128</idno>
-            </place>            
+            </place>       
+            <place>
+               <placeName>Widischfriedhof</placeName>
+               <idno>vll.19150805_229.2306</idno>
+            </place>      
+            <place>
+               <placeName>St. Peter bei Königsberg</placeName>
+               <idno>v11.19180214_652.10024</idno>
+            </place>
+            
          </listPlace>
       </body>
   </text>

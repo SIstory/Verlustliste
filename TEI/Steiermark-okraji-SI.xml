@@ -32,87 +32,50 @@
       <body>
          <listPlace>            
             <place>
-               <placeName>Adelberg</placeName>
+               <placeName xml:lang="sl">Postojna</placeName>
+               <placeName xml:lang="de">Adelsberg</placeName>
                <idno>vll.19160701_436.10954</idno>
-            </place>
-            <place>
-               <placeName>Adelsberg</placeName>
                <idno>vll.19150825_247.9336</idno>
                <idno>vll.19150916_267.7968</idno>
                <idno>vll.19150916_267.8658</idno>
                <idno>vll.19161005_473.5288</idno>
-            </place>            
+            </place>                        
             <place>
-               <placeName>Alarburg-Umgehung</placeName>
-               <idno>vll.19160512_420.5174</idno>
-            </place>
-            <place>
-               <placeName>Allerheiligen</placeName>
+               <placeName xml:lang="sl">Vsi Sveti</placeName>
+               <placeName xml:lang="de">Allerheiligen</placeName>
                <idno>vll.19171222_638.10514</idno>
             </place>
             <place>
-               <placeName>Alt-Neudorf</placeName>
+               <placeName xml:lang="sl">Stara Nova Ves</placeName>
+               <placeName xml:lang="de">Alt-Neudorf</placeName>
                <idno>vll.19151109_310.3490</idno>
-            </place>
-            <place>
-               <placeName>Altneudorf</placeName>
                <idno>vll.19180330_664.16098</idno>
             </place>
             <place>
-               <placeName>Augenbach</placeName>
+               <placeName xml:lang="sl">Okoško</placeName>
+               <placeName xml:lang="de">Augenbach</placeName>
                <idno>vll.19150806_230.4542</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Bann</placeName>
-               <idno>vll.19170731_604.12194</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160110_353.7942</idno>
-            </place>
-            <place>
-               <placeName>Bergenthal</placeName>
+               <placeName xml:lang="sl">Vrhov Dol</placeName>
+               <placeName xml:lang="de">Bergenthal</placeName>
                <idno>v11.19180221_653.3528</idno>
             </place>
             <place>
-               <placeName>Blanca</placeName>
+               <placeName xml:lang="sl">Blanca</placeName>
+               <placeName xml:lang="de">Blanza</placeName>
                <idno>vll.19171222_638.13946</idno>
-            </place>
-           <place>
-               <placeName>Pettau</placeName>
-               <idno>vll.19150826_248.10276</idno>
-            </place>
+            </place>           
             <place>
                <placeName>Bratlice</placeName>
                <idno>vll.19150816_239.7134</idno>
-            </place>
+            </place>                        
             <place>
-               <placeName>Brežice</placeName>
-               <idno>vll.19150902_255.3782</idno>
-            </place>
-            <place>
-               <placeName>Brežice</placeName>
-               <idno>vll.19150902_255.5700</idno>
-            </place>
-            <place>
-               <placeName>Brežice</placeName>
-               <idno>vll.19161109_488.11592</idno>
-            </place>
-            <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19150723_218.7672</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung</placeName>
+               <placeName xml:lang="sl">Celje</placeName>
+               <placeName xml:lang="de">Cilli</placeName>
                <idno>vll.19141219_82_E6.2220</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150830_252.5980</idno>
                <idno>vll.19160401_402.11438</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19141117_60.1208</idno>
                <idno>vll.19150630_202.3162</idno>
                <idno>vll.19150806_230.5318</idno>
@@ -131,18 +94,9 @@
                <idno>vll.19180718_686.18842</idno>
                <idno>vll.19181111_701.12190</idno>
                <idno>vll.19181204_703.13118</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung</placeName>
                <idno>vll.19141121_66_67.6920</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150717_213.3514</idno>
                <idno>vll.19160711_439.5280</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19141117_60.7230</idno>
                <idno>vll.19150130_117.4058</idno>
                <idno>vll.19150506_173.2070</idno>
@@ -180,27 +134,12 @@
                <idno>vll.19181105_700.4298</idno>
                <idno>vll.19181204_703.14458</idno>
                <idno>vll.19181219_705.3810</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung</placeName>
                <idno>vll.19150504_171.7522</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150917_268.7996</idno>
                <idno>vll.19151130_325.2072</idno>
                <idno>vll.19160824_455.4918</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150920_270.7798</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19181019_699.2000</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19141115_58_59.9444</idno>
                <idno>vll.19141117_60.894</idno>
                <idno>vll.19141117_60.1408</idno>
@@ -3536,57 +3475,21 @@
                <idno>vll.19190129_708.7452</idno>
                <idno>vll.19190129_708.17542</idno>
                <idno>vll.19190129_708.20386</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150326_149.634</idno>
                <idno>vll.19180628_683.2554</idno>
-            </place>
-            <place>
-               <placeName>Cilli Leutsch</placeName>
                <idno>vll.19150731_225.6686</idno>
-            </place>
-            <place>
-               <placeName>Cilli Oberburg</placeName>
                <idno>vll.19160605_428.3746</idno>
-            </place>
-            <place>
-               <placeName>Cilli Ostrozno</placeName>
                <idno>vll.19151215_336.9548</idno>
-            </place>
-            <place>
-               <placeName>Cilli Rietz</placeName>
                <idno>vll.19181111_701.2048</idno>
-            </place>
-            <place>
-               <placeName>Cilli St. Peter</placeName>
                <idno>vll.19160824_455.3744</idno>
-            </place>
-            <place>
-               <placeName>Cilli Stadt</placeName>
                <idno>vll.19150504_171.7542</idno>
                <idno>vll.19150506_173.7676</idno>
                <idno>vll.19150519_181.5130</idno>
                <idno>vll.19150630_202.966</idno>
-            </place>
-            <place>
-               <placeName>Cilli U.</placeName>
                <idno>vll.19151122_320.8378</idno>
-            </place>
-            <place>
-               <placeName>Cilli U.-Losnitz-Sachsenfeld</placeName>
                <idno>vll.19160711_439.13544</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung</placeName>
                <idno>vll.19151109_310.8124</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umbgebung</placeName>
                <idno>vll.19150519_181.5048</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umg.</placeName>
                <idno>vll.19150225_133.7478</idno>
                <idno>vll.19150319_144.4430</idno>
                <idno>vll.19150322_146.8640</idno>
@@ -3641,27 +3544,12 @@
                <idno>vll.19160824_455.8802</idno>
                <idno>vll.19160824_455.8852</idno>
                <idno>vll.19161005_473.1404</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umg.</placeName>
                <idno>vll.19160512_420.4584</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umg. St. Marein</placeName>
                <idno>vll.19151130_325.9974</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgeb.</placeName>
                <idno>vll.19150104_92_93.16122</idno>
                <idno>vll.19150506_173.5844</idno>
                <idno>vll.19160330_401.7834</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung</placeName>
                <idno>vll.19151105_307.4536</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung</placeName>
                <idno>vll.19141117_60.1624</idno>
                <idno>vll.19141117_60.4632</idno>
                <idno>vll.19141117_60.5170</idno>
@@ -4005,33 +3893,12 @@
                <idno>vll.19161101_485.9744</idno>
                <idno>vll.19170424_559.5242</idno>
                <idno>vll.19190114_709.12030</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgebung. St. Hemma</placeName>
                <idno>vll.19160414_408.4990</idno>
-            </place>
-            <place>
-               <placeName>Cilli Umgeburg</placeName>
                <idno>vll.19161101_485.10824</idno>
-            </place>
-            <place>
-               <placeName>Cilli Ungebung</placeName>
                <idno>vll.19160722_444.7368</idno>
-            </place>
-            <place>
-               <placeName>Cilli Unig.</placeName>
                <idno>vll.19160401_402.6794</idno>
-            </place>
-            <place>
-               <placeName>Cilli statt Pettau</placeName>
                <idno>vll.19180305_656.14572</idno>
-            </place>
-            <place>
-               <placeName>Cilli Ümg.</placeName>
                <idno>vll.19160414_408.6360</idno>
-            </place>
-            <place>
-               <placeName>Cilli-Umgebung</placeName>
                <idno>vll.19141219_82_E6.5278</idno>
                <idno>vll.19150130_117.7380</idno>
                <idno>vll.19150206_121.8208</idno>
@@ -4044,88 +3911,54 @@
                <idno>vll.19151012_290.12224</idno>
                <idno>vll.19160512_420.12606</idno>
                <idno>vll.19160605_428.11228</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19160418_410.6650</idno>
-            </place>
-            <place>
-               <placeName>Cilli. Ponigl</placeName>
                <idno>vll.19181219_705.17902</idno>
-            </place>
-            <place>
-               <placeName>Cilli. St. Emma</placeName>
                <idno>vll.19160711_439.15854</idno>
-            </place>
-            <place>
-               <placeName>Cilli. St. Georg</placeName>
                <idno>vll.19160401_402.6870</idno>
-            </place>
-            <place>
-               <placeName>Cilli. St. Georgen</placeName>
                <idno>vll.19180527_675.7546</idno>
-            </place>
-            <place>
-               <placeName>Cilli. St. Peter</placeName>
                <idno>vll.19160401_402.8542</idno>
-            </place>
-            <place>
-               <placeName>Cilli. Trifail</placeName>
                <idno>vll.19181126_702.17078</idno>
-            </place>
-            <place>
-               <placeName>Cilli; kriegsgef.</placeName>
                <idno>vll.19151221_339.10732</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19160309_389.1594</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19151007_286.8446</idno>
                <idno>vll.19160108_352.1346</idno>
                <idno>vll.19160624_434.8900</idno>
                <idno>vll.19180307_657.3524</idno>
                <idno>vll.19180514_673.4540</idno>
                <idno>vll.19180928_695.5614</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19171210_634.2532</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150707_206.11686</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19151112_313.7902</idno>
                <idno>vll.19160118_360.10626</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
                <idno>vll.19150710_208.958</idno>
                <idno>vll.19160529_425.9032</idno>
                <idno>vll.19161005_473.10346</idno>
                <idno>vll.19171130_632.10400</idno>
                <idno>vll.19180309_658.8770</idno>
                <idno>vll.19180315_660.10580</idno>
-            </place>
+               <idno>vll.19160108_352.7594</idno>
+               <idno>vll.19150805_229.9600</idno>
+               <idno>vll.19150816_239.1870</idno>
+               <idno>vll.19150816_239.8254</idno>
+               <idno>vll.19150115_103.980</idno>
+               <idno>vll.19160531_426.2404</idno>
+            </place>            
             <place>
-               <placeName>Dedenitz</placeName>
+               <placeName xml:lang="sl">Dedonci</placeName>
+               <placeName xml:lang="de">Dedenitz</placeName>
                <idno>vll.19150820_243.2502</idno>
             </place>
             <place>
-               <placeName>Dobje</placeName>
+               <placeName xml:lang="sl">Dobje</placeName>
                <idno>vll.19150708_207.7052</idno>
             </place>
             <place>
-               <placeName>Dolena</placeName>
+               <placeName xml:lang="sl">Dolena</placeName>
                <idno>vll.19180610_679.10228</idno>
             </place>
            <place>
-               <placeName>Drachenburg</placeName>
+               <placeName xml:lang="sl">Kozje</placeName>
+               <placeName xml:lang="de">Drachenburg</placeName>
                <idno>vll.19150816_239.7986</idno>
                <idno>vll.19150729_223.7872</idno>
                <idno>vll.19150805_229.5100</idno>
@@ -4136,38 +3969,33 @@
                <idno>vll.19151208_331.4478</idno>
                <idno>vll.19151208_331.4666</idno>
                <idno>vll.19150805_229.4486</idno>
-            </place>
-            <place>
-               <placeName>Drauchen</placeName>
-               <idno>vll.19160605_428.3232</idno>
-            </place>
-            <place>
-               <placeName>Dreifaltigkeit</placeName>
-               <idno>vll.19151008_287.2104</idno>
-            </place>
-            <place>
-               <placeName>Drachenburg</placeName>
                <idno>vll.19150816_239.3874</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160108_352.1946</idno>
-            </place>
+               <placeName xml:lang="sl">Sveta Trojica</placeName>
+               <placeName xml:lang="de">Dreifaltigkeit</placeName>
+               <idno>vll.19151008_287.2104</idno>
+               <idno>vll.19171220_637.5614</idno>
+            </place>                        
             <place>
-               <placeName>Eichberg</placeName>
+               <placeName xml:lang="sl">Hrašenski vrh</placeName>
+               <placeName xml:lang="de">Eichberg</placeName>
                <idno>vll.19151002_281.5618</idno>
             </place>
             <place>
-               <placeName>Erlachstein</placeName>
+               <placeName xml:lang="sl">Jelše</placeName>
+               <placeName xml:lang="de">Erlachstein</placeName>
                <idno>vll.19141121_66_67.646</idno>
                <idno>vll.19150805_229.8312</idno>
             </place>
             <place>
-               <placeName>Feinstenberg</placeName>
+               <placeName xml:lang="sl">Tolsti vrh</placeName>
+               <placeName xml:lang="de">Feinstenberg</placeName>
                <idno>vll.19150103_91.5420</idno>
             </place>
             <place>
-               <placeName>Franz</placeName>
+               <placeName xml:lang="sl">Vransko</placeName>
+               <placeName xml:lang="de">Franz</placeName>
                <idno>vll.19150708_207.9226</idno>
                <idno>vll.19150708_207.9950</idno>
                <idno>vll.19150816_239.1780</idno>
@@ -4178,11 +4006,13 @@
                <idno>vll.19151028_303.7070</idno>
             </place>
             <place>
-               <placeName>Fraßlau</placeName>
+               <placeName xml:lang="sl">Braslovče</placeName>
+               <placeName xml:lang="de">Fraßlau</placeName>
                <idno>vll.19180628_683.9276</idno>
             </place>
             <place>
-               <placeName>Friedau</placeName>
+               <placeName xml:lang="sl">Ormož</placeName>
+               <placeName xml:lang="de">Friedau</placeName>
                <idno>vll.19150517_179.1768</idno>
                <idno>vll.19150722_217.9392</idno>
                <idno>vll.19171222_638.13878</idno>
@@ -4199,19 +4029,18 @@
                <idno>vll.19160605_428.14318</idno>
             </place>
             <place>
-               <placeName>Friesach</placeName>
+               <placeName xml:lang="sl">Brezovo</placeName>
+               <placeName xml:lang="de">Friesach</placeName>
                <idno>vll.19151107_309.5542</idno>
             </place>
             <place>
-               <placeName>Gainbitz</placeName>
-               <idno>vll.19181224_706.4842</idno>
-            </place>
-            <place>
-               <placeName>Gams</placeName>
+               <placeName xml:lang="sl">Kamnica</placeName>
+               <placeName xml:lang="de">Gams</placeName>
                <idno>vll.19160826_456.9184</idno>
             </place>
             <place>
-               <placeName>Gersdorf</placeName>
+               <placeName xml:lang="sl">Gerstorf</placeName>
+               <placeName xml:lang="de">Gersdorf</placeName>
                <idno>vll.19180330_664.16514</idno>
             </place>
             <place>
@@ -4219,7 +4048,8 @@
                <idno>vll.19160401_402.2094</idno>
             </place>
             <place>
-               <placeName>Gonobitz</placeName>
+               <placeName xml:lang="sl">Konjice</placeName>
+               <placeName xml:lang="de">Gonobitz</placeName>
                <idno>vll.19160704_437.6006</idno>
                <idno>vll.19161109_488.7152</idno>
                <idno>vll.19181011_698.5736</idno>
@@ -5062,77 +4892,64 @@
                <idno>vll.19190103_707.3286</idno>
                <idno>vll.19190114_709.7438</idno>
                <idno>vll.19190129_708.8302</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz Umgebung</placeName>
                <idno>vll.19150825_247.6090</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz. Dolic</placeName>
                <idno>vll.19160706_438.4634</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz. Weitenstein</placeName>
                <idno>vll.19160722_444.5240</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz; kriegsgef.</placeName>
                <idno>vll.19151015_293.6420</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz</placeName>
                <idno>vll.19160722_444.11618</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz</placeName>
                <idno>vll.19150708_207.9700</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz</placeName>
                <idno>vll.19181111_701.4802</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz</placeName>
                <idno>vll.19151007_286.9016</idno>
-            </place>
-            <place>
-               <placeName>Gonobitz</placeName>
                <idno>vll.19180305_656.10608</idno>
-            </place>
+               <idno>vll.19150916_267.6686</idno>
+               <idno>vll.19150928_277.9030</idno>
+               <idno>vll.19181224_706.4842</idno>
+               <idno>v11.19180221_653.3200</idno>
+               <idno>vll.19150708_207.6786</idno>
+            </place>            
             <place>
-               <placeName>Gornigrad</placeName>
+               <placeName xml:lang="sl">Gornji Grad</placeName>
+               <placeName xml:lang="de">Oberburg</placeName>
                <idno>vll.19150708_207.2842</idno>
+               <idno>vll.19150825_247.1552</idno>
+               <idno>vll.19150818_241.4822</idno>
+               <idno>vll.19150816_239.9644</idno>
+               <idno>vll.19150708_207.7012</idno>
+               <idno>vll.19150816_239.8556</idno>
+               <idno>vll.19160919_466.1782</idno>
+               <idno>vll.19150805_229.8356</idno>
+               <idno>vll.19150708_207.7222</idno>
             </place>
             <place>
-               <placeName>Gottschee</placeName>
+               <placeName xml:lang="sl">Kočevje</placeName>
+               <placeName xml:lang="de">Gottschee</placeName>
                <idno>vll.19180723_687.14268</idno>
             </place>
             <place>
-               <placeName>Gradisca</placeName>
+               <placeName xml:lang="sl">Gradiška</placeName>
+               <placeName xml:lang="it">Gradisca</placeName>
                <idno>vll.19160824_455.13542</idno>
             </place>
            <place>
-               <placeName>Groß-Pireschitz</placeName>
+               <placeName xml:lang="sl">Velika Pirešica</placeName>
+               <placeName xml:lang="it">Groß-Pireschitz</placeName>
                <idno>vll.19160711_439.18030</idno>
-            </place>
-            <place>
-               <placeName>Groß-Stein</placeName>
-               <idno>vll.19161128_494.3668</idno>
-            </place>
-            <place>
-               <placeName>Großpireschitz</placeName>
                <idno>vll.19160711_439.12512</idno>
             </place>
             <place>
-               <placeName>Grušovje</placeName>
+               <placeName xml:lang="sl">Veliki Kamen</placeName>
+               <placeName xml:lang="de">Groß-Stein</placeName>
+               <idno>vll.19161128_494.3668</idno>
+            </place>
+            <place>
+               <placeName xml:lang="sl">Grušovje</placeName>
+               <placeName xml:lang="de">Gruschoje</placeName>
                <idno>vll.19180305_656.11264</idno>
             </place>
             <place>
-               <placeName>Gulfeld</placeName>
+               <placeName xml:lang="sl">Krško</placeName>
+               <placeName xml:lang="de">Gurkfeld</placeName>
                <idno>vll.19150717_213.5256</idno>
-            </place>
-            <place>
-               <placeName>Gurkfeld</placeName>
                <idno>vll.19150313_141.3378</idno>
                <idno>vll.19150708_207.9910</idno>
                <idno>vll.19151008_287.2298</idno>
@@ -5143,177 +4960,98 @@
                <idno>vll.19180531_676.2520</idno>
             </place>
             <place>
-               <placeName>Görz</placeName>
+               <placeName xml:lang="sl">Gorica</placeName>
+               <placeName xml:lang="de">Görz</placeName>
                <idno>vll.19151112_313.9852</idno>
                <idno>vll.19170423_558.6988</idno>
                <idno>vll.19170423_558.9140</idno>
                <idno>vll.19170423_558.12194</idno>
             </place>
             <place>
-               <placeName>Cilli</placeName>
-               <idno>vll.19160108_352.7594</idno>
-            </place>
-            <place>
-               <placeName>H.Dreifaltigkeit</placeName>
-               <idno>vll.19171220_637.5614</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19150517_179.7960</idno>
-            </place>
-            <place>
-               <placeName>Haltberg</placeName>
-               <idno>vll.19160804_448.6992</idno>
-            </place>
-            <place>
-               <placeName>Hamberg</placeName>
-               <idno>vll.19150625_200.8964</idno>
-               <idno>vll.19160108_352.2312</idno>
-            </place>
-            <place>
-               <placeName>Har.berg</placeName>
-               <idno>vll.19180723_687.9818</idno>
-            </place>
-            <place>
-               <placeName>Harberg</placeName>
-               <idno>vll.19180527_675.9148</idno>
-            </place>
-            <place>
-               <placeName>Marburg</placeName>
-               <idno>vll.19151109_310.1530</idno>
-               <idno>vll.19151109_310.2460</idno>
-               <idno>vll.19160118_360.9578</idno>
-               <idno>vll.19160824_455.7816</idno>
-               <idno>vll.19161101_485.3560</idno>
-            </place>
-           <place>
-               <placeName>Heiligenkreuz</placeName>
+               <placeName xml:lang="sl">Sveti Križ</placeName>
+               <placeName xml:lang="de">Heiligenkreuz</placeName>
                <idno>vll.19150729_223.11698</idno>
             </place>
             <place>
-               <placeName>Herzogberg</placeName>
+               <placeName xml:lang="sl">Hercegovščak</placeName>
+               <placeName xml:lang="de">Herzogberg</placeName>
                <idno>vll.19150213_125.9140</idno>
             </place>
             <place>
-               <placeName>Plipitz</placeName>
+               <placeName xml:lang="sl">Plitvica</placeName>
+               <placeName xml:lang="de">Plipitz</placeName>
                <idno>vll.19151030_304.1456</idno>
             </place>
             <place>
-               <placeName>Hohenmauthen</placeName>
+               <placeName xml:lang="sl">Muta</placeName>
+               <placeName xml:lang="de">Hohenmauthen</placeName>
                <idno>vll.19181219_705.12978</idno>
             </place>
             <place>
-               <placeName>Hudinje</placeName>
+               <placeName xml:lang="sl">Hudinja</placeName>
                <idno>vll.19180307_657.2312</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19150806_230.1812</idno>
-            </place>
-            <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19150723_218.9004</idno>
-            </place>
-            <place>
-               <placeName>Hof-Radkersburg</placeName>
-               <idno>vll.19150822_245.3136</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160621_433.12380</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160108_352.8632</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19151130_325.2456</idno>
-            </place>
-            <place>
-               <placeName>Kaltenbrunn</placeName>
+               <placeName xml:lang="sl">Zmrzlek</placeName>
+               <placeName xml:lang="de">Kaltenbrunn</placeName>
                <idno>vll.19150315_142.4074</idno>
                <idno>vll.19150609_191.4850</idno>
                <idno>vll.19150830_252.9398</idno>
             </place>
             <place>
-               <placeName>Kalše</placeName>
+               <placeName xml:lang="sl">Kalše</placeName>
+               <placeName xml:lang="de">Kalsche</placeName>
                <idno>vll.19180411_666.10024</idno>
             </place>
             <place>
-               <placeName>Rann</placeName>
-               <idno>v11.19171204_633.3632</idno>
-            </place>
-            <place>
-               <placeName>Rann</placeName>
-               <idno>vll.19150720_215.10002</idno>
-            </place>
-            <place>
-               <placeName>Kapella</placeName>
-               <idno>vll.19180501_671.10006</idno>
-            </place>
-            <place>
-               <placeName>Kapellen</placeName>
+               <placeName xml:lang="sl">Kapela</placeName>
+               <placeName xml:lang="de">Kapellen</placeName>
+               <idno>vll.19180501_671.10006</idno>               
                <idno>vll.19160718_442.13266</idno>
             </place>
             <place>
-               <placeName>Kappel</placeName>
+               <placeName xml:lang="sl">Kaplja</placeName>
+               <placeName xml:lang="de">Kappel</placeName>
                <idno>v11.19180214_652.2312</idno>
             </place>
             <place>
-               <placeName>Konjice</placeName>
-               <idno>v11.19180221_653.3200</idno>
-            </place>
-          <place>
-               <placeName>Kleierdorf</placeName>
+               <placeName xml:lang="sl">Mala vas</placeName>
+               <placeName xml:lang="de">Kleindorf</placeName>
                <idno>vll.19150830_252.5364</idno>
             </place>
             <place>
-               <placeName>Kleinsonntag</placeName>
+               <placeName xml:lang="sl">Mala Nedelja</placeName>
+               <placeName xml:lang="de">Kleinsonntag</placeName>
                <idno>vll.19150218_129.6494</idno>
             </place>
            <place>
-               <placeName>Kohlberg</placeName>
+               <placeName xml:lang="sl">Ogljenšak</placeName>
+               <placeName xml:lang="de">Kohlberg</placeName>
                <idno>vll.19171127_631.11514</idno>
-            </place>
-            <place>
-               <placeName>Kojince</placeName>
-               <idno>vll.19150708_207.6786</idno>
-            </place>
-            <place>
-               <placeName>Kokarje</placeName>
-               <idno>vll.19171220_637.1760</idno>
-            </place>
-            <place>
-               <placeName>Kolberg</placeName>
                <idno>vll.19150516_178.4276</idno>
             </place>
             <place>
-               <placeName>Konjice</placeName>
-               <idno>vll.19150916_267.6686</idno>
+               <placeName xml:lang="sl">Kokarje</placeName>
+               <idno>vll.19171220_637.1760</idno>
             </place>
             <place>
-               <placeName>Gonobitz</placeName>
-               <idno>vll.19150928_277.9030</idno>
-            </place>
-            <place>
-               <placeName>Kopreinitz</placeName>
+               <placeName xml:lang="sl">Koprivnica</placeName>
+               <placeName xml:lang="de">Kopreinitz</placeName>
                <idno>vll.19150805_229.5192</idno>
             </place>
             <place>
-               <placeName>Kostreinitz</placeName>
+               <placeName xml:lang="sl">Kostrivnica</placeName>
+               <placeName xml:lang="de">Kostreinitz</placeName>
                <idno>vll.19171222_638.5202</idno>
-            </place>
-            <place>
-               <placeName>Kostreinitz</placeName>
                <idno>vll.19161202_496.11698</idno>
             </place>
             <place>
-               <placeName>Kozjak</placeName>
+               <placeName xml:lang="de">Kozjak</placeName>
                <idno>vll.19160414_408.4590</idno>
             </place>
             <place>
-               <placeName>Krainburg</placeName>
+               <placeName xml:lang="sl">Kranj</placeName>
+               <placeName xml:lang="de">Krainburg</placeName>
                <idno>vll.19150830_252.4458</idno>
                <idno>v11.19170418_556.3430</idno>
             </place>
@@ -5322,62 +5060,50 @@
                <idno>vll.19150630_202.6030</idno>
             </place>
             <place>
-               <placeName>Krätzenbach</placeName>
+               <placeName xml:lang="sl">Recenjak</placeName>
+               <placeName xml:lang="de">Krätzenbach</placeName>
                <idno>vll.19180429_670.14410</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19141219_82_E6.1594</idno>
-               <idno>vll.19150826_248.8034</idno>
-               <idno>vll.19171222_638.14356</idno>
-            </place>
-            <place>
-               <placeName>Laak</placeName>
+               <placeName xml:lang="sl">Loka</placeName>
+               <placeName xml:lang="sl">Laak</placeName>
                <idno>vll.19170423_558.5272</idno>
             </place>
             <place>
-               <placeName>Landeck</placeName>
+               <placeName xml:lang="sl">Landek</placeName>
+               <placeName xml:lang="de">Landeck</placeName>
                <idno>vll.19180309_658.2496</idno>
-            </place>
-            <place>
-               <placeName>Landek</placeName>
                <idno>vll.19171005_613.3526</idno>
                <idno>vll.19180515_674.5036</idno>
-            </place>
-            <place>
-               <placeName>Lanegg</placeName>
                <idno>vll.19150113_101.3610</idno>
             </place>
            <place>
-               <placeName>Laufen</placeName>
+               <placeName xml:lang="sl">Ljubno</placeName>
+               <placeName xml:lang="de">Laufen</placeName>
                <idno>vll.19151028_303.8442</idno>
-            </place>
-            <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19151122_320.3698</idno>
-            </place>
+            </place>            
             <place>
                <placeName>Lawandeg</placeName>
                <idno>vll.19150918_269.6734</idno>
             </place>
             <place>
-               <placeName>Laßnitz</placeName>
+               <placeName xml:lang="sl">Lažnica</placeName>
+               <placeName xml:lang="de">Laßnitz</placeName>
                <idno>vll.19180307_657.3684</idno>
             </place>
             <place>
-               <placeName>Lechen</placeName>
+               <placeName xml:lang="sl">Legen</placeName>
+               <placeName xml:lang="de">Lechen</placeName>
                <idno>vll.19171010_615.1012</idno>
-            </place>
-           <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19160401_402.860</idno>
-            </place>
+            </place>           
             <place>
-               <placeName>Leitersberg</placeName>
+               <placeName xml:lang="sl">Košaki</placeName>
+               <placeName xml:lang="de">Leitersberg</placeName>
                <idno>vll.19150826_248.10208</idno>
             </place>
             <place>
-               <placeName>Leitersdorf</placeName>
+               <placeName xml:lang="sl">Lutverci</placeName>
+               <placeName xml:lang="de">Leitersdorf</placeName>
                <idno>vll.19171005_613.10484</idno>
             </place>
             <place>
@@ -5385,12 +5111,14 @@
                <idno>vll.19150206_121.4768</idno>
             </place>
             <place>
-               <placeName>Leonhard</placeName>
+               <placeName xml:lang="sl">Lenart</placeName>
+               <placeName xml:lang="de">Leonhard</placeName>
                <idno>vll.19150708_207.9554</idno>
                <idno>vll.19160208_373.8812</idno>
             </place>
             <place>
-               <placeName>Lichtenwald</placeName>
+               <placeName xml:lang="sl">Sevnica</placeName>
+               <placeName xml:lang="de">Lichtenwald</placeName>
                <idno>vll.19150822_245.2750</idno>
                <idno>vll.19150928_277.1634</idno>
                <idno>vll.19180801_688.16104</idno>
@@ -5400,12 +5128,14 @@
                <idno>vll.19151028_303.8320</idno>
             </place>
             <place>
-               <placeName>Littai</placeName>
+               <placeName xml:lang="sl">Litija</placeName>
+               <placeName xml:lang="de">Littai</placeName>
                <idno>vll.19160108_352.3192</idno>
                <idno>vll.19151007_286.5192</idno>
             </place>
             <place>
-               <placeName>Loitsch</placeName>
+               <placeName xml:lang="sl">Logatec</placeName>
+               <placeName xml:lang="de">Loitsch</placeName>
                <idno>vll.19151010_289.9374</idno>
                <idno>vll.19151010_289.9502</idno>
                <idno>vll.19151010_289.11378</idno>
@@ -5420,7 +5150,8 @@
                <idno>vll.19180328_663.4624</idno>
             </place>
             <place>
-               <placeName>Luttenberg</placeName>
+               <placeName xml:lang="sl">Ljutomer</placeName>
+               <placeName xml:lang="de">Luttenberg</placeName>
                <idno>vll.19151122_320.2046</idno>
                <idno>vll.19150707_206.1306</idno>
                <idno>vll.19180309_658.6696</idno>
@@ -6370,14 +6101,28 @@
                <idno>vll.19150506_173.4634</idno>
                <idno>vll.19151109_310.9044</idno>
                <idno>vll.19151203_328.11832</idno>
-            </place>
-           <place>
-               <placeName>Mahrenberg</placeName>
+               <idno>vll.19160401_402.860</idno>
+               <idno>vll.19151122_320.3698</idno>
+               <idno>vll.19150723_218.7672</idno>
+               <idno>vll.19141219_82_E6.1594</idno>
+               <idno>vll.19150826_248.8034</idno>
+               <idno>vll.19171222_638.14356</idno>
+               <idno>vll.19151203_328.11702</idno>
+               <idno>vll.19150806_230.1812</idno>
+               <idno>vll.19150723_218.9004</idno>
+            </place>            
+            <place>
+               <placeName xml:lang="sl">Marenberg</placeName>
+               <placeName xml:lang="de">Mahrenberg</placeName>
                <idno>vll.19150506_173.7858</idno>
                <idno>vll.19150506_173.8120</idno>
-            </place>
+               <idno>vll.19150625_200.4500</idno>
+               <idno>vll.19150708_207.1828</idno>
+               <idno>vll.19160208_373.7450</idno>
+            </place>            
             <place>
-               <placeName>Marburg</placeName>
+               <placeName xml:lang="sl">Maribor</placeName>
+               <placeName xml:lang="de">Marburg</placeName>
                <idno>vll.19150402_154.2168</idno>
                <idno>vll.19151012_290.10036</idno>
                <idno>vll.19170814_607.5644</idno>
@@ -9660,67 +9405,58 @@
                <idno>vll.19181005_697.11544</idno>
                <idno>vll.19181005_697.11754</idno>
                <idno>vll.19181224_706.12026</idno>
-            </place>
-            <place>
-               <placeName>Marenberg</placeName>
-               <idno>vll.19150625_200.4500</idno>
-            </place>
-            <place>
-               <placeName>Maria Graz</placeName>
-               <idno>vll.19160824_455.9598</idno>
-            </place>
-            <place>
-               <placeName>Maribor</placeName>
+               <idno>vll.19160512_420.5174</idno>
                <idno>vll.19180628_683.11042</idno>
                <idno>vll.19181105_700.5108</idno>
-            </place>
+               <idno>v11.19170418_556.8718</idno>
+               <idno>vll.19150302_135.8746</idno>
+               <idno>vll.19181011_698.13786</idno>
+               <idno>vll.19151109_310.1530</idno>
+               <idno>vll.19151109_310.2460</idno>
+               <idno>vll.19160118_360.9578</idno>
+               <idno>vll.19160824_455.7816</idno>
+               <idno>vll.19161101_485.3560</idno>
+            </place>            
             <place>
-               <placeName>Mahrenberg</placeName>
-               <idno>vll.19150708_207.1828</idno>
-               <idno>vll.19160208_373.7450</idno>
+               <placeName xml:lang="sl">Marija Gradec</placeName>
+               <placeName xml:lang="de">Maria Graz</placeName>
+               <idno>vll.19160824_455.9598</idno>
             </place>
             <place>
                <placeName>Markberg</placeName>
                <idno>vll.19150621_197.3904</idno>
             </place>
             <place>
-               <placeName>Markt Tüffer</placeName>
+               <placeName xml:lang="sl">Laško</placeName>
+               <placeName xml:lang="de">Tüffer</placeName>
                <idno>vll.19150708_207.9300</idno>
-            </place>
-            <place>
-               <placeName>Marburg</placeName>
-               <idno>v11.19170418_556.8718</idno>
+               <idno>vll.19150717_213.7188</idno>
+               <idno>vll.19150816_239.3246</idno>
+               <idno>vll.19151007_286.4102</idno>
+               <idno>vll.19171222_638.13750</idno>
             </place>
             <place>
                <placeName>Mauthen</placeName>
                <idno>v11.19171204_633.4406</idno>
             </place>
             <place>
-               <placeName>Moriberg (Marburg)</placeName>
-               <idno>vll.19150302_135.8746</idno>
-            </place>
-            <place>
-               <placeName>Marburg</placeName>
-               <idno>vll.19181011_698.13786</idno>
-            </place>
-            <place>
-               <placeName>Mureck</placeName>
+               <placeName xml:lang="sl">Murek</placeName>
+               <placeName xml:lang="de">Mureck</placeName>
                <idno>vll.19150406_155.5532</idno>
                <idno>vll.19151016_294.4654</idno>
                <idno>vll.19151016_294.5502</idno>
                <idno>vll.19170904_610.12208</idno>
                <idno>vll.19150722_217.9008</idno>
+               <idno>vll.19150722_217.6500</idno>
             </place>
             <place>
-               <placeName>Pettau</placeName>
-               <idno>vll.19150708_207.9826</idno>
-            </place>
-            <place>
-               <placeName>Neudorf</placeName>
+               <placeName xml:lang="sl">Nova vas</placeName>
+               <placeName xml:lang="de">Neudorf</placeName>
                <idno>vll.19190103_707.524</idno>
             </place>
             <place>
-               <placeName>Neukirchen</placeName>
+               <placeName xml:lang="sl">Nova Cerkev</placeName>
+               <placeName xml:lang="de">Neukirchen</placeName>
                <idno>vll.19150113_101.2370</idno>
                <idno>vll.19160108_352.1714</idno>
                <idno>vll.19180713_685.14264</idno>
@@ -9728,64 +9464,42 @@
                <idno>vll.19180830_693.7806</idno>
             </place>
             <place>
-               <placeName>Oberburg</placeName>
-               <idno>vll.19150825_247.1552</idno>
-               <idno>vll.19150818_241.4822</idno>
-            </place>
-            <place>
-               <placeName>Oberlosnitz</placeName>
+               <placeName xml:lang="sl">Zgornja Ložnica</placeName>
+               <placeName xml:lang="de">Oberlosnitz</placeName>
                <idno>vll.19150326_149.1570</idno>
-            </place>
-            <place>
-               <placeName>Ober-Radkersburg</placeName>
-               <idno>vll.19151007_286.7766</idno>
-            </place>
-            <place>
-               <placeName>Oberburg</placeName>
-               <idno>vll.19150816_239.9644</idno>
-               <idno>vll.19150708_207.7012</idno>
-               <idno>vll.19150816_239.8556</idno>
-               <idno>vll.19160919_466.1782</idno>
-               <idno>vll.19150805_229.8356</idno>
-               <idno>vll.19150708_207.7222</idno>
-            </place>
+            </place>            
             <place>
                <placeName>Oberreising</placeName>
                <idno>vll.19150625_200.910</idno>
             </place>
            <place>
-               <placeName>Oplotnitz</placeName>
+               <placeName xml:lang="sl">Oplotnica</placeName>
+               <placeName xml:lang="de">Oplotnitz</placeName>
                <idno>vll.19150916_267.2132</idno>
             </place>
             <place>
-               <placeName>Ottendorf</placeName>
+               <placeName xml:lang="sl">Hotinja ves</placeName>
+               <placeName xml:lang="de">Ottendorf</placeName>
                <idno>vll.19150113_101.2978</idno>
             </place>
             <place>
-               <placeName>Rann</placeName>
-               <idno>vll.19141219_82_E6.5282</idno>
-            </place>
-            <place>
-               <placeName>Partin</placeName>
+               <placeName xml:lang="sl">Partinje</placeName>
+               <placeName xml:lang="de">Partin</placeName>
                <idno>vll.19161005_473.1970</idno>
             </place>
             <place>
-               <placeName>Pettau</placeName>
-               <idno>vll.19150925_274.4528</idno>
-               <idno>vll.19160401_402.11058</idno>
-               <idno>vll.19160824_455.11254</idno>
-            </place>
-            <place>
-               <placeName>Pernitzen</placeName>
+               <placeName xml:lang="sl">Pernica</placeName>
+               <placeName xml:lang="de">Pernitzen</placeName>
                <idno>vll.19181005_697.8126</idno>
             </place>
             <place>
-               <placeName>Pettau</placeName>
+               <placeName xml:lang="sl">Ptuj</placeName>
+               <placeName xml:lang="de">Pettau</placeName>
+               <idno>vll.19150925_274.4528</idno>
+               <idno>vll.19160401_402.11058</idno>
+               <idno>vll.19160824_455.11254</idno>
                <idno>vll.19150918_269.3350</idno>
                <idno>vll.19180603_677.11758</idno>
-            </place>
-            <place>
-               <placeName>Pettau</placeName>
                <idno>vll.19160525_424.12532</idno>
                <idno>vll.19180628_683.9104</idno>
                <idno>vll.19150830_252.3488</idno>
@@ -13181,36 +12895,46 @@
                <idno>vll.19160711_439.14094</idno>
                <idno>vll.19150302_135.1298</idno>
                <idno>vll.19160711_439.4920</idno>
+               <idno>vll.19150910_263.6434</idno>
+               <idno>vll.19151122_320.1984</idno>
+               <idno>vll.19150708_207.9826</idno>
+               <idno>vll.19150826_248.10276</idno>
+               <idno>vll.19150110_98.9214</idno>
             </place>
             <place>
-               <placeName>Pfefferberg</placeName>
+               <placeName xml:lang="sl">Stavenski vrh</placeName>
+               <placeName xml:lang="de">Pfefferberg</placeName>
                <idno>vll.19180328_663.6040</idno>
             </place>
             <place>
-               <placeName>Pischätz</placeName>
+               <placeName xml:lang="sl">Pišece</placeName>
+               <placeName xml:lang="de">Pischätz</placeName>
                <idno>vll.19150313_141.4688</idno>
             </place>
             <place>
-               <placeName>Planina</placeName>
+               <placeName xml:lang="sl">Planina</placeName>
                <idno>vll.19150816_239.7022</idno>
             </place>
             <place>
-               <placeName>Pobres</placeName>
+               <placeName xml:lang="sl">Pobrežje</placeName>
+               <placeName xml:lang="de">Pobres</placeName>
                <idno>vll.19151008_287.1502</idno>
             </place>
             <place>
-               <placeName>Podgorzen</placeName>
+               <placeName xml:lang="sl">Podgorci</placeName>
+               <placeName xml:lang="de">Podgorzen</placeName>
                <idno>vll.19150206_121.5790</idno>
                <idno>vll.19151007_286.4620</idno>
             </place>
             <place>
-               <placeName>Podgorje</placeName>
+               <placeName xml:lang="sl">Podgorje</placeName>
                <idno>vll.19171220_637.3016</idno>
                <idno>vll.19180129_647.4164</idno>
                <idno>vll.19180709_684.3060</idno>
             </place>
             <place>
-               <placeName>Politschberg</placeName>
+               <placeName xml:lang="sl">Police</placeName>
+               <placeName xml:lang="de">Pöllitschberg</placeName>
                <idno>vll.19150729_223.6338</idno>
             </place>
             <place>
@@ -13218,56 +12942,43 @@
                <idno>vll.19150825_247.1534</idno>
             </place>
             <place>
-               <placeName>Polstrau</placeName>
+               <placeName xml:lang="sl">Središče</placeName>
+               <placeName xml:lang="de">Polstrau</placeName>
                <idno>vll.19150517_179.9154</idno>
                <idno>vll.19150719_214.702</idno>
                <idno>vll.19150805_229.5546</idno>
                <idno>vll.19150825_247.6472</idno>
             </place>
             <place>
-               <placeName>Ponigl</placeName>
+               <placeName xml:lang="sl">Ponikva</placeName>
+               <placeName xml:lang="de">Ponigl</placeName>
                <idno>vll.19141204_74.7052</idno>
                <idno>vll.19151015_293.2942</idno>
             </place>
             <place>
-               <placeName>Potok</placeName>
+               <placeName xml:lang="sl">Potok</placeName>
                <idno>vll.19150206_121.8710</idno>
             </place>
             <place>
-               <placeName>Retschach</placeName>
+               <placeName xml:lang="sl">Zreče</placeName>
+               <placeName xml:lang="de">Retschach</placeName>
                <idno>vll.19150816_239.2954</idno>
-            </place>
+               <idno>vll.19150806_230.2826</idno>
+            </place>            
             <place>
-               <placeName>Pettau</placeName>
-               <idno>vll.19150910_263.6434</idno>
-            </place>
-           <place>
-               <placeName>Pettau</placeName>
-               <idno>vll.19151122_320.1984</idno>
-            </place>
-            <place>
-               <placeName>Pöltschach</placeName>
+               <placeName xml:lang="sl">Poljčane</placeName>
+               <placeName xml:lang="de">Pöltschach</placeName>
                <idno>vll.19150303_136.9288</idno>
             </place>
             <place>
-               <placeName>Puschendorf</placeName>
+               <placeName xml:lang="sl">Pušenci</placeName>
+               <placeName xml:lang="de">Puschendorf</placeName>
                <idno>vll.19170406_549.11848</idno>
             </place>
             <place>
-               <placeName>Radkersburg</placeName>
+               <placeName xml:lang="sl">Radgona</placeName>
+               <placeName xml:lang="de">Radkersburg</placeName>
                <idno>vll.19150625_200.3582</idno>
-            </place>
-            <place>
-               <placeName>Rann</placeName>
-               <idno>vll.19160208_373.3890</idno>
-               <idno>vll.19160824_455.11194</idno>
-            </place>
-            <place>
-               <placeName>Rann a. d. Save</placeName>
-               <idno>vll.19160605_428.8036</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
                <idno>vll.19150816_239.5020</idno>
                <idno>vll.19160307_387.9758</idno>
                <idno>vll.19160307_387.10524</idno>
@@ -14294,27 +14005,43 @@
                <idno>vll.19150303_136.8354</idno>
                <idno>vll.19150517_179.3906</idno>
                <idno>vll.19161101_485.6320</idno>
-            </place>
+               <idno>vll.19160108_352.1946</idno>
+               <idno>vll.19150810_233.3310</idno>
+               <idno>vll.19160615_431.1208</idno>
+               <idno>vll.19160718_442.11104</idno>
+               <idno>vll.19160512_420.13438</idno>
+               <idno>vll.19160722_444.3800</idno>
+               <idno>vll.19170731_604.3050</idno>
+               <idno>vll.19170731_604.6236</idno>
+               <idno>vll.19170731_604.6454</idno>
+               <idno>vll.19170814_607.1076</idno>
+               <idno>v11.19180221_653.7146</idno>
+               <idno>vll.19180527_675.13748</idno>
+               <idno>vll.19180531_676.3592</idno>
+               <idno>vll.19190114_709.16834</idno>
+               <idno>vll.19160110_353.7942</idno>
+               <idno>vll.19150517_179.7960</idno>
+               <idno>vll.19150822_245.3136</idno>
+               <idno>vll.19160621_433.12380</idno>
+               <idno>vll.19160108_352.8632</idno>
+               <idno>vll.19151130_325.2456</idno>
+               <idno>vll.19151007_286.7766</idno>
+            </place>            
             <place>
-               <placeName>Radmannsdorf</placeName>
+               <placeName xml:lang="sl">Radovljica</placeName>
+               <placeName xml:lang="de">Radmannsdorf</placeName>
                <idno>vll.19150224_132.6042</idno>
                <idno>vll.19150917_268.6608</idno>
                <idno>vll.19151007_286.4464</idno>
                <idno>vll.19160529_425.7856</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Rann</placeName>
-               <idno>vll.19150708_207.10058</idno>
-               <idno>vll.19150708_207.10066</idno>
-               <idno>vll.19150825_247.894</idno>
-               <idno>vll.19180323_662.1122</idno>
-            </place>
-            <place>
-               <placeName>Rannersdorf</placeName>
+               <placeName xml:lang="de">Rannersdorf</placeName>
                <idno>vll.19150625_200.1858</idno>
             </place>
             <place>
-               <placeName>Rann</placeName>
+               <placeName xml:lang="sl">Brežice</placeName>
+               <placeName xml:lang="de">Rann</placeName>
                <idno>vll.19150708_207.1484</idno>
                <idno>vll.19150708_207.9982</idno>
                <idno>vll.19150816_239.4490</idno>
@@ -16182,43 +15909,42 @@
                <idno>vll.19150812_235.4532</idno>
                <idno>vll.19181126_702.11474</idno>
                <idno>vll.19181204_703.1666</idno>
-            </place>
-            <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19150810_233.3310</idno>
-            </place>
-            <place>
-               <placeName>Ratschach</placeName>
-               <idno>vll.19150806_230.2826</idno>
-            </place>
-            <place>
-               <placeName>Rann</placeName>
+               <idno>vll.19160208_373.3890</idno>
+               <idno>vll.19160824_455.11194</idno>
+               <idno>vll.19141219_82_E6.5282</idno>
+               <idno>vll.19170731_604.12194</idno>
+               <idno>vll.19160605_428.8036</idno>
                <idno>vll.19150708_207.2158</idno>
                <idno>vll.19161101_485.6078</idno>
                <idno>vll.19171005_613.4426</idno>
-            </place>
+               <idno>vll.19150708_207.10058</idno>
+               <idno>vll.19150708_207.10066</idno>
+               <idno>vll.19150825_247.894</idno>
+               <idno>vll.19180323_662.1122</idno>
+               <idno>vll.19150902_255.3782</idno>
+               <idno>vll.19150902_255.5700</idno>
+               <idno>vll.19161109_488.11592</idno>
+               <idno>v11.19171204_633.3632</idno>
+               <idno>vll.19150720_215.10002</idno>
+            </place>            
             <place>
-               <placeName>Rubgraben</placeName>
+               <placeName xml:lang="sl">Rubna Graba</placeName>
+               <placeName xml:lang="de">Rubgraben</placeName>
                <idno>vll.19150416_162.9402</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160615_431.1208</idno>
-            </place>
-            <place>
-               <placeName>Reichenburg</placeName>
+               <placeName xml:lang="sl">Rajhenburg</placeName>
+               <placeName xml:lang="de">Reichenburg</placeName>
                <idno>vll.19151028_303.924</idno>
             </place>
             <place>
-               <placeName>Reifnig</placeName>
+               <placeName xml:lang="sl">Ribnica</placeName>
+               <placeName xml:lang="de">Reifnig</placeName>
                <idno>vll.19150429_169.8358</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160718_442.11104</idno>
-            </place>
-            <place>
-               <placeName>Rohitsch</placeName>
+               <placeName xml:lang="sl">Rogatec</placeName>
+               <placeName xml:lang="de">Rohitsch</placeName>
                <idno>vll.19150516_178.1134</idno>
                <idno>vll.19150516_178.1160</idno>
                <idno>vll.19150516_178.5454</idno>
@@ -16236,11 +15962,12 @@
                <idno>vll.19180419_668.4378</idno>
             </place>
             <place>
-               <placeName>Rožno</placeName>
+               <placeName xml:lang="sl">Rožno</placeName>
                <idno>vll.19151028_303.3150</idno>
             </place>
             <place>
-               <placeName>Rudolfswert</placeName>
+               <placeName xml:lang="sl">Novo mesto</placeName>
+               <placeName xml:lang="de">Rudolfswert</placeName>
                <idno>vll.19150925_274.7504</idno>
                <idno>vll.19181011_698.15238</idno>
                <idno>vll.19150715_211.9766</idno>
@@ -16249,38 +15976,30 @@
             <place>
                <placeName>Rybnic</placeName>
                <idno>vll.19151008_287.3452</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Radkersburg</placeName>
-               <idno>vll.19160512_420.13438</idno>
-               <idno>vll.19160722_444.3800</idno>
-               <idno>vll.19170731_604.3050</idno>
-               <idno>vll.19170731_604.6236</idno>
-               <idno>vll.19170731_604.6454</idno>
-               <idno>vll.19170814_607.1076</idno>
-               <idno>v11.19180221_653.7146</idno>
-               <idno>vll.19180527_675.13748</idno>
-               <idno>vll.19180531_676.3592</idno>
-               <idno>vll.19190114_709.16834</idno>
-            </place>
-            <place>
-               <placeName>Sankt Christof</placeName>
+               <placeName xml:lang="sl">Sveti Krištof</placeName>
+               <placeName xml:lang="de">Sankt Christof</placeName>
                <idno>v11.19180214_652.3458</idno>
             </place>
             <place>
-               <placeName>Sauerbrunn</placeName>
+               <placeName xml:lang="sl">Slatina</placeName>
+               <placeName xml:lang="de">Sauerbrunn</placeName>
                <idno>vll.19181224_706.3152</idno>
             </place>
             <place>
-               <placeName>Schedun</placeName>
+               <placeName xml:lang="sl">Šedun</placeName>
+               <placeName xml:lang="de">Schedun</placeName>
                <idno>vll.19150818_241.3384</idno>
             </place>
            <place>
-               <placeName>Schittanzen</placeName>
+               <placeName xml:lang="sl">Žitence</placeName>
+               <placeName xml:lang="de">Schittanzen</placeName>
                <idno>vll.19180118_643.11006</idno>
             </place>
             <place>
-               <placeName>Schleinitz</placeName>
+               <placeName xml:lang="sl">Slivnica</placeName>
+               <placeName xml:lang="de">Schleinitz</placeName>
                <idno>vll.19160414_408.784</idno>
                <idno>vll.19180625_682.5146</idno>
                <idno>vll.19151030_304.11528</idno>
@@ -16294,12 +16013,14 @@
                <idno>vll.19150816_239.7302</idno>
             </place>
             <place>
-               <placeName>Scharding</placeName>
+               <placeName xml:lang="sl">Šardinja</placeName>
+               <placeName xml:lang="de">Scharding</placeName>
                <idno>vll.19150331_153.8818</idno>
                <idno>vll.19151214_335.7706</idno>
             </place>
             <place>
-               <placeName>Schönstein</placeName>
+               <placeName xml:lang="sl">Šoštanj</placeName>
+               <placeName xml:lang="de">Schönstein</placeName>
                <idno>vll.19150812_235.4642</idno>
                <idno>vll.19150816_239.5788</idno>
                <idno>vll.19150816_239.7020</idno>
@@ -16310,7 +16031,7 @@
                <idno>vll.19151028_303.7786</idno>
             </place>
             <place>
-               <placeName>Sedlašek</placeName>
+               <placeName xml:lang="sl">Sedlašek</placeName>
                <idno>vll.19151008_287.2088</idno>
             </place>
             <place>
@@ -16318,35 +16039,32 @@
                <idno>vll.19180910_694.10772</idno>
             </place>
             <place>
-               <placeName>Sicheldorf</placeName>
+               <placeName xml:lang="sl">Žetince</placeName>
+               <placeName xml:lang="de">Sicheldorf</placeName>
                <idno>vll.19151105_307.7852</idno>
             </place>
             <place>
-               <placeName>Skt. Kunigund</placeName>
+               <placeName xml:lang="sl">Sveta Jungert</placeName>
+               <placeName xml:lang="de">Skt. Kunigund</placeName>
                <idno>vll.19171220_637.3160</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Slov. Graz</placeName>
-               <idno>vll.19151130_325.12342</idno>
-               <idno>vll.19151130_325.12656</idno>
-               <idno>vll.19151130_325.12688</idno>
-               <idno>vll.19151130_325.12600</idno>
-               <idno>vll.19160502_415.10618</idno>
-            </place>
-            <place>
-               <placeName>Sodinci</placeName>
+               <placeName xml:lang="sl">Sodinci</placeName>
                <idno>v11.19180221_653.9616</idno>
             </place>
             <place>
-               <placeName>St. Leonhard</placeName>
+               <placeName xml:lang="sl">Sveti Lenart</placeName>
+               <placeName xml:lang="de">St. Leonhard</placeName>
                <idno>vll.19170731_604.8582</idno>
             </place>
             <place>
-               <placeName>St Florian</placeName>
+               <placeName xml:lang="sl">Sveti Florijan</placeName>
+               <placeName xml:lang="de">St Florian</placeName>
                <idno>vll.19180309_658.9092</idno>
             </place>
             <place>
-               <placeName>St Michael</placeName>
+               <placeName xml:lang="sl">Sveti Mihael</placeName>
+               <placeName xml:lang="de">St Michael</placeName>
                <idno>vll.19171121_630.7918</idno>
             </place>
             <place>
@@ -16354,36 +16072,40 @@
                <idno>vll.19150708_207.1470</idno>
             </place>
             <place>
-               <placeName>St. Anna</placeName>
+               <placeName xml:lang="sl">Sveta Ana</placeName>
+               <placeName xml:lang="de">St. Anna</placeName>
                <idno>vll.19160107_351.4748</idno>
                <idno>vll.19180307_657.12824</idno>
             </place>
             <place>
-               <placeName>St. Anton</placeName>
+               <placeName xml:lang="sl">Sveti Anton</placeName>
+               <placeName xml:lang="de">St. Anton</placeName>
                <idno>vll.19150818_241.6362</idno>
             </place>
             <place>
-               <placeName>St. Barbara</placeName>
+               <placeName xml:lang="sl">Sveta Barbara</placeName>
+               <placeName xml:lang="de">St. Barbara</placeName>
                <idno>vll.19181105_700.7326</idno>
             </place>
             <place>
-               <placeName>St. Bartholomä</placeName>
+               <placeName xml:lang="sl">Sveti Jernej</placeName>
+               <placeName xml:lang="de">St. Bartholomä</placeName>
                <idno>vll.19161101_485.12088</idno>
             </place>
             <place>
-               <placeName>St. Egidi</placeName>
+               <placeName xml:lang="sl">Sveti Ilj</placeName>
+               <placeName xml:lang="de">St. Egidi</placeName>
                <idno>vll.19180805_689.11938</idno>
             </place>
             <place>
-               <placeName>St. Florian</placeName>
+               <placeName xml:lang="sl">Sveti Florian</placeName>
+               <placeName xml:lang="de">St. Florian</placeName>
                <idno>vll.19151107_309.9058</idno>
             </place>
             <place>
-               <placeName>St. Georg</placeName>
+               <placeName xml:lang="sl">Sveti Jurij</placeName>
+               <placeName xml:lang="de">St. Georgen</placeName>
                <idno>vll.19151007_286.6864</idno>
-            </place>
-            <place>
-               <placeName>St. Georgen</placeName>
                <idno>vll.19150104_92_93.12858</idno>
                <idno>vll.19150730_224.4826</idno>
                <idno>vll.19151021_297.8086</idno>
@@ -16399,41 +16121,51 @@
                <idno>vll.19151008_287.4404</idno>
             </place>
             <place>
-               <placeName>St. Hemma</placeName>
+               <placeName xml:lang="sl">Sveta Ema</placeName>
+               <placeName xml:lang="de">St. Hemma</placeName>
                <idno>vll.19181204_703.1522</idno>
             </place>
             <place>
-               <placeName>St. Ilgen</placeName>
+               <placeName xml:lang="sl">Sveti Ilj</placeName>
+               <placeName xml:lang="de">St. Ilgen</placeName>
                <idno>vll.19180514_673.10222</idno>
             </place>
             <place>
-               <placeName>St. Jakob</placeName>
+               <placeName xml:lang="sl">Sveti Jakob</placeName>
+               <placeName xml:lang="de">St. Jakob</placeName>
                <idno>vll.19160605_428.5478</idno>
                <idno>vll.19160824_455.4276</idno>
                <idno>vll.19171010_615.2044</idno>
                <idno>vll.19181204_703.13358</idno>
             </place>
             <place>
-               <placeName>St. Johann</placeName>
+               <placeName xml:lang="sl">Sveti Janez</placeName>
+               <placeName xml:lang="de">St. Johann</placeName>
                <idno>vll.19160525_424.17068</idno>
                <idno>vll.19171222_638.9904</idno>
                <idno>vll.19181219_705.9054</idno>
             </place>
             <place>
-               <placeName>St. Johann am Draufelde</placeName>
+               <placeName xml:lang="sl">Sveti Janez na Dravskem Polju</placeName>
+               <placeName xml:lang="de">St. Johann am Draufelde</placeName>
                <idno>vll.19171220_637.5908</idno>
             </place>
             <place>
-               <placeName>St. Kunigund</placeName>
+               <placeName xml:lang="sl">Sveta Kunigunda</placeName>
+               <placeName xml:lang="de">St. Kunigund</placeName>
                <idno>vll.19181204_703.14478</idno>
             </place>
             <place>
-               <placeName>St. Lenart</placeName>
-               <idno>vll.19150816_239.4438</idno>
-               <idno>vll.19150816_239.4468</idno>
+               <placeName xml:lang="sl">Sveti Lenart v Slovenskih Goricah</placeName>
+               <placeName xml:lang="de">St. Leonhard in Windischbücheln</placeName>
+               <idno>vll.19171010_615.4276</idno>
             </place>
             <place>
-               <placeName>St. Leonhard</placeName>
+               <placeName xml:lang="s">Sveti Lenart</placeName>
+               <placeName xml:lang="de">St. Leonhard</placeName>
+               <idno>vll.19180129_647.9170</idno>
+               <idno>vll.19161113_489.5416</idno>
+               <idno>vll.19171222_638.6586</idno>
                <idno>vll.19150504_171.7286</idno>
                <idno>vll.19150506_173.1524</idno>
                <idno>vll.19150805_229.6222</idno>
@@ -16441,51 +16173,44 @@
                <idno>vll.19180718_686.18186</idno>
                <idno>vll.19181019_699.8348</idno>
                <idno>vll.19181224_706.2064</idno>
+               <idno>vll.19150816_239.4438</idno>
+               <idno>vll.19150816_239.4468</idno>
             </place>
+            
             <place>
-               <placeName>St. Leonhard in Windischbücheln</placeName>
-               <idno>vll.19171010_615.4276</idno>
-            </place>
-            <place>
-               <placeName>St. Leonhard.</placeName>
-               <idno>vll.19180129_647.9170</idno>
-               <idno>vll.19161113_489.5416</idno>
-               <idno>vll.19171222_638.6586</idno>
-            </place>
-            <place>
-               <placeName>St. Lorenzen am Draufeld</placeName>
+               <placeName xml:lang="sl">Sveti Lovrenc na Dravskem Polju</placeName>
+               <placeName xml:lang="de">St. Lorenzen am Draufeld</placeName>
                <idno>vll.19170901_609.10770</idno>
             </place>
             <place>
-               <placeName>St. Marein</placeName>
+               <placeName xml:lang="sl">Šmarje pri Jelšah</placeName>
+               <placeName xml:lang="de">St. Marein b. Erlachstein</placeName>
+               <idno>vll.19181219_705.12712</idno>
+            </place>
+            <place>
+               <placeName xml:lang="sl">Sveta Marjeta</placeName>
+               <placeName xml:lang="de">St. Margarethen</placeName>
+               <idno>vll.19170904_610.10882</idno>
+            </place>
+            <place>
+               <placeName xml:lang="sl">Šmarje</placeName>
+               <placeName xml:lang="de">St. Marein</placeName>
+               <idno>vll.19150805_229.9394</idno>
+               <idno>vll.19171222_638.15056</idno>
+               <idno>vll.19151008_287.1624</idno>
                <idno>vll.19150922_271.686</idno>
                <idno>vll.19150925_274.4992</idno>
                <idno>vll.19171025_620.12634</idno>
             </place>
             <place>
-               <placeName>St. Marein b. Erlachstein</placeName>
-               <idno>vll.19181219_705.12712</idno>
-            </place>
-            <place>
-               <placeName>St. Margarethen</placeName>
-               <idno>vll.19170904_610.10882</idno>
-            </place>
-            <place>
-               <placeName>St. Marian</placeName>
-               <idno>vll.19151008_287.1624</idno>
-            </place>
-            <place>
-               <placeName>St. Marein</placeName>
-               <idno>vll.19150805_229.9394</idno>
-               <idno>vll.19171222_638.15056</idno>
-            </place>
-            <place>
-               <placeName>St. Nikolai</placeName>
+               <placeName xml:lang="sl">Sveti Miklavž</placeName>
+               <placeName xml:lang="de">St. Nikolai</placeName>
                <idno>vll.19180123_644.7492</idno>
                <idno>vll.19180315_660.4968</idno>
             </place>
             <place>
-               <placeName>St. Peter</placeName>
+               <placeName xml:lang="sl">Sveti Peter</placeName>
+               <placeName xml:lang="de">St. Peter</placeName>
                <idno>vll.19150406_155.9982</idno>
                <idno>vll.19150822_245.3934</idno>
                <idno>vll.19151028_303.9128</idno>
@@ -16494,11 +16219,13 @@
                <idno>vll.19181019_699.13844</idno>
             </place>
             <place>
-               <placeName>St. Peter bei Königsberg</placeName>
+               <placeName xml:lang="sl">Sveti Peter pod Svetimi Gorami</placeName>
+               <placeName xml:lang="de">St. Peter bei Königsberg</placeName>
                <idno>v11.19180214_652.10024</idno>
             </place>
            <place>
-               <placeName>St. Veit</placeName>
+               <placeName xml:lang="sl">Sveti Vid</placeName>
+               <placeName xml:lang="de">St. Veit</placeName>
                <idno>vll.19150701_203.11130</idno>
                <idno>vll.19150710_208.770</idno>
                <idno>vll.19150830_252.9652</idno>
@@ -16509,58 +16236,59 @@
                <idno>vll.19151028_303.7486</idno>
                <idno>vll.19160330_401.11478</idno>
                <idno>vll.19181111_701.3486</idno>
-            </place>
+            </place>            
             <place>
-               <placeName>Cilli</placeName>
-               <idno>vll.19150115_103.980</idno>
-            </place>
-            <place>
-               <placeName>Stainzthal</placeName>
+               <placeName xml:lang="sl">Ščavnica</placeName>
+               <placeName xml:lang="de">Stainzthal</placeName>
                <idno>vll.19170417_555.10132</idno>
             </place>
             <place>
-               <placeName>Stein</placeName>
+               <placeName xml:lang="sl">Kamnik</placeName>
+               <placeName xml:lang="de">Stein</placeName>
                <idno>vll.19160914_464.4882</idno>
                <idno>vll.19180531_676.5836</idno>
             </place>
             <place>
-               <placeName>Steinbruck</placeName>
+               <placeName xml:lang="sl">Zidani Most</placeName>
+               <placeName xml:lang="de">Steinbruck</placeName>
                <idno>v11.19170418_556.5644</idno>
             </place>
             <place>
-               <placeName>Steindorf</placeName>
+               <placeName xml:lang="sl">Kamna vas</placeName>
+               <placeName xml:lang="de">Steindorf</placeName>
                <idno>v11.19180126_646.9324</idno>
             </place>
             <place>
-               <placeName>Steinberg</placeName>
+               <placeName xml:lang="sl">Štambergg</placeName>
+               <placeName xml:lang="de">Steinberg</placeName>
                <idno>vll.19151008_287.6924</idno>
             </place>
             <place>
-               <placeName>Stranitzen</placeName>
+               <placeName xml:lang="sl">Stranice</placeName>
+               <placeName xml:lang="de">Stranitzen</placeName>
                <idno>vll.19161109_488.4078</idno>
             </place>
             <place>
-               <placeName>Stromlie</placeName>
+               <placeName xml:lang="sl">Sromlje</placeName>
                <idno>vll.19150206_121.5308</idno>
             </place>
             <place>
-               <placeName>Surečno</placeName>
+               <placeName xml:lang="sl">Smrečno</placeName>
+               <placeName xml:lang="de">Smeretschen</placeName>
                <idno>vll.19180531_676.3608</idno>
-            </place>
-            <place>
-               <placeName>Luttenberg</placeName>
-               <idno>vll.19151203_328.11702</idno>
-            </place>
+            </place>            
             <place>
                <placeName>Taborvilla</placeName>
                <idno>vll.19150816_239.1782</idno>
             </place>
             <place>
-               <placeName>Tepina</placeName>
+               <placeName xml:lang="sl">Tepanje</placeName>
+               <placeName xml:lang="de">Tepina</placeName>
                <idno>vll.19150708_207.2820</idno>
             </place>
             <place>
-               <placeName>Tolmein</placeName>
+               <placeName xml:lang="sl">Tolmin</placeName>
+               <placeName xml:lang="de">Tolmein</placeName>
                <idno>vll.19151112_313.1952</idno>
                <idno>vll.19151112_313.2142</idno>
             </place>
@@ -16569,16 +16297,19 @@
                <idno>vll.19150402_154.8880</idno>
             </place>
             <place>
-               <placeName>Topolschitz</placeName>
+               <placeName xml:lang="sl">Topolšica</placeName>
+               <placeName xml:lang="de">Topolschitz</placeName>
                <idno>vll.19171220_637.5866</idno>
                <idno>vll.19181111_701.8336</idno>
             </place>
             <place>
-               <placeName>Terbegovtzen</placeName>
+               <placeName xml:lang="sl">Terbegovci</placeName>
+               <placeName xml:lang="de">Terbegovtzen</placeName>
                <idno>vll.19150902_255.6620</idno>
             </place>
             <place>
-               <placeName>Trennenberg</placeName>
+               <placeName xml:lang="sl">Dramlje</placeName>
+               <placeName xml:lang="de">Trennenberg</placeName>
                <idno>vll.19150826_248.7752</idno>
             </place>
             <place>
@@ -16586,29 +16317,16 @@
                <idno>vll.19150506_173.4862</idno>
             </place>
             <place>
-               <placeName>Trifail</placeName>
+               <placeName xml:lang="sl">Trbovlje</placeName>
+               <placeName xml:lang="de">Trifail</placeName>
                <idno>vll.19141212_78.4576</idno>
                <idno>vll.19151105_307.9608</idno>
             </place>
            <place>
-               <placeName>Tschernembl</placeName>
+               <placeName xml:lang="sl">Črnomelj</placeName>
+               <placeName xml:lang="de">Tschernembl</placeName>
                <idno>vll.19180527_675.12214</idno>
-            </place>
-            <place>
-               <placeName>Ptuj</placeName>
-               <idno>vll.19150110_98.9214</idno>
-            </place>
-            <place>
-               <placeName>Tüffer</placeName>
-               <idno>vll.19150717_213.7188</idno>
-               <idno>vll.19150816_239.3246</idno>
-               <idno>vll.19151007_286.4102</idno>
-               <idno>vll.19171222_638.13750</idno>
-            </place>
-            <place>
-               <placeName>Umg. Cilli</placeName>
-               <idno>vll.19150805_229.9600</idno>
-            </place>
+            </place>   
             <place>
                <placeName>Unter-Burgstall</placeName>
                <idno>vll.19150630_202.5768</idno>
@@ -16618,19 +16336,23 @@
                <idno>vll.19151107_309.3938</idno>
             </place>
             <place>
-               <placeName>Velitschan</placeName>
+               <placeName xml:lang="sl">Veličane</placeName>
+               <placeName xml:lang="de">Velitschan</placeName>
                <idno>vll.19160401_402.10242</idno>
             </place>
             <place>
-               <placeName>Verchi</placeName>
+               <placeName xml:lang="sl">Verhe</placeName>
+               <placeName xml:lang="de">Verche</placeName>
                <idno>vll.19150812_235.6186</idno>
             </place>
             <place>
-               <placeName>Vitan</placeName>
+               <placeName xml:lang="sl">Vitanje</placeName>
+               <placeName xml:lang="de">Vitan</placeName>
                <idno>vll.19171222_638.15254</idno>
             </place>
             <place>
-               <placeName>Völkermarkt</placeName>
+               <placeName xml:lang="sl">Velikovec</placeName>
+               <placeName xml:lang="de">Völkermarkt</placeName>
                <idno>vll.19151025_300.7074</idno>
                <idno>vll.19150925_274.5334</idno>
                <idno>vll.19151008_287.4468</idno>
@@ -16653,7 +16375,8 @@
                <idno>vll.19150717_213.8168</idno>
             </place>
             <place>
-               <placeName>Wind. Feistritz</placeName>
+               <placeName xml:lang="sl">Slovenska Bistrica</placeName>
+               <placeName xml:lang="de">Wind. Feistritz</placeName>
                <idno>vll.19150517_179.5958</idno>
                <idno>vll.19150517_179.10196</idno>
                <idno>vll.19150729_223.6668</idno>
@@ -16681,11 +16404,13 @@
                <idno>vll.19180330_664.5170</idno>
             </place>            
             <place>
-               <placeName>Widischfriedhof</placeName>
-               <idno>vll.19150805_229.2306</idno>
+               <placeName xml:lang="sl">Slovenja vas</placeName>
+               <placeName xml:lang="de">Windischdorf</placeName>
+               <idno>vll.19170731_604.5056</idno>
             </place>            
             <place>
-               <placeName>Windischgraz</placeName>
+               <placeName xml:lang="sl">Slovenj Gradec</placeName>
+               <placeName xml:lang="de">Windischgraz</placeName>
                <idno>vll.19160309_389.3360</idno>
                <idno>vll.19150317_143.7138</idno>
                <idno>vll.19150409_157.6794</idno>
@@ -17392,13 +17117,6 @@
                <idno>vll.19181011_698.5000</idno>
                <idno>vll.19181111_701.7970</idno>
                <idno>vll.19181126_702.3860</idno>
-            </place>
-            <place>
-               <placeName>Windischdorf</placeName>
-               <idno>vll.19170731_604.5056</idno>
-            </place>
-            <place>
-               <placeName>Windischgraz</placeName>
                <idno>vll.19181011_698.7700</idno>
                <idno>vll.19141117_60.3820</idno>
                <idno>vll.19141130_70.4640</idno>
@@ -18300,33 +18018,35 @@
                <idno>vll.19181011_698.9332</idno>
                <idno>vll.19171010_615.7294</idno>
                <idno>vll.19160531_426.1398</idno>
+               <idno>vll.19151130_325.12342</idno>
+               <idno>vll.19151130_325.12656</idno>
+               <idno>vll.19151130_325.12688</idno>
+               <idno>vll.19151130_325.12600</idno>
+               <idno>vll.19160502_415.10618</idno>
             </place>
             <place>
-               <placeName>Wintersbach</placeName>
+               <placeName xml:lang="sl">Zimnica</placeName>
+               <placeName xml:lang="de">Wintersbach</placeName>
                <idno>vll.19150326_149.8634</idno>
             </place>
             <place>
-               <placeName>Wolfsgrube</placeName>
+               <placeName xml:lang="sl">Volčja Jama</placeName>
+               <placeName xml:lang="de">Wolfsgrube</placeName>
                <idno>vll.19150922_271.902</idno>
-            </place>
-            <place>
-               <placeName>Wolfsgruben</placeName>
                <idno>vll.19150113_101.5604</idno>
-            </place>
-            <place>
-               <placeName>Wollsdorferogg</placeName>
-               <idno>vll.19181126_702.4164</idno>
             </place>
             <place>
                <placeName>Wranko</placeName>
                <idno>vll.19150708_207.3222</idno>
             </place>
             <place>
-               <placeName>Wöllan</placeName>
+               <placeName xml:lang="sl">Velenje</placeName>
+               <placeName xml:lang="de">Wöllan</placeName>
                <idno>vll.19181224_706.5470</idno>
             </place>
             <place>
-               <placeName>Wesowitza</placeName>
+               <placeName xml:lang="sl">Bezowica</placeName>
+               <placeName xml:lang="de">Wesowitza</placeName>
                <idno>vll.19171220_637.7412</idno>
             </place>
             <place>
@@ -18338,33 +18058,27 @@
                <idno>vll.19160414_408.10936</idno>
             </place>
             <place>
-               <placeName>Zellnitz</placeName>
+               <placeName xml:lang="sl">Selnica</placeName>
+               <placeName xml:lang="de">Zellnitz</placeName>
                <idno>vll.19150625_200.6576</idno>
                <idno>vll.19150917_268.4656</idno>
                <idno>vll.19160108_352.8504</idno>
             </place>
             <place>
-               <placeName>Zellnitz a. d. M.</placeName>
+               <placeName xml:lang="sl">Selnica ob Muri</placeName>
+               <placeName xml:lang="de">Zellnitz a. d. M.</placeName>
                <idno>vll.19150602_186.8296</idno>
                <idno>vll.19190129_708.9698</idno>
             </place>
             <place>
-               <placeName>Ziegestadt</placeName>
+               <placeName xml:lang="sl">Cigonce</placeName>
+               <placeName xml:lang="de">Ziegestadt</placeName>
                <idno>vll.19170901_609.10154</idno>
-            </place>
-            <place>
-               <placeName>Cilli</placeName>
-               <idno>vll.19150816_239.1870</idno>
-               <idno>vll.19150816_239.8254</idno>
-            </place>
+            </place>            
             <place>
                <placeName>Zintila</placeName>
                <idno>vll.19160122_363.11310</idno>
-            </place>
-            <place>
-               <placeName>Mureck</placeName>
-               <idno>vll.19150722_217.6500</idno>
-            </place>            
+            </place>                        
          </listPlace>
       </body>
    </text>
