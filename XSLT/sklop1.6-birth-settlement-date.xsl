@@ -8,7 +8,8 @@
     version="2.0">
     
     <!-- izhodiščni TEI/Verlustliste-*.xml -->
-    <!-- iz tistih note, ki omenjajo ujetnike, poberem ven podatke za event -->
+    <!-- v preostalem besedilu note, iz katerega sem prej izločiml oznake o ujetnikih, ranjencih in umrlih,
+         označi, letnico rojstva in kraj rojstva -->
     
     <xsl:output method="xml"/>
     
