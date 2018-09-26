@@ -139,8 +139,8 @@
                   <surname>Blasič</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>Res.Jäg.</socecStatus>
-               <affiliation>FJR. Nr. 20, 2. Marschkomp.</affiliation>
+               <socecStatus>Res. Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, 2. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -949,7 +949,7 @@
                   <surname>Gumar</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Gorica</region>
@@ -961,7 +961,7 @@
                   <surname>Jakub</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -973,7 +973,7 @@
                   <surname>Koratze</surname>
                   <forename>Matys</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Gorica</region>
@@ -998,7 +998,7 @@
                   <surname>Lamainer</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -1023,7 +1023,7 @@
                   <surname>Schiwetz</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Sežana</region>
@@ -1035,7 +1035,7 @@
                   <surname>Sehwarcz</surname>
                   <forename>Angelo</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Sežana</region>
@@ -1047,7 +1047,7 @@
                   <surname>Stazik</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -1059,7 +1059,7 @@
                   <surname>Tschobrowetz</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Sežana</region>
@@ -1297,7 +1297,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>KompHorn.</socecStatus>
-               <affiliation>IR, Nr. 97, 6. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -1505,7 +1505,7 @@
                   <forename>Markus</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 97, 12. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -1595,7 +1595,7 @@
                   <surname>Bausch</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -1621,7 +1621,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>ResInft.</socecStatus>
-               <affiliation>IR, Nr. 17, 7. Komp.</affiliation>
+               <affiliation>IR. Nr. 17, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -1659,8 +1659,8 @@
                   <surname>Struchel</surname>
                   <forename>Alexander</forename>
                </persName>
-               <socecStatus>Dr.</socecStatus>
-               <affiliation>Oberarzt, k. k. LIR. Nr. 26, RgtsStb.</affiliation>
+               <socecStatus>Dr., Oberarzt</socecStatus>
+               <affiliation>k. k. LIR. Nr. 26, RgtsStb.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -1699,7 +1699,7 @@
                   <forename>Stefan</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LstIR. Nr. 27, 11. Komp.</affiliation>
+               <affiliation>k. k. LstIR. Nr. 27, 11. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -2034,7 +2034,7 @@
                   <surname>Kuk</surname>
                   <forename>Jakob</forename>
                </persName>
-               <socecStatus>Offiziersdiener.</socecStatus>
+               <socecStatus>Offiziersdiener</socecStatus>
                <affiliation>IR. Nr. 17, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -2165,7 +2165,7 @@
                   <forename>Leopold</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IE. Nr. 97, 12. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -2452,7 +2452,7 @@
                   <forename>Peter</forename>
                </persName>
                <socecStatus>Zugsf.</socecStatus>
-               <affiliation>IR, Nr. 97, 6. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -2649,7 +2649,7 @@
                   <forename>Josef</forename>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>ErsRes.</affiliation>
+               <socecStatus>ErsRes.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -2713,7 +2713,7 @@
                   <surname>Lisjak</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -2881,7 +2881,7 @@
                   <surname>Kumar</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -2933,7 +2933,7 @@
                   <forename>Jakob</forename>
                </persName>
                <socecStatus>Offiziersdiener</socecStatus>
-               <affiliation>FJB, Nr.7, 2. Komp.</affiliation>
+               <affiliation>FJB. Nr.7, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -3049,8 +3049,8 @@
                   <surname>Gerbec</surname>
                   <forename>Josef statt Johann</forename>
                </persName>
-               <socecStatus>ResInft</socecStatus>
-               <affiliation>TitGefr. statt Inft. TitGefr., IR. Nr. 47, 7. Komp.</affiliation>
+               <socecStatus>ResInft., TitGefr. statt Inft. TitGefr.</socecStatus>
+               <affiliation>IR. Nr. 47, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -3209,7 +3209,7 @@
                   <forename>Anton</forename>
                </persName>
                <socecStatus>Jag.</socecStatus>
-               <affiliation>F.ll!., Nr. 20, 3. Komp.</affiliation>
+               <affiliation>FJB. Nr. 20, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -3585,8 +3585,8 @@
                   <surname>Abram</surname>
                   <forename>Maximilian</forename>
                </persName>
-               <socecStatus>Dr.</socecStatus>
-               <affiliation>Oblt. i. d. Res., IR. Nr. 97</affiliation>
+               <socecStatus>Dr., Oblt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -3677,7 +3677,7 @@
                   <forename>Leopold</forename>
                </persName>
                <socecStatus>Zugsf.</socecStatus>
-               <affiliation>"IR. Nr. 97, 2. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -3779,7 +3779,7 @@
                   <forename>Engel</forename>
                </persName>
                <socecStatus>Gefr.</socecStatus>
-               <affiliation>IR, Nr. 97, 3. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -3909,7 +3909,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Gefr. TitKorp.</socecStatus>
-               <affiliation>JR. Nr. 97, 2. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -4026,7 +4026,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Korp.</socecStatus>
-               <affiliation>IR, Nr. 97, 7. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -4065,7 +4065,7 @@
                   <forename>Vinzenz</forename>
                </persName>
                <socecStatus>Korp.</socecStatus>
-               <affiliation>IR, Nr. 97, 5. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 5. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -4078,7 +4078,7 @@
                   <forename>Alois</forename>
                </persName>
                <socecStatus>ErsRes.</socecStatus>
-               <affiliation>IR Nr. 97, 2. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -4116,8 +4116,8 @@
                   <surname>Gregorčič</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 97</socecStatus>
-               <affiliation>7. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -4129,7 +4129,7 @@
                   <surname>Gregorič</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>Infi</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, RgtsStb.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -4351,7 +4351,7 @@
                   <forename>Alois</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IÜ. Nr. 97, 2. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -4442,7 +4442,7 @@
                   <forename>Vinzenz</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>TR. Nr. 97, 9. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 9. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -4520,7 +4520,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Korp. TitZugsf.</socecStatus>
-               <affiliation>IR, Nr. 97,1. Komp.</affiliation>
+               <affiliation>IR. Nr. 97,1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -4610,7 +4610,7 @@
                   <surname>Kumer</surname>
                   <forename>Friedrich</forename>
                </persName>
-               <socecStatus>. Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, 10. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -5170,7 +5170,7 @@
                   <forename>Carmel</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>1R. Nr. 97, 2. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -5183,7 +5183,7 @@
                   <forename>Alois</forename>
                </persName>
                <socecStatus>Korp. TitZugsf.</socecStatus>
-               <affiliation>III. Nr. 97, 5. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 5. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umng.</region>
@@ -5209,7 +5209,7 @@
                   <forename>Albert</forename>
                </persName>
                <socecStatus>Zugsf.</socecStatus>
-               <affiliation>IR; Nr. 97, 3. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -5260,7 +5260,7 @@
                   <surname>Prettner</surname>
                   <forename>Leo</forename>
                </persName>
-               <socecStatus>fnft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, 9. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -5364,8 +5364,8 @@
                   <surname>Sederčič</surname>
                   <forename>Valentin</forename>
                </persName>
-               <socecStatus>Inft. TIR. Nr. 97</socecStatus>
-               <affiliation>10. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 10. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -5377,7 +5377,7 @@
                   <surname>Semolich</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft..</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -5572,8 +5572,8 @@
                   <surname>Strgar</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 97</socecStatus>
-               <affiliation>12. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -6053,8 +6053,8 @@
                   <surname>Basker</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Gefr.</socecStatus>
-               <affiliation>bh. IR. Nr. 2</affiliation>
+               <socecStatus>Gefr., bh.</socecStatus>
+               <affiliation>IR. Nr. 2</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -6210,7 +6210,7 @@
                   <surname>Pacco</surname>
                   <forename>Eduard</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7201,7 +7201,7 @@
                   <country>Küstenland</country>
                   <region>Görz</region>
                </birth>
-               <note>" kriegsgef. (Nis, Serbien.)</note>
+               <note>kriegsgef. (Nis, Serbien.)</note>
             </person>
             <person xml:id="vll.19150414_160.2074">
                <persName>
@@ -7378,7 +7378,7 @@
                   <country>Küstenland</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1879, kriegsgef .(Niš, Serbien.)</note>
+               <note>1879, kriegsgef. (Niš, Serbien.)</note>
             </person>
             <person xml:id="vll.19150504_171.1630">
                <persName>
@@ -7503,7 +7503,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>Iß. Nr. 87, 8. Komp.</affiliation>
+               <affiliation>IR. Nr. 87, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7567,7 +7567,7 @@
                   <surname>Kragl</surname>
                   <forename>Kaspar</forename>
                </persName>
-               <socecStatus>. Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 87, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -7812,7 +7812,7 @@
                   <surname>Grattop</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Gefr.</affiliation>
+               <socecStatus>Gefr.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7824,7 +7824,7 @@
                   <surname>Harb</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Feldw.</affiliation>
+               <socecStatus>Feldw.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -7876,7 +7876,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Jag.</socecStatus>
-               <affiliation>FJB, Nr. 20, 8. Komp.</affiliation>
+               <affiliation>FJB. Nr. 20, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -7941,8 +7941,8 @@
                   <surname>Staeul</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>ResJäg</socecStatus>
-               <affiliation>, FJB. Nr. 20. 2. Komp.</affiliation>
+               <socecStatus>ResJäg.</socecStatus>
+               <affiliation>FJB. Nr. 20. 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -8110,7 +8110,7 @@
                   <surname>Fonda</surname>
                   <forename>Odorico</forename>
                </persName>
-               <affiliation>SanSold.</affiliation>
+               <socecStatus>SanSold.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Pirano</region>
@@ -8122,7 +8122,7 @@
                   <surname>Ivančič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>SanSold.</affiliation>
+               <socecStatus>SanSold.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Pirano</region>
@@ -8227,7 +8227,7 @@
                   <forename>Michael</forename>
                </persName>
                <socecStatus>ResKan.</socecStatus>
-               <affiliation>Schw, HDiv. Nr. 14, Kol. 4</affiliation>
+               <affiliation>Schw. HDiv. Nr. 14, Kol. 4</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -8278,8 +8278,8 @@
                   <surname>Cebular</surname>
                   <forename>Daniel</forename>
                </persName>
-               <socecStatus>EinjFreiwInft. TitGefr.'</socecStatus>
-               <affiliation>IR, Nr. 47, 4. Komp.</affiliation>
+               <socecStatus>EinjFreiwInft. TitGefr.</socecStatus>
+               <affiliation>IR. Nr. 47, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -8457,8 +8457,7 @@
                   <surname>Marinic</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>FstAR. Nr. 4 oder FstAB. Nr. 8</socecStatus>
-               <affiliation>1. Komp.</affiliation>
+               <affiliation>FstAR. Nr. 4 oder FstAB. Nr. 8, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -8547,7 +8546,7 @@
                   <forename>Isidor</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 97, 2. ErsKomp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -9001,8 +9000,8 @@
                   <surname>Koilermatz</surname>
                   <forename>Narzio</forename>
                </persName>
-               <socecStatus>EinjFreiw.</socecStatus>
-               <affiliation>TitKorp., IR. Nr. 47</affiliation>
+               <socecStatus>EinjFreiw. TitKorp.</socecStatus>
+               <affiliation>IR. Nr. 47</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -9078,7 +9077,7 @@
                   <forename>Bartholomä</forename>
                </persName>
                <socecStatus>LstInft.</socecStatus>
-               <affiliation>k k. LandesgendKmdo. Nr. 7, Abt. Görz Nr. 2</affiliation>
+               <affiliation>k. k. LandesgendKmdo. Nr. 7, Abt. Görz Nr. 2</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -9104,7 +9103,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>LstInft.</socecStatus>
-               <affiliation>k, k. LandesgendKmdo. Nr. 7, Abt. Görz Nr. 2</affiliation>
+               <affiliation>k. k. LandesgendKmdo. Nr. 7, Abt. Görz Nr. 2</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -9361,8 +9360,8 @@
                   <surname>Köder</surname>
                   <forename>Ruppcrt</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, k. k. LstBezKmdo. Nr. 39, 1. ErsKomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LstBezKmdo. Nr. 39, 1. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Krachowa</region>
@@ -9842,7 +9841,7 @@
                   <surname>Begešić</surname>
                   <forename>Franja</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -10038,7 +10037,7 @@
                   <forename>Jakob</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 7, 15. Komp.</affiliation>
+               <affiliation>IR. Nr. 7, 15. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -10051,7 +10050,7 @@
                   <forename>Engel</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 87, 3. Komp.</affiliation>
+               <affiliation>IR. Nr. 87, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -10128,8 +10127,8 @@
                   <surname>Kosmina</surname>
                   <forename>Philipp</forename>
                </persName>
-               <socecStatus>Korp. SappB. Nr. 3</socecStatus>
-               <affiliation>4. Komp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>SappB. Nr. 3, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Nabresina</region>
@@ -10180,8 +10179,8 @@
                   <surname>Sabadin</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Sapp.. .SappB. Nr. 3</socecStatus>
-               <affiliation>4. Komp.</affiliation>
+               <socecStatus>Sapp.</socecStatus>
+               <affiliation>SappB. Nr. 3, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Vaiiganell</region>
@@ -11220,7 +11219,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>LstInft.</socecStatus>
-               <affiliation>IR, Nr. 47, 10, Komp.</affiliation>
+               <affiliation>IR. Nr. 47, 10, Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -11400,8 +11399,8 @@
                   <surname>Kurinčič</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>LstInft. k. k. LdsGendKmdo. Nr. 7</socecStatus>
-               <affiliation>Abt. Görz Nr.2, Posten zu Serpenizza</affiliation>
+               <socecStatus>LstInft.</socecStatus>
+               <affiliation>k. k. LdsGendKmdo. Nr. 7, Abt. Görz Nr.2, Posten zu Serpenizza</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -11492,7 +11491,7 @@
                   <forename>Alois</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 58, 12. Komp.</affiliation>
+               <affiliation>IR. Nr. 58, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -11882,7 +11881,7 @@
                   <forename>Ferdinand</forename>
                </persName>
                <socecStatus>Gefr.</socecStatus>
-               <affiliation>IR, Nr. 97, 4./X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 97, 4./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -12088,7 +12087,7 @@
                   <forename>Ambros</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LIR. Nr. 35, 2. Marschkomp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 35, 2. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sežana</region>
@@ -12414,7 +12413,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR Nr. 54, 11. Komp.</affiliation>
+               <affiliation>IR. Nr. 54, 11. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -12582,8 +12581,8 @@
                   <surname>Ferfolja</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Gefr.. k. k. LIR. Nr. 37</socecStatus>
-               <affiliation>2. Komp.</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 37, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -12596,7 +12595,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>zuget. vom IR. Nr. 97 dem k, k. LstMarschBaon. Nr. 10</affiliation>
+               <affiliation>zuget. vom IR. Nr. 97 dem k. k. LstMarschBaon. Nr. 10</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -12776,7 +12775,7 @@
                   <surname>Duvar</surname>
                   <forename>Mathias</forename>
                </persName>
-               <affiliation>Korp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -12788,7 +12787,7 @@
                   <surname>Schwarz</surname>
                   <forename>Mor</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -13113,7 +13112,7 @@
                   <forename>Rudolf</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 7, 11. Komp.</affiliation>
+               <affiliation>IR. Nr. 7, 11. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -13943,7 +13942,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 65, 16. Komp.</affiliation>
+               <affiliation>IR. Nr. 65, 16. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -14824,7 +14823,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IE. Nr. 40, 12. Komp.</affiliation>
+               <affiliation>IR. Nr. 40, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -15571,7 +15570,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>LstInft.</socecStatus>
-               <affiliation>IR, Nr. 17, 3./X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 17, 3./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -15661,8 +15660,7 @@
                   <surname>Carsikla</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>IE. Nr. 1 vom k. k. LIE</socecStatus>
-               <affiliation>. Nr. 3, 9. Komp.</affiliation>
+               <affiliation>IR. Nr. 1 vom k. k. LIE. Nr. 3, 9. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -16051,7 +16049,7 @@
                   <surname>Madon</surname>
                   <forename>Stefan</forename>
                </persName>
-               <socecStatus>. Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 55, 16. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -16587,8 +16585,8 @@
                   <surname>Hrobat</surname>
                   <forename>Alois</forename>
                </persName>
-               <socecStatus>Korp</socecStatus>
-               <affiliation>, k. k. LstB. Nr. 157, 1. Komp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. LstB. Nr. 157, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -16886,8 +16884,8 @@
                   <surname>Nadal</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 1</socecStatus>
-               <affiliation>vom k. k. LIR. Nr. 3, 10. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 1, vom k. k. LIR. Nr. 3, 10. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -17511,8 +17509,7 @@
                   <surname>Umek</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>k. k. LIR. Nr. 20</socecStatus>
-               <affiliation>6. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 20, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Beslowica</region>
@@ -17550,8 +17547,8 @@
                   <surname>Batič</surname>
                   <forename>Siegmund</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, k. k. LIR. Kr. 36, 4. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Kr. 36, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -17576,8 +17573,8 @@
                   <surname>Drufuka</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft. k. k. LIR. Nr. 36</socecStatus>
-               <affiliation>4. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 36, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Gorz</region>
@@ -17928,8 +17925,8 @@
                   <surname>Bizjak</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <socecStatus>Inft.„ IR. Nr. 97</socecStatus>
-               <affiliation>1. ErsKomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 1. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -17981,7 +17978,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 55. 15. Komp.</affiliation>
+               <affiliation>IR. Nr. 55. 15. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -18007,7 +18004,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 97, 3. ErsKomp.</affiliation>
+               <affiliation>IR. Nr. 97, 3. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -18357,8 +18354,8 @@
                   <surname>Bertosch</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft.; k. k. LIR. Nr. 22</socecStatus>
-               <affiliation>2. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 22, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -18422,8 +18419,8 @@
                   <surname>Krevatin</surname>
                   <forename>Matthias</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, k. k. LIR. Nr. 22, 7. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 22, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -18669,8 +18666,8 @@
                   <surname>Kodelja</surname>
                   <forename>Lorenz</forename>
                </persName>
-               <socecStatus>ErsRes.</socecStatus>
-               <affiliation>Korp., k. k. LIR. Nr. 27, 2. ErsKomp.</affiliation>
+               <socecStatus>ErsRes., Korp.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, 2. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -18903,8 +18900,8 @@
                   <surname>Furlanič</surname>
                   <forename>Raimund</forename>
                </persName>
-               <socecStatus>Heizer 1</socecStatus>
-               <affiliation>KI., KMar., S. M. S. „Temes"</affiliation>
+               <socecStatus>Heizer 1. Kl.</socecStatus>
+               <affiliation>KMar., S. M. S. „Temes"</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -19307,7 +19304,7 @@
                   <forename>Stanislaus</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 68, 5. Komp.</affiliation>
+               <affiliation>IR. Nr. 68, 5. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -19398,7 +19395,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LIR. Nr. 27, 1. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 27, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -19502,7 +19499,7 @@
                   <forename>Felix</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 58, 9, Komp,</affiliation>
+               <affiliation>IR. Nr. 58, 9, Komp,</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -19527,8 +19524,8 @@
                   <surname>Fekonja</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, IR, Nr. 58, 2. Komp,</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 58, 2. Komp,</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -19813,8 +19810,8 @@
                   <surname>Kohej</surname>
                   <forename>Leopold</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, IR. Nr. 87, 4. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 87, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -19880,7 +19877,7 @@
                   <forename>Rudolf</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LstBezKmdo. Nr. 27</affiliation>
+               <affiliation>k. k. LstBezKmdo. Nr. 27</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -20205,7 +20202,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 97, 2./X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 97, 2./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -20256,8 +20253,8 @@
                   <surname>Faganelj</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>Inft.. IR. Nr. 97</socecStatus>
-               <affiliation>2,/X. Marschkomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 2./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -20270,7 +20267,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Korp.</socecStatus>
-               <affiliation>IR, Nr. 97, l./X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 97, l./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -20296,7 +20293,7 @@
                   <forename>Peter</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR, Nr. 97, l./X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 97, l./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -20309,7 +20306,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Inft</socecStatus>
-               <affiliation>, IR. Nr. 97, 4 /X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 97, 4 /X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -20870,8 +20867,8 @@
                   <surname>Maras</surname>
                   <forename>August</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, IR. Nr. 97, 2./X. Marschkomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 2./X. Marschkomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -22159,8 +22156,8 @@
                   <surname>Šest</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Kdt. i. d. Res</socecStatus>
-               <affiliation>, IR. Nr. 46, ErsBaon.</affiliation>
+               <socecStatus>Kdt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 46, ErsBaon.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Zirknitz</region>
@@ -22446,8 +22443,8 @@
                   <surname>Krošelj</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>ErsRes. IR. Nr. 47</socecStatus>
-               <affiliation>3. ErsKomp.</affiliation>
+               <socecStatus>ErsRes.</socecStatus>
+               <affiliation>IR. Nr. 47, 3. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -22550,7 +22547,8 @@
                   <surname>Ščuka</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft. IR. Nr. 97.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -22706,7 +22704,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LIR. Nr. 23, 2. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 23, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -22978,8 +22976,8 @@
                   <surname>Basker</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Inft. TitGefr.</socecStatus>
-               <affiliation>bh. IR. Nr. 2, 1. ErsKomp.</affiliation>
+               <socecStatus>Inft. TitGefr. bh.</socecStatus>
+               <affiliation>IR. Nr. 2, 1. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -24826,7 +24824,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR Nr. 55, 4. ErsKomp.</affiliation>
+               <affiliation>IR. Nr. 55, 4. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -24929,8 +24927,8 @@
                   <surname>Renar</surname>
                   <forename>Ivan</forename>
                </persName>
-               <socecStatus>LstJäg . FJB. Nr. 20</socecStatus>
-               <affiliation>1. Komp.</affiliation>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -25124,8 +25122,8 @@
                   <surname>Hosner</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>LstGefr.. IR. Nr. 55</socecStatus>
-               <affiliation>1. Komp.</affiliation>
+               <socecStatus>LstGefr.</socecStatus>
+               <affiliation>IR. Nr. 55, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -25556,8 +25554,8 @@
                   <surname>Dnic</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>MilÄrb</socecStatus>
-               <affiliation>, IR. Nr. 97, zugeteilt dem FJB. Nr. 20, XX. ArbAbt., 4. Komp.</affiliation>
+               <socecStatus>MilÄrb.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem FJB. Nr. 20, XX. ArbAbt., 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -25712,8 +25710,7 @@
                   <surname>Cernigio</surname>
                   <forename>Viktor</forename>
                </persName>
-               <socecStatus>IR. Nr. 27</socecStatus>
-               <affiliation>6. Komp.</affiliation>
+               <affiliation>IR. Nr. 27, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umg.</region>
@@ -25725,8 +25722,8 @@
                   <surname>Goglia</surname>
                   <forename>Humbert</forename>
                </persName>
-               <socecStatus>LstInft.. IR. Nr. 27</socecStatus>
-               <affiliation>7. Komp.</affiliation>
+               <socecStatus>LstInft.</socecStatus>
+               <affiliation>IR. Nr. 27, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -26063,7 +26060,7 @@
                   <surname>Paulin</surname>
                   <forename>Leopold</forename>
                </persName>
-               <socecStatus>IstInft.</socecStatus>
+               <socecStatus>LstInft.</socecStatus>
                <affiliation>IR. Nr. 97, 4. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -27743,8 +27740,8 @@
                   <surname>Trpin</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <socecStatus>LstInft. IR. Nr. 97</socecStatus>
-               <affiliation>7. ErsKomp.</affiliation>
+               <socecStatus>LstInft.</socecStatus>
+               <affiliation>IR. Nr. 97, 7. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -27873,7 +27870,8 @@
                   <surname>Gruden</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>ErsRes. k. k. LstMarschB. Nr. 29</affiliation>
+               <socecStatus>ErsRes.</socecStatus>
+               <affiliation>k. k. LstMarschB. Nr. 29</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -28392,9 +28390,10 @@
                <persName>
                   <surname>Tonkli</surname>
                   <forename>Oskar</forename>
+                  <roleName>Ritt. v.</roleName>
                </persName>
-               <socecStatus>Ritt</socecStatus>
-               <affiliation>v., Hptm., FJB. Nr. 7</affiliation>
+               <socecStatus>Hptm.</socecStatus>
+               <affiliation>FJB. Nr. 7</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -28615,7 +28614,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LIR. Nr. 27, 12. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 27, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -28823,7 +28822,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LIR. Nr. 27, 3. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 27, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -29852,7 +29851,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Korp.</socecStatus>
-               <affiliation>IR, Nr. 87, 6. Komp.</affiliation>
+               <affiliation>IR. Nr. 87, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -29929,8 +29928,8 @@
                   <surname>Terčelj</surname>
                   <forename>Alois</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 87</socecStatus>
-               <affiliation>6. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 87, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -30111,8 +30110,8 @@
                   <surname>Čehovin</surname>
                   <forename>Kasimir</forename>
                </persName>
-               <socecStatus>Kdt. i</socecStatus>
-               <affiliation>d. R., k. k. LIR. Nr. 27, 8. Komp.</affiliation>
+               <socecStatus>Kdt. i. d. R.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -31369,14 +31368,15 @@
                <persName>
                   <surname>Schönberger</surname>
                   <forename>Ernst</forename>
+                  <roleName>Freih. von</roleName>
                </persName>
-               <socecStatus>Freih. von</socecStatus>
-               <affiliation>FregattenLt., KMar.</affiliation>
+               <socecStatus>FregattenLt.</socecStatus>
+               <affiliation>KMar.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
                </birth>
-               <note>1894; kriegsgef,, Civita, Castellana, Italien.</note>
+               <note>1894; kriegsgef., Civita, Castellana, Italien.</note>
             </person>
             <person xml:id="vll.19161024_481.6130">
                <persName>
@@ -32138,8 +32138,8 @@
                   <forename>Bartolo</forename>
                   <forename>Jakob</forename>
                </persName>
-               <socecStatus>Matrose 1. Kl. M. V. M. KMar.</socecStatus>
-               <affiliation>S. M. Torpedoboot "51T.”</affiliation>
+               <socecStatus>Matrose 1. Kl.</socecStatus>
+               <affiliation>M. V. M. KMar., S. M. Torpedoboot "51T.”</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Pirano</region>
@@ -32802,8 +32802,8 @@
                   <surname>Krapež</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>Infst.</socecStatus>
-               <affiliation>(Pion.), k. k. LIR. Nr. 27, 1. Komp.</affiliation>
+               <socecStatus>Infst. (Pion.)</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -32841,8 +32841,8 @@
                   <surname>Kurinčič</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>Infst.</socecStatus>
-               <affiliation>(Pion.), k. k. LIR. Nr. 27, 1. Komp.</affiliation>
+               <socecStatus>Infst. (Pion.)s</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -32972,7 +32972,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Infst.</socecStatus>
-               <affiliation>k k. LIR. Nr. 27, 8. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 27, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -33101,8 +33101,7 @@
                   <surname>Rijavec</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>k. k. LIR. Nr. 27</socecStatus>
-               <affiliation>1. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 27, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -33530,7 +33529,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Lstlnfst.</socecStatus>
-               <affiliation>IK. Nr. 55, 2. ErsKomp.</affiliation>
+               <affiliation>IR. Nr. 55, 2. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -34288,7 +34287,7 @@
                   <forename>Iwan</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
-               <affiliation>IR Nr. 58, 5. ErsKomp.</affiliation>
+               <affiliation>IR. Nr. 58, 5. ErsKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -34911,8 +34910,8 @@
                   <surname>Pachor</surname>
                   <forename>Andreas</forename>
                </persName>
-               <socecStatus>LstInfst</socecStatus>
-               <affiliation>, k. k. LIR. Nr. 4, 8. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 4, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -35132,8 +35131,7 @@
                   <surname>Lazar</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>k. k. LstIR. Nr. 27</socecStatus>
-               <affiliation>6. Komp.</affiliation>
+               <affiliation>k. k. LstIR. Nr. 27, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -36237,8 +36235,8 @@
                   <surname>Orel</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus/>
-               <affiliation>LstInfst., IR. Nr. 55, 11. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 55, 11. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -37640,8 +37638,8 @@
                   <surname>Kuljad</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>SanUnterjäg.. k. k. KschR. Nr. I</socecStatus>
-               <affiliation>1. Komp.</affiliation>
+               <socecStatus>SanUnterjäg.</socecStatus>
+               <affiliation>k. k. KschR. Nr. I, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -38290,8 +38288,8 @@
                   <surname>Peteršič</surname>
                   <forename>Martin</forename>
                </persName>
-               <socecStatus>ErsResInfst. IR. Nr. 17</socecStatus>
-               <affiliation>9. Komp.</affiliation>
+               <socecStatus>ErsResInfst.</socecStatus>
+               <affiliation>IR. Nr. 17, 9. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>St. Vicento</region>
@@ -39549,7 +39547,7 @@
                   <surname>Pfrus</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Lst;nfst.</socecStatus>
+               <socecStatus>LstInfst.</socecStatus>
                <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
@@ -39810,7 +39808,7 @@
                   <forename>Karl</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
-               <affiliation>k, k. LstIR. Nr. 27, 1. Komp.</affiliation>
+               <affiliation>k. k. LstIR. Nr. 27, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -40095,8 +40093,8 @@
                   <surname>Gorjup</surname>
                   <forename>Alois</forename>
                </persName>
-               <socecStatus>Fähnr.</socecStatus>
-               <affiliation>i. d. Res., k. k. LstIR. Nr. 27, III. MGKomp.</affiliation>
+               <socecStatus>Fähnr. i. d. Res.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27, III. MGKomp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -43416,8 +43414,8 @@
                   <surname>Tonkli</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>Dr.</socecStatus>
-               <affiliation>Lt. i. d. Res., k. u. k. FAR. Nr. 1</affiliation>
+               <socecStatus>Dr., Lt. i. d. Res.</socecStatus>
+               <affiliation>k. u. k. FAR. Nr. 1</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -43689,8 +43687,8 @@
                   <surname>Strgar</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <socecStatus>Infst</socecStatus>
-               <affiliation>, IR. Nr. 47, 3. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 47, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -43936,8 +43934,8 @@
                   <surname>Hvala</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>LstInfst</socecStatus>
-               <affiliation>, IR. Nr. 17, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 17, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
