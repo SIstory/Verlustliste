@@ -15,8 +15,8 @@
     
     <xsl:output method="xml" indent="yes"/>
     
-    <xsl:param name="land-part">Spodnja Štajerska</xsl:param>
-    <xsl:param name="okraji-file">Steiermark-okraji-SI.xml</xsl:param>
+    <xsl:param name="land-part">Slovenska Primorska</xsl:param>
+    <xsl:param name="okraji-file">Kustenland-okraji-SI.xml</xsl:param>
     
     <xsl:variable name="document-uri" select="document-uri(.)"/>
     <xsl:variable name="document-uri-filename" select="(tokenize($document-uri,'/'))[last()]"/>
