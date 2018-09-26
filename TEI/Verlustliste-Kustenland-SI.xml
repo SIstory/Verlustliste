@@ -237,9 +237,9 @@
             <person xml:id="vll.19141121_66_67.13150">
                <persName>
                   <surname>Semolič</surname>
-                  <forename>Johann. ErsKan.</forename>
+                  <forename>Johann</forename>
                </persName>
-               <affiliation>FKR. Nr. 8, Batt. 5</affiliation>
+               <affiliation>ErsKan., FKR. Nr. 8, Batt. 5</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -272,8 +272,8 @@
             </person>
             <person xml:id="vll.19141127_69.15962" sameAs="VIL.15">
                <persName>
-                  <surname>Žerjal</surname>
-                  <forename>statt Zejral Anton</forename>
+                  <surname>Žerjal statt Zejral</surname>
+                  <forename>Anton</forename>
                </persName>
                <affiliation>Reslnft., IR. Nr. 3, 10. Komp.</affiliation>
                <birth>
@@ -429,7 +429,8 @@
             <person xml:id="vll.19141203_72_E5.3844">
                <persName>
                   <surname>Kos</surname>
-                  <forename>Eugen Anton</forename>
+                  <forename>Eugen</forename>
+                  <forename>Anton</forename>
                </persName>
                <affiliation>ErsRes., k. k. LstArtAbt. 8/3, Batt. 5</affiliation>
                <birth>
@@ -717,7 +718,8 @@
             <person xml:id="vll.19141207_75.7242">
                <persName>
                   <surname>Žagar</surname>
-                  <forename>Heinrich Andreas</forename>
+                  <forename>Heinrich</forename>
+                  <forename>Andreas</forename>
                </persName>
                <affiliation>ErsRes., k. k. LIR. Nr. 27</affiliation>
                <birth>
@@ -740,8 +742,8 @@
             </person>
             <person xml:id="vll.19141209_76.8574">
                <persName>
-                  <surname>Berlot</surname>
-                  <forename>statt Berlat Johann</forename>
+                  <surname>Berlot statt Berlat</surname>
+                  <forename>Johann</forename>
                </persName>
                <affiliation>Inft., IR. Kr. 88, 8. Komp.</affiliation>
                <birth>
@@ -860,8 +862,10 @@
             </person>
             <person xml:id="vll.19150109_97.742">
                <persName>
-                  <surname>Formentini</surname>
-                  <forename>zu Tolmein und Biglia Conte von Musmezzi Johann Freiherr von</forename>
+                  <roleName>Conte von</roleName>
+                  <surname>Musmezzi</surname>
+                  <forename>Johann</forename>
+                  <roleName>Freiherr von</roleName>
                </persName>
                <affiliation>Hptm., k. k. LIR, Nr. 25, 10. Komp.</affiliation>
                <birth>
@@ -993,9 +997,9 @@
             <person xml:id="vll.19150110_98.10168" sameAs="VIL.57">
                <persName>
                   <surname>Brezar</surname>
-                  <forename>Rudolf ErsResGefr. statt ErsRes. IR. Nr. 17</forename>
+                  <forename>Rudolf</forename>
                </persName>
-               <affiliation>12. Komp.</affiliation>
+               <affiliation>ErsResGefr. statt ErsRes., IR. Nr. 17, 12. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgeb.</region>
@@ -1004,8 +1008,9 @@
             </person>
             <person xml:id="vll.19150113_101.8478" sameAs="VIL.24">
                <persName>
-                  <surname>Praßel</surname>
-                  <forename>statt Prassel Johann Anton</forename>
+                  <surname>Praßel statt Prassel</surname>
+                  <forename>Johann</forename>
+                  <forename>Anton</forename>
                </persName>
                <affiliation>ErsRes., IR. Nr. 47, 3. ErsKomp. statt 13. Komp.</affiliation>
                <birth>
@@ -1065,7 +1070,8 @@
             <person xml:id="vll.19150120_108.4920">
                <persName>
                   <surname>Krašna</surname>
-                  <forename>Jos. Karl</forename>
+                  <forename>Jos.</forename>
+                  <forename>Karl</forename>
                </persName>
                <affiliation>Gefr. TitKorp., k. k. LIR. Nr. 27, 5. Komp.</affiliation>
                <birth>
@@ -1077,7 +1083,8 @@
             <person xml:id="vll.19150120_108.5516">
                <persName>
                   <surname>Marinich</surname>
-                  <forename>Johann Blasius</forename>
+                  <forename>Johann</forename>
+                  <forename>Blasius</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 27, 4. Komp.</affiliation>
                <birth>
@@ -1089,7 +1096,8 @@
             <person xml:id="vll.19150120_108.7226">
                <persName>
                   <surname>Rosich</surname>
-                  <forename>Peter Valent.</forename>
+                  <forename>Peter</forename>
+                  <forename>Valent.</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 27, 4. ErsRomp.</affiliation>
                <birth>
@@ -1460,8 +1468,8 @@
             </person>
             <person xml:id="vll.19150129_116.8648" sameAs="VIL.52">
                <persName>
-                  <surname>Pervanje</surname>
-                  <forename>statt Pervanja Stephan</forename>
+                  <surname>Pervanje statt Pervanja</surname>
+                  <forename>Stephan</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
@@ -1867,7 +1875,10 @@
                <note>Čniče, 1884, verw.</note>
             </person>
             <person xml:id="vll.19150206_121.9254">
-               <affiliation>Watsehina Josef</affiliation>
+               <persName>
+                  <surname>Watsehina</surname>
+                  <forename>Josef</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -2033,9 +2044,9 @@
             <person xml:id="vll.19150213_125.2652">
                <persName>
                   <surname>Fakin</surname>
-                  <forename>Karl. Gefr.</forename>
+                  <forename>Karl</forename>
                </persName>
-               <affiliation>IR. Nr. 97, ß. Komp.</affiliation>
+               <affiliation>Gefr., IR. Nr. 97, ß. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -2153,7 +2164,8 @@
             <person xml:id="vll.19150213_125.6082">
                <persName>
                   <surname>Muzič</surname>
-                  <forename>Georg Josef</forename>
+                  <forename>Georg</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>ErsRes., IR. Nr. 97, 4. Komp.</affiliation>
                <birth>
@@ -2260,8 +2272,8 @@
             </person>
             <person xml:id="vll.19150213_125.9682" sameAs="VIL.52">
                <persName>
-                  <surname>Cerv</surname>
-                  <forename>statt Coro Peter</forename>
+                  <surname>Cerv statt Coro</surname>
+                  <forename>Peter</forename>
                </persName>
                <affiliation>Zugsf., IR, Nr. 97, 6. Komp.</affiliation>
                <birth>
@@ -2297,7 +2309,8 @@
             <person xml:id="vll.19150218_129.2814">
                <persName>
                   <surname>Gravnar</surname>
-                  <forename>Cyrill Matthäus</forename>
+                  <forename>Cyrill</forename>
+                  <forename>Matthäus</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 1. Komp.</affiliation>
                <birth>
@@ -2357,7 +2370,8 @@
             <person xml:id="vll.19150218_129.6282">
                <persName>
                   <surname>Petterin</surname>
-                  <forename>Quirino Skveastiko</forename>
+                  <forename>Quirino</forename>
+                  <forename>Skveastiko</forename>
                </persName>
                <affiliation>ErsRes., FJB. Nr. 7</affiliation>
                <birth>
@@ -2441,7 +2455,8 @@
             <person xml:id="vll.19150222_131.1846">
                <persName>
                   <surname>Čevdek</surname>
-                  <forename>Josef Franz</forename>
+                  <forename>Josef</forename>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>ErsRes.</affiliation>
                <birth>
@@ -2824,8 +2839,8 @@
             </person>
             <person xml:id="vll.19150303_136.9188" sameAs="VIL.24">
                <persName>
-                  <surname>Gravner</surname>
-                  <forename>statt Gravnar Otto</forename>
+                  <surname>Gravner statt Gravnar</surname>
+                  <forename>Otto</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 47, 6. Komp.</affiliation>
                <birth>
@@ -2836,8 +2851,8 @@
             </person>
             <person xml:id="vll.19150303_136.9232" sameAs="VIL.24">
                <persName>
-                  <surname>Krovatin</surname>
-                  <forename>statt Krobatin Josef</forename>
+                  <surname>Krovatin statt Krobatin</surname>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>ResInft., IR. Nr. 47, 13. Komp.</affiliation>
                <birth>
@@ -2861,7 +2876,9 @@
             <person xml:id="vll.19150303_136.9330" sameAs="VIL.24">
                <persName>
                   <surname>Laščak</surname>
-                  <forename>Eduard Rudolf statt Rudolf</forename>
+                  <forename>Eduard</forename>
+                  <forename>Rudolf</forename>
+                  <note>statt Rudolf</note>
                </persName>
                <affiliation>ResInft. statt Inft., IR. Nr. 47, 3. Komp.</affiliation>
                <birth>
@@ -2908,8 +2925,8 @@
             </person>
             <person xml:id="vll.19150303_136.9642" sameAs="VIL.24">
                <persName>
-                  <surname>Valenčak</surname>
-                  <forename>statt Valensak Heinrich</forename>
+                  <surname>Valenčak statt Valensak</surname>
+                  <forename>Heinrich</forename>
                </persName>
                <affiliation>ResInft., IR. Nr. 47, 6. Komp.</affiliation>
                <birth>
@@ -2920,8 +2937,8 @@
             </person>
             <person xml:id="vll.19150303_136.9688" sameAs="VIL.24">
                <persName>
-                  <surname>Zei</surname>
-                  <forename>statt Zej Alois</forename>
+                  <surname>Zei statt Zej</surname>
+                  <forename>Alois</forename>
                </persName>
                <affiliation>ErsRes., IR. Nr. 47, .4. Komp.</affiliation>
                <birth>
@@ -2933,7 +2950,8 @@
             <person xml:id="vll.19150304_137.696">
                <persName>
                   <surname>Persa</surname>
-                  <forename>Edler v. Liebenwald Artur</forename>
+                  <roleName>Edler v. Liebenwald</roleName>
+                  <forename>Artur</forename>
                </persName>
                <affiliation>Hptm., FJB. Nr. 20, 1. Komp.</affiliation>
                <birth>
@@ -3400,7 +3418,7 @@
             </person>
             <person xml:id="vll.19150317_143.1432">
                <persName>
-                  <forename>Bensa</forename>
+                  <surname>Bensa</surname>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
@@ -3423,7 +3441,7 @@
             </person>
             <person xml:id="vll.19150317_143.1542">
                <persName>
-                  <forename>Bisjak</forename>
+                  <surname>Bisjak</surname>
                </persName>
                <affiliation>ErsRes., IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
@@ -3867,9 +3885,9 @@
             <person xml:id="vll.19150317_143.3788">
                <persName>
                   <surname>Humar</surname>
-                  <forename>Johann. Inft.</forename>
+                  <forename>Johann</forename>
                </persName>
-               <affiliation>IR, Nr. 97, 8. Komp.</affiliation>
+               <affiliation>Inft., IR. Nr. 97, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -3950,10 +3968,10 @@
             </person>
             <person xml:id="vll.19150317_143.4026">
                <persName>
-                  <surname>Jelerfiß</surname>
-                  <forename>.Toharj'.</forename>
+                  <surname>Jelerfič</surname>
+                  <forename>Toharj</forename>
                </persName>
-               <affiliation>inft., IR. Nr. 97, ■ 11. Komp.</affiliation>
+               <affiliation>Inft., IR. Nr. 97, 11. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umg.</region>
@@ -4875,9 +4893,9 @@
             <person xml:id="vll.19150317_143.7376">
                <persName>
                   <surname>Ravbar</surname>
-                  <forename>Johann Inft.</forename>
+                  <forename>Johann</forename>
                </persName>
-               <affiliation>IR, Nr. 97,10. Komp.</affiliation>
+               <affiliation>Inft., IR. Nr. 97,10. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -5031,9 +5049,9 @@
             <person xml:id="vll.19150317_143.8118">
                <persName>
                   <surname>Skok</surname>
-                  <forename>Josef. Gefr.</forename>
+                  <forename>Josef</forename>
                </persName>
-               <affiliation>IR. Nr. 97, 1. Komp.</affiliation>
+               <affiliation>Gefr., IR. Nr. 97, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -5643,7 +5661,8 @@
             <person xml:id="vll.19150322_146.6166">
                <persName>
                   <surname>Marez</surname>
-                  <forename>Alois Florian</forename>
+                  <forename>Alois</forename>
+                  <forename>Florian</forename>
                </persName>
                <affiliation>ErsRes., k. k. LIR. Nr. 4, 2./4. Komp.</affiliation>
                <birth>
@@ -5978,8 +5997,8 @@
             </person>
             <person xml:id="vll.19150330_152.5706">
                <persName>
-                  <surname>Marinovič</surname>
-                  <forename>rekte Marušič Franz</forename>
+                  <surname>Marinovič rekte Marušič</surname>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 4. Komp.</affiliation>
                <birth>
@@ -6637,7 +6656,10 @@
                <note>St. Andrä, 1889, verw.</note>
             </person>
             <person xml:id="vll.19150414_160.1832">
-               <affiliation>Cacianeiz Josef</affiliation>
+               <persName>
+                  <surname>Cacianeiz</surname>
+                  <forename>Josef</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -6717,7 +6739,10 @@
                <note>Kirchheim, 1875, tot (22.- 24./2. 1915).</note>
             </person>
             <person xml:id="vll.19150416_162.4580">
-               <affiliation>Jelcny Alois</affiliation>
+               <persName>
+                  <surname>Jelcny</surname>
+                  <forename>Alois</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -6726,7 +6751,7 @@
             </person>
             <person xml:id="vll.19150422_165.3332">
                <persName>
-                  <forename>Ivančič</forename>
+                  <surname>Ivančič</surname>
                </persName>
                <affiliation>Kan., GAR. Nr. 3, KnBatt. 2</affiliation>
                <birth>
@@ -6796,7 +6821,10 @@
                <note>Povir, 1891, tot (26.-27./3.1915).</note>
             </person>
             <person xml:id="vll.19150429_169.9698">
-               <affiliation>Zlatic Josef</affiliation>
+               <persName>
+                  <surname>Zlatic</surname>
+                  <forename>Josef</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -7188,7 +7216,10 @@
                <note>Luico, 1893. verw.</note>
             </person>
             <person xml:id="vll.19150508_174.2340">
-               <affiliation>Destraidick Johann</affiliation>
+               <persName>
+                  <surname>Destraidick</surname>
+                  <forename>Johann</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -7196,7 +7227,11 @@
                <note>kriegsgef. (Elabuga, Gouvernement Wjatka, Rußland.)</note>
             </person>
             <person xml:id="vll.19150508_174.3504">
-               <affiliation>Grattop Johann Gefr.</affiliation>
+               <persName>
+                  <surname>Grattop</surname>
+                  <forename>Johann</forename>
+               </persName>
+               <affiliation>Gefr.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7266,7 +7301,8 @@
             <person xml:id="vll.19150513_177.7272">
                <persName>
                   <surname>Liceu</surname>
-                  <forename>Michael Franz</forename>
+                  <forename>Michael</forename>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>Patrf., FJB. Nr. 20, 1. Komp.</affiliation>
                <birth>
@@ -7542,7 +7578,8 @@
             <person xml:id="vll.19150519_181.6528">
                <persName>
                   <surname>Faljevec</surname>
-                  <forename>Wenzeslaus Karl</forename>
+                  <forename>Wenzeslaus</forename>
+                  <forename>Karl</forename>
                </persName>
                <affiliation>ErsRes., IR. Nr. 8., 2. Komp.</affiliation>
                <birth>
@@ -7674,7 +7711,8 @@
             <person xml:id="vll.19150602_186.10240">
                <persName>
                   <surname>Tatovez</surname>
-                  <forename>Johann Alois des Matthäus</forename>
+                  <forename>Johann</forename>
+                  <forename>Alois des Matthäus</forename>
                </persName>
                <affiliation>Zugsf. TitFeldw., k. k. LIR. Nr. 6, 4. ErsKomp.</affiliation>
                <birth>
@@ -7698,9 +7736,10 @@
             <person xml:id="vll.19150602_186.10632">
                <persName>
                   <surname>Weber</surname>
-                  <forename>Peter Alois des f Josef. ErsRes.</forename>
+                  <forename>Peter</forename>
+                  <forename>Alois des Josef</forename>
                </persName>
-               <affiliation>k. k. LIR. Nr. 5,1. Komp.</affiliation>
+               <affiliation>ErsRes., k. k. LIR. Nr. 5, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7708,7 +7747,10 @@
                <note>1885, kriegsgef. (Tomsk, Rußland.)</note>
             </person>
             <person xml:id="vll.19150605_188.2094">
-               <affiliation>Čudak Leon</affiliation>
+               <persName>
+                  <surname>Čudak</surname>
+                  <forename>Leon</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7740,7 +7782,10 @@
                <note>Kosina, 1894, verw.</note>
             </person>
             <person xml:id="vll.19150609_191.7184">
-               <affiliation>Pušic Johann</affiliation>
+               <persName>
+                  <surname>Pušic</surname>
+                  <forename>Johann</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -7773,7 +7818,8 @@
             </person>
             <person xml:id="vll.19150616_194.5534">
                <persName>
-                  <forename>Krctic'Johann</forename>
+                  <surname>Krstič</surname>
+                  <forename>Johann</forename>
                </persName>
                <affiliation>Korp., IR. Nr. 97, 3. ErsKomp.</affiliation>
                <birth>
@@ -7843,7 +7889,10 @@
                <note>Canziano (Renče), 1885, kriegsgef. (Petropawlowsk, Gouvernement Akmolinsk, Rußland)</note>
             </person>
             <person xml:id="vll.19150625_200.1198">
-               <affiliation>iip Baschlve Franz</affiliation>
+               <persName>
+                  <surname>Baschlve</surname>
+                  <forename>Franz</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -8296,8 +8345,8 @@
             </person>
             <person xml:id="vll.19150625_200.11908">
                <persName>
-                  <surname>Szvagelj</surname>
-                  <forename>statt Svagelj Alois</forename>
+                  <surname>Szvagelj statt Svagelj</surname>
+                  <forename>Alois</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 47 , 1. Komp.</affiliation>
                <birth>
@@ -8331,7 +8380,10 @@
                <note>Dol. Otlica, 1892, kriegsgef. (Sadonsk, Gouvernement Woronesh, Rußland. War verwundet gemeldet.)</note>
             </person>
             <person xml:id="vll.19150626_201.10466">
-               <affiliation>Witianka Grigoru</affiliation>
+               <persName>
+                  <surname>Witianka</surname>
+                  <forename>Grigoru</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -8483,7 +8535,10 @@
                <note>Stanjel, 1892, kriegsgef. (Potschinki, Gouvernement Nishnij-Nowgorod, Rußland.)</note>
             </person>
             <person xml:id="vll.19150708_207.5426">
-               <affiliation>Levnjgjich Godojas</affiliation>
+               <persName>
+                  <surname>Levnjgjich</surname>
+                  <forename>Godojas</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -9092,8 +9147,8 @@
             </person>
             <person xml:id="vll.19150731_225.2428">
                <persName>
-                  <surname>Devetak</surname>
-                  <forename>vulgo Brekič Peter</forename>
+                  <surname>Devetak vulgo Brekič</surname>
+                  <forename>Peter</forename>
                </persName>
                <affiliation>ErsRes., IR. Nr. 87, 2. Marschkomp.</affiliation>
                <birth>
@@ -9225,7 +9280,8 @@
             <person xml:id="vll.19150731_225.8424">
                <persName>
                   <surname>Rot</surname>
-                  <forename>I Franz</forename>
+                  <genName>I</genName>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>LstInft., k. k. LdsGendKmdo. Nr. 7, Abt. Görz Nr. 2, Posten Serpenizza Nr. 29</affiliation>
                <birth>
@@ -9405,7 +9461,8 @@
             <person xml:id="vll.19150806_230.3564">
                <persName>
                   <surname>Jerič</surname>
-                  <forename>Method Alois</forename>
+                  <forename>Method</forename>
+                  <forename>Alois</forename>
                </persName>
                <affiliation>ErsRes., IR. Nr. 87,2. Marschkomp.</affiliation>
                <birth>
@@ -9535,7 +9592,10 @@
                <note>Czermic, 1895, verw.</note>
             </person>
             <person xml:id="vll.19150812_235.1480">
-               <affiliation>Blazisa Jordan</affiliation>
+               <persName>
+                  <surname>Blazisa</surname>
+                  <forename>Jordan</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -10396,7 +10456,7 @@
             </person>
             <person xml:id="vll.19150822_245.966">
                <persName>
-                  <forename>Arbrvic</forename>
+                  <surname>Arbrvic</surname>
                </persName>
                <affiliation>Inft., IR. Nr. 68,12. Komp.</affiliation>
                <birth>
@@ -10600,7 +10660,7 @@
             <person xml:id="vll.19150822_245.9034">
                <persName>
                   <surname>Wodop</surname>
-                  <forename>vec Leopold</forename>
+                  <forename>Leopold</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 58, 12. Komp.</affiliation>
                <birth>
@@ -11018,7 +11078,10 @@
                <note>1891, tot (1.-4./6. 1915).</note>
             </person>
             <person xml:id="vll.19150825_247.2084">
-               <affiliation>Devani Pavsic</affiliation>
+               <persName>
+                  <surname>Devani</surname>
+                  <forename>Pavsic</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -11244,7 +11307,8 @@
             <person xml:id="vll.19150825_247.4970">
                <persName>
                   <surname>Leban</surname>
-                  <forename>II Josef</forename>
+                  <genName>II</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 36, 4. Komp.</affiliation>
                <birth>
@@ -11722,7 +11786,10 @@
                <note>Breginy, 1877, verw.</note>
             </person>
             <person xml:id="vll.19150828_250.8348">
-               <affiliation>Sorbo Anton</affiliation>
+               <persName>
+                  <surname>Sorbo</surname>
+                  <forename>Anton</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -11744,9 +11811,10 @@
             <person xml:id="vll.19150829_251.654">
                <persName>
                   <surname>Hentschel</surname>
-                  <forename>von</forename>
+                  <roleName>von</roleName>
+                  <forename>Friedrich</forename>
                </persName>
-               <affiliation>Friedrich, Fähnr., IR. Nr. IR. 16. Komp.</affiliation>
+               <affiliation>Fähnr., IR. Nr. IR. 16. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -12200,7 +12268,8 @@
             <person xml:id="vll.19150904_257.5370">
                <persName>
                   <surname>Kresovič</surname>
-                  <forename>II Josef</forename>
+                  <genName>II</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 5),10. Komp.</affiliation>
                <birth>
@@ -12308,7 +12377,8 @@
             <person xml:id="vll.19150904_257.8766">
                <persName>
                   <surname>Skabar</surname>
-                  <forename>I Josef</forename>
+                  <genName>I</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 5), 10. Komp.</affiliation>
                <birth>
@@ -12414,7 +12484,10 @@
                <note>Dolina, 1884, tot (14.-15./7. 1915).</note>
             </person>
             <person xml:id="vll.19150907_260.3134">
-               <affiliation>Flego Petar</affiliation>
+               <persName>
+                  <surname>Flego</surname>
+                  <forename>Petar</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -12699,7 +12772,7 @@
             </person>
             <person xml:id="vll.19150915_266.2104">
                <persName>
-                  <forename>Covrento</forename>
+                  <surname>Covrento</surname>
                </persName>
                <affiliation>Jag., FJB. Nr. 15,1. Komp.</affiliation>
                <birth>
@@ -12722,7 +12795,7 @@
             </person>
             <person xml:id="vll.19150915_266.4612">
                <persName>
-                  <forename>Kavciü</forename>
+                  <surname>Kavcič</surname>
                </persName>
                <affiliation>Jäg., FJB. Nr. 15, 2. Komp.</affiliation>
                <birth>
@@ -13178,7 +13251,8 @@
             <person xml:id="vll.19150917_268.2082">
                <persName>
                   <surname>Del</surname>
-                  <forename>Zotto Josef</forename>
+                  <forename>Zotto</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Korp., IR. Nr. 97, II. ErsKomp.</affiliation>
                <birth>
@@ -13188,7 +13262,10 @@
                <note>1885, kriegsgef., Rußland.</note>
             </person>
             <person xml:id="vll.19150917_268.2328">
-               <affiliation>Dudim Mauro</affiliation>
+               <persName>
+                  <surname>Dudim</surname>
+                  <forename>Mauro</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -13196,7 +13273,10 @@
                <note>Isola, kriegsgef. (Gestorben am 15./2. 1915 im 7. Reserve-Militärspital in Niš, Serbien.)</note>
             </person>
             <person xml:id="vll.19150917_268.2330">
-               <affiliation>Dudin Manzo</affiliation>
+               <persName>
+                  <surname>Dudin</surname>
+                  <forename>Manzo</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -13541,8 +13621,8 @@
             </person>
             <person xml:id="vll.19150917_268.8966" sameAs="VIL.52">
                <persName>
-                  <surname>Kafol</surname>
-                  <forename>statt Kofol Peter</forename>
+                  <surname>Kafol statt Kofol</surname>
+                  <forename>Peter</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 3. Komp.</affiliation>
                <birth>
@@ -13696,7 +13776,10 @@
                <note>Hramše, 1895, verw.</note>
             </person>
             <person xml:id="vll.19150922_271.8578">
-               <affiliation>Schizzelin Jakob</affiliation>
+               <persName>
+                  <surname>Schizzelin</surname>
+                  <forename>Jakob</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -13800,7 +13883,10 @@
                <note>Helfenberg, 1887, verw., kriegsgef., Petropawlowsk, Gebiet Akmolinsk, Rußland.</note>
             </person>
             <person xml:id="vll.19150927_276.5060">
-               <affiliation>Lenardic Josef</affiliation>
+               <persName>
+                  <surname>Lenardic</surname>
+                  <forename>Josef</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -14012,7 +14098,10 @@
                <note>Ranziano (Renče), 1877, kriegsgef., Bobrow, Gouvernement Woronesh, Rußland.</note>
             </person>
             <person xml:id="vll.19150930_279.7366">
-               <affiliation>Parutta Angelo</affiliation>
+               <persName>
+                  <surname>Parutta</surname>
+                  <forename>Angelo</forename>
+               </persName>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -14237,7 +14326,7 @@
             </person>
             <person xml:id="vll.19151007_286.4978">
                <persName>
-                  <forename>Loridan</forename>
+                  <surname>Loridan</surname>
                </persName>
                <affiliation>LstInft., IR. Nr. 87, 3. Komp.</affiliation>
                <birth>
@@ -14825,7 +14914,8 @@
             <person xml:id="vll.19151010_289.8718">
                <persName>
                   <surname>Pirok</surname>
-                  <forename>Franz Josef</forename>
+                  <forename>Franz</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 55, 14. Komp.</affiliation>
                <birth>
@@ -14873,7 +14963,8 @@
             <person xml:id="vll.19151010_289.9168">
                <persName>
                   <surname>Remec</surname>
-                  <forename>Michael Ignatz</forename>
+                  <forename>Michael</forename>
+                  <forename>Ignatz</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 55, 14. Komp.</affiliation>
                <birth>
@@ -15089,7 +15180,8 @@
             <person xml:id="vll.19151012_290.1320">
                <persName>
                   <surname>Bavčon</surname>
-                  <forename>Josef Johann</forename>
+                  <forename>Josef</forename>
+                  <forename>Johann</forename>
                </persName>
                <affiliation>Gefr., k. k. LIR. Nr. 27, 3. ErsKomp.</affiliation>
                <birth>
@@ -15905,7 +15997,8 @@
             <person xml:id="vll.19151016_294.10004">
                <persName>
                   <surname>Žnidarčič</surname>
-                  <forename>Anton Johann</forename>
+                  <forename>Anton</forename>
+                  <forename>Johann</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 27, 1. ErsKomp.</affiliation>
                <birth>
@@ -16265,7 +16358,8 @@
             <person xml:id="vll.19151028_303.5336">
                <persName>
                   <surname>Leban</surname>
-                  <forename>I. Josef</forename>
+                  <genName>I.</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 36, 4. Komp.</affiliation>
                <birth>
@@ -18281,7 +18375,8 @@
             <person xml:id="vll.19151130_325.6966">
                <persName>
                   <surname>Medeot</surname>
-                  <forename>Josef Franz</forename>
+                  <forename>Josef</forename>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>Sapp., SappB. Nr. 3, ErsKomp.</affiliation>
                <birth>
@@ -18725,7 +18820,8 @@
             <person xml:id="vll.19151208_331.2642">
                <persName>
                   <surname>Gabršček</surname>
-                  <forename>I Franz</forename>
+                  <genName>I</genName>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>ErsRes., FJB. Nr. 20, 3, Komp,</affiliation>
                <birth>
@@ -18737,7 +18833,8 @@
             <person xml:id="vll.19151208_331.2644">
                <persName>
                   <surname>Gaberščik</surname>
-                  <forename>I Franz</forename>
+                  <genName>I</genName>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>Zugsf., FJB. Nr. 20, 2. Komp.</affiliation>
                <birth>
@@ -18845,7 +18942,8 @@
             <person xml:id="vll.19151208_331.3668">
                <persName>
                   <surname>Humar</surname>
-                  <forename>I Josef</forename>
+                  <genName>I</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 2./X. Marschkomp.</affiliation>
                <birth>
@@ -19457,7 +19555,8 @@
             <person xml:id="vll.19151208_331.6778">
                <persName>
                   <surname>Rebula</surname>
-                  <forename>August Josef</forename>
+                  <forename>August</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 97, 2./X. Marschkomp.</affiliation>
                <birth>
@@ -19721,7 +19820,8 @@
             <person xml:id="vll.19151208_331.8130">
                <persName>
                   <surname>Taučer</surname>
-                  <forename>I Johann</forename>
+                  <genName>I</genName>
+                  <forename>Johann</forename>
                </persName>
                <affiliation>Gefr., IR. Nr. 97, l./X. Marschkomp.</affiliation>
                <birth>
@@ -20441,7 +20541,8 @@
             <person xml:id="vll.19160107_351.6174">
                <persName>
                   <surname>Kresevič</surname>
-                  <forename>I Josef</forename>
+                  <genName>I</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Gefr., k. k. LIR. Nr. 5, zugeteilt dem k. k. LIR. Nr. 37, 10. Komp.</affiliation>
                <birth>
@@ -21484,7 +21585,7 @@
             </person>
             <person xml:id="vll.19160208_373.7504">
                <persName>
-                  <forename>Sematic</forename>
+                  <surname>Sematic</surname>
                </persName>
                <affiliation>Inft., IR. Nr. 55, 16. Komp.</affiliation>
                <birth>
@@ -21544,7 +21645,8 @@
             <person xml:id="vll.19160208_373.8674">
                <persName>
                   <surname>Vodopivec</surname>
-                  <forename>III Josef</forename>
+                  <genName>III</genName>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 55, 5. Komp.</affiliation>
                <birth>
@@ -22540,7 +22642,7 @@
             <person xml:id="vll.19160401_402.1284">
                <persName>
                   <surname>Blažič</surname>
-                  <forename>Alois.</forename>
+                  <forename>Alois</forename>
                </persName>
                <affiliation>Jäg., FJB. Nr. 20, 3. Komp.</affiliation>
                <birth>
@@ -22612,7 +22714,8 @@
             <person xml:id="vll.19160401_402.2532">
                <persName>
                   <surname>Dornik</surname>
-                  <forename>Filipp Michael</forename>
+                  <forename>Filipp</forename>
+                  <forename>Michael</forename>
                </persName>
                <affiliation>Res Jäg., FJB. Nr. 20, 2. Komp.</affiliation>
                <birth>
@@ -23200,7 +23303,8 @@
             <person xml:id="vll.19160417_409.478">
                <persName>
                   <surname>Hentschel</surname>
-                  <forename>Edler von Wildganz Friedrich</forename>
+                  <roleName>Edler von Wildganz</roleName>
+                  <forename>Friedrich</forename>
                </persName>
                <affiliation>Lt., IR. Nr. 16, 12. Komp.</affiliation>
                <birth>
@@ -23416,7 +23520,8 @@
             <person xml:id="vll.19160427_413.10208">
                <persName>
                   <surname>Purič</surname>
-                  <forename>Franz Karl</forename>
+                  <forename>Franz</forename>
+                  <forename>Karl</forename>
                </persName>
                <affiliation>ErsRes., FJB. Nr. 20, 4. Komp.</affiliation>
                <birth>
@@ -23451,9 +23556,10 @@
             </person>
             <person xml:id="vll.19160427_413.13858">
                <persName>
-                  <forename>Vogrič</forename>
+                  <surname>Vogrič</surname>
+                  <forename>Josef</forename>
                </persName>
-               <affiliation>Josef, ResVorm., FKR. Nr. 8, Batt. 2</affiliation>
+               <affiliation>ResVorm., FKR. Nr. 8, Batt. 2</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz Umgebung</region>
@@ -23463,7 +23569,8 @@
             <person xml:id="vll.19160427_413.14520">
                <persName>
                   <surname>Zierer</surname>
-                  <forename>Joh. Viktor</forename>
+                  <forename>Joh.</forename>
+                  <forename>Viktor</forename>
                </persName>
                <affiliation>LstJäg., FJB. Nr. 20, 2. Komp.</affiliation>
                <birth>
@@ -24255,7 +24362,8 @@
             <person xml:id="vll.19160525_424.6386">
                <persName>
                   <surname>Kalečič</surname>
-                  <forename>Gregor Leopold</forename>
+                  <forename>Gregor</forename>
+                  <forename>Leopold</forename>
                </persName>
                <affiliation>ErsRes., k. k. TJR. Nr. 5, 2. ErsKomp.</affiliation>
                <birth>
@@ -24291,9 +24399,9 @@
             <person xml:id="vll.19160525_424.12382">
                <persName>
                   <surname>Riecobon</surname>
-                  <forename>Nazarius. KompHorn.</forename>
+                  <forename>Nazarius</forename>
                </persName>
-               <affiliation>k. k. LIR. Nr. 5, 3. Komp.</affiliation>
+               <affiliation>KompHorn., k. k. LIR. Nr. 5, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -24387,7 +24495,8 @@
             <person xml:id="vll.19160529_425.12806">
                <persName>
                   <surname>Strukelj</surname>
-                  <forename>Franz Julian</forename>
+                  <forename>Franz</forename>
+                  <forename>Julian</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 55, 3. ErsKomp.</affiliation>
                <birth>
@@ -24687,7 +24796,8 @@
             <person xml:id="vll.19160615_431.9704">
                <persName>
                   <surname>Mikulus</surname>
-                  <forename>Josef Alois</forename>
+                  <forename>Josef</forename>
+                  <forename>Alois</forename>
                </persName>
                <affiliation>ResInft., IR. Nr. 75</affiliation>
                <birth>
@@ -24771,9 +24881,9 @@
             <person xml:id="vll.19160617_432.10540">
                <persName>
                   <surname>Poljščak</surname>
-                  <forename>Vinzenz. LtsInft</forename>
+                  <forename>Vinzenz</forename>
                </persName>
-               <affiliation>k. k. LstB. Nr. 153, 1. Komp.</affiliation>
+               <affiliation>LtsInft., k. k. LstB. Nr. 153, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
@@ -25671,9 +25781,9 @@
             <person xml:id="vll.19160706_438.5992">
                <persName>
                   <surname>Hvalič</surname>
-                  <forename>Jakob. KompHorn. TitGefr.</forename>
+                  <forename>Jakob</forename>
                </persName>
-               <affiliation>k. k. LIR. Nr. 27, 3. Komp.</affiliation>
+               <affiliation>KompHorn. TitGefr., k. k. LIR. Nr. 27, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -26031,7 +26141,8 @@
             <person xml:id="vll.19160711_439.6288">
                <persName>
                   <surname>Hvalič</surname>
-                  <forename>Franz Josef</forename>
+                  <forename>Franz</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>Inft., IR. Nr. 87, 4. Komp.</affiliation>
                <birth>
@@ -27099,7 +27210,8 @@
             <person xml:id="vll.19160818_453.3688">
                <persName>
                   <surname>Fiegl</surname>
-                  <forename>Josef Johann</forename>
+                  <forename>Josef</forename>
+                  <forename>Johann</forename>
                </persName>
                <affiliation>ErsRes. Inft., k. k. LIR. Nr. 27, 2. Komp.</affiliation>
                <birth>
@@ -27123,7 +27235,8 @@
             <person xml:id="vll.19160818_453.5078">
                <persName>
                   <surname>Humar</surname>
-                  <forename>II. Rudolf</forename>
+                  <genName>II.</genName>
+                  <forename>Rudolf</forename>
                </persName>
                <affiliation>Inft., k. k. LIR. Nr. 27, 4. Komp.</affiliation>
                <birth>
@@ -28202,7 +28315,7 @@
             </person>
             <person xml:id="vll.19161007_474.9208">
                <persName>
-                  <forename>Kristančič</forename>
+                  <surname>Kristančič</surname>
                </persName>
                <affiliation>Infst., k. k. LstIR. Nr. 5, zugeteilt dem k. k. LstB. Nr. 30</affiliation>
                <birth>
@@ -28214,9 +28327,9 @@
             <person xml:id="vll.19161007_474.12210">
                <persName>
                   <surname>Pavlin</surname>
-                  <forename>Valentin. Sypp.</forename>
+                  <forename>Valentin</forename>
                </persName>
-               <affiliation>SappB. Nr. 3, 7. Komp.</affiliation>
+               <affiliation>Sypp., SappB. Nr. 3, 7. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -28237,7 +28350,7 @@
             </person>
             <person xml:id="vll.19161010_475.2492">
                <persName>
-                  <forename>Cherin</forename>
+                  <surname>Cherin</surname>
                </persName>
                <affiliation>Infst., k. k. LIR. Nr. 5, zugeteilt dem k. k. LIR. Nr. 37, 2. Komp.</affiliation>
                <birth>
@@ -29593,7 +29706,8 @@
             <person xml:id="vll.19161230_508.3048">
                <persName>
                   <surname>Davanzo</surname>
-                  <forename>Bartolo Jakob</forename>
+                  <forename>Bartolo</forename>
+                  <forename>Jakob</forename>
                </persName>
                <affiliation>Matrose 1. Kl. M. V. M. KMar., S. M. Torpedoboot "51T.”</affiliation>
                <birth>
@@ -29676,9 +29790,11 @@
             </person>
             <person xml:id="vll.19170329_544.860">
                <persName>
-                  <forename>Schönberger</forename>
+                  <surname>Schönberger</surname>
+                  <roleName>Baron v.</roleName>
+                  <forename>Hans</forename>
                </persName>
-               <affiliation>Baron v., Hans, Lt., FJB. Nr. 21, 1. Komp.</affiliation>
+               <affiliation>Lt., FJB. Nr. 21, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -29880,9 +29996,9 @@
             <person xml:id="vll.19170329_544.3940">
                <persName>
                   <surname>Drolc</surname>
-                  <forename>Johann. TitKorp.</forename>
+                  <forename>Johann</forename>
                </persName>
-               <affiliation>k. k. LIR. Nr. 27, 6. Komp.</affiliation>
+               <affiliation>TitKorp., k. k. LIR. Nr. 27, 6. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -30360,7 +30476,7 @@
             <person xml:id="vll.19170329_544.9642">
                <persName>
                   <surname>Mlakar</surname>
-                  <forename>franz</forename>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>Infst., k k. LIR. Nr. 27, 8. Komp.</affiliation>
                <birth>
@@ -30551,7 +30667,7 @@
             </person>
             <person xml:id="vll.19170329_544.12908">
                <persName>
-                  <forename>Sinigoj</forename>
+                  <surname>Sinigoj</surname>
                </persName>
                <affiliation>Infst., k. k. LIR. Nr. 4, 7. Komp.</affiliation>
                <birth>
@@ -31043,9 +31159,9 @@
             <person xml:id="v11.19170418_556.3690">
                <persName>
                   <surname>Gorjup</surname>
-                  <forename>Andreas. Infst.</forename>
+                  <forename>Andreas</forename>
                </persName>
-               <affiliation>k. k. LIR. Nr. 27, 8. Komp.</affiliation>
+               <affiliation>Infst., k. k. LIR. Nr. 27, 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -31055,7 +31171,8 @@
             <person xml:id="v11.19170418_556.3838">
                <persName>
                   <surname>Gruden</surname>
-                  <forename>Ivan Ferd.</forename>
+                  <forename>Ivan</forename>
+                  <forename>Ferd.</forename>
                </persName>
                <affiliation>ErsResKan., FHR. Nr. 28</affiliation>
                <birth>
@@ -31295,7 +31412,8 @@
             <person xml:id="v11.19170418_556.9110">
                <persName>
                   <surname>Reja</surname>
-                  <forename>Alois v.</forename>
+                  <forename>Alois</forename>
+                  <roleName>v.</roleName>
                </persName>
                <affiliation>Infst., k. k. LIR. Nr. 27, 4. Komp.</affiliation>
                <birth>
@@ -31463,7 +31581,9 @@
             <person xml:id="vll.19170423_558.382">
                <persName>
                   <surname>Bartels</surname>
-                  <forename>von Bartberg Artur Ritter</forename>
+                  <roleName>von Bartberg</roleName>
+                  <forename>Artur</forename>
+                  <roleName>Ritter</roleName>
                </persName>
                <affiliation>Hptm., IR. Nr. 49</affiliation>
                <birth>
@@ -31631,9 +31751,9 @@
             <person xml:id="vll.19170424_559.1570">
                <persName>
                   <surname>Benčar</surname>
-                  <forename>Antonm Infst.</forename>
+                  <forename>Anton</forename>
                </persName>
-               <affiliation>IR. Nr. 97, 3. Komp.</affiliation>
+               <affiliation>Infst., IR. Nr. 97, 3. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Görz</region>
@@ -31750,8 +31870,8 @@
             </person>
             <person xml:id="vll.19170424_559.2760">
                <persName>
-                  <surname>Della</surname>
-                  <forename>Schiava Anton</forename>
+                  <surname>Della Schiava</surname>
+                  <forename>Anton</forename>
                </persName>
                <affiliation>LstKorp., k. k. LIR, Nr. 5</affiliation>
                <birth>
@@ -32399,9 +32519,9 @@
             <person xml:id="vll.19170430_563.9152">
                <persName>
                   <surname>Pregarc</surname>
-                  <forename>Peter ErsResInfst.</forename>
+                  <forename>Peter</forename>
                </persName>
-               <affiliation>k. k. LIR. Nr. 5, 4. Komp.</affiliation>
+               <affiliation>ErsResInfst., k. k. LIR. Nr. 5, 4. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -35770,7 +35890,7 @@
             </person>
             <person xml:id="vll.19171121_630.5158">
                <persName>
-                  <forename>Gregorič</forename>
+                  <surname>Gregorič</surname>
                </persName>
                <affiliation>LstInfst., k. k. LstBezKmdo. Nr. 5, zugeteilt dem k. k, LstIB. Nr. 40, 4. Komp.</affiliation>
                <birth>
@@ -37102,9 +37222,9 @@
             <person xml:id="vll.19180201_648.2226">
                <persName>
                   <surname>Benk</surname>
-                  <forename>Miroslaus. LstInfst.</forename>
+                  <forename>Miroslaus</forename>
                </persName>
-               <affiliation>k. k. LstIR. Nr. 27. 8. Komp.</affiliation>
+               <affiliation>LstInfst., k. k. LstIR. Nr. 27. 8. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein</region>
@@ -37533,8 +37653,8 @@
             </person>
             <person xml:id="v11.19180227_655.8592">
                <persName>
-                  <surname>Jazba</surname>
-                  <forename>(Jacbec) Franz</forename>
+                  <surname>Jazba (Jacbec)</surname>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>LstInfst., k. k. LstIR. Nr. 3, zugeteilt dem k. k. LstIB. Nr. 157/16</affiliation>
                <birth>
@@ -37713,8 +37833,8 @@
             </person>
             <person xml:id="vll.19180309_658.1314">
                <persName>
-                  <surname>Barič</surname>
-                  <forename>(Barich) Anton</forename>
+                  <surname>Barič (Barich)</surname>
+                  <forename>Anton</forename>
                </persName>
                <affiliation>LstInfst., k. k. SchR. Nr. 6., 2. ErsKomp.</affiliation>
                <birth>
@@ -37822,7 +37942,8 @@
             <person xml:id="vll.19180319_661.4908">
                <persName>
                   <surname>Fabjan</surname>
-                  <forename>Alois Rudolf</forename>
+                  <forename>Alois</forename>
+                  <forename>Rudolf</forename>
                </persName>
                <affiliation>Infst., IR. Nr. 47</affiliation>
                <birth>
@@ -38422,7 +38543,7 @@
             <person xml:id="vll.19180424_669.5514">
                <persName>
                   <surname>Hrast</surname>
-                  <forename>jakob</forename>
+                  <forename>Jakob</forename>
                </persName>
                <affiliation>Infst., IR.. Nr. 87</affiliation>
                <birth>
@@ -38601,8 +38722,8 @@
             </person>
             <person xml:id="vll.19180429_670.20606">
                <persName>
-                  <surname>Nr.</surname>
-                  <forename>559. Brundula Franz</forename>
+                  <surname>Brundula</surname>
+                  <forename>Franz</forename>
                </persName>
                <affiliation>ErsResDrag., DR. Nr. 5</affiliation>
                <birth>
@@ -38758,7 +38879,8 @@
             <person xml:id="vll.19180515_674.7738">
                <persName>
                   <surname>Kovačič</surname>
-                  <forename>Johann Michael</forename>
+                  <forename>Johann</forename>
+                  <forename>Michael</forename>
                </persName>
                <affiliation>LstInfst., IR. Nr. 97</affiliation>
                <birth>
@@ -38782,7 +38904,8 @@
             <person xml:id="vll.19180515_674.12452">
                <persName>
                   <surname>Rudež</surname>
-                  <forename>Bohumil Gottfried</forename>
+                  <forename>Bohumil</forename>
+                  <forename>Gottfried</forename>
                </persName>
                <affiliation>Gefr., HIR. Nr. 5, 12. Komp., Görz</affiliation>
                <birth>
@@ -38793,8 +38916,9 @@
             </person>
             <person xml:id="vll.19180515_674.16300">
                <persName>
-                  <surname>Fabian</surname>
-                  <forename>statt Fabjan Alois Rudolf</forename>
+                  <surname>Fabian statt Fabjan</surname>
+                  <forename>Alois</forename>
+                  <forename>Rudolf</forename>
                </persName>
                <affiliation>LstInfst., IR. Nr.</affiliation>
                <birth>
@@ -38914,7 +39038,8 @@
             <person xml:id="vll.19180603_677.5858">
                <persName>
                   <surname>Grilanz</surname>
-                  <forename>Vinzenz Josef</forename>
+                  <forename>Vinzenz</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>LstInfst., IR. Nr. 97</affiliation>
                <birth>
@@ -39165,9 +39290,10 @@
             </person>
             <person xml:id="vll.19180625_682.14326">
                <persName>
-                  <forename>Zudez</forename>
+                  <surname>Rudez</surname>
+                  <forename>Jakob</forename>
                </persName>
-               <affiliation>Jakob, LstSapp., SappBaon. Krems</affiliation>
+               <affiliation>LstSapp., SappBaon. Krems</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Tolmein. Soca</region>
@@ -39429,9 +39555,9 @@
             <person xml:id="vll.19180801_688.13410">
                <persName>
                   <surname>mU’i</surname>
-                  <forename>Jakw ln«»».</forename>
+                  <forename>Jakw</forename>
                </persName>
-               <affiliation>k. k. Utm. Nr. 8</affiliation>
+               <affiliation>Infst., k. k. Utm. Nr. 8</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Capodistria</region>
@@ -39465,7 +39591,7 @@
             <person xml:id="vll.19180805_689.13662">
                <persName>
                   <surname>Vuga</surname>
-                  <forename>jakob</forename>
+                  <forename>Jakob</forename>
                </persName>
                <affiliation>Korp., IR. Nr. 97, 16. Komp.</affiliation>
                <birth>
@@ -39537,7 +39663,8 @@
             <person xml:id="vll.19180814_691.1886">
                <persName>
                   <surname>Lindemann</surname>
-                  <forename>Theodor Edl. v.</forename>
+                  <forename>Theodor</forename>
+                  <roleName>Edl. v.</roleName>
                </persName>
                <affiliation>EinjFreiwMed., bh. IR. Nr. 4, 14. Komp.</affiliation>
                <birth>
@@ -40172,10 +40299,10 @@
             </person>
             <person xml:id="vll.19181126_702.470">
                <persName>
-                  <surname>Ni.</surname>
-                  <forename>87</forename>
+                  <surname>Germek</surname>
+                  <forename>Alois</forename>
                </persName>
-               <affiliation>1. Komp.</affiliation>
+               <affiliation>Lt. i. d. Res., k. k. SchR. Nr. 87, 1. Komp.</affiliation>
                <birth>
                   <country>Küstenland</country>
                   <region>Sesana</region>
