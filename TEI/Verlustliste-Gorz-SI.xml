@@ -106,7 +106,7 @@
                   <country>Görz</country>
                   <region>Sesana</region>
                </birth>
-               <note>Nabrezina, 1895; tot (13./6. 1915).</note>
+               <note>Nabrezina, 1895; </note><event type="death"><label>tot</label><desc>(13./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19160715_441.8596" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160715&amp;seite=38&amp;zoom=33">
                <persName>
@@ -184,7 +184,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kojsko, 1873; tot (30./5.1916).</note>
+               <note>Kojsko, 1873; </note><event type="death"><label>tot</label><desc>(30./5.1916).</desc></event>
             </person>
             <person xml:id="vll.19160807_449.13728" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160807&amp;seite=60&amp;zoom=33">
                <persName>
@@ -236,7 +236,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1875; tot (5./6.1916).</note>
+               <note>1875; </note><event type="death"><label>tot</label><desc>(5./6.1916).</desc></event>
             </person>
             <person xml:id="vll.19160907_461.2284" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160907&amp;seite=10&amp;zoom=33">
                <persName>
@@ -405,7 +405,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Schönpaß, 1896; tot (23./7.1916).</note>
+               <note>Schönpaß, 1896; </note><event type="death"><label>tot</label><desc>(23./7.1916).</desc></event>
             </person>
             <person xml:id="vll.19161024_481.4972" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161024&amp;seite=22&amp;zoom=33">
                <persName>
@@ -509,7 +509,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Bare, 1877; tot (11.—20./1.1917).</note>
+               <note>Bare, 1877; </note><event type="death"><label>tot</label><desc>(11.—20./1.1917).</desc></event>
             </person>
             <person xml:id="vll.19170501_564.9952" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170501&amp;seite=39&amp;zoom=33">
                <persName>
@@ -548,7 +548,7 @@
                   <country>Görz</country>
                   <region>Bate</region>
                </birth>
-               <note>1869; gefallen (29.-30./6. 1917).</note>
+               <note>1869; </note><event type="death"><label>gefallen</label><desc>(29.-30./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19170814_607.8134" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170814&amp;seite=37&amp;zoom=33">
                <persName>
@@ -561,7 +561,7 @@
                   <country>Görz</country>
                   <region>Ozeljan</region>
                </birth>
-               <note>1874; gefallen (29.—30./6.1917).</note>
+               <note>1874; </note><event type="death"><label>gefallen</label><desc>(29.—30./6.1917).</desc></event>
             </person>
             <person xml:id="vll.19170901_609.3160" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170901&amp;seite=14&amp;zoom=33">
                <persName>
@@ -587,7 +587,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Renče, 1882; gestorben (22. 7. 1917).</note>
+               <note>Renče, 1882; </note><event type="death"><label>gestorben</label><desc>(22. 7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171010_615.1926" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171010&amp;seite=9&amp;zoom=33">
                <persName>
@@ -626,7 +626,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Rence, 1898; gestorben (6./9. 1917)</note>
+               <note>Rence, 1898; </note><event type="death"><label>gestorben</label><desc>(6./9. 1917)</desc></event>
             </person>
             <person xml:id="vll.19171025_620.12048" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171025&amp;seite=46&amp;zoom=33">
                <persName>
@@ -652,7 +652,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kronberg, 1898; gestorben (9./8. 1917).</note>
+               <note>Kronberg, 1898; </note><event type="death"><label>gestorben</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171027_621.6386" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171027&amp;seite=27&amp;zoom=33">
                <persName>
@@ -665,7 +665,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Bäte, 1897; gestorben (11./8. 1917).</note>
+               <note>Bäte, 1897; </note><event type="death"><label>gestorben</label><desc>(11./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.1792" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=8&amp;zoom=33">
                <persName>
@@ -678,7 +678,7 @@
                   <country>Görz u Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Gargaro, 1866; gestorben (8.5. 1917).</note>
+               <note>Gargaro, 1866; </note><event type="death"><label>gestorben</label><desc>(8.5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.2012" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=9&amp;zoom=33">
                <persName>
@@ -691,7 +691,7 @@
                   <country>Görz Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Volče, 1869; gestorben (5./4. 1914).</note>
+               <note>Volče, 1869; </note><event type="death"><label>gestorben</label><desc>(5./4. 1914).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.3690" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=16&amp;zoom=33">
                <persName>
@@ -704,7 +704,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Osek, 1866; gestorben (4./6. 1917).</note>
+               <note>Osek, 1866; </note><event type="death"><label>gestorben</label><desc>(4./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.3876" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=17&amp;zoom=33">
                <persName>
@@ -730,7 +730,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Woltschach, 1893; gestorben (26.4. 1917).</note>
+               <note>Woltschach, 1893; </note><event type="death"><label>gestorben</label><desc>(26.4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.7274" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=32&amp;zoom=33">
                <persName>
@@ -743,7 +743,7 @@
                   <country>Görz Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1876; gestorben (5.12. 1917).</note>
+               <note>1876; </note><event type="death"><label>gestorben</label><desc>(5.12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.7280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=32&amp;zoom=33">
                <persName>
@@ -756,7 +756,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1869; gestorben (18.4.1917).</note>
+               <note>1869; </note><event type="death"><label>gestorben</label><desc>(18.4.1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.8126" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=35&amp;zoom=33">
                <persName>
@@ -769,7 +769,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Haidenschaft, 1880; gestorben (27. 8. 1917).</note>
+               <note>Haidenschaft, 1880; </note><event type="death"><label>gestorben</label><desc>(27. 8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.11814" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=49&amp;zoom=33">
                <persName>
@@ -782,7 +782,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Gorjansko, 1892; gestorben (2./4. 1917).</note>
+               <note>Gorjansko, 1892; </note><event type="death"><label>gestorben</label><desc>(2./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.11940" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=49&amp;zoom=33">
                <persName>
@@ -795,7 +795,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1899; gestorben (11./6 - 1917).</note>
+               <note>1899; </note><event type="death"><label>gestorben</label><desc>(11./6 - 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.12598" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=53&amp;zoom=33">
                <persName>
@@ -847,7 +847,7 @@
                   <country>Görz Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Bäte, 1879: gestorben (30./4. 1917).</note>
+               <note>Bäte, 1879: </note><event type="death"><label>gestorben</label><desc>(30./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171119_629.13512" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171119&amp;seite=55&amp;zoom=33">
                <persName>
@@ -937,7 +937,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Trnovo, 1860; gestorben (8.9. 1917)</note>
+               <note>Trnovo, 1860; </note><event type="death"><label>gestorben</label><desc>(8.9. 1917)</desc></event>
             </person>
             <person xml:id="vll.19171130_632.2406" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171130&amp;seite=11&amp;zoom=33">
                <persName>
@@ -977,7 +977,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1887; gestorben (17./9. 1917).</note>
+               <note>1887; </note><event type="death"><label>gestorben</label><desc>(17./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.6022" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=23&amp;zoom=33">
                <persName>
@@ -990,7 +990,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1871; gestorben (16./10. 1917).</note>
+               <note>1871; </note><event type="death"><label>gestorben</label><desc>(16./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.7994" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=30&amp;zoom=33">
                <persName>
@@ -1003,7 +1003,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Dol. Otlica, 1885; gestorben (6./10.1917).</note>
+               <note>Dol. Otlica, 1885; </note><event type="death"><label>gestorben</label><desc>(6./10.1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.11526" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=43&amp;zoom=33">
                <persName>
@@ -1016,7 +1016,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>1871; gestorben (21./9. 1917).</note>
+               <note>1871; </note><event type="death"><label>gestorben</label><desc>(21./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171222_638.10814" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=42&amp;zoom=33">
                <persName>
@@ -1029,7 +1029,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Čepowan, 1899; gestorben (6.10. 1917).</note>
+               <note>Čepowan, 1899; </note><event type="death"><label>gestorben</label><desc>(6.10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171222_638.11994" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=47&amp;zoom=33">
                <persName>
@@ -1043,7 +1043,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Lokve, 1898; gestorben (9./10. 1917).</note>
+               <note>Lokve, 1898; </note><event type="death"><label>gestorben</label><desc>(9./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171222_638.12376" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=48&amp;zoom=33">
                <persName>
@@ -1056,7 +1056,7 @@
                   <country>Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Monfalcone, Aquileja, 1878; gestorben (11./8. 1917).</note>
+               <note>Monfalcone, Aquileja, 1878; </note><event type="death"><label>gestorben</label><desc>(11./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171228_639.12568" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171228&amp;seite=49&amp;zoom=33">
                <persName>
@@ -1069,7 +1069,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Lokovec, 1898; gestorben (8./8. 1917).</note>
+               <note>Lokovec, 1898; </note><event type="death"><label>gestorben</label><desc>(8./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171228_639.12792" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171228&amp;seite=50&amp;zoom=33">
                <persName>
@@ -1082,7 +1082,7 @@
                   <country>Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>odgora, 1879; gestorben (25. 7. 1917).</note>
+               <note>odgora, 1879; </note><event type="death"><label>gestorben</label><desc>(25. 7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171228_639.13024" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171228&amp;seite=51&amp;zoom=33">
                <persName>
@@ -1095,7 +1095,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Haidenschaft, 1899; gestorben (16./10. 1917).</note>
+               <note>Haidenschaft, 1899; </note><event type="death"><label>gestorben</label><desc>(16./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180103_640.6168" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180103&amp;seite=24&amp;zoom=33">
                <persName>
@@ -1108,7 +1108,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Heiligenkreuz, 1867; gestorben (29./7. 1917).</note>
+               <note>Heiligenkreuz, 1867; </note><event type="death"><label>gestorben</label><desc>(29./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180105_641.4280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=17&amp;zoom=33">
                <persName>
@@ -1121,7 +1121,7 @@
                   <country>Görz</country>
                   <region>Heiligenkreis</region>
                </birth>
-               <note>1897; gestorben (27./9. 1917).</note>
+               <note>1897; </note><event type="death"><label>gestorben</label><desc>(27./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180105_641.10776" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=41&amp;zoom=33">
                <persName>
@@ -1134,7 +1134,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Florian, 1889; gestorben (20.9.1917).</note>
+               <note>St. Florian, 1889; </note><event type="death"><label>gestorben</label><desc>(20.9.1917).</desc></event>
             </person>
             <person xml:id="vll.19180105_641.10896" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=42&amp;zoom=33">
                <persName>
@@ -1147,7 +1147,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Cepowan</region>
                </birth>
-               <note>1887; gestorben (16./9. 1917).</note>
+               <note>1887; </note><event type="death"><label>gestorben</label><desc>(16./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180118_643.10658" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180118&amp;seite=41&amp;zoom=33">
                <persName>
@@ -1160,7 +1160,7 @@
                   <country>Görz</country>
                   <region>Čepovan</region>
                </birth>
-               <note>1887; gestorben (16./9. 1917).</note>
+               <note>1887; </note><event type="death"><label>gestorben</label><desc>(16./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180124_645.2304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=10&amp;zoom=33">
                <persName>
@@ -1173,7 +1173,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Logje, 1891; gestorben (10./11. 1917).</note>
+               <note>Logje, 1891; </note><event type="death"><label>gestorben</label><desc>(10./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180124_645.7150" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=29&amp;zoom=33">
                <persName>
@@ -1199,7 +1199,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>St. Lucia, 1891; gestorben (l./ll. 1917).</note>
+               <note>St. Lucia, 1891; </note><event type="death"><label>gestorben</label><desc>(l./ll. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.1714" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=7&amp;zoom=33">
                <persName>
@@ -1212,7 +1212,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Kirchheim, 1867; gestorben (17./10. 1917).</note>
+               <note>Kirchheim, 1867; </note><event type="death"><label>gestorben</label><desc>(17./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.2098" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=9&amp;zoom=33">
                <persName>
@@ -1225,7 +1225,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Soča, 1882; gestorben (7. 11. 1917).</note>
+               <note>Soča, 1882; </note><event type="death"><label>gestorben</label><desc>(7. 11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.2460" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=10&amp;zoom=33">
                <persName>
@@ -1251,7 +1251,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1897; gestorben (7./7. 1917).</note>
+               <note>1897; </note><event type="death"><label>gestorben</label><desc>(7./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.7078" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=28&amp;zoom=33">
                <persName>
@@ -1264,7 +1264,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Vrtojba, 1895; gestorben (8./11. 1917).</note>
+               <note>Vrtojba, 1895; </note><event type="death"><label>gestorben</label><desc>(8./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.7168" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=28&amp;zoom=33">
                <persName>
@@ -1316,7 +1316,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Brestovica, 1894; gestorben (12.8.1917).</note>
+               <note>Brestovica, 1894; </note><event type="death"><label>gestorben</label><desc>(12.8.1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.12504" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=47&amp;zoom=33">
                <persName>
@@ -1329,7 +1329,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Samaria, 1871; gestorben (7./8. 1917).</note>
+               <note>Samaria, 1871; </note><event type="death"><label>gestorben</label><desc>(7./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.13216" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=50&amp;zoom=33">
                <persName>
@@ -1342,7 +1342,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Temnica, 1897; gestorben (15./11. 1917).</note>
+               <note>Temnica, 1897; </note><event type="death"><label>gestorben</label><desc>(15./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.13408" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=51&amp;zoom=33">
                <persName>
@@ -1356,7 +1356,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Haidenschaft, 1891; gestorben (19.8. 1917).</note>
+               <note>Haidenschaft, 1891; </note><event type="death"><label>gestorben</label><desc>(19.8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180201_648.3474" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=14&amp;zoom=33">
                <persName>
@@ -1382,7 +1382,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Temnica, 1890; gestorben (29./8. 1917).</note>
+               <note>Temnica, 1890; </note><event type="death"><label>gestorben</label><desc>(29./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180201_648.13906" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=50&amp;zoom=33">
                <persName>
@@ -1395,7 +1395,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Opatiesclo, 1877; gestorben (l./ll. 1917).</note>
+               <note>Opatiesclo, 1877; </note><event type="death"><label>gestorben</label><desc>(l./ll. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180201_648.14844" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=54&amp;zoom=33">
                <persName>
@@ -1408,7 +1408,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Renče, 1898; gestorben (6./9. 1917).</note>
+               <note>Renče, 1898; </note><event type="death"><label>gestorben</label><desc>(6./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180204_649.2790" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=11&amp;zoom=33">
                <persName>
@@ -1421,7 +1421,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1880; gestorben (3./11. 1917).</note>
+               <note>1880; </note><event type="death"><label>gestorben</label><desc>(3./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180204_649.8902" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=33&amp;zoom=33">
                <persName>
@@ -1434,7 +1434,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Kneža, 1885; gestorben (17./7. 1917).</note>
+               <note>Kneža, 1885; </note><event type="death"><label>gestorben</label><desc>(17./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180204_649.15078" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=55&amp;zoom=33">
                <persName>
@@ -1447,7 +1447,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz. Dol. Otlica</region>
                </birth>
-               <note>1886 gestorben (5./ll. 1917).</note>
+               <note>1886 </note><event type="death"><label>gestorben</label><desc>(5./ll. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180209_651.8408" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=34&amp;zoom=33">
                <persName>
@@ -1460,7 +1460,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Sibelji, 1877; gestorben (26./11. 1917).</note>
+               <note>Sibelji, 1877; </note><event type="death"><label>gestorben</label><desc>(26./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180209_651.9894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=39&amp;zoom=33">
                <persName>
@@ -1473,7 +1473,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1887; gestorben (19./11. 1917).</note>
+               <note>1887; </note><event type="death"><label>gestorben</label><desc>(19./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180209_651.12836" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=50&amp;zoom=33">
                <persName>
@@ -1486,7 +1486,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Veliki Dol, 1869; gestorben (25./11. 1917).</note>
+               <note>Veliki Dol, 1869; </note><event type="death"><label>gestorben</label><desc>(25./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180214_652.4032" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=17&amp;zoom=33">
                <persName>
@@ -1499,7 +1499,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1889; gestorben (20./l0. 1917).</note>
+               <note>Kal, 1889; </note><event type="death"><label>gestorben</label><desc>(20./l0. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180214_652.4164" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=17&amp;zoom=33">
                <persName>
@@ -1525,7 +1525,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Gargora</region>
                </birth>
-               <note>1872; gestorben (1./12. 1917).</note>
+               <note>1872; </note><event type="death"><label>gestorben</label><desc>(1./12. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180214_652.10294" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=40&amp;zoom=33">
                <persName>
@@ -1538,7 +1538,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Medea, 1876; gestorben (18./11. 1917).</note>
+               <note>Medea, 1876; </note><event type="death"><label>gestorben</label><desc>(18./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180214_652.14186" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=54&amp;zoom=33">
                <persName>
@@ -1551,7 +1551,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Veliki Dol, 1872; gestorben (24./11. 1917).</note>
+               <note>Veliki Dol, 1872; </note><event type="death"><label>gestorben</label><desc>(24./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180221_653.4672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=20&amp;zoom=33">
                <persName>
@@ -1564,7 +1564,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Komen, 1876; gestorben (6./11. 1917).</note>
+               <note>Komen, 1876; </note><event type="death"><label>gestorben</label><desc>(6./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180221_653.5176" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=22&amp;zoom=33">
                <persName>
@@ -1577,7 +1577,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Ponikwe</region>
                </birth>
-               <note>1886; gestorben (28./11. 1917).</note>
+               <note>1886; </note><event type="death"><label>gestorben</label><desc>(28./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180221_653.9708" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=40&amp;zoom=33">
                <persName>
@@ -1590,7 +1590,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Florian, 1880; gestorben (23./10. 1917).</note>
+               <note>St. Florian, 1880; </note><event type="death"><label>gestorben</label><desc>(23./10. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180223_654.6308" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180223&amp;seite=26&amp;zoom=33">
                <persName>
@@ -1616,7 +1616,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Corgnale, 1870; gestorben (13. 11. 1917).</note>
+               <note>Corgnale, 1870; </note><event type="death"><label>gestorben</label><desc>(13. 11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180227_655.14142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180227&amp;seite=58&amp;zoom=33">
                <persName>
@@ -1629,7 +1629,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Prvačina, 1896; gestorben (18./11. 1917).</note>
+               <note>Prvačina, 1896; </note><event type="death"><label>gestorben</label><desc>(18./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180307_657.2858" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=12&amp;zoom=33">
                <persName>
@@ -1720,7 +1720,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Andrä, 1874; gestorben (10./12. 1917).</note>
+               <note>St. Andrä, 1874; </note><event type="death"><label>gestorben</label><desc>(10./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180313_659.986" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180313&amp;seite=5&amp;zoom=33">
                <persName>
@@ -1759,7 +1759,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Salcano, 1884; gestorben (14., 1. 1918).</note>
+               <note>Salcano, 1884; </note><event type="death"><label>gestorben</label><desc>(14., 1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180315_660.4870" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=19&amp;zoom=33">
                <persName>
@@ -1772,7 +1772,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Cerkno, 1899; gestorben (17./12. 1917).</note>
+               <note>Cerkno, 1899; </note><event type="death"><label>gestorben</label><desc>(17./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180315_660.10588" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=40&amp;zoom=33">
                <persName>
@@ -1798,7 +1798,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Stadt, Podgora, 1884; gestorben (18./12. 1917).</note>
+               <note>Stadt, Podgora, 1884; </note><event type="death"><label>gestorben</label><desc>(18./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180319_661.8894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=33&amp;zoom=33">
                <persName>
@@ -1811,7 +1811,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Ossegliano, 1879; gestorben (24./11.1917).</note>
+               <note>Ossegliano, 1879; </note><event type="death"><label>gestorben</label><desc>(24./11.1917).</desc></event>
             </person>
             <person xml:id="vll.19180319_661.12428" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=45&amp;zoom=33">
                <persName>
@@ -1850,7 +1850,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Martin, 1891; gestorben (27./12. 1917).</note>
+               <note>St. Martin, 1891; </note><event type="death"><label>gestorben</label><desc>(27./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180319_661.15722" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=57&amp;zoom=33">
                <persName>
@@ -1863,7 +1863,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Prvacina, 1897; gestorben (22./12. 1917).</note>
+               <note>Prvacina, 1897; </note><event type="death"><label>gestorben</label><desc>(22./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180319_661.15752" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=58&amp;zoom=33">
                <persName>
@@ -1918,7 +1918,7 @@
                   <country>Görz</country>
                   <region>Idria</region>
                </birth>
-               <note>1888; gefallen (4./12. 1917).</note>
+               <note>1888; </note><event type="death"><label>gefallen</label><desc>(4./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180323_662.8816" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=34&amp;zoom=33">
                <persName>
@@ -1931,7 +1931,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Mihalji, 1898; gestorben (22./12. 1917).</note>
+               <note>Mihalji, 1898; </note><event type="death"><label>gestorben</label><desc>(22./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180323_662.9732" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=37&amp;zoom=33">
                <persName>
@@ -1983,7 +1983,7 @@
                   <country>Görz nnd Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Lokovec, 1893; gestorben (6. 1. 1918).</note>
+               <note>Lokovec, 1893; </note><event type="death"><label>gestorben</label><desc>(6. 1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180328_663.4440" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180328&amp;seite=17&amp;zoom=33">
                <persName>
@@ -2009,7 +2009,7 @@
                   <country>Görz</country>
                   <region>Solkan</region>
                </birth>
-               <note>1879 gestorben (20./1. 1918).</note>
+               <note>1879 </note><event type="death"><label>gestorben</label><desc>(20./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.1752" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=8&amp;zoom=33">
                <persName>
@@ -2022,7 +2022,7 @@
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Kreplje, 1878; gestorben (24./12.1917).</note>
+               <note>Kreplje, 1878; </note><event type="death"><label>gestorben</label><desc>(24./12.1917).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.2992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=12&amp;zoom=33">
                <persName>
@@ -2061,7 +2061,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Ponikve</region>
                </birth>
-               <note>1868; gestorben (13./12. 1917).</note>
+               <note>1868; </note><event type="death"><label>gestorben</label><desc>(13./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.15864" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=60&amp;zoom=33">
                <persName>
@@ -2074,7 +2074,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Idria, 1872; gestorben (4./ll. 1917).</note>
+               <note>Idria, 1872; </note><event type="death"><label>gestorben</label><desc>(4./ll. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180403_665.10034" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=37&amp;zoom=33">
                <persName>
@@ -2087,7 +2087,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Schönpass, 1891; gefallen (24./12. 1917).</note>
+               <note>Schönpass, 1891; </note><event type="death"><label>gefallen</label><desc>(24./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180403_665.12408" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=46&amp;zoom=33">
                <persName>
@@ -2113,7 +2113,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Kal, 1874; gestorben (11./l. 1918).</note>
+               <note>Kal, 1874; </note><event type="death"><label>gestorben</label><desc>(11./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180411_666.6718" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=24&amp;zoom=33">
                <persName>
@@ -2126,7 +2126,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Komen, 1877; gestorben (16./12. 1917).</note>
+               <note>Komen, 1877; </note><event type="death"><label>gestorben</label><desc>(16./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180411_666.15682" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=55&amp;zoom=33">
                <persName>
@@ -2139,7 +2139,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Lesana</region>
                </birth>
-               <note>Tomaj, 1986; gestorben (11./10. 1916).</note>
+               <note>Tomaj, 1986; </note><event type="death"><label>gestorben</label><desc>(11./10. 1916).</desc></event>
             </person>
             <person xml:id="vll.19180411_666.16696" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=59&amp;zoom=33">
                <persName>
@@ -2152,7 +2152,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Stjak, 1892; gestorben (7./1. 1918).</note>
+               <note>Stjak, 1892; </note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.17538" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=58&amp;zoom=33">
                <persName>
@@ -2193,7 +2193,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Brestovica, 1896; gestorben (6./1. 1918).</note>
+               <note>Brestovica, 1896; </note><event type="death"><label>gestorben</label><desc>(6./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180419_668.7896" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180419&amp;seite=28&amp;zoom=33">
                <persName>
@@ -2206,7 +2206,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Stržišče, 1893; gestorben (9./l. 1918).</note>
+               <note>Stržišče, 1893; </note><event type="death"><label>gestorben</label><desc>(9./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180419_668.18576" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180419&amp;seite=62&amp;zoom=33">
                <persName>
@@ -2219,7 +2219,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Reifenberg, 1880; gestorben (17./1. 1918).</note>
+               <note>Reifenberg, 1880; </note><event type="death"><label>gestorben</label><desc>(17./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180424_669.2940" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=12&amp;zoom=33">
                <persName>
@@ -2232,7 +2232,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1896-, gestorben (27./l. 1918).</note>
+               <note>1896-, </note><event type="death"><label>gestorben</label><desc>(27./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180424_669.6856" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=26&amp;zoom=33">
                <persName>
@@ -2258,7 +2258,7 @@
                   <country>Görz und Gradiška</country>
                   <region>Görz</region>
                </birth>
-               <note>Dol Otlica, 1887; gefallen (18.-25./6. 1916).</note>
+               <note>Dol Otlica, 1887; </note><event type="death"><label>gefallen</label><desc>(18.-25./6. 1916).</desc></event>
             </person>
             <person xml:id="vll.19180424_669.19750" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=67&amp;zoom=33">
                <persName>
@@ -2323,7 +2323,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Dol. Otlica, 1885; gestorben (16./1. 1918).</note>
+               <note>Dol. Otlica, 1885; </note><event type="death"><label>gestorben</label><desc>(16./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180429_670.2374" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=9&amp;zoom=33">
                <persName>
@@ -2362,7 +2362,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Solkan, 1899; gestorben (24./1. 1918).</note>
+               <note>Solkan, 1899; </note><event type="death"><label>gestorben</label><desc>(24./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180429_670.4852" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=17&amp;zoom=33">
                <persName>
@@ -2388,7 +2388,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Flitsch, 1885; gestorben (3./2. 1918).</note>
+               <note>Flitsch, 1885; </note><event type="death"><label>gestorben</label><desc>(3./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180429_670.7680" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=26&amp;zoom=33">
                <persName>
@@ -2414,7 +2414,7 @@
                   <country>Gorz und Gradiska</country>
                   <region>Tribuša</region>
                </birth>
-               <note>Gorenja, 1897; gestorben (3./2. 1918)</note>
+               <note>Gorenja, 1897; </note><event type="death"><label>gestorben</label><desc>(3./2. 1918)</desc></event>
             </person>
             <person xml:id="vll.19180429_670.13888" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=48&amp;zoom=33">
                <persName>
@@ -2453,7 +2453,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Dane, 1868; gestorben (6.2. 1918).</note>
+               <note>Dane, 1868; </note><event type="death"><label>gestorben</label><desc>(6.2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180429_670.15466" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=53&amp;zoom=33">
                <persName>
@@ -2505,7 +2505,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Solkan, 1894; gestorben (2. /l0. 1917).</note>
+               <note>Solkan, 1894; </note><event type="death"><label>gestorben</label><desc>(2. /l0. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180511_672.11350" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=44&amp;zoom=33">
                <persName>
@@ -2518,7 +2518,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Breginj, 1858; gestorben (26./lO. 1917).</note>
+               <note>Breginj, 1858; </note><event type="death"><label>gestorben</label><desc>(26./lO. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180511_672.18840" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=70&amp;zoom=33">
                <persName>
@@ -2570,7 +2570,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Bainsizza, 1879; gestorben (7./2. 1918).</note>
+               <note>Bainsizza, 1879; </note><event type="death"><label>gestorben</label><desc>(7./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180514_673.9124" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=35&amp;zoom=33">
                <persName>
@@ -2661,7 +2661,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Thomas, 1870; gestorben (30./8. 1917).</note>
+               <note>St. Thomas, 1870; </note><event type="death"><label>gestorben</label><desc>(30./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180531_676.10774" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180531&amp;seite=41&amp;zoom=33">
                <persName>
@@ -2674,7 +2674,7 @@
                   <country>Görz-Gradicsa</country>
                   <region>Sesana</region>
                </birth>
-               <note>Temnica, 1897; gestorben (28./4. 1917).</note>
+               <note>Temnica, 1897; </note><event type="death"><label>gestorben</label><desc>(28./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180531_676.14820" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180531&amp;seite=54&amp;zoom=33">
                <persName>
@@ -2687,7 +2687,7 @@
                   <country>Görz Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>1870; gestorben (28./4. 1917).</note>
+               <note>1870; </note><event type="death"><label>gestorben</label><desc>(28./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180603_677.4258" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=17&amp;zoom=33">
                <persName>
@@ -2739,7 +2739,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Opatjeselo</region>
                </birth>
-               <note>1893; gestorben (11./7. 1917).</note>
+               <note>1893; </note><event type="death"><label>gestorben</label><desc>(11./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180603_677.14522" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=54&amp;zoom=33">
                <persName>
@@ -2752,7 +2752,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Dutovlje, 1876; gefallen (8. 2. 1918).</note>
+               <note>Dutovlje, 1876; </note><event type="death"><label>gefallen</label><desc>(8. 2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180605_678.824" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=4&amp;zoom=33">
                <persName>
@@ -2778,7 +2778,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Tribuša, 1882; gestorben (4.10.1917).</note>
+               <note>Tribuša, 1882; </note><event type="death"><label>gestorben</label><desc>(4.10.1917).</desc></event>
             </person>
             <person xml:id="vll.19180605_678.13190" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=51&amp;zoom=33">
                <persName>
@@ -2830,7 +2830,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1895; gestorben (10./6. 1917)</note>
+               <note>Kal, 1895; </note><event type="death"><label>gestorben</label><desc>(10./6. 1917)</desc></event>
             </person>
             <person xml:id="vll.19180610_679.6942" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=30&amp;zoom=33">
                <persName>
@@ -2843,7 +2843,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Vel. Zablje, 1880; gestorben (30.6.1917).</note>
+               <note>Vel. Zablje, 1880; </note><event type="death"><label>gestorben</label><desc>(30.6.1917).</desc></event>
             </person>
             <person xml:id="vll.19180610_679.7142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=31&amp;zoom=33">
                <persName>
@@ -2856,7 +2856,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Kojsko</region>
                </birth>
-               <note>1897; gestorben (19./6. 1917).</note>
+               <note>1897; </note><event type="death"><label>gestorben</label><desc>(19./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180610_679.11630" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=49&amp;zoom=33">
                <persName>
@@ -2869,7 +2869,7 @@
                   <country>Görz</country>
                   <region>Dornberg</region>
                </birth>
-               <note>1867, gestorben (5.3.1918).</note>
+               <note>1867, </note><event type="death"><label>gestorben</label><desc>(5.3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180610_679.12148" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=52&amp;zoom=33">
                <persName>
@@ -2882,7 +2882,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Opatje Selo, 1878; gestorben (26. 5. 1917).</note>
+               <note>Opatje Selo, 1878; </note><event type="death"><label>gestorben</label><desc>(26. 5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180610_679.12294" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=52&amp;zoom=33">
                <persName>
@@ -2895,7 +2895,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Lekev, 1893; gestorben (19./11. 1917).</note>
+               <note>Lekev, 1893; </note><event type="death"><label>gestorben</label><desc>(19./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180610_679.12318" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=52&amp;zoom=33">
                <persName>
@@ -2908,7 +2908,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tomaj</region>
                </birth>
-               <note>1877; gestorben (22./7. 1917).</note>
+               <note>1877; </note><event type="death"><label>gestorben</label><desc>(22./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180613_680.2530" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=11&amp;zoom=33">
                <persName>
@@ -2921,7 +2921,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1898; gestorben (19./1. 1918).</note>
+               <note>1898; </note><event type="death"><label>gestorben</label><desc>(19./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180613_680.4084" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=17&amp;zoom=33">
                <persName>
@@ -2973,7 +2973,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Karfreit, 1881; gestorben (11./2 1918)</note>
+               <note>Karfreit, 1881; </note><event type="death"><label>gestorben</label><desc>(11./2 1918)</desc></event>
             </person>
             <person xml:id="vll.19180613_680.12114" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=52&amp;zoom=33">
                <persName>
@@ -3015,7 +3015,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Lokovec</region>
                </birth>
-               <note>1893; gestorben (6./1. 1918).</note>
+               <note>1893; </note><event type="death"><label>gestorben</label><desc>(6./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180620_681.786" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=4&amp;zoom=33">
                <persName>
@@ -3041,7 +3041,7 @@
                   <country>Gorz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Podgora, 1888; gestorben (5./8. 1917).</note>
+               <note>Podgora, 1888; </note><event type="death"><label>gestorben</label><desc>(5./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180620_681.4392" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=18&amp;zoom=33">
                <persName>
@@ -3054,7 +3054,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Volče, 1893; gestorben (26./4. 1917).</note>
+               <note>Volče, 1893; </note><event type="death"><label>gestorben</label><desc>(26./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180620_681.6622" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=26&amp;zoom=33">
                <persName>
@@ -3067,7 +3067,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Smarje, 1885; gestorben (9./7. 1917).</note>
+               <note>Smarje, 1885; </note><event type="death"><label>gestorben</label><desc>(9./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180620_681.9250" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=37&amp;zoom=33">
                <persName>
@@ -3093,7 +3093,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Suta, 1898; gestorben (20./8. 1917).</note>
+               <note>Suta, 1898; </note><event type="death"><label>gestorben</label><desc>(20./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180625_682.3820" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180625&amp;seite=17&amp;zoom=33">
                <persName>
@@ -3106,7 +3106,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Smarje, 1889; gestorben (12./3.1918).</note>
+               <note>Smarje, 1889; </note><event type="death"><label>gestorben</label><desc>(12./3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180625_682.7830" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180625&amp;seite=33&amp;zoom=33">
                <persName>
@@ -3145,7 +3145,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Kirchheim, 1887; gefallen (27. /7. 1916).</note>
+               <note>Kirchheim, 1887; </note><event type="death"><label>gefallen</label><desc>(27. /7. 1916).</desc></event>
             </person>
             <person xml:id="vll.19180709_684.8784" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=31&amp;zoom=33">
                <persName>
@@ -3236,7 +3236,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Podbrdo, 1875; gestorben (16./11. 1917).</note>
+               <note>Podbrdo, 1875; </note><event type="death"><label>gestorben</label><desc>(16./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.11224" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=39&amp;zoom=33">
                <persName>
@@ -3249,7 +3249,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Lokev, 1898; gestorben (29./3. 1918).</note>
+               <note>Lokev, 1898; </note><event type="death"><label>gestorben</label><desc>(29./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.12306" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=43&amp;zoom=33">
                <persName>
@@ -3262,7 +3262,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Cerkno, 1876; gestorben (9./3. 1918).</note>
+               <note>Cerkno, 1876; </note><event type="death"><label>gestorben</label><desc>(9./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.13628" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=47&amp;zoom=33">
                <persName>
@@ -3288,7 +3288,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Breginj</region>
                </birth>
-               <note>1889; gestorben (25./1. 1918).</note>
+               <note>1889; </note><event type="death"><label>gestorben</label><desc>(25./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.412" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=3&amp;zoom=33">
                <persName>
@@ -3314,7 +3314,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Libanje, 1883; gestorben (24./3. 1918).</note>
+               <note>Libanje, 1883; </note><event type="death"><label>gestorben</label><desc>(24./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.4020" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=15&amp;zoom=33">
                <persName>
@@ -3327,7 +3327,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Šent Andrer, 1882; gestorben (11./7.1917).</note>
+               <note>Šent Andrer, 1882; </note><event type="death"><label>gestorben</label><desc>(11./7.1917).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.6084" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=22&amp;zoom=33">
                <persName>
@@ -3340,7 +3340,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1896; gestorben (9./3. 1917).</note>
+               <note>1896; </note><event type="death"><label>gestorben</label><desc>(9./3. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.6228" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=23&amp;zoom=33">
                <persName>
@@ -3379,7 +3379,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1868; gestorben (20./5. 1917).</note>
+               <note>1868; </note><event type="death"><label>gestorben</label><desc>(20./5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.6832" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=25&amp;zoom=33">
                <persName>
@@ -3392,7 +3392,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>St. Lucia, 1898; gestorben (27./3. 1918).</note>
+               <note>St. Lucia, 1898; </note><event type="death"><label>gestorben</label><desc>(27./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.7346" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=27&amp;zoom=33">
                <persName>
@@ -3431,7 +3431,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Livek, 1875; gestorben (29./5. 1918).</note>
+               <note>Livek, 1875; </note><event type="death"><label>gestorben</label><desc>(29./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.10050" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=36&amp;zoom=33">
                <persName>
@@ -3444,7 +3444,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Čezsoški, 1898; gestorben (24./6. 1917).</note>
+               <note>Čezsoški, 1898; </note><event type="death"><label>gestorben</label><desc>(24./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.10106" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=36&amp;zoom=33">
                <persName>
@@ -3470,7 +3470,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1886; gestorben (18./5.1918).</note>
+               <note>1886; </note><event type="death"><label>gestorben</label><desc>(18./5.1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.12822" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=45&amp;zoom=33">
                <persName>
@@ -3574,7 +3574,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Lesana</region>
                </birth>
-               <note>Komen, 1887; gestorben (1./2. 1918).</note>
+               <note>Komen, 1887; </note><event type="death"><label>gestorben</label><desc>(1./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180805_689.10394" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=41&amp;zoom=33">
                <persName>
@@ -3613,7 +3613,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Vrtojba, 1888; gestorben (18./6.1918).</note>
+               <note>Vrtojba, 1888; </note><event type="death"><label>gestorben</label><desc>(18./6.1918).</desc></event>
             </person>
             <person xml:id="vll.19180812_690.3492" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=20&amp;zoom=33">
                <persName>
@@ -3626,7 +3626,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1868; gestorben (16.4.1918).</note>
+               <note>1868; </note><event type="death"><label>gestorben</label><desc>(16.4.1918).</desc></event>
             </person>
             <person xml:id="vll.19180812_690.3564" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=20&amp;zoom=33">
                <persName>
@@ -3638,7 +3638,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Florian, 1890; gestorben (27.3.1918).1894; gestorben (22./3. 1918).</note>
+               <note>St. Florian, 1890; </note><event type="death"><label>gestorben</label><desc>(27.3.1918).1894; gestorben (22./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180812_690.6044" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=30&amp;zoom=33">
                <persName>
@@ -3651,7 +3651,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Modreja, 1881, gestorben (15./3. 1918).</note>
+               <note>Modreja, 1881, </note><event type="death"><label>gestorben</label><desc>(15./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180812_690.9968" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=45&amp;zoom=33">
                <persName>
@@ -3677,7 +3677,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>St. Marein</region>
                </birth>
-               <note>1896; gestorben (9./2.1918).</note>
+               <note>1896; </note><event type="death"><label>gestorben</label><desc>(9./2.1918).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.6158" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=26&amp;zoom=33">
                <persName>
@@ -3690,7 +3690,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Čepovan, 1896; gestorben (13./8. 1915).</note>
+               <note>Čepovan, 1896; </note><event type="death"><label>gestorben</label><desc>(13./8. 1915).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.7442" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=30&amp;zoom=33">
                <persName>
@@ -3703,7 +3703,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1875; gestorben (20./8. 1915).</note>
+               <note>1875; </note><event type="death"><label>gestorben</label><desc>(20./8. 1915).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.8582" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=34&amp;zoom=33">
                <persName>
@@ -3716,7 +3716,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1872; gestorben (13./4.1918).</note>
+               <note>Kal, 1872; </note><event type="death"><label>gestorben</label><desc>(13./4.1918).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.8672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=34&amp;zoom=33">
                <persName>
@@ -3729,7 +3729,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Rodik, 1867; gefallen (l2./3. 1917).</note>
+               <note>Rodik, 1867; </note><event type="death"><label>gefallen</label><desc>(l2./3. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.11382" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=43&amp;zoom=33">
                <persName>
@@ -3742,7 +3742,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1891; gestorben (27./2. 1916).</note>
+               <note>1891; </note><event type="death"><label>gestorben</label><desc>(27./2. 1916).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.7198" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=28&amp;zoom=33">
                <persName>
@@ -3755,7 +3755,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Naklo, 1891; gestorben (16.11.1917)</note>
+               <note>Naklo, 1891; </note><event type="death"><label>gestorben</label><desc>(16.11.1917)</desc></event>
             </person>
             <person xml:id="vll.19180824_692.7280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=28&amp;zoom=33">
                <persName>
@@ -3768,7 +3768,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Trenta, 1871; gestorben (27. /ll. 1917).</note>
+               <note>Trenta, 1871; </note><event type="death"><label>gestorben</label><desc>(27. /ll. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.10140" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=38&amp;zoom=33">
                <persName>
@@ -3781,7 +3781,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Breth, 1898; gestorben (28./4. 1918).</note>
+               <note>Breth, 1898; </note><event type="death"><label>gestorben</label><desc>(28./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.11784" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=44&amp;zoom=33">
                <persName>
@@ -3794,7 +3794,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1868; gestorben (20.4. 1918).</note>
+               <note>1868; </note><event type="death"><label>gestorben</label><desc>(20.4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.2384" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=12&amp;zoom=33">
                <persName>
@@ -3807,7 +3807,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>gestorben (11./5.1918).</note>
+               <event type="death"><label>gestorben</label><desc>(11./5.1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.5068" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=21&amp;zoom=33">
                <persName>
@@ -3820,7 +3820,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kanal, 1898; gestorben (5./5. 1918).</note>
+               <note>Kanal, 1898; </note><event type="death"><label>gestorben</label><desc>(5./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.6142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=25&amp;zoom=33">
                <persName>
@@ -3833,7 +3833,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Flitsch, 1886; gestorben (4./5. 1918)</note>
+               <note>Flitsch, 1886; </note><event type="death"><label>gestorben</label><desc>(4./5. 1918)</desc></event>
             </person>
             <person xml:id="vll.19180830_693.6706" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=26&amp;zoom=33">
                <persName>
@@ -3846,7 +3846,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Lesana</region>
                </birth>
-               <note>Cerovlje, 1870; gestorben (11/4. 1918).</note>
+               <note>Cerovlje, 1870; </note><event type="death"><label>gestorben</label><desc>(11/4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.6904" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=27&amp;zoom=33">
                <persName>
@@ -3872,7 +3872,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Dolnji, 1888; gestorben (10./6. 1918).</note>
+               <note>Dolnji, 1888; </note><event type="death"><label>gestorben</label><desc>(10./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.9638" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=37&amp;zoom=33">
                <persName>
@@ -3885,7 +3885,7 @@
                   <country>Görz u.Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Temnica, 1878; gestorben (28./4. 1918).</note>
+               <note>Temnica, 1878; </note><event type="death"><label>gestorben</label><desc>(28./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.10112" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=39&amp;zoom=33">
                <persName>
@@ -3898,7 +3898,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1883; gestorben (10./5. 1918).</note>
+               <note>1883; </note><event type="death"><label>gestorben</label><desc>(10./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180910_694.6464" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180910&amp;seite=27&amp;zoom=33">
                <persName>
@@ -3937,7 +3937,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Savodnje, 1863; gestorben (29./3. 1918).</note>
+               <note>Savodnje, 1863; </note><event type="death"><label>gestorben</label><desc>(29./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180928_695.4142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=19&amp;zoom=33">
                <persName>
@@ -3950,7 +3950,7 @@
                   <country> Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1898; gestorben (15.6.1918)</note>
+               <note>1898; </note><event type="death"><label>gestorben</label><desc>(15.6.1918)</desc></event>
             </person>
             <person xml:id="vll.19180928_695.5932" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=27&amp;zoom=33">
                <persName>
@@ -3962,7 +3962,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1895; gestorben (4./6. 1918).</note>
+               <note>1895; </note><event type="death"><label>gestorben</label><desc>(4./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180928_695.14438" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=57&amp;zoom=33">
                <persName>
@@ -4092,7 +4092,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1874; gestorben (18./5. 1918).</note>
+               <note>1874; </note><event type="death"><label>gestorben</label><desc>(18./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181002_696.14432" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=52&amp;zoom=33">
                <persName>
@@ -4131,7 +4131,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Naklo, 1899; gestorben (25./5. 1918).</note>
+               <note>Naklo, 1899; </note><event type="death"><label>gestorben</label><desc>(25./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181005_697.4076" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=15&amp;zoom=33">
                <persName>
@@ -4157,7 +4157,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Skrilje, 1896; gestorben (13./7. 1918)</note>
+               <note>Skrilje, 1896; </note><event type="death"><label>gestorben</label><desc>(13./7. 1918)</desc></event>
             </person>
             <person xml:id="vll.19181005_697.5146" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=19&amp;zoom=33">
                <persName>
@@ -4170,7 +4170,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1894; gestorben (20./6. 1918).</note>
+               <note>1894; </note><event type="death"><label>gestorben</label><desc>(20./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181005_697.9394" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=34&amp;zoom=33">
                <persName>
@@ -4261,7 +4261,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Komen, 1891; gestorben (14./7. 1918).</note>
+               <note>Komen, 1891; </note><event type="death"><label>gestorben</label><desc>(14./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181011_698.10406" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=37&amp;zoom=33">
                <persName>
@@ -4313,7 +4313,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Dornberg, 1876; gestorben (17./7. 1918).</note>
+               <note>Dornberg, 1876; </note><event type="death"><label>gestorben</label><desc>(17./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181011_698.12182" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=43&amp;zoom=33">
                <persName>
@@ -4473,7 +4473,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Canale; gefallen (15 /7. 1916).</note>
+               <note>Canale; </note><event type="death"><label>gefallen</label><desc>(15 /7. 1916).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.10472" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=39&amp;zoom=33">
                <persName>
@@ -4486,7 +4486,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Dutovlje, 1890; gestorben (15./6. 1918).</note>
+               <note>Dutovlje, 1890; </note><event type="death"><label>gestorben</label><desc>(15./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.10890" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=40&amp;zoom=33">
                <persName>
@@ -4499,7 +4499,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Kobjeglava; gefallen (19./7. 1915).</note>
+               <note>Kobjeglava; </note><event type="death"><label>gefallen</label><desc>(19./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.11558" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=42&amp;zoom=33">
                <persName>
@@ -4512,7 +4512,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>gestorben 7./4. 1918). J</note>
+               <event type="death"><label>gestorben</label><desc>7./4. 1918). J</desc></event>
             </person>
             <person xml:id="vll.19181019_699.15738" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=56&amp;zoom=33">
                <persName>
@@ -4525,7 +4525,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1876; gestorben (11/7. 1918).</note>
+               <note>1876; </note><event type="death"><label>gestorben</label><desc>(11/7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181105_700.4854" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=19&amp;zoom=33">
                <persName>
@@ -4538,7 +4538,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Smarje, 1898; gestorben (28.6.1918)</note>
+               <note>Smarje, 1898; </note><event type="death"><label>gestorben</label><desc>(28.6.1918)</desc></event>
             </person>
             <person xml:id="vll.19181105_700.4890" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=19&amp;zoom=33">
                <persName>
@@ -4551,7 +4551,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Anhovo, 1873; gestorben (29./7. 1918).</note>
+               <note>Anhovo, 1873; </note><event type="death"><label>gestorben</label><desc>(29./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181105_700.8108" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=30&amp;zoom=33">
                <persName>
@@ -4590,7 +4590,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1897; gestorben (19/6.1918).</note>
+               <note>1897; </note><event type="death"><label>gestorben</label><desc>(19/6.1918).</desc></event>
             </person>
             <person xml:id="vll.19181111_701.9310" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=36&amp;zoom=33">
                <persName>
@@ -4629,7 +4629,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1885; gestorben (9./6. 1918).</note>
+               <note>1885; </note><event type="death"><label>gestorben</label><desc>(9./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181111_701.13798" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=53&amp;zoom=33">
                <persName>
@@ -4642,7 +4642,7 @@
                   <country>Görz, u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Komen, 1888; gestorben (2./7. 1918).</note>
+               <note>Komen, 1888; </note><event type="death"><label>gestorben</label><desc>(2./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181111_701.13918" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=54&amp;zoom=33">
                <persName>
@@ -4694,7 +4694,7 @@
                   <country>GÖrz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1896; gestorben (18./6 1918).</note>
+               <note>1896; </note><event type="death"><label>gestorben</label><desc>(18./6 1918).</desc></event>
             </person>
             <person xml:id="vll.19181126_702.8804" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=35&amp;zoom=33">
                <persName>
@@ -4707,7 +4707,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Povir, 1898; gestorben (29.7. 1918).</note>
+               <note>Povir, 1898; </note><event type="death"><label>gestorben</label><desc>(29.7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181126_702.9924" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=39&amp;zoom=33">
                <persName>
@@ -4720,7 +4720,7 @@
                   <country> Görz u. Gradiska</country>
                   <region>Görz.</region>
                </birth>
-               <note>Merna, 1879; gestorben (8.3.1918)</note>
+               <note>Merna, 1879; </note><event type="death"><label>gestorben</label><desc>(8.3.1918)</desc></event>
             </person>
             <person xml:id="vll.19181126_702.13354" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=50&amp;zoom=33">
                <persName>
@@ -4746,7 +4746,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Vrtojba, 1888; gestorben (18./6. 1918).</note>
+               <note>Vrtojba, 1888; </note><event type="death"><label>gestorben</label><desc>(18./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181126_702.17154" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=64&amp;zoom=33">
                <persName>
@@ -4759,7 +4759,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1900; gestorben (10.7.1918).</note>
+               <note>1900; </note><event type="death"><label>gestorben</label><desc>(10.7.1918).</desc></event>
             </person>
             <person xml:id="vll.19181204_703.1684" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=8&amp;zoom=33">
                <persName>
@@ -4798,7 +4798,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Gorjansko, 1900; gestorben (10./8. 1918).</note>
+               <note>Gorjansko, 1900; </note><event type="death"><label>gestorben</label><desc>(10./8. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181204_703.8894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=33&amp;zoom=33">
                <persName>
@@ -4811,7 +4811,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>St. Michael</region>
                </birth>
-               <note>1899; gefallen (15.-20./6. 1918).</note>
+               <note>1899; </note><event type="death"><label>gefallen</label><desc>(15.-20./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181204_703.12340" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=46&amp;zoom=33">
                <persName>
@@ -4876,7 +4876,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Vrtovin, 1896; gestorben (7./8. 1918).</note>
+               <note>Vrtovin, 1896; </note><event type="death"><label>gestorben</label><desc>(7./8. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181219_705.526" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=3&amp;zoom=33">
                <persName>
@@ -4903,7 +4903,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1896; gestorben (26./7. 1918).</note>
+               <note>1896; </note><event type="death"><label>gestorben</label><desc>(26./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181219_705.2404" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=10&amp;zoom=33">
                <persName>
@@ -4916,7 +4916,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Gaberje, 1900; gestorben(18./8.1918).</note>
+               <note>Gaberje, 1900; </note><event type="death"><label>gestorben</label><desc>(18./8.1918).</desc></event>
             </person>
             <person xml:id="vll.19181219_705.5434" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=20&amp;zoom=33">
                <persName>
@@ -5205,7 +5205,7 @@
                   <country>Görz uud Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Storje, 1891; gefallen (15./6. 1918).</note>
+               <note>Storje, 1891; </note><event type="death"><label>gefallen</label><desc>(15./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19190129_708.15872" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190129&amp;seite=54&amp;zoom=33">
                <persName>
