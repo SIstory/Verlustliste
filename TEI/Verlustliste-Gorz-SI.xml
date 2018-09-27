@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,7 +29,7 @@
    <text>
       <body>
          <listPerson>
-            <person xml:id="vll.19151224_342.8436">
+            <person xml:id="vll.19151224_342.8436" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151224&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Scuka</surname>
                   <forename>Jos.</forename>
@@ -44,7 +43,7 @@
                </birth>
                <note>Skrbina, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160523_423.10374">
+            <person xml:id="vll.19160523_423.10374" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160523&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Pirich</surname>
                   <forename>Andr.</forename>
@@ -57,7 +56,7 @@
                </birth>
                <note>St. Veitsberg, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19160523_423.12874">
+            <person xml:id="vll.19160523_423.12874" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160523&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Sulic</surname>
                   <forename>Andrej</forename>
@@ -70,7 +69,7 @@
                </birth>
                <note>Prvačina, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19160525_424.5320">
+            <person xml:id="vll.19160525_424.5320" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160525&amp;seite=21&amp;zoom=33">
                <persName>
                   <surname>Hoban</surname>
                   <forename>Josef</forename>
@@ -83,7 +82,7 @@
                </birth>
                <note>Biglia, 1887; verw.</note>
             </person>
-            <person xml:id="vll.19160624_434.3862">
+            <person xml:id="vll.19160624_434.3862" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160624&amp;seite=15&amp;zoom=33">
                <persName>
                   <surname>Ferdin</surname>
                   <forename>Karl</forename>
@@ -96,7 +95,7 @@
                </birth>
                <note>1802; verw.</note>
             </person>
-            <person xml:id="vll.19160701_436.10736">
+            <person xml:id="vll.19160701_436.10736" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160701&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Perlot</surname>
                   <forename>Karl</forename>
@@ -109,7 +108,7 @@
                </birth>
                <note>Nabrezina, 1895; tot (13./6. 1915).</note>
             </person>
-            <person xml:id="vll.19160715_441.8596">
+            <person xml:id="vll.19160715_441.8596" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160715&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Pachor</surname>
                   <forename>Josef</forename>
@@ -122,7 +121,7 @@
                </birth>
                <note>Brestowica, 1874; verw.</note>
             </person>
-            <person xml:id="vll.19160715_441.8776">
+            <person xml:id="vll.19160715_441.8776" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160715&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Pelikan</surname>
                   <forename>Benedikt</forename>
@@ -135,7 +134,7 @@
                </birth>
                <note>Merna, 1889; verw.</note>
             </person>
-            <person xml:id="vll.19160720_443.11938">
+            <person xml:id="vll.19160720_443.11938" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160720&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Suligoi</surname>
                   <forename>Johann</forename>
@@ -148,7 +147,7 @@
                </birth>
                <note>Auzza, 1877; verw.</note>
             </person>
-            <person xml:id="vll.19160807_449.5052">
+            <person xml:id="vll.19160807_449.5052" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160807&amp;seite=22&amp;zoom=33">
                <persName>
                   <surname>Hrwat</surname>
                   <forename>Anton</forename>
@@ -161,7 +160,7 @@
                </birth>
                <note>Corgnale, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160807_449.10430">
+            <person xml:id="vll.19160807_449.10430" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160807&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Samsa</surname>
                   <forename>Franz</forename>
@@ -174,7 +173,7 @@
                </birth>
                <note>1896; verw.</note>
             </person>
-            <person xml:id="vll.19160807_449.11384">
+            <person xml:id="vll.19160807_449.11384" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160807&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Spancic</surname>
                   <forename>Ferinand</forename>
@@ -187,7 +186,7 @@
                </birth>
                <note>Kojsko, 1873; tot (30./5.1916).</note>
             </person>
-            <person xml:id="vll.19160807_449.13728">
+            <person xml:id="vll.19160807_449.13728" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160807&amp;seite=60&amp;zoom=33">
                <persName>
                   <surname>Zonta</surname>
                   <forename>Anton</forename>
@@ -200,7 +199,7 @@
                </birth>
                <note>Dol. Otlica, 1873; verw.</note>
             </person>
-            <person xml:id="vll.19160818_453.1238">
+            <person xml:id="vll.19160818_453.1238" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160818&amp;seite=6&amp;zoom=33">
                <persName>
                   <surname>Badalic</surname>
                   <forename>Johanh</forename>
@@ -213,7 +212,7 @@
                </birth>
                <note>Osek, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19160829_457.6708">
+            <person xml:id="vll.19160829_457.6708" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160829&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Lužnik</surname>
                   <forename>Andreas</forename>
@@ -226,7 +225,7 @@
                </birth>
                <note>Kozaršže, 1875; verw.</note>
             </person>
-            <person xml:id="vll.19160829_457.9386">
+            <person xml:id="vll.19160829_457.9386" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160829&amp;seite=44&amp;zoom=33">
                <persName>
                   <surname>Seculin</surname>
                   <forename>Arthuro</forename>
@@ -239,7 +238,7 @@
                </birth>
                <note>1875; tot (5./6.1916).</note>
             </person>
-            <person xml:id="vll.19160907_461.2284">
+            <person xml:id="vll.19160907_461.2284" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160907&amp;seite=10&amp;zoom=33">
                <persName>
                   <surname>Bratina</surname>
                   <forename>Franz</forename>
@@ -252,7 +251,7 @@
                </birth>
                <note>Doll, 1895; verw.</note>
             </person>
-            <person xml:id="vll.19160907_461.2318">
+            <person xml:id="vll.19160907_461.2318" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160907&amp;seite=10&amp;zoom=33">
                <persName>
                   <surname>Brezawczek</surname>
                   <forename>Alois</forename>
@@ -265,7 +264,7 @@
                </birth>
                <note>Kal, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160907_461.6338">
+            <person xml:id="vll.19160907_461.6338" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160907&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Kaucic</surname>
                   <forename>Franz</forename>
@@ -278,7 +277,7 @@
                </birth>
                <note>Lipa, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160907_461.7546">
+            <person xml:id="vll.19160907_461.7546" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160907&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Krajnz</surname>
                   <forename>Johann</forename>
@@ -291,7 +290,7 @@
                </birth>
                <note>Lubinj, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19160919_466.1664">
+            <person xml:id="vll.19160919_466.1664" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160919&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Borstnik</surname>
                   <forename>Josef</forename>
@@ -304,7 +303,7 @@
                </birth>
                <note>Deskla, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160919_466.5292">
+            <person xml:id="vll.19160919_466.5292" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160919&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Krt</surname>
                   <forename>Anton</forename>
@@ -317,7 +316,7 @@
                </birth>
                <note>St. Daniel, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160919_466.6272">
+            <person xml:id="vll.19160919_466.6272" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160919&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Michelotti</surname>
                   <forename>Cornelius</forename>
@@ -330,7 +329,7 @@
                </birth>
                <note>Trenta, 1879; verw.</note>
             </person>
-            <person xml:id="vll.19160919_466.9138">
+            <person xml:id="vll.19160919_466.9138" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160919&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Starz</surname>
                   <forename>Anton</forename>
@@ -343,7 +342,7 @@
                </birth>
                <note>Dekani, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19160926_469.13412">
+            <person xml:id="vll.19160926_469.13412" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160926&amp;seite=57&amp;zoom=33">
                <persName>
                   <surname>Zaccon</surname>
                   <forename>Konrad</forename>
@@ -356,7 +355,7 @@
                </birth>
                <note>1893; verw.</note>
             </person>
-            <person xml:id="vll.19161005_473.9538">
+            <person xml:id="vll.19161005_473.9538" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161005&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Pausič</surname>
                   <forename>Franz</forename>
@@ -369,7 +368,7 @@
                </birth>
                <note>1898; kriegsgef., Rußland.</note>
             </person>
-            <person xml:id="vll.19161014_477.4140">
+            <person xml:id="vll.19161014_477.4140" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161014&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Gorianz</surname>
                   <forename>Josef</forename>
@@ -382,7 +381,7 @@
                </birth>
                <note>1896; verw.</note>
             </person>
-            <person xml:id="vll.19161014_477.8448">
+            <person xml:id="vll.19161014_477.8448" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161014&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Maraz</surname>
                   <forename>Karl</forename>
@@ -395,7 +394,7 @@
                </birth>
                <note>1891; verw.</note>
             </person>
-            <person xml:id="vll.19161014_477.10952">
+            <person xml:id="vll.19161014_477.10952" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161014&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Pelicon</surname>
                   <forename>Leopold</forename>
@@ -408,7 +407,7 @@
                </birth>
                <note>Schönpaß, 1896; tot (23./7.1916).</note>
             </person>
-            <person xml:id="vll.19161024_481.4972">
+            <person xml:id="vll.19161024_481.4972" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161024&amp;seite=22&amp;zoom=33">
                <persName>
                   <surname>Jazbec</surname>
                   <forename>August</forename>
@@ -421,7 +420,7 @@
                </birth>
                <note>Komen, 1887; verw.</note>
             </person>
-            <person xml:id="vll.19161028_483.634">
+            <person xml:id="vll.19161028_483.634" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161028&amp;seite=4&amp;zoom=33">
                <persName>
                   <surname>Valentinci</surname>
                   <forename>Antal</forename>
@@ -434,7 +433,7 @@
                </birth>
                <note>Deskle; verw.</note>
             </person>
-            <person xml:id="vll.19161123_492.11126">
+            <person xml:id="vll.19161123_492.11126" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161123&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Presen</surname>
                   <forename>Johann</forename>
@@ -447,7 +446,7 @@
                </birth>
                <note>1894; verw.</note>
             </person>
-            <person xml:id="vll.19161227_507.1960">
+            <person xml:id="vll.19161227_507.1960" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161227&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Brumart</surname>
                   <forename>Jakob</forename>
@@ -460,7 +459,7 @@
                </birth>
                <note>Salkano, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19161227_507.6506">
+            <person xml:id="vll.19161227_507.6506" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161227&amp;seite=30&amp;zoom=33">
                <persName>
                   <surname>Leban</surname>
                   <forename>Martin</forename>
@@ -473,7 +472,7 @@
                </birth>
                <note>Grahovo, 1874; kriegsgef., Tobolsk, Rotte 27, Rußland.</note>
             </person>
-            <person xml:id="vll.19170403_547.14040">
+            <person xml:id="vll.19170403_547.14040" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170403&amp;seite=60&amp;zoom=33">
                <persName>
                   <surname>Ussei</surname>
                   <forename>Josef</forename>
@@ -486,7 +485,7 @@
                </birth>
                <note>Peki, 1876; kriegsgef., Birjutsch, Gouv. Woronesh, Rußland.</note>
             </person>
-            <person xml:id="vll.19170417_555.2736">
+            <person xml:id="vll.19170417_555.2736" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170417&amp;seite=11&amp;zoom=33">
                <persName>
                   <surname>Byteznik</surname>
                   <forename>Ivan</forename>
@@ -499,7 +498,7 @@
                </birth>
                <note>1895; kriegsgef., Prochorovka, Gouv. Kursk, Rußland.</note>
             </person>
-            <person xml:id="vll.19170424_559.6540">
+            <person xml:id="vll.19170424_559.6540" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kogoj</surname>
                   <forename>Franz</forename>
@@ -512,7 +511,7 @@
                </birth>
                <note>Bare, 1877; tot (11.—20./1.1917).</note>
             </person>
-            <person xml:id="vll.19170501_564.9952">
+            <person xml:id="vll.19170501_564.9952" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170501&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Petani</surname>
                   <forename>Alois</forename>
@@ -525,7 +524,7 @@
                </birth>
                <note>1890; kriegsgef., Rußland.</note>
             </person>
-            <person xml:id="vll.19170814_607.4758">
+            <person xml:id="vll.19170814_607.4758" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170814&amp;seite=21&amp;zoom=33">
                <persName>
                   <surname>Klaric</surname>
                   <forename>Johann</forename>
@@ -538,7 +537,7 @@
                </birth>
                <note>Vizovlje, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19170814_607.5912">
+            <person xml:id="vll.19170814_607.5912" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170814&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Madon</surname>
                   <forename>Valentin</forename>
@@ -551,7 +550,7 @@
                </birth>
                <note>1869; gefallen (29.-30./6. 1917).</note>
             </person>
-            <person xml:id="vll.19170814_607.8134">
+            <person xml:id="vll.19170814_607.8134" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170814&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Rijavec</surname>
                   <forename>Anton</forename>
@@ -564,7 +563,7 @@
                </birth>
                <note>1874; gefallen (29.—30./6.1917).</note>
             </person>
-            <person xml:id="vll.19170901_609.3160">
+            <person xml:id="vll.19170901_609.3160" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170901&amp;seite=14&amp;zoom=33">
                <persName>
                   <surname>Faletič</surname>
                   <forename>Franz</forename>
@@ -577,7 +576,7 @@
                </birth>
                <note>Luico, 1892; verw.</note>
             </person>
-            <person xml:id="vll.19171005_613.9208">
+            <person xml:id="vll.19171005_613.9208" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171005&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Promozič</surname>
                   <forename>Jakob</forename>
@@ -590,7 +589,7 @@
                </birth>
                <note>Renče, 1882; gestorben (22. 7. 1917).</note>
             </person>
-            <person xml:id="vll.19171010_615.1926">
+            <person xml:id="vll.19171010_615.1926" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171010&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Böllinger</surname>
                   <forename>Alois</forename>
@@ -603,7 +602,7 @@
                </birth>
                <note>Ravnica, 1875; verw.</note>
             </person>
-            <person xml:id="vll.19171010_615.9658">
+            <person xml:id="vll.19171010_615.9658" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171010&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Saksida</surname>
                   <forename>Cyrill</forename>
@@ -616,7 +615,7 @@
                </birth>
                <note>1897; verw.</note>
             </person>
-            <person xml:id="vll.19171017_618.1298">
+            <person xml:id="vll.19171017_618.1298" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=6&amp;zoom=33">
                <persName>
                   <surname>Arčon</surname>
                   <forename>Anton</forename>
@@ -629,7 +628,7 @@
                </birth>
                <note>Rence, 1898; gestorben (6./9. 1917)</note>
             </person>
-            <person xml:id="vll.19171025_620.12048">
+            <person xml:id="vll.19171025_620.12048" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171025&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Visintin</surname>
                   <forename>Alexander</forename>
@@ -642,7 +641,7 @@
                </birth>
                <note>St. Martin; verw.</note>
             </person>
-            <person xml:id="vll.19171027_621.5500">
+            <person xml:id="vll.19171027_621.5500" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171027&amp;seite=23&amp;zoom=33">
                <persName>
                   <surname>Gregorič</surname>
                   <forename>Anton</forename>
@@ -655,7 +654,7 @@
                </birth>
                <note>Kronberg, 1898; gestorben (9./8. 1917).</note>
             </person>
-            <person xml:id="vll.19171027_621.6386">
+            <person xml:id="vll.19171027_621.6386" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171027&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Humar</surname>
                   <forename>Leopold</forename>
@@ -668,7 +667,7 @@
                </birth>
                <note>Bäte, 1897; gestorben (11./8. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.1792">
+            <person xml:id="vll.19171108_626.1792" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Belinger</surname>
                   <forename>Jakob</forename>
@@ -681,7 +680,7 @@
                </birth>
                <note>Gargaro, 1866; gestorben (8.5. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.2012">
+            <person xml:id="vll.19171108_626.2012" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Bisalij</surname>
                   <forename>Franz</forename>
@@ -694,7 +693,7 @@
                </birth>
                <note>Volče, 1869; gestorben (5./4. 1914).</note>
             </person>
-            <person xml:id="vll.19171108_626.3690">
+            <person xml:id="vll.19171108_626.3690" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=16&amp;zoom=33">
                <persName>
                   <surname>Fagauel</surname>
                   <forename>Anton</forename>
@@ -707,7 +706,7 @@
                </birth>
                <note>Osek, 1866; gestorben (4./6. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.3876">
+            <person xml:id="vll.19171108_626.3876" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Gaberšek</surname>
                   <forename>Anton</forename>
@@ -720,7 +719,7 @@
                </birth>
                <note>Gabrije, 1890; verw.</note>
             </person>
-            <person xml:id="vll.19171108_626.4464">
+            <person xml:id="vll.19171108_626.4464" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>Golja</surname>
                   <forename>Johann</forename>
@@ -733,7 +732,7 @@
                </birth>
                <note>Woltschach, 1893; gestorben (26.4. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.7274">
+            <person xml:id="vll.19171108_626.7274" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Kavčič</surname>
                   <forename>Josef</forename>
@@ -746,7 +745,7 @@
                </birth>
                <note>1876; gestorben (5.12. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.7280">
+            <person xml:id="vll.19171108_626.7280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Klajnicek</surname>
                   <forename>Josef</forename>
@@ -759,7 +758,7 @@
                </birth>
                <note>1869; gestorben (18.4.1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.8126">
+            <person xml:id="vll.19171108_626.8126" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Krasna</surname>
                   <forename>Pasqual</forename>
@@ -772,7 +771,7 @@
                </birth>
                <note>Haidenschaft, 1880; gestorben (27. 8. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.11814">
+            <person xml:id="vll.19171108_626.11814" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=49&amp;zoom=33">
                <persName>
                   <surname>Petelin</surname>
                   <forename>Johann</forename>
@@ -785,7 +784,7 @@
                </birth>
                <note>Gorjansko, 1892; gestorben (2./4. 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.11940">
+            <person xml:id="vll.19171108_626.11940" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=49&amp;zoom=33">
                <persName>
                   <surname>Piccinin</surname>
                   <forename>Eduard</forename>
@@ -798,7 +797,7 @@
                </birth>
                <note>1899; gestorben (11./6 - 1917).</note>
             </person>
-            <person xml:id="vll.19171108_626.12598">
+            <person xml:id="vll.19171108_626.12598" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=53&amp;zoom=33">
                <persName>
                   <surname>Primozič</surname>
                   <forename>Benedikt</forename>
@@ -811,7 +810,7 @@
                </birth>
                <note>Temnica, 1874; verw.</note>
             </person>
-            <person xml:id="vll.19171113_627.1802">
+            <person xml:id="vll.19171113_627.1802" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171113&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Arčon</surname>
                   <forename>Anton</forename>
@@ -824,7 +823,7 @@
                </birth>
                <note>Renče, 1898, verw.</note>
             </person>
-            <person xml:id="vll.19171113_627.2774">
+            <person xml:id="vll.19171113_627.2774" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171113&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Faschin</surname>
                   <forename>Alois</forename>
@@ -837,7 +836,7 @@
                </birth>
                <note>Škibina, 188l; verw.</note>
             </person>
-            <person xml:id="vll.19171113_627.9956">
+            <person xml:id="vll.19171113_627.9956" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171113&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Rosič</surname>
                   <forename>Johann</forename>
@@ -850,7 +849,7 @@
                </birth>
                <note>Bäte, 1879: gestorben (30./4. 1917).</note>
             </person>
-            <person xml:id="vll.19171119_629.13512">
+            <person xml:id="vll.19171119_629.13512" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171119&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Sustersic</surname>
                   <forename>Josef</forename>
@@ -863,7 +862,7 @@
                </birth>
                <note>Gorjansko, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19171119_629.14952">
+            <person xml:id="vll.19171119_629.14952" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171119&amp;seite=61&amp;zoom=33">
                <persName>
                   <surname>Wultsch</surname>
                   <forename>Franz</forename>
@@ -876,7 +875,7 @@
                </birth>
                <note>Cezsoča, 1898; verw.</note>
             </person>
-            <person xml:id="vll.19171119_629.15308">
+            <person xml:id="vll.19171119_629.15308" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171119&amp;seite=62&amp;zoom=33">
                <persName>
                   <surname>Zučič</surname>
                   <forename>Johann</forename>
@@ -889,7 +888,7 @@
                </birth>
                <note>Opatje Selo, 1870; gestcrbcn (31./8.1917).</note>
             </person>
-            <person xml:id="vll.19171121_630.1806">
+            <person xml:id="vll.19171121_630.1806" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171121&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Bensa</surname>
                   <forename>Andreas</forename>
@@ -902,7 +901,7 @@
                </birth>
                <note>1884; verw.</note>
             </person>
-            <person xml:id="vll.19171121_630.8374">
+            <person xml:id="vll.19171121_630.8374" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171121&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Lozar</surname>
                   <forename>Franz</forename>
@@ -915,7 +914,7 @@
                </birth>
                <note>Vrtovin, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19171121_630.12670">
+            <person xml:id="vll.19171121_630.12670" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171121&amp;seite=51&amp;zoom=33">
                <persName>
                   <surname>Stražišer</surname>
                   <forename>Franz</forename>
@@ -928,7 +927,7 @@
                </birth>
                <note>Naklo, 1890; verw.</note>
             </person>
-            <person xml:id="vll.19171127_631.14348">
+            <person xml:id="vll.19171127_631.14348" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171127&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Podkornik</surname>
                   <forename>Josef</forename>
@@ -940,7 +939,7 @@
                </birth>
                <note>Trnovo, 1860; gestorben (8.9. 1917)</note>
             </person>
-            <person xml:id="vll.19171130_632.2406">
+            <person xml:id="vll.19171130_632.2406" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171130&amp;seite=11&amp;zoom=33">
                <persName>
                   <surname>Belle</surname>
                   <forename>Anton</forename>
@@ -953,7 +952,7 @@
                </birth>
                <note>1867; verw.</note>
             </person>
-            <person xml:id="v11.19171204_633.12112">
+            <person xml:id="v11.19171204_633.12112" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171204&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Susmelj</surname>
                   <forename>Stefan</forename>
@@ -966,7 +965,7 @@
                </birth>
                <note>Trnovo, 1882; verw.</note>
             </person>
-            <person xml:id="vll.19171220_637.464">
+            <person xml:id="vll.19171220_637.464" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=3&amp;zoom=33">
                <persName>
                   <surname>Galateo</surname>
                   <roleName>Edl. v. Gallinarič</roleName>
@@ -980,7 +979,7 @@
                </birth>
                <note>1887; gestorben (17./9. 1917).</note>
             </person>
-            <person xml:id="vll.19171220_637.6022">
+            <person xml:id="vll.19171220_637.6022" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=23&amp;zoom=33">
                <persName>
                   <surname>Hvala</surname>
                   <forename>Anton</forename>
@@ -993,7 +992,7 @@
                </birth>
                <note>1871; gestorben (16./10. 1917).</note>
             </person>
-            <person xml:id="vll.19171220_637.7994">
+            <person xml:id="vll.19171220_637.7994" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=30&amp;zoom=33">
                <persName>
                   <surname>Krapez</surname>
                   <forename>Rudolf</forename>
@@ -1006,7 +1005,7 @@
                </birth>
                <note>Dol. Otlica, 1885; gestorben (6./10.1917).</note>
             </person>
-            <person xml:id="vll.19171220_637.11526">
+            <person xml:id="vll.19171220_637.11526" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Eebula</surname>
                   <forename>Josef</forename>
@@ -1019,7 +1018,7 @@
                </birth>
                <note>1871; gestorben (21./9. 1917).</note>
             </person>
-            <person xml:id="vll.19171222_638.10814">
+            <person xml:id="vll.19171222_638.10814" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Podgorink</surname>
                   <forename>Rudolf</forename>
@@ -1032,7 +1031,7 @@
                </birth>
                <note>Čepowan, 1899; gestorben (6.10. 1917).</note>
             </person>
-            <person xml:id="vll.19171222_638.11994">
+            <person xml:id="vll.19171222_638.11994" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Rahmanovič</surname>
                   <forename>Gacanin</forename>
@@ -1046,7 +1045,7 @@
                </birth>
                <note>Lokve, 1898; gestorben (9./10. 1917).</note>
             </person>
-            <person xml:id="vll.19171222_638.12376">
+            <person xml:id="vll.19171222_638.12376" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Rett</surname>
                   <forename>Jakob</forename>
@@ -1059,7 +1058,7 @@
                </birth>
                <note>Monfalcone, Aquileja, 1878; gestorben (11./8. 1917).</note>
             </person>
-            <person xml:id="vll.19171228_639.12568">
+            <person xml:id="vll.19171228_639.12568" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171228&amp;seite=49&amp;zoom=33">
                <persName>
                   <surname>Tkaczuk</surname>
                   <forename>Ivan</forename>
@@ -1072,7 +1071,7 @@
                </birth>
                <note>Lokovec, 1898; gestorben (8./8. 1917).</note>
             </person>
-            <person xml:id="vll.19171228_639.12792">
+            <person xml:id="vll.19171228_639.12792" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171228&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Tortul</surname>
                   <forename>Franz</forename>
@@ -1085,7 +1084,7 @@
                </birth>
                <note>odgora, 1879; gestorben (25. 7. 1917).</note>
             </person>
-            <person xml:id="vll.19171228_639.13024">
+            <person xml:id="vll.19171228_639.13024" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171228&amp;seite=51&amp;zoom=33">
                <persName>
                   <surname>Trost</surname>
                   <forename>Josef</forename>
@@ -1098,7 +1097,7 @@
                </birth>
                <note>Haidenschaft, 1899; gestorben (16./10. 1917).</note>
             </person>
-            <person xml:id="vll.19180103_640.6168">
+            <person xml:id="vll.19180103_640.6168" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180103&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Kalin</surname>
                   <forename>Stefan</forename>
@@ -1111,7 +1110,7 @@
                </birth>
                <note>Heiligenkreuz, 1867; gestorben (29./7. 1917).</note>
             </person>
-            <person xml:id="vll.19180105_641.4280">
+            <person xml:id="vll.19180105_641.4280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Dzeryn</surname>
                   <forename>Paul</forename>
@@ -1124,7 +1123,7 @@
                </birth>
                <note>1897; gestorben (27./9. 1917).</note>
             </person>
-            <person xml:id="vll.19180105_641.10776">
+            <person xml:id="vll.19180105_641.10776" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Piculin</surname>
                   <forename>Anton</forename>
@@ -1137,7 +1136,7 @@
                </birth>
                <note>St. Florian, 1889; gestorben (20.9.1917).</note>
             </person>
-            <person xml:id="vll.19180105_641.10896">
+            <person xml:id="vll.19180105_641.10896" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Podhornik</surname>
                   <forename>Justin</forename>
@@ -1150,7 +1149,7 @@
                </birth>
                <note>1887; gestorben (16./9. 1917).</note>
             </person>
-            <person xml:id="vll.19180118_643.10658">
+            <person xml:id="vll.19180118_643.10658" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180118&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Podhornik</surname>
                   <forename>Justin</forename>
@@ -1163,7 +1162,7 @@
                </birth>
                <note>1887; gestorben (16./9. 1917).</note>
             </person>
-            <person xml:id="vll.19180124_645.2304">
+            <person xml:id="vll.19180124_645.2304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=10&amp;zoom=33">
                <persName>
                   <surname>Cusia</surname>
                   <forename>Josef</forename>
@@ -1176,7 +1175,7 @@
                </birth>
                <note>Logje, 1891; gestorben (10./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180124_645.7150">
+            <person xml:id="vll.19180124_645.7150" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=29&amp;zoom=33">
                <persName>
                   <surname>Leban</surname>
                   <forename>Franz</forename>
@@ -1189,7 +1188,7 @@
                </birth>
                <note>St. Lucia, 1887; verw.</note>
             </person>
-            <person xml:id="vll.19180124_645.13368">
+            <person xml:id="vll.19180124_645.13368" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Struckel</surname>
                   <forename>Michael</forename>
@@ -1202,7 +1201,7 @@
                </birth>
                <note>St. Lucia, 1891; gestorben (l./ll. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.1714">
+            <person xml:id="vll.19180129_647.1714" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=7&amp;zoom=33">
                <persName>
                   <surname>Bespet</surname>
                   <forename>Johann</forename>
@@ -1215,7 +1214,7 @@
                </birth>
                <note>Kirchheim, 1867; gestorben (17./10. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.2098">
+            <person xml:id="vll.19180129_647.2098" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Braz</surname>
                   <forename>Johann</forename>
@@ -1228,7 +1227,7 @@
                </birth>
                <note>Soča, 1882; gestorben (7. 11. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.2460">
+            <person xml:id="vll.19180129_647.2460" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=10&amp;zoom=33">
                <persName>
                   <surname>Cernigoj</surname>
                   <forename>August</forename>
@@ -1241,7 +1240,7 @@
                </birth>
                <note>Heilligen Kreutz, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19180129_647.6030">
+            <person xml:id="vll.19180129_647.6030" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Klobucar</surname>
                   <forename>Mathias</forename>
@@ -1254,7 +1253,7 @@
                </birth>
                <note>1897; gestorben (7./7. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.7078">
+            <person xml:id="vll.19180129_647.7078" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kulot</surname>
                   <forename>Franz</forename>
@@ -1267,7 +1266,7 @@
                </birth>
                <note>Vrtojba, 1895; gestorben (8./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.7168">
+            <person xml:id="vll.19180129_647.7168" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kutin</surname>
                   <forename>Anton</forename>
@@ -1280,7 +1279,7 @@
                </birth>
                <note>1883; gestoibei (3./11. 1917)</note>
             </person>
-            <person xml:id="vll.19180129_647.7304">
+            <person xml:id="vll.19180129_647.7304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Lapajne</surname>
                   <forename>Franz</forename>
@@ -1293,7 +1292,7 @@
                </birth>
                <note>Plužne, 1880; gestrben (6./7. 1917)</note>
             </person>
-            <person xml:id="vll.19180129_647.8128">
+            <person xml:id="vll.19180129_647.8128" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Marusec</surname>
                   <forename>Karl</forename>
@@ -1306,7 +1305,7 @@
                </birth>
                <note>Komen, 1895; verw.</note>
             </person>
-            <person xml:id="vll.19180129_647.11792">
+            <person xml:id="vll.19180129_647.11792" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Rebula</surname>
                   <forename>Vinzenz</forename>
@@ -1319,7 +1318,7 @@
                </birth>
                <note>Brestovica, 1894; gestorben (12.8.1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.12504">
+            <person xml:id="vll.19180129_647.12504" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Samec</surname>
                   <forename>Josef</forename>
@@ -1332,7 +1331,7 @@
                </birth>
                <note>Samaria, 1871; gestorben (7./8. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.13216">
+            <person xml:id="vll.19180129_647.13216" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Skaber</surname>
                   <forename>Franz</forename>
@@ -1345,7 +1344,7 @@
                </birth>
                <note>Temnica, 1897; gestorben (15./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180129_647.13408">
+            <person xml:id="vll.19180129_647.13408" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=51&amp;zoom=33">
                <persName>
                   <surname>Slokar</surname>
                   <forename>Leopold</forename>
@@ -1359,7 +1358,7 @@
                </birth>
                <note>Haidenschaft, 1891; gestorben (19.8. 1917).</note>
             </person>
-            <person xml:id="vll.19180201_648.3474">
+            <person xml:id="vll.19180201_648.3474" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=14&amp;zoom=33">
                <persName>
                   <surname>Cibey</surname>
                   <forename>Franz</forename>
@@ -1372,7 +1371,7 @@
                </birth>
                <note>Dol-Otlica, 1881; Gestorben (2l./ll. 1917).</note>
             </person>
-            <person xml:id="vll.19180201_648.13438">
+            <person xml:id="vll.19180201_648.13438" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=49&amp;zoom=33">
                <persName>
                   <surname>Urdik</surname>
                   <forename>Andreas</forename>
@@ -1385,7 +1384,7 @@
                </birth>
                <note>Temnica, 1890; gestorben (29./8. 1917).</note>
             </person>
-            <person xml:id="vll.19180201_648.13906">
+            <person xml:id="vll.19180201_648.13906" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Yiseiitln</surname>
                   <forename>Stefan</forename>
@@ -1398,7 +1397,7 @@
                </birth>
                <note>Opatiesclo, 1877; gestorben (l./ll. 1917).</note>
             </person>
-            <person xml:id="vll.19180201_648.14844">
+            <person xml:id="vll.19180201_648.14844" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180201&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Arčon</surname>
                   <forename>Anton</forename>
@@ -1411,7 +1410,7 @@
                </birth>
                <note>Renče, 1898; gestorben (6./9. 1917).</note>
             </person>
-            <person xml:id="vll.19180204_649.2790">
+            <person xml:id="vll.19180204_649.2790" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=11&amp;zoom=33">
                <persName>
                   <surname>Culot</surname>
                   <forename>Eugen</forename>
@@ -1424,7 +1423,7 @@
                </birth>
                <note>1880; gestorben (3./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180204_649.8902">
+            <person xml:id="vll.19180204_649.8902" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Macnik</surname>
                   <forename>Franz</forename>
@@ -1437,7 +1436,7 @@
                </birth>
                <note>Kneža, 1885; gestorben (17./7. 1917).</note>
             </person>
-            <person xml:id="vll.19180204_649.15078">
+            <person xml:id="vll.19180204_649.15078" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Vidmar</surname>
                   <forename>Engelbert</forename>
@@ -1450,7 +1449,7 @@
                </birth>
                <note>1886 gestorben (5./ll. 1917).</note>
             </person>
-            <person xml:id="v11.19180209_651.8408">
+            <person xml:id="v11.19180209_651.8408" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Mocnik</surname>
                   <forename>Josef</forename>
@@ -1463,7 +1462,7 @@
                </birth>
                <note>Sibelji, 1877; gestorben (26./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180209_651.9894">
+            <person xml:id="v11.19180209_651.9894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Pelernelj</surname>
                   <forename>Martin</forename>
@@ -1476,7 +1475,7 @@
                </birth>
                <note>1887; gestorben (19./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180209_651.12836">
+            <person xml:id="v11.19180209_651.12836" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Svara</surname>
                   <forename>Anton</forename>
@@ -1489,7 +1488,7 @@
                </birth>
                <note>Veliki Dol, 1869; gestorben (25./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180214_652.4032">
+            <person xml:id="v11.19180214_652.4032" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Homar</surname>
                   <forename>Stefan</forename>
@@ -1502,7 +1501,7 @@
                </birth>
                <note>Kal, 1889; gestorben (20./l0. 1917).</note>
             </person>
-            <person xml:id="v11.19180214_652.4164">
+            <person xml:id="v11.19180214_652.4164" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Humar</surname>
                   <forename>Sändor</forename>
@@ -1515,7 +1514,7 @@
                </birth>
                <note>Gargaro, 1872; gertorben (1./12. 1917).</note>
             </person>
-            <person xml:id="v11.19180214_652.4170">
+            <person xml:id="v11.19180214_652.4170" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Hummer</surname>
                   <forename>Johann</forename>
@@ -1528,7 +1527,7 @@
                </birth>
                <note>1872; gestorben (1./12. 1917).</note>
             </person>
-            <person xml:id="v11.19180214_652.10294">
+            <person xml:id="v11.19180214_652.10294" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Speranza</surname>
                   <forename>Valentin</forename>
@@ -1541,7 +1540,7 @@
                </birth>
                <note>Medea, 1876; gestorben (18./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180214_652.14186">
+            <person xml:id="v11.19180214_652.14186" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Žvogar</surname>
                   <forename>Andreas</forename>
@@ -1554,7 +1553,7 @@
                </birth>
                <note>Veliki Dol, 1872; gestorben (24./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180221_653.4672">
+            <person xml:id="v11.19180221_653.4672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Jazbec</surname>
                   <forename>David</forename>
@@ -1567,7 +1566,7 @@
                </birth>
                <note>Komen, 1876; gestorben (6./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180221_653.5176">
+            <person xml:id="v11.19180221_653.5176" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=22&amp;zoom=33">
                <persName>
                   <surname>Kenda</surname>
                   <forename>Anton</forename>
@@ -1580,7 +1579,7 @@
                </birth>
                <note>1886; gestorben (28./11. 1917).</note>
             </person>
-            <person xml:id="v11.19180221_653.9708">
+            <person xml:id="v11.19180221_653.9708" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Pinter</surname>
                   <forename>Johann</forename>
@@ -1593,7 +1592,7 @@
                </birth>
                <note>St. Florian, 1880; gestorben (23./10. 1917).</note>
             </person>
-            <person xml:id="v11.19180223_654.6308">
+            <person xml:id="v11.19180223_654.6308" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180223&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Gulic</surname>
                   <forename>Franz</forename>
@@ -1606,7 +1605,7 @@
                </birth>
                <note>Skopa, 1887: verw.</note>
             </person>
-            <person xml:id="v11.19180227_655.12300">
+            <person xml:id="v11.19180227_655.12300" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180227&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Sila</surname>
                   <forename>Franz</forename>
@@ -1619,7 +1618,7 @@
                </birth>
                <note>Corgnale, 1870; gestorben (13. 11. 1917).</note>
             </person>
-            <person xml:id="v11.19180227_655.14142">
+            <person xml:id="v11.19180227_655.14142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180227&amp;seite=58&amp;zoom=33">
                <persName>
                   <surname>Zorn</surname>
                   <forename>Johann</forename>
@@ -1632,7 +1631,7 @@
                </birth>
                <note>Prvačina, 1896; gestorben (18./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180307_657.2858">
+            <person xml:id="vll.19180307_657.2858" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Gerbič</surname>
                   <forename>Josef</forename>
@@ -1645,7 +1644,7 @@
                </birth>
                <note>1873; verw.</note>
             </person>
-            <person xml:id="vll.19180307_657.9184">
+            <person xml:id="vll.19180307_657.9184" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Petrovčič</surname>
                   <forename>Ivan</forename>
@@ -1658,7 +1657,7 @@
                </birth>
                <note>Bate, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19180307_657.10802">
+            <person xml:id="vll.19180307_657.10802" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Skubin</surname>
                   <forename>Josef</forename>
@@ -1671,7 +1670,7 @@
                </birth>
                <note>Drežnica, 1884; verw.</note>
             </person>
-            <person xml:id="vll.19180307_657.11460">
+            <person xml:id="vll.19180307_657.11460" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=44&amp;zoom=33">
                <persName>
                   <surname>Švara</surname>
                   <forename>Anton</forename>
@@ -1684,7 +1683,7 @@
                </birth>
                <note>Gabrowize, 1875; verw.</note>
             </person>
-            <person xml:id="vll.19180307_657.11462">
+            <person xml:id="vll.19180307_657.11462" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=44&amp;zoom=33">
                <persName>
                   <surname>Švara</surname>
                   <forename>Vinzenz</forename>
@@ -1697,7 +1696,7 @@
                </birth>
                <note>Komen, 1874; verw.</note>
             </person>
-            <person xml:id="vll.19180309_658.4944">
+            <person xml:id="vll.19180309_658.4944" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180309&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Krapež</surname>
                   <forename>Johann</forename>
@@ -1710,7 +1709,7 @@
                </birth>
                <note>Otlica, 1886; verw.</note>
             </person>
-            <person xml:id="vll.19180309_658.5690">
+            <person xml:id="vll.19180309_658.5690" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180309&amp;seite=22&amp;zoom=33">
                <persName>
                   <surname>Makuč</surname>
                   <forename>Andreas</forename>
@@ -1723,7 +1722,7 @@
                </birth>
                <note>St. Andrä, 1874; gestorben (10./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180313_659.986">
+            <person xml:id="vll.19180313_659.986" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180313&amp;seite=5&amp;zoom=33">
                <persName>
                   <surname>Rauder</surname>
                   <forename>Max</forename>
@@ -1736,7 +1735,7 @@
                </birth>
                <note>1889; kriegsgef., Wolotschisk, Rußland.</note>
             </person>
-            <person xml:id="vll.19180313_659.7158">
+            <person xml:id="vll.19180313_659.7158" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180313&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Kjuder</surname>
                   <forename>Franz</forename>
@@ -1749,7 +1748,7 @@
                </birth>
                <note>Dutovlje, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19180315_660.2782">
+            <person xml:id="vll.19180315_660.2782" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=11&amp;zoom=33">
                <persName>
                   <surname>Drašček</surname>
                   <forename>Alois</forename>
@@ -1762,7 +1761,7 @@
                </birth>
                <note>Salcano, 1884; gestorben (14., 1. 1918).</note>
             </person>
-            <person xml:id="vll.19180315_660.4870">
+            <person xml:id="vll.19180315_660.4870" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>Jereb</surname>
                   <forename>Josef</forename>
@@ -1775,7 +1774,7 @@
                </birth>
                <note>Cerkno, 1899; gestorben (17./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180315_660.10588">
+            <person xml:id="vll.19180315_660.10588" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Perdih</surname>
                   <forename>Johann</forename>
@@ -1788,7 +1787,7 @@
                </birth>
                <note>1890; verw.</note>
             </person>
-            <person xml:id="vll.19180319_661.7554">
+            <person xml:id="vll.19180319_661.7554" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Hvalič</surname>
                   <forename>Rudolf</forename>
@@ -1801,7 +1800,7 @@
                </birth>
                <note>Stadt, Podgora, 1884; gestorben (18./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180319_661.8894">
+            <person xml:id="vll.19180319_661.8894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Konič</surname>
                   <forename>Johann</forename>
@@ -1814,7 +1813,7 @@
                </birth>
                <note>Ossegliano, 1879; gestorben (24./11.1917).</note>
             </person>
-            <person xml:id="vll.19180319_661.12428">
+            <person xml:id="vll.19180319_661.12428" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Rakusček</surname>
                   <forename>Franz</forename>
@@ -1827,7 +1826,7 @@
                </birth>
                <note>Drežnica, 1878; verw.</note>
             </person>
-            <person xml:id="vll.19180319_661.12840">
+            <person xml:id="vll.19180319_661.12840" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Rutar</surname>
                   <forename>Josef</forename>
@@ -1840,7 +1839,7 @@
                </birth>
                <note>Dreznica, 1884; verw.</note>
             </person>
-            <person xml:id="vll.19180319_661.15576">
+            <person xml:id="vll.19180319_661.15576" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=57&amp;zoom=33">
                <persName>
                   <surname>Velisek</surname>
                   <forename>Anton</forename>
@@ -1853,7 +1852,7 @@
                </birth>
                <note>St. Martin, 1891; gestorben (27./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180319_661.15722">
+            <person xml:id="vll.19180319_661.15722" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=57&amp;zoom=33">
                <persName>
                   <surname>Vodopivec</surname>
                   <forename>Josef</forename>
@@ -1866,7 +1865,7 @@
                </birth>
                <note>Prvacina, 1897; gestorben (22./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180319_661.15752">
+            <person xml:id="vll.19180319_661.15752" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=58&amp;zoom=33">
                <persName>
                   <surname>Volk</surname>
                   <forename>Stefan</forename>
@@ -1879,7 +1878,7 @@
                </birth>
                <note>Trnovo, 1896; verv.</note>
             </person>
-            <person xml:id="vll.19180323_662.4252">
+            <person xml:id="vll.19180323_662.4252" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Debenjak</surname>
                   <forename>Franz</forename>
@@ -1892,7 +1891,7 @@
                </birth>
                <note>Kojsko, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19180323_662.5792">
+            <person xml:id="vll.19180323_662.5792" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=23&amp;zoom=33">
                <persName>
                   <surname>Gernek</surname>
                   <forename>Franz</forename>
@@ -1905,7 +1904,7 @@
                </birth>
                <note>Kobjeglava, 1895; kriegsgef., Tjumen, Gouvernement Tobölsk, Rußland.</note>
             </person>
-            <person xml:id="vll.19180323_662.8812">
+            <person xml:id="vll.19180323_662.8812" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Kovacic</surname>
                   <forename>Johann</forename>
@@ -1918,7 +1917,7 @@
                </birth>
                <note>1888; gefallen (4./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180323_662.8816">
+            <person xml:id="vll.19180323_662.8816" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Kovacic</surname>
                   <forename>Niko</forename>
@@ -1931,7 +1930,7 @@
                </birth>
                <note>Mihalji, 1898; gestorben (22./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180323_662.9732">
+            <person xml:id="vll.19180323_662.9732" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Lisjak</surname>
                   <forename>Josef</forename>
@@ -1944,7 +1943,7 @@
                </birth>
                <note>Hrusevica, 1889; kriegsgef., Tjumen, Gouvernement Tobolsk, Rußland.</note>
             </person>
-            <person xml:id="vll.19180323_662.10476">
+            <person xml:id="vll.19180323_662.10476" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Mawer</surname>
                   <forename>Anton</forename>
@@ -1957,7 +1956,7 @@
                </birth>
                <note>Lokev, 1889; kriegsgef., Tjumen, Gouvernement Tobolsk, Rußland.</note>
             </person>
-            <person xml:id="vll.19180323_662.10670">
+            <person xml:id="vll.19180323_662.10670" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Metlikovec</surname>
                   <forename>Gabriel d. Vinzenz</forename>
@@ -1970,7 +1969,7 @@
                </birth>
                <note>Komen, 1894; kriegsgef., Rußland.</note>
             </person>
-            <person xml:id="vll.19180323_662.10926">
+            <person xml:id="vll.19180323_662.10926" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Mokrin</surname>
                   <forename>Johann</forename>
@@ -1983,7 +1982,7 @@
                </birth>
                <note>Lokovec, 1893; gestorben (6. 1. 1918).</note>
             </person>
-            <person xml:id="vll.19180328_663.4440">
+            <person xml:id="vll.19180328_663.4440" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180328&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Gregorat</surname>
                   <forename>Josef</forename>
@@ -1996,7 +1995,7 @@
                </birth>
                <note>1891; verw.</note>
             </person>
-            <person xml:id="vll.19180328_663.8518">
+            <person xml:id="vll.19180328_663.8518" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180328&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Makuč</surname>
                   <forename>Josef</forename>
@@ -2009,7 +2008,7 @@
                </birth>
                <note>1879 gestorben (20./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180330_664.1752">
+            <person xml:id="vll.19180330_664.1752" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Bandelj</surname>
                   <forename>Franz</forename>
@@ -2022,7 +2021,7 @@
                </birth>
                <note>Kreplje, 1878; gestorben (24./12.1917).</note>
             </person>
-            <person xml:id="vll.19180330_664.2992">
+            <person xml:id="vll.19180330_664.2992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Cilic</surname>
                   <forename>Josef</forename>
@@ -2035,7 +2034,7 @@
                </birth>
                <note>Ranogliano, 187L; gestwbe« (26./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180330_664.4166">
+            <person xml:id="vll.19180330_664.4166" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Fabjan</surname>
                   <forename>Frana</forename>
@@ -2048,7 +2047,7 @@
                </birth>
                <note>Kobdil, 1889; verw.</note>
             </person>
-            <person xml:id="vll.19180330_664.9094">
+            <person xml:id="vll.19180330_664.9094" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Krivič</surname>
                   <forename>Josef des Anton</forename>
@@ -2061,7 +2060,7 @@
                </birth>
                <note>1868; gestorben (13./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180330_664.15864">
+            <person xml:id="vll.19180330_664.15864" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=60&amp;zoom=33">
                <persName>
                   <surname>Tusar</surname>
                   <forename>Franz</forename>
@@ -2074,7 +2073,7 @@
                </birth>
                <note>Idria, 1872; gestorben (4./ll. 1917).</note>
             </person>
-            <person xml:id="vll.19180403_665.10034">
+            <person xml:id="vll.19180403_665.10034" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Persič</surname>
                   <forename>Alois</forename>
@@ -2087,7 +2086,7 @@
                </birth>
                <note>Schönpass, 1891; gefallen (24./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180403_665.12408">
+            <person xml:id="vll.19180403_665.12408" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Skubin</surname>
                   <forename>Johann</forename>
@@ -2100,7 +2099,7 @@
                </birth>
                <note>Drežnica, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19180403_665.15416">
+            <person xml:id="vll.19180403_665.15416" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=56&amp;zoom=33">
                <persName>
                   <surname>Vončina</surname>
                   <forename>Vinzenz</forename>
@@ -2113,7 +2112,7 @@
                </birth>
                <note>Kal, 1874; gestorben (11./l. 1918).</note>
             </person>
-            <person xml:id="vll.19180411_666.6718">
+            <person xml:id="vll.19180411_666.6718" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Godnič</surname>
                   <forename>Johann</forename>
@@ -2126,7 +2125,7 @@
                </birth>
                <note>Komen, 1877; gestorben (16./12. 1917).</note>
             </person>
-            <person xml:id="vll.19180411_666.15682">
+            <person xml:id="vll.19180411_666.15682" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Skerlj</surname>
                   <forename>Rudolf</forename>
@@ -2139,7 +2138,7 @@
                </birth>
                <note>Tomaj, 1986; gestorben (11./10. 1916).</note>
             </person>
-            <person xml:id="vll.19180411_666.16696">
+            <person xml:id="vll.19180411_666.16696" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=59&amp;zoom=33">
                <persName>
                   <surname>Teresel</surname>
                   <forename>Alois</forename>
@@ -2152,7 +2151,7 @@
                </birth>
                <note>Stjak, 1892; gestorben (7./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180415_667.17538">
+            <person xml:id="vll.19180415_667.17538" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=58&amp;zoom=33">
                <persName>
                   <surname>Stolfa</surname>
                   <forename>Leopold</forename>
@@ -2165,7 +2164,7 @@
                </birth>
                <note>Berje, 1892; kriegsgef., Tjumen, Gouvernement Tobolsk, Rußland.</note>
             </person>
-            <person xml:id="vll.19180415_667.19996">
+            <person xml:id="vll.19180415_667.19996" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=67&amp;zoom=33">
                <persName>
                   <surname>Bartels</surname>
                   <roleName>v. Bartherg</roleName>
@@ -2180,7 +2179,7 @@
                </birth>
                <note>St. Andrä, 1876. (War kriegsgef. gemeldet. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180419_668.1346">
+            <person xml:id="vll.19180419_668.1346" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180419&amp;seite=6&amp;zoom=33">
                <persName>
                   <surname>Antonič</surname>
                   <forename>Josef</forename>
@@ -2193,7 +2192,7 @@
                </birth>
                <note>Brestovica, 1896; gestorben (6./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180419_668.7896">
+            <person xml:id="vll.19180419_668.7896" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180419&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kikl</surname>
                   <forename>Ludwig</forename>
@@ -2206,7 +2205,7 @@
                </birth>
                <note>Stržišče, 1893; gestorben (9./l. 1918).</note>
             </person>
-            <person xml:id="vll.19180419_668.18576">
+            <person xml:id="vll.19180419_668.18576" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180419&amp;seite=62&amp;zoom=33">
                <persName>
                   <surname>Widmar</surname>
                   <forename>Anton</forename>
@@ -2219,7 +2218,7 @@
                </birth>
                <note>Reifenberg, 1880; gestorben (17./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180424_669.2940">
+            <person xml:id="vll.19180424_669.2940" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Culot</surname>
                   <forename>Alois</forename>
@@ -2232,7 +2231,7 @@
                </birth>
                <note>1896-, gestorben (27./l. 1918).</note>
             </person>
-            <person xml:id="vll.19180424_669.6856">
+            <person xml:id="vll.19180424_669.6856" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Kokošin</surname>
                   <forename>Matthias</forename>
@@ -2245,7 +2244,7 @@
                </birth>
                <note>Drežnica, 1892. (War kriegsgef. Aus der Kriegsgefangenschaft zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180424_669.7368">
+            <person xml:id="vll.19180424_669.7368" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Krapež</surname>
                   <forename>Alois</forename>
@@ -2258,7 +2257,7 @@
                </birth>
                <note>Dol Otlica, 1887; gefallen (18.-25./6. 1916).</note>
             </person>
-            <person xml:id="vll.19180424_669.19750">
+            <person xml:id="vll.19180424_669.19750" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=67&amp;zoom=33">
                <persName>
                   <surname>Torkar</surname>
                   <forename>Nikolai</forename>
@@ -2271,7 +2270,7 @@
                </birth>
                <note>Grahova, 1895. (War kriegsgef. gemeldet. Im Austsuschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180429_670.1456">
+            <person xml:id="vll.19180429_670.1456" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=6&amp;zoom=33">
                <persName>
                   <surname>Baloch</surname>
                   <forename>Josef</forename>
@@ -2284,7 +2283,7 @@
                </birth>
                <note>Idrija pri Bači, 1895. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180429_670.1672">
+            <person xml:id="vll.19180429_670.1672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=7&amp;zoom=33">
                <persName>
                   <surname>Batagelj</surname>
                   <forename>Anton</forename>
@@ -2297,7 +2296,7 @@
                </birth>
                <note>Kamnje, 1879; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19180429_670.1782">
+            <person xml:id="vll.19180429_670.1782" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=7&amp;zoom=33">
                <persName>
                   <surname>Beguss</surname>
                   <forename>Franz</forename>
@@ -2310,7 +2309,7 @@
                </birth>
                <note>Grahovo, 1885; kriegsgef., Kiew, Rußland.</note>
             </person>
-            <person xml:id="vll.19180429_670.2184">
+            <person xml:id="vll.19180429_670.2184" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Bolcina</surname>
                   <forename>Iwan</forename>
@@ -2323,7 +2322,7 @@
                </birth>
                <note>Dol. Otlica, 1885; gestorben (16./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180429_670.2374">
+            <person xml:id="vll.19180429_670.2374" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Bratuž</surname>
                   <forename>Anton</forename>
@@ -2336,7 +2335,7 @@
                </birth>
                <note>Čepovan, 1883; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19180429_670.2404">
+            <person xml:id="vll.19180429_670.2404" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=9&amp;zoom=33">
                <persName>
                   <surname>Bregantič</surname>
                   <forename>Anton</forename>
@@ -2349,7 +2348,7 @@
                </birth>
                <note>Sankt Martin-Quisca, 1894; kriegsgef., Cassino, Italien.</note>
             </person>
-            <person xml:id="vll.19180429_670.3846">
+            <person xml:id="vll.19180429_670.3846" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=14&amp;zoom=33">
                <persName>
                   <surname>Faganel</surname>
                   <forename>Bartholomäus</forename>
@@ -2362,7 +2361,7 @@
                </birth>
                <note>Solkan, 1899; gestorben (24./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180429_670.4852">
+            <person xml:id="vll.19180429_670.4852" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Grobiša</surname>
                   <forename>Rafael</forename>
@@ -2375,7 +2374,7 @@
                </birth>
                <note>Temnica, 1881; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19180429_670.7224">
+            <person xml:id="vll.19180429_670.7224" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=25&amp;zoom=33">
                <persName>
                   <surname>Komac</surname>
                   <forename>Johann</forename>
@@ -2388,7 +2387,7 @@
                </birth>
                <note>Flitsch, 1885; gestorben (3./2. 1918).</note>
             </person>
-            <person xml:id="vll.19180429_670.7680">
+            <person xml:id="vll.19180429_670.7680" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Kovacic</surname>
                   <forename>Ivan</forename>
@@ -2401,7 +2400,7 @@
                </birth>
                <note>St. Lucio, 1885. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180429_670.8090">
+            <person xml:id="vll.19180429_670.8090" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kumar</surname>
                   <forename>Franz</forename>
@@ -2414,7 +2413,7 @@
                </birth>
                <note>Gorenja, 1897; gestorben (3./2. 1918)</note>
             </person>
-            <person xml:id="vll.19180429_670.13888">
+            <person xml:id="vll.19180429_670.13888" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Podhornik</surname>
                   <forename>Justyn</forename>
@@ -2427,7 +2426,7 @@
                </birth>
                <note>1887; kriegsgef. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180429_670.15108">
+            <person xml:id="vll.19180429_670.15108" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Reinec</surname>
                   <forename>Andreas</forename>
@@ -2440,7 +2439,7 @@
                </birth>
                <note>Osek-Vitovlje, 1879; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19180429_670.15152">
+            <person xml:id="vll.19180429_670.15152" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Renčel</surname>
                   <forename>Franz</forename>
@@ -2453,7 +2452,7 @@
                </birth>
                <note>Dane, 1868; gestorben (6.2. 1918).</note>
             </person>
-            <person xml:id="vll.19180429_670.15466">
+            <person xml:id="vll.19180429_670.15466" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=53&amp;zoom=33">
                <persName>
                   <surname>Butar</surname>
                   <forename>August</forename>
@@ -2466,7 +2465,7 @@
                </birth>
                <note>Woltschach, 1888; verw., kriegsgef., Cassino, Italien.</note>
             </person>
-            <person xml:id="vll.19180429_670.18638">
+            <person xml:id="vll.19180429_670.18638" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=63&amp;zoom=33">
                <persName>
                   <surname>Vidmar</surname>
                   <forename>Rudolf</forename>
@@ -2479,7 +2478,7 @@
                </birth>
                <note>Dol-Otlica, 1886; kriegsgef., Potschinki, Gouvernement NishHij-Nowgorod, Rußland.</note>
             </person>
-            <person xml:id="vll.19180511_672.5232">
+            <person xml:id="vll.19180511_672.5232" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=21&amp;zoom=33">
                <persName>
                   <surname>Hicke</surname>
                   <forename>Oskar</forename>
@@ -2492,7 +2491,7 @@
                </birth>
                <note>1887; kriegsgef., Rusajewka, Rußland.</note>
             </person>
-            <person xml:id="vll.19180511_672.6916">
+            <person xml:id="vll.19180511_672.6916" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Koršič</surname>
                   <forename>Josef</forename>
@@ -2505,7 +2504,7 @@
                </birth>
                <note>Solkan, 1894; gestorben (2. /l0. 1917).</note>
             </person>
-            <person xml:id="vll.19180511_672.11350">
+            <person xml:id="vll.19180511_672.11350" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=44&amp;zoom=33">
                <persName>
                   <surname>Rakan</surname>
                   <forename>Johann</forename>
@@ -2518,7 +2517,7 @@
                </birth>
                <note>Breginj, 1858; gestorben (26./lO. 1917).</note>
             </person>
-            <person xml:id="vll.19180511_672.18840">
+            <person xml:id="vll.19180511_672.18840" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=70&amp;zoom=33">
                <persName>
                   <surname>Zuzek</surname>
                   <forename>Josef</forename>
@@ -2531,7 +2530,7 @@
                </birth>
                <note>Mavhinje, 1880; verw.</note>
             </person>
-            <person xml:id="vll.19180514_673.6046">
+            <person xml:id="vll.19180514_673.6046" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Jekse</surname>
                   <forename>Johann</forename>
@@ -2544,7 +2543,7 @@
                </birth>
                <note>Selo, 1875; verw.</note>
             </person>
-            <person xml:id="vll.19180514_673.6072">
+            <person xml:id="vll.19180514_673.6072" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Jevšek</surname>
                   <forename>Josef</forename>
@@ -2557,7 +2556,7 @@
                </birth>
                <note>Bate, 1895; verw.</note>
             </person>
-            <person xml:id="vll.19180514_673.8998">
+            <person xml:id="vll.19180514_673.8998" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Makič</surname>
                   <forename>Anton</forename>
@@ -2570,7 +2569,7 @@
                </birth>
                <note>Bainsizza, 1879; gestorben (7./2. 1918).</note>
             </person>
-            <person xml:id="vll.19180514_673.9124">
+            <person xml:id="vll.19180514_673.9124" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Masten</surname>
                   <forename>Kasimir</forename>
@@ -2583,7 +2582,7 @@
                </birth>
                <note>1898; verw.</note>
             </person>
-            <person xml:id="vll.19180514_673.11776">
+            <person xml:id="vll.19180514_673.11776" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Satey</surname>
                   <forename>Friedrich</forename>
@@ -2596,7 +2595,7 @@
                </birth>
                <note>Ortorin, 1894; verw.</note>
             </person>
-            <person xml:id="vll.19180514_673.12284">
+            <person xml:id="vll.19180514_673.12284" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Skok</surname>
                   <forename>Filip</forename>
@@ -2609,7 +2608,7 @@
                </birth>
                <note>St. Viskogora, 1890; verw.</note>
             </person>
-            <person xml:id="vll.19180514_673.15136">
+            <person xml:id="vll.19180514_673.15136" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=59&amp;zoom=33">
                <persName>
                   <surname>Vodopivec</surname>
                   <forename>Anton</forename>
@@ -2622,7 +2621,7 @@
                </birth>
                <note>Kamnje, 1884; verw.</note>
             </person>
-            <person xml:id="vll.19180527_675.4652">
+            <person xml:id="vll.19180527_675.4652" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180527&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>Goryup</surname>
                   <forename>Andra</forename>
@@ -2635,7 +2634,7 @@
                </birth>
                <note>Kal, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19180527_675.10324">
+            <person xml:id="vll.19180527_675.10324" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180527&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Plesniczer</surname>
                   <forename>Leopold</forename>
@@ -2648,7 +2647,7 @@
                </birth>
                <note>Bobej, 1891; verw.</note>
             </person>
-            <person xml:id="vll.19180527_675.17534">
+            <person xml:id="vll.19180527_675.17534" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180527&amp;seite=68&amp;zoom=33">
                <persName>
                   <surname>Bratina statt Bratma</surname>
                   <forename>Andreas</forename>
@@ -2661,7 +2660,7 @@
                </birth>
                <note>St. Thomas, 1870; gestorben (30./8. 1917).</note>
             </person>
-            <person xml:id="vll.19180531_676.10774">
+            <person xml:id="vll.19180531_676.10774" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180531&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Rogelja</surname>
                   <forename>Franz</forename>
@@ -2674,7 +2673,7 @@
                </birth>
                <note>Temnica, 1897; gestorben (28./4. 1917).</note>
             </person>
-            <person xml:id="vll.19180531_676.14820">
+            <person xml:id="vll.19180531_676.14820" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180531&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Trampuz</surname>
                   <forename>Karl</forename>
@@ -2687,7 +2686,7 @@
                </birth>
                <note>1870; gestorben (28./4. 1917).</note>
             </person>
-            <person xml:id="vll.19180603_677.4258">
+            <person xml:id="vll.19180603_677.4258" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Doljak</surname>
                   <forename>Alois</forename>
@@ -2700,7 +2699,7 @@
                </birth>
                <note>Zgornik, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19180603_677.7676">
+            <person xml:id="vll.19180603_677.7676" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=29&amp;zoom=33">
                <persName>
                   <surname>Kosmač</surname>
                   <forename>Johann</forename>
@@ -2713,7 +2712,7 @@
                </birth>
                <note>Cerkno, 1884; verw.</note>
             </person>
-            <person xml:id="vll.19180603_677.8170">
+            <person xml:id="vll.19180603_677.8170" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Kurinčič</surname>
                   <forename>Franz</forename>
@@ -2726,7 +2725,7 @@
                </birth>
                <note>Karfreit, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19180603_677.9032">
+            <person xml:id="vll.19180603_677.9032" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Marušič</surname>
                   <forename>Bernhard</forename>
@@ -2739,7 +2738,7 @@
                </birth>
                <note>1893; gestorben (11./7. 1917).</note>
             </person>
-            <person xml:id="vll.19180603_677.14522">
+            <person xml:id="vll.19180603_677.14522" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Taočar</surname>
                   <forename>Andreas</forename>
@@ -2752,7 +2751,7 @@
                </birth>
                <note>Dutovlje, 1876; gefallen (8. 2. 1918).</note>
             </person>
-            <person xml:id="vll.19180605_678.824">
+            <person xml:id="vll.19180605_678.824" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=4&amp;zoom=33">
                <persName>
                   <surname>Spazzapan</surname>
                   <forename>Luzian</forename>
@@ -2765,7 +2764,7 @@
                </birth>
                <note>1887; kriegsgef., Schazk, Gouvernement, Tambow, Rußland.</note>
             </person>
-            <person xml:id="vll.19180605_678.12052">
+            <person xml:id="vll.19180605_678.12052" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Mrak</surname>
                   <forename>Thomas</forename>
@@ -2778,7 +2777,7 @@
                </birth>
                <note>Tribuša, 1882; gestorben (4.10.1917).</note>
             </person>
-            <person xml:id="vll.19180605_678.13190">
+            <person xml:id="vll.19180605_678.13190" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=51&amp;zoom=33">
                <persName>
                   <surname>Princic</surname>
                   <forename>Johann</forename>
@@ -2791,7 +2790,7 @@
                </birth>
                <note>Kojsko, 1899; verw.</note>
             </person>
-            <person xml:id="vll.19180605_678.14122">
+            <person xml:id="vll.19180605_678.14122" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Sgaga</surname>
                   <forename>Theodor</forename>
@@ -2804,7 +2803,7 @@
                </birth>
                <note>Hudajuzna, 1895; verw.</note>
             </person>
-            <person xml:id="vll.19180610_679.974">
+            <person xml:id="vll.19180610_679.974" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=5&amp;zoom=33">
                <persName>
                   <surname>Springer</surname>
                   <forename>Raimund</forename>
@@ -2817,7 +2816,7 @@
                </birth>
                <note>(War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180610_679.6302">
+            <person xml:id="vll.19180610_679.6302" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Langos</surname>
                   <forename>Justin</forename>
@@ -2830,7 +2829,7 @@
                </birth>
                <note>Kal, 1895; gestorben (10./6. 1917)</note>
             </person>
-            <person xml:id="vll.19180610_679.6942">
+            <person xml:id="vll.19180610_679.6942" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=30&amp;zoom=33">
                <persName>
                   <surname>Makovec</surname>
                   <forename>Franz</forename>
@@ -2843,7 +2842,7 @@
                </birth>
                <note>Vel. Zablje, 1880; gestorben (30.6.1917).</note>
             </person>
-            <person xml:id="vll.19180610_679.7142">
+            <person xml:id="vll.19180610_679.7142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Marinič</surname>
                   <forename>Johann</forename>
@@ -2856,7 +2855,7 @@
                </birth>
                <note>1897; gestorben (19./6. 1917).</note>
             </person>
-            <person xml:id="vll.19180610_679.11630">
+            <person xml:id="vll.19180610_679.11630" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=49&amp;zoom=33">
                <persName>
                   <surname>Saksida</surname>
                   <forename>Franz</forename>
@@ -2869,7 +2868,7 @@
                </birth>
                <note>1867, gestorben (5.3.1918).</note>
             </person>
-            <person xml:id="vll.19180610_679.12148">
+            <person xml:id="vll.19180610_679.12148" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Semolič</surname>
                   <forename>Franz</forename>
@@ -2882,7 +2881,7 @@
                </birth>
                <note>Opatje Selo, 1878; gestorben (26. 5. 1917).</note>
             </person>
-            <person xml:id="vll.19180610_679.12294">
+            <person xml:id="vll.19180610_679.12294" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Škabar</surname>
                   <forename>Josef</forename>
@@ -2895,7 +2894,7 @@
                </birth>
                <note>Lekev, 1893; gestorben (19./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180610_679.12318">
+            <person xml:id="vll.19180610_679.12318" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Skerlj</surname>
                   <forename>Alois</forename>
@@ -2908,7 +2907,7 @@
                </birth>
                <note>1877; gestorben (22./7. 1917).</note>
             </person>
-            <person xml:id="vll.19180613_680.2530">
+            <person xml:id="vll.19180613_680.2530" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=11&amp;zoom=33">
                <persName>
                   <surname>Brisko</surname>
                   <forename>Andreas</forename>
@@ -2921,7 +2920,7 @@
                </birth>
                <note>1898; gestorben (19./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180613_680.4084">
+            <person xml:id="vll.19180613_680.4084" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Fabian</surname>
                   <forename>Johann</forename>
@@ -2934,7 +2933,7 @@
                </birth>
                <note>Pliskovica, 1894; verw.</note>
             </person>
-            <person xml:id="vll.19180613_680.4996">
+            <person xml:id="vll.19180613_680.4996" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=21&amp;zoom=33">
                <persName>
                   <surname>Godnig</surname>
                   <forename>Frederiko</forename>
@@ -2947,7 +2946,7 @@
                </birth>
                <note>Comen, 1875; verw.</note>
             </person>
-            <person xml:id="vll.19180613_680.8582">
+            <person xml:id="vll.19180613_680.8582" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Lapanja</surname>
                   <forename>Johann</forename>
@@ -2960,7 +2959,7 @@
                </birth>
                <note>Šebrelje, 1890; verw.</note>
             </person>
-            <person xml:id="vll.19180613_680.8968">
+            <person xml:id="vll.19180613_680.8968" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Lovrencic</surname>
                   <forename>Ignac</forename>
@@ -2973,7 +2972,7 @@
                </birth>
                <note>Karfreit, 1881; gestorben (11./2 1918)</note>
             </person>
-            <person xml:id="vll.19180613_680.12114">
+            <person xml:id="vll.19180613_680.12114" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Slokar</surname>
                   <forename>Alois</forename>
@@ -2986,7 +2985,7 @@
                </birth>
                <note>Komen, 1885; verw.</note>
             </person>
-            <person xml:id="vll.19180613_680.14236">
+            <person xml:id="vll.19180613_680.14236" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=60&amp;zoom=33">
                <persName>
                   <surname>Zivec</surname>
                   <forename>Karl</forename>
@@ -2999,7 +2998,7 @@
                </birth>
                <note>Powir, 1890; verw</note>
             </person>
-            <person xml:id="vll.19180613_680.14534">
+            <person xml:id="vll.19180613_680.14534" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=61&amp;zoom=33">
                <persName>
                   <surname>Mokrin</surname>
                   <forename>Johann</forename>
@@ -3012,7 +3011,7 @@
                </birth>
                <note>1893; gestorben (6./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180620_681.786">
+            <person xml:id="vll.19180620_681.786" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=4&amp;zoom=33">
                <persName>
                   <surname>Stergar</surname>
                   <forename>Anton</forename>
@@ -3025,7 +3024,7 @@
                </birth>
                <note>Bäte, 1879; kriegsgef., Simbirsk, Rußland.</note>
             </person>
-            <person xml:id="vll.19180620_681.1622">
+            <person xml:id="vll.19180620_681.1622" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Bandelj</surname>
                   <forename>Peter</forename>
@@ -3038,7 +3037,7 @@
                </birth>
                <note>Podgora, 1888; gestorben (5./8. 1917).</note>
             </person>
-            <person xml:id="vll.19180620_681.4392">
+            <person xml:id="vll.19180620_681.4392" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=18&amp;zoom=33">
                <persName>
                   <surname>Golja</surname>
                   <forename>Johann</forename>
@@ -3051,7 +3050,7 @@
                </birth>
                <note>Volče, 1893; gestorben (26./4. 1917).</note>
             </person>
-            <person xml:id="vll.19180620_681.6622">
+            <person xml:id="vll.19180620_681.6622" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Klemše</surname>
                   <forename>Franz</forename>
@@ -3064,7 +3063,7 @@
                </birth>
                <note>Smarje, 1885; gestorben (9./7. 1917).</note>
             </person>
-            <person xml:id="vll.19180620_681.9250">
+            <person xml:id="vll.19180620_681.9250" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Murowetz</surname>
                   <forename>Josef</forename>
@@ -3077,7 +3076,7 @@
                </birth>
                <note>Plava, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19180620_681.10550">
+            <person xml:id="vll.19180620_681.10550" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Pipan</surname>
                   <forename>Vinzenz</forename>
@@ -3090,7 +3089,7 @@
                </birth>
                <note>Suta, 1898; gestorben (20./8. 1917).</note>
             </person>
-            <person xml:id="vll.19180625_682.3820">
+            <person xml:id="vll.19180625_682.3820" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180625&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Furlan</surname>
                   <forename>Leopold</forename>
@@ -3103,7 +3102,7 @@
                </birth>
                <note>Smarje, 1889; gestorben (12./3.1918).</note>
             </person>
-            <person xml:id="vll.19180625_682.7830">
+            <person xml:id="vll.19180625_682.7830" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180625&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Markič</surname>
                   <forename>Jakov</forename>
@@ -3116,7 +3115,7 @@
                </birth>
                <note>1893; verw.</note>
             </person>
-            <person xml:id="vll.19180625_682.8444">
+            <person xml:id="vll.19180625_682.8444" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180625&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Močnik</surname>
                   <forename>Franz</forename>
@@ -3129,7 +3128,7 @@
                </birth>
                <note>Cerkno, 1881. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180709_684.6954">
+            <person xml:id="vll.19180709_684.6954" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=25&amp;zoom=33">
                <persName>
                   <surname>Kenda</surname>
                   <forename>Jakob</forename>
@@ -3142,7 +3141,7 @@
                </birth>
                <note>Kirchheim, 1887; gefallen (27. /7. 1916).</note>
             </person>
-            <person xml:id="vll.19180709_684.8784">
+            <person xml:id="vll.19180709_684.8784" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Ličer</surname>
                   <forename>Anton</forename>
@@ -3155,7 +3154,7 @@
                </birth>
                <note>Lekovec, 1880; kriegsgef., Serdobsk, Gouvernement Saratow, Rußland.</note>
             </person>
-            <person xml:id="vll.19180709_684.10278">
+            <person xml:id="vll.19180709_684.10278" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=36&amp;zoom=33">
                <persName>
                   <surname>Mlakar</surname>
                   <forename>Franz</forename>
@@ -3168,7 +3167,7 @@
                </birth>
                <note>Sabrelje, 1388; kriegsgef., Jenotajewsk, Gouvernement Astrachan, Rußland.</note>
             </person>
-            <person xml:id="vll.19180709_684.10304">
+            <person xml:id="vll.19180709_684.10304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=36&amp;zoom=33">
                <persName>
                   <surname>Močnik</surname>
                   <forename>Johann</forename>
@@ -3181,7 +3180,7 @@
                </birth>
                <note>Kneza, 1898; verw.</note>
             </person>
-            <person xml:id="vll.19180709_684.13766">
+            <person xml:id="vll.19180709_684.13766" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Serjun</surname>
                   <forename>Franz</forename>
@@ -3194,7 +3193,7 @@
                </birth>
                <note>Cerhno, 1885; kriegsgef., Narowtschat, Gouvernement Pensa, Rußland.</note>
             </person>
-            <person xml:id="vll.19180713_685.7338">
+            <person xml:id="vll.19180713_685.7338" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Ivantschitsch</surname>
                   <forename>Remigius</forename>
@@ -3207,7 +3206,7 @@
                </birth>
                <note>Cezsoča, 1886; kriegsgef., Pensa, Rußland.</note>
             </person>
-            <person xml:id="vll.19180713_685.8796">
+            <person xml:id="vll.19180713_685.8796" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=31&amp;zoom=33">
                <persName>
                   <surname>Kocjancič</surname>
                   <forename>Franz</forename>
@@ -3220,7 +3219,7 @@
                </birth>
                <note>Brestovica, 1891; kriegsgef., Genova, Forte Begato, Italien.</note>
             </person>
-            <person xml:id="vll.19180713_685.9304">
+            <person xml:id="vll.19180713_685.9304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Kovač</surname>
                   <forename>Michael</forename>
@@ -3233,7 +3232,7 @@
                </birth>
                <note>Podbrdo, 1875; gestorben (16./11. 1917).</note>
             </person>
-            <person xml:id="vll.19180713_685.11224">
+            <person xml:id="vll.19180713_685.11224" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Mljač</surname>
                   <forename>Franz</forename>
@@ -3246,7 +3245,7 @@
                </birth>
                <note>Lokev, 1898; gestorben (29./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180713_685.12306">
+            <person xml:id="vll.19180713_685.12306" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Presly</surname>
                   <forename>Urban</forename>
@@ -3259,7 +3258,7 @@
                </birth>
                <note>Cerkno, 1876; gestorben (9./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180713_685.13628">
+            <person xml:id="vll.19180713_685.13628" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Valentinčič</surname>
                   <forename>Martin</forename>
@@ -3272,7 +3271,7 @@
                </birth>
                <note>Peunua, 1872; verw.</note>
             </person>
-            <person xml:id="vll.19180718_686.13550">
+            <person xml:id="vll.19180718_686.13550" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180718&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Slmač</surname>
                   <forename>Josef</forename>
@@ -3285,7 +3284,7 @@
                </birth>
                <note>1889; gestorben (25./1. 1918).</note>
             </person>
-            <person xml:id="vll.19180723_687.412">
+            <person xml:id="vll.19180723_687.412" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=3&amp;zoom=33">
                <persName>
                   <surname>Bresan</surname>
                   <forename>Ludwig</forename>
@@ -3298,7 +3297,7 @@
                </birth>
                <note>Podgora, 1888; kriegsgef., Monreale, Italien.</note>
             </person>
-            <person xml:id="vll.19180723_687.3338">
+            <person xml:id="vll.19180723_687.3338" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=13&amp;zoom=33">
                <persName>
                   <surname>Faletič</surname>
                   <forename>Ignaz</forename>
@@ -3311,7 +3310,7 @@
                </birth>
                <note>Libanje, 1883; gestorben (24./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180723_687.4020">
+            <person xml:id="vll.19180723_687.4020" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=15&amp;zoom=33">
                <persName>
                   <surname>Gorjup</surname>
                   <forename>Franz</forename>
@@ -3324,7 +3323,7 @@
                </birth>
                <note>Šent Andrer, 1882; gestorben (11./7.1917).</note>
             </person>
-            <person xml:id="vll.19180723_687.6084">
+            <person xml:id="vll.19180723_687.6084" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=22&amp;zoom=33">
                <persName>
                   <surname>Klinkon</surname>
                   <forename>Josef</forename>
@@ -3337,7 +3336,7 @@
                </birth>
                <note>1896; gestorben (9./3. 1917).</note>
             </person>
-            <person xml:id="vll.19180723_687.6228">
+            <person xml:id="vll.19180723_687.6228" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=23&amp;zoom=33">
                <persName>
                   <surname>Kofol</surname>
                   <forename>Anton</forename>
@@ -3350,7 +3349,7 @@
                </birth>
                <note>Kal, 1885; kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19180723_687.6516">
+            <person xml:id="vll.19180723_687.6516" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Košir</surname>
                   <forename>Matthias</forename>
@@ -3363,7 +3362,7 @@
                </birth>
                <note>Ajba, 1891; kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19180723_687.6532">
+            <person xml:id="vll.19180723_687.6532" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=24&amp;zoom=33">
                <persName>
                   <surname>Košuta</surname>
                   <forename>Johann</forename>
@@ -3376,7 +3375,7 @@
                </birth>
                <note>1868; gestorben (20./5. 1917).</note>
             </person>
-            <person xml:id="vll.19180723_687.6832">
+            <person xml:id="vll.19180723_687.6832" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=25&amp;zoom=33">
                <persName>
                   <surname>Krivec</surname>
                   <forename>Peter</forename>
@@ -3389,7 +3388,7 @@
                </birth>
                <note>St. Lucia, 1898; gestorben (27./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180723_687.7346">
+            <person xml:id="vll.19180723_687.7346" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Losar</surname>
                   <forename>Franz</forename>
@@ -3402,7 +3401,7 @@
                </birth>
                <note>Vrtovin, 1894; (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180723_687.7540">
+            <person xml:id="vll.19180723_687.7540" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Makuc</surname>
                   <forename>Josef</forename>
@@ -3415,7 +3414,7 @@
                </birth>
                <note>Solkan, 1895; kriegsgef., Sipote, Rumänien.</note>
             </person>
-            <person xml:id="vll.19180723_687.9246">
+            <person xml:id="vll.19180723_687.9246" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Perat</surname>
                   <forename>Johann</forename>
@@ -3428,7 +3427,7 @@
                </birth>
                <note>Livek, 1875; gestorben (29./5. 1918).</note>
             </person>
-            <person xml:id="vll.19180723_687.10050">
+            <person xml:id="vll.19180723_687.10050" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=36&amp;zoom=33">
                <persName>
                   <surname>Prezeli</surname>
                   <forename>Franz</forename>
@@ -3441,7 +3440,7 @@
                </birth>
                <note>Čezsoški, 1898; gestorben (24./6. 1917).</note>
             </person>
-            <person xml:id="vll.19180723_687.10106">
+            <person xml:id="vll.19180723_687.10106" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=36&amp;zoom=33">
                <persName>
                   <surname>Princič</surname>
                   <forename>Anton</forename>
@@ -3454,7 +3453,7 @@
                </birth>
                <note>St. Florian, 1887; kriegsgef., Asinara, Italien.</note>
             </person>
-            <person xml:id="vll.19180723_687.10810">
+            <person xml:id="vll.19180723_687.10810" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Rijavec</surname>
                   <forename>Leopold</forename>
@@ -3467,7 +3466,7 @@
                </birth>
                <note>1886; gestorben (18./5.1918).</note>
             </person>
-            <person xml:id="vll.19180723_687.12822">
+            <person xml:id="vll.19180723_687.12822" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Sovdat</surname>
                   <forename>Antonio</forename>
@@ -3480,7 +3479,7 @@
                </birth>
                <note>Idersko, 1887; kriegsgef., Forli, Italien.</note>
             </person>
-            <person xml:id="vll.19180801_688.8500">
+            <person xml:id="vll.19180801_688.8500" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Lenardig</surname>
                   <forename>Ludwig</forename>
@@ -3493,7 +3492,7 @@
                </birth>
                <note>1875; kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19180801_688.8596">
+            <person xml:id="vll.19180801_688.8596" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=32&amp;zoom=33">
                <persName>
                   <surname>Likar</surname>
                   <forename>Johann</forename>
@@ -3506,7 +3505,7 @@
                </birth>
                <note>Dol-Otlica, 1895; verw.</note>
             </person>
-            <person xml:id="vll.19180801_688.9952">
+            <person xml:id="vll.19180801_688.9952" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Mrak</surname>
                   <forename>August</forename>
@@ -3519,7 +3518,7 @@
                </birth>
                <note>St. Luzia, 1876; kriegsgef., Asinara, Italien,</note>
             </person>
-            <person xml:id="vll.19180801_688.10204">
+            <person xml:id="vll.19180801_688.10204" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Nardin</surname>
                   <forename>Josef</forename>
@@ -3532,7 +3531,7 @@
                </birth>
                <note>Vogrsko, 1495; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19180801_688.12558">
+            <person xml:id="vll.19180801_688.12558" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Rutar</surname>
                   <forename>Andrej</forename>
@@ -3545,7 +3544,7 @@
                </birth>
                <note>Čadra, 1874; kriegsgef., Asinara, Italien.</note>
             </person>
-            <person xml:id="vll.19180801_688.14896">
+            <person xml:id="vll.19180801_688.14896" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=56&amp;zoom=33">
                <persName>
                   <surname>Vales</surname>
                   <forename>Micharl</forename>
@@ -3558,7 +3557,7 @@
                </birth>
                <note>Gabrije, 1877; kriegsgef., Asinara, Italien.</note>
             </person>
-            <person xml:id="vll.19180805_689.2278">
+            <person xml:id="vll.19180805_689.2278" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=10&amp;zoom=33">
                <persName>
                   <surname>Bandelj</surname>
                   <forename>Franz</forename>
@@ -3571,7 +3570,7 @@
                </birth>
                <note>Komen, 1887; gestorben (1./2. 1918).</note>
             </person>
-            <person xml:id="vll.19180805_689.10394">
+            <person xml:id="vll.19180805_689.10394" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Polivka</surname>
                   <forename>Franz</forename>
@@ -3584,7 +3583,7 @@
                </birth>
                <note>Slivno, 1898; kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19180805_689.12280">
+            <person xml:id="vll.19180805_689.12280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Svara</surname>
                   <forename>Josef d. Franz</forename>
@@ -3597,7 +3596,7 @@
                </birth>
                <note>Körnen, 1892; kriegsgef., Firenze, Italien.</note>
             </person>
-            <person xml:id="vll.19180812_690.3490">
+            <person xml:id="vll.19180812_690.3490" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Gorgics</surname>
                   <forename>Vinzenz</forename>
@@ -3610,7 +3609,7 @@
                </birth>
                <note>Vrtojba, 1888; gestorben (18./6.1918).</note>
             </person>
-            <person xml:id="vll.19180812_690.3492">
+            <person xml:id="vll.19180812_690.3492" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Gorinp</surname>
                   <forename>Stefan</forename>
@@ -3623,7 +3622,7 @@
                </birth>
                <note>1868; gestorben (16.4.1918).</note>
             </person>
-            <person xml:id="vll.19180812_690.3564">
+            <person xml:id="vll.19180812_690.3564" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Grauner</surname>
                   <forename>Marzelin</forename>
@@ -3635,7 +3634,7 @@
                </birth>
                <note>St. Florian, 1890; gestorben (27.3.1918).1894; gestorben (22./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180812_690.6044">
+            <person xml:id="vll.19180812_690.6044" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=30&amp;zoom=33">
                <persName>
                   <surname>Kovacic</surname>
                   <forename>Andrej</forename>
@@ -3648,7 +3647,7 @@
                </birth>
                <note>Modreja, 1881, gestorben (15./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180812_690.9968">
+            <person xml:id="vll.19180812_690.9968" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Pirich</surname>
                   <forename>Ivan</forename>
@@ -3661,7 +3660,7 @@
                </birth>
                <note>Grahovo, 1896. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180812_690.11282">
+            <person xml:id="vll.19180812_690.11282" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=49&amp;zoom=33">
                <persName>
                   <surname>Samec</surname>
                   <forename>Alois</forename>
@@ -3674,7 +3673,7 @@
                </birth>
                <note>1896; gestorben (9./2.1918).</note>
             </person>
-            <person xml:id="vll.19180814_691.6158">
+            <person xml:id="vll.19180814_691.6158" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Hvala</surname>
                   <forename>Franz</forename>
@@ -3687,7 +3686,7 @@
                </birth>
                <note>Čepovan, 1896; gestorben (13./8. 1915).</note>
             </person>
-            <person xml:id="vll.19180814_691.7442">
+            <person xml:id="vll.19180814_691.7442" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=30&amp;zoom=33">
                <persName>
                   <surname>Kompany</surname>
                   <forename>Anton</forename>
@@ -3700,7 +3699,7 @@
                </birth>
                <note>1875; gestorben (20./8. 1915).</note>
             </person>
-            <person xml:id="vll.19180814_691.8582">
+            <person xml:id="vll.19180814_691.8582" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Lepovsek</surname>
                   <forename>Michael</forename>
@@ -3713,7 +3712,7 @@
                </birth>
                <note>Kal, 1872; gestorben (13./4.1918).</note>
             </person>
-            <person xml:id="vll.19180814_691.8672">
+            <person xml:id="vll.19180814_691.8672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Lipolt</surname>
                   <forename>Anton</forename>
@@ -3726,7 +3725,7 @@
                </birth>
                <note>Rodik, 1867; gefallen (l2./3. 1917).</note>
             </person>
-            <person xml:id="vll.19180814_691.11382">
+            <person xml:id="vll.19180814_691.11382" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Podversič</surname>
                   <forename>Josef</forename>
@@ -3739,7 +3738,7 @@
                </birth>
                <note>1891; gestorben (27./2. 1916).</note>
             </person>
-            <person xml:id="vll.19180824_692.7198">
+            <person xml:id="vll.19180824_692.7198" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Krainer</surname>
                   <forename>Josef</forename>
@@ -3752,7 +3751,7 @@
                </birth>
                <note>Naklo, 1891; gestorben (16.11.1917)</note>
             </person>
-            <person xml:id="vll.19180824_692.7280">
+            <person xml:id="vll.19180824_692.7280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kravanya</surname>
                   <forename>Anton</forename>
@@ -3765,7 +3764,7 @@
                </birth>
                <note>Trenta, 1871; gestorben (27. /ll. 1917).</note>
             </person>
-            <person xml:id="vll.19180824_692.10140">
+            <person xml:id="vll.19180824_692.10140" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Pariš</surname>
                   <forename>Peter</forename>
@@ -3778,7 +3777,7 @@
                </birth>
                <note>Breth, 1898; gestorben (28./4. 1918).</note>
             </person>
-            <person xml:id="vll.19180824_692.11784">
+            <person xml:id="vll.19180824_692.11784" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=44&amp;zoom=33">
                <persName>
                   <surname>Saksida</surname>
                   <forename>Anton</forename>
@@ -3791,7 +3790,7 @@
                </birth>
                <note>1868; gestorben (20.4. 1918).</note>
             </person>
-            <person xml:id="vll.19180830_693.2384">
+            <person xml:id="vll.19180830_693.2384" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Cehovin</surname>
                   <forename>Alois</forename>
@@ -3804,7 +3803,7 @@
                </birth>
                <note>gestorben (11./5.1918).</note>
             </person>
-            <person xml:id="vll.19180830_693.5068">
+            <person xml:id="vll.19180830_693.5068" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=21&amp;zoom=33">
                <persName>
                   <surname>Jeroncič</surname>
                   <forename>Johann</forename>
@@ -3817,7 +3816,7 @@
                </birth>
                <note>Kanal, 1898; gestorben (5./5. 1918).</note>
             </person>
-            <person xml:id="vll.19180830_693.6142">
+            <person xml:id="vll.19180830_693.6142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=25&amp;zoom=33">
                <persName>
                   <surname>Kranner</surname>
                   <forename>Alois</forename>
@@ -3830,7 +3829,7 @@
                </birth>
                <note>Flitsch, 1886; gestorben (4./5. 1918)</note>
             </person>
-            <person xml:id="vll.19180830_693.6706">
+            <person xml:id="vll.19180830_693.6706" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=26&amp;zoom=33">
                <persName>
                   <surname>Legissa</surname>
                   <forename>Benedikt</forename>
@@ -3843,7 +3842,7 @@
                </birth>
                <note>Cerovlje, 1870; gestorben (11/4. 1918).</note>
             </person>
-            <person xml:id="vll.19180830_693.6904">
+            <person xml:id="vll.19180830_693.6904" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Luisa</surname>
                   <forename>Eduard</forename>
@@ -3856,7 +3855,7 @@
                </birth>
                <note>Kozana, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19180830_693.8672">
+            <person xml:id="vll.19180830_693.8672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Perič</surname>
                   <forename>Josef</forename>
@@ -3869,7 +3868,7 @@
                </birth>
                <note>Dolnji, 1888; gestorben (10./6. 1918).</note>
             </person>
-            <person xml:id="vll.19180830_693.9638">
+            <person xml:id="vll.19180830_693.9638" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Rogelja</surname>
                   <forename>Alois</forename>
@@ -3882,7 +3881,7 @@
                </birth>
                <note>Temnica, 1878; gestorben (28./4. 1918).</note>
             </person>
-            <person xml:id="vll.19180830_693.10112">
+            <person xml:id="vll.19180830_693.10112" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Sardon</surname>
                   <forename>Rudolf</forename>
@@ -3895,7 +3894,7 @@
                </birth>
                <note>1883; gestorben (10./5. 1918).</note>
             </person>
-            <person xml:id="vll.19180910_694.6464">
+            <person xml:id="vll.19180910_694.6464" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180910&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Kaučič</surname>
                   <forename>Alois</forename>
@@ -3908,7 +3907,7 @@
                </birth>
                <note>Dornberg, 1891; kriegsgef., Padula, Italien,</note>
             </person>
-            <person xml:id="vll.19180928_695.2446">
+            <person xml:id="vll.19180928_695.2446" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Brundula</surname>
                   <forename>Franz</forename>
@@ -3921,7 +3920,7 @@
                </birth>
                <note>Dutovlje, 1889. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt]</note>
             </person>
-            <person xml:id="vll.19180928_695.2720">
+            <person xml:id="vll.19180928_695.2720" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=13&amp;zoom=33">
                <persName>
                   <surname>Cesent</surname>
                   <forename>Johann</forename>
@@ -3934,7 +3933,7 @@
                </birth>
                <note>Savodnje, 1863; gestorben (29./3. 1918).</note>
             </person>
-            <person xml:id="vll.19180928_695.4142">
+            <person xml:id="vll.19180928_695.4142" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>GateJ</surname>
                   <forename>Josef</forename>
@@ -3947,7 +3946,7 @@
                </birth>
                <note>1898; gestorben (15.6.1918)</note>
             </person>
-            <person xml:id="vll.19180928_695.5932">
+            <person xml:id="vll.19180928_695.5932" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Kančič</surname>
                   <forename>Thomas</forename>
@@ -3959,7 +3958,7 @@
                </birth>
                <note>1895; gestorben (4./6. 1918).</note>
             </person>
-            <person xml:id="vll.19180928_695.14438">
+            <person xml:id="vll.19180928_695.14438" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=57&amp;zoom=33">
                <persName>
                   <surname>Ursič</surname>
                   <forename>Johann</forename>
@@ -3972,7 +3971,7 @@
                </birth>
                <note>Svino, 1886; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181002_696.4090">
+            <person xml:id="vll.19181002_696.4090" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=15&amp;zoom=33">
                <persName>
                   <surname>Brič</surname>
                   <forename>Franz</forename>
@@ -3985,7 +3984,7 @@
                </birth>
                <note>1884; kriegsgef., Cassino, Italien.</note>
             </person>
-            <person xml:id="vll.19181002_696.4400">
+            <person xml:id="vll.19181002_696.4400" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=16&amp;zoom=33">
                <persName>
                   <surname>Cernič</surname>
                   <forename>Johann</forename>
@@ -3998,7 +3997,7 @@
                </birth>
                <note>Vrtojba, 1898; verw.</note>
             </person>
-            <person xml:id="vll.19181002_696.6392">
+            <person xml:id="vll.19181002_696.6392" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=23&amp;zoom=33">
                <persName>
                   <surname>Gulin</surname>
                   <forename>Valentin</forename>
@@ -4011,7 +4010,7 @@
                </birth>
                <note>Bäte, 1894, kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181002_696.9412">
+            <person xml:id="vll.19181002_696.9412" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Leban</surname>
                   <forename>Johann</forename>
@@ -4024,7 +4023,7 @@
                </birth>
                <note>St. Veitsberg, 1876; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181002_696.10654">
+            <person xml:id="vll.19181002_696.10654" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Mišic</surname>
                   <forename>Franz</forename>
@@ -4037,7 +4036,7 @@
                </birth>
                <note>Bovec, 1896; kriegsgef.</note>
             </person>
-            <person xml:id="vll.19181002_696.11836">
+            <person xml:id="vll.19181002_696.11836" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Pertovt</surname>
                   <forename>Michael</forename>
@@ -4050,7 +4049,7 @@
                </birth>
                <note>Kal, 1895; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181002_696.12578">
+            <person xml:id="vll.19181002_696.12578" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Rijavec</surname>
                   <forename>Stepan</forename>
@@ -4063,7 +4062,7 @@
                </birth>
                <note>Trnovo, 1876; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181002_696.12638">
+            <person xml:id="vll.19181002_696.12638" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Roic</surname>
                   <forename>Andrea</forename>
@@ -4076,7 +4075,7 @@
                </birth>
                <note>Dörnberg, 1887; kriegsgef., Cassino, Italien.</note>
             </person>
-            <person xml:id="vll.19181002_696.14310">
+            <person xml:id="vll.19181002_696.14310" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Stor</surname>
                   <forename>Engelbert</forename>
@@ -4089,7 +4088,7 @@
                </birth>
                <note>1874; gestorben (18./5. 1918).</note>
             </person>
-            <person xml:id="vll.19181002_696.14432">
+            <person xml:id="vll.19181002_696.14432" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Suligoj</surname>
                   <forename>Filipp</forename>
@@ -4102,7 +4101,7 @@
                </birth>
                <note>Trnovo, 1898; verw.</note>
             </person>
-            <person xml:id="vll.19181002_696.15330">
+            <person xml:id="vll.19181002_696.15330" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Trebec</surname>
                   <forename>Anton</forename>
@@ -4115,7 +4114,7 @@
                </birth>
                <note>Naklo, 1885; verw.</note>
             </person>
-            <person xml:id="vll.19181005_697.4074">
+            <person xml:id="vll.19181005_697.4074" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=15&amp;zoom=33">
                <persName>
                   <surname>Cergolj</surname>
                   <forename>Franz</forename>
@@ -4128,7 +4127,7 @@
                </birth>
                <note>Naklo, 1899; gestorben (25./5. 1918).</note>
             </person>
-            <person xml:id="vll.19181005_697.4076">
+            <person xml:id="vll.19181005_697.4076" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=15&amp;zoom=33">
                <persName>
                   <surname>Cerkvenik</surname>
                   <forename>Franz</forename>
@@ -4141,7 +4140,7 @@
                </birth>
                <note>Vale, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19181005_697.4088">
+            <person xml:id="vll.19181005_697.4088" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=15&amp;zoom=33">
                <persName>
                   <surname>Cernigoj</surname>
                   <forename>Franz</forename>
@@ -4154,7 +4153,7 @@
                </birth>
                <note>Skrilje, 1896; gestorben (13./7. 1918)</note>
             </person>
-            <person xml:id="vll.19181005_697.5146">
+            <person xml:id="vll.19181005_697.5146" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>Devetak</surname>
                   <forename>Franz</forename>
@@ -4167,7 +4166,7 @@
                </birth>
                <note>1894; gestorben (20./6. 1918).</note>
             </person>
-            <person xml:id="vll.19181005_697.9394">
+            <person xml:id="vll.19181005_697.9394" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=34&amp;zoom=33">
                <persName>
                   <surname>Kragelj</surname>
                   <forename>Franz</forename>
@@ -4180,7 +4179,7 @@
                </birth>
                <note>Luzia, 1894; verw.</note>
             </person>
-            <person xml:id="vll.19181005_697.10684">
+            <person xml:id="vll.19181005_697.10684" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Močnik</surname>
                   <forename>Anton</forename>
@@ -4193,7 +4192,7 @@
                </birth>
                <note>Kirchheim, 1876; verw.</note>
             </person>
-            <person xml:id="vll.19181005_697.11676">
+            <person xml:id="vll.19181005_697.11676" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Pipan</surname>
                   <forename>Stefan</forename>
@@ -4206,7 +4205,7 @@
                </birth>
                <note>Kobjeglava, 1894; verw.</note>
             </person>
-            <person xml:id="vll.19181011_698.5550">
+            <person xml:id="vll.19181011_698.5550" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Figelj</surname>
                   <forename>Josef</forename>
@@ -4219,7 +4218,7 @@
                </birth>
                <note>St. Peter, 1876; kriegsgef., Cassino, Italien</note>
             </person>
-            <person xml:id="vll.19181011_698.6276">
+            <person xml:id="vll.19181011_698.6276" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=23&amp;zoom=33">
                <persName>
                   <surname>Gorjan</surname>
                   <forename>Pawel</forename>
@@ -4232,7 +4231,7 @@
                </birth>
                <note>Opatje Selo, 1895; kriegsgef., Cassino, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.9284">
+            <person xml:id="vll.19181011_698.9284" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Kokole</surname>
                   <forename>Franz</forename>
@@ -4245,7 +4244,7 @@
                </birth>
                <note>Karfreit, 1896; kriegsgef., Padula, Italien</note>
             </person>
-            <person xml:id="vll.19181011_698.10312">
+            <person xml:id="vll.19181011_698.10312" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=36&amp;zoom=33">
                <persName>
                   <surname>Kukanja</surname>
                   <forename>Anton</forename>
@@ -4258,7 +4257,7 @@
                </birth>
                <note>Komen, 1891; gestorben (14./7. 1918).</note>
             </person>
-            <person xml:id="vll.19181011_698.10406">
+            <person xml:id="vll.19181011_698.10406" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Kurinčič</surname>
                   <forename>Ignac</forename>
@@ -4271,7 +4270,7 @@
                </birth>
                <note>Idersko, 1885; kriegsgef., Aquila, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.11046">
+            <person xml:id="vll.19181011_698.11046" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Loik</surname>
                   <forename>Anton</forename>
@@ -4284,7 +4283,7 @@
                </birth>
                <note>Schönpass, 1898; kriegsgef., Aquila, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.11654">
+            <person xml:id="vll.19181011_698.11654" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Marušič</surname>
                   <forename>Francesco</forename>
@@ -4297,7 +4296,7 @@
                </birth>
                <note>1887; verw., kriegsgef., Cesena, Italien,</note>
             </person>
-            <person xml:id="vll.19181011_698.12176">
+            <person xml:id="vll.19181011_698.12176" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Mozetič</surname>
                   <forename>Vinzenz</forename>
@@ -4310,7 +4309,7 @@
                </birth>
                <note>Dornberg, 1876; gestorben (17./7. 1918).</note>
             </person>
-            <person xml:id="vll.19181011_698.12182">
+            <person xml:id="vll.19181011_698.12182" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Mrak</surname>
                   <forename>Viktor</forename>
@@ -4323,7 +4322,7 @@
                </birth>
                <note>Quisca, 1885; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.13022">
+            <person xml:id="vll.19181011_698.13022" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Pelizon</surname>
                   <forename>Josef</forename>
@@ -4336,7 +4335,7 @@
                </birth>
                <note>1894; kriegsgef., Cassino, Italien. .</note>
             </person>
-            <person xml:id="vll.19181011_698.13422">
+            <person xml:id="vll.19181011_698.13422" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Podgornik</surname>
                   <forename>Alois</forename>
@@ -4349,7 +4348,7 @@
                </birth>
                <note>1891: kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.13698">
+            <person xml:id="vll.19181011_698.13698" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Prinčič</surname>
                   <forename>Josef</forename>
@@ -4362,7 +4361,7 @@
                </birth>
                <note>Cerovo, 1881; krieggef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.15096">
+            <person xml:id="vll.19181011_698.15096" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=53&amp;zoom=33">
                <persName>
                   <surname>Skrt</surname>
                   <forename>Johann</forename>
@@ -4375,7 +4374,7 @@
                </birth>
                <note>Kal, 1884; kriegsgef., Avezzano, Italien,</note>
             </person>
-            <person xml:id="vll.19181011_698.15108">
+            <person xml:id="vll.19181011_698.15108" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=53&amp;zoom=33">
                <persName>
                   <surname>Šorli</surname>
                   <forename>Peter</forename>
@@ -4388,7 +4387,7 @@
                </birth>
                <note>1885; verw., kriegsgef., Padula, Italia.;</note>
             </person>
-            <person xml:id="vll.19181011_698.15362">
+            <person xml:id="vll.19181011_698.15362" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Stulc</surname>
                   <forename>Franz</forename>
@@ -4401,7 +4400,7 @@
                </birth>
                <note>St. Luzia, 1896; kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.15364">
+            <person xml:id="vll.19181011_698.15364" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Sturm</surname>
                   <forename>Bartolome</forename>
@@ -4414,7 +4413,7 @@
                </birth>
                <note>Volarje, 1882; kriegsgef., Padula, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.16206">
+            <person xml:id="vll.19181011_698.16206" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=57&amp;zoom=33">
                <persName>
                   <surname>Trebižan</surname>
                   <forename>Alois</forename>
@@ -4427,7 +4426,7 @@
                </birth>
                <note>Heiligenkreuz, 1880; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181011_698.16224">
+            <person xml:id="vll.19181011_698.16224" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=57&amp;zoom=33">
                <persName>
                   <surname>Trojer</surname>
                   <forename>Anton</forename>
@@ -4440,7 +4439,7 @@
                </birth>
                <note>Bača-Podbrdo, 1887; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181011_698.16578">
+            <person xml:id="vll.19181011_698.16578" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=59&amp;zoom=33">
                <persName>
                   <surname>Vižin</surname>
                   <forename>Josef</forename>
@@ -4453,7 +4452,7 @@
                </birth>
                <note>Salcano, 1895; kriegsgef., Avezzano, Italien.</note>
             </person>
-            <person xml:id="vll.19181019_699.4228">
+            <person xml:id="vll.19181019_699.4228" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Gabrijelcić</surname>
                   <forename>Anton</forename>
@@ -4466,7 +4465,7 @@
                </birth>
                <note>Canale; gefallen (15 /7. 1916).</note>
             </person>
-            <person xml:id="vll.19181019_699.10472">
+            <person xml:id="vll.19181019_699.10472" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Orel</surname>
                   <forename>Ivan</forename>
@@ -4479,7 +4478,7 @@
                </birth>
                <note>Dutovlje, 1890; gestorben (15./6. 1918).</note>
             </person>
-            <person xml:id="vll.19181019_699.10890">
+            <person xml:id="vll.19181019_699.10890" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=40&amp;zoom=33">
                <persName>
                   <surname>Pegan</surname>
                   <forename>Roman</forename>
@@ -4492,7 +4491,7 @@
                </birth>
                <note>Kobjeglava; gefallen (19./7. 1915).</note>
             </person>
-            <person xml:id="vll.19181019_699.11558">
+            <person xml:id="vll.19181019_699.11558" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=42&amp;zoom=33">
                <persName>
                   <surname>Preglj</surname>
                   <forename>Franz</forename>
@@ -4505,7 +4504,7 @@
                </birth>
                <note>gestorben 7./4. 1918). J</note>
             </person>
-            <person xml:id="vll.19181019_699.15738">
+            <person xml:id="vll.19181019_699.15738" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=56&amp;zoom=33">
                <persName>
                   <surname>Volk</surname>
                   <forename>Stefan</forename>
@@ -4518,7 +4517,7 @@
                </birth>
                <note>1876; gestorben (11/7. 1918).</note>
             </person>
-            <person xml:id="vll.19181105_700.4854">
+            <person xml:id="vll.19181105_700.4854" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>Furlan</surname>
                   <forename>Franz</forename>
@@ -4531,7 +4530,7 @@
                </birth>
                <note>Smarje, 1898; gestorben (28.6.1918)</note>
             </person>
-            <person xml:id="vll.19181105_700.4890">
+            <person xml:id="vll.19181105_700.4890" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=19&amp;zoom=33">
                <persName>
                   <surname>Gabriolčič</surname>
                   <forename>Johann</forename>
@@ -4544,7 +4543,7 @@
                </birth>
                <note>Anhovo, 1873; gestorben (29./7. 1918).</note>
             </person>
-            <person xml:id="vll.19181105_700.8108">
+            <person xml:id="vll.19181105_700.8108" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=30&amp;zoom=33">
                <persName>
                   <surname>Košuta</surname>
                   <forename>Anton</forename>
@@ -4557,7 +4556,7 @@
                </birth>
                <note>Schönpass, 1896; kriegsgef., Aquila, Italien.</note>
             </person>
-            <person xml:id="vll.19181105_700.10306">
+            <person xml:id="vll.19181105_700.10306" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Milichen</surname>
                   <forename>Johann</forename>
@@ -4570,7 +4569,7 @@
                </birth>
                <note>Flitsch, 1892; verw.</note>
             </person>
-            <person xml:id="vll.19181105_700.15276">
+            <person xml:id="vll.19181105_700.15276" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Sorti</surname>
                   <forename>Jernej</forename>
@@ -4583,7 +4582,7 @@
                </birth>
                <note>1897; gestorben (19/6.1918).</note>
             </person>
-            <person xml:id="vll.19181111_701.9310">
+            <person xml:id="vll.19181111_701.9310" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=36&amp;zoom=33">
                <persName>
                   <surname>Manfreda</surname>
                   <forename>Johann</forename>
@@ -4596,7 +4595,7 @@
                </birth>
                <note>Volče, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19181111_701.9734">
+            <person xml:id="vll.19181111_701.9734" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=38&amp;zoom=33">
                <persName>
                   <surname>Micheli</surname>
                   <forename>Alois</forename>
@@ -4609,7 +4608,7 @@
                </birth>
                <note>Reifenberg, 1892; verw.</note>
             </person>
-            <person xml:id="vll.19181111_701.12318">
+            <person xml:id="vll.19181111_701.12318" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Rijavec</surname>
                   <forename>Anton</forename>
@@ -4622,7 +4621,7 @@
                </birth>
                <note>1885; gestorben (9./6. 1918).</note>
             </person>
-            <person xml:id="vll.19181111_701.13798">
+            <person xml:id="vll.19181111_701.13798" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=53&amp;zoom=33">
                <persName>
                   <surname>Stubfa</surname>
                   <forename>Demeter</forename>
@@ -4635,7 +4634,7 @@
                </birth>
                <note>Komen, 1888; gestorben (2./7. 1918).</note>
             </person>
-            <person xml:id="vll.19181111_701.13918">
+            <person xml:id="vll.19181111_701.13918" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Sturm</surname>
                   <forename>Alois</forename>
@@ -4648,7 +4647,7 @@
                </birth>
                <note>Kojsko, 1878; verw.</note>
             </person>
-            <person xml:id="vll.19181111_701.15582">
+            <person xml:id="vll.19181111_701.15582" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=60&amp;zoom=33">
                <persName>
                   <surname>Volčič</surname>
                   <forename>Albin</forename>
@@ -4661,7 +4660,7 @@
                </birth>
                <note>Komen, 1699; verw.</note>
             </person>
-            <person xml:id="vll.19181126_702.3978">
+            <person xml:id="vll.19181126_702.3978" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=17&amp;zoom=33">
                <persName>
                   <surname>Duscha</surname>
                   <forename>Johann</forename>
@@ -4674,7 +4673,7 @@
                </birth>
                <note>Woltschach, 1887; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181126_702.5240">
+            <person xml:id="vll.19181126_702.5240" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=22&amp;zoom=33">
                <persName>
                   <surname>Grapulin</surname>
                   <forename>Marios</forename>
@@ -4687,7 +4686,7 @@
                </birth>
                <note>1896; gestorben (18./6 1918).</note>
             </person>
-            <person xml:id="vll.19181126_702.8804">
+            <person xml:id="vll.19181126_702.8804" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=35&amp;zoom=33">
                <persName>
                   <surname>Kuret</surname>
                   <forename>Franz</forename>
@@ -4700,7 +4699,7 @@
                </birth>
                <note>Povir, 1898; gestorben (29.7. 1918).</note>
             </person>
-            <person xml:id="vll.19181126_702.9924">
+            <person xml:id="vll.19181126_702.9924" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Martinovič</surname>
                   <forename>Vinzenz</forename>
@@ -4713,7 +4712,7 @@
                </birth>
                <note>Merna, 1879; gestorben (8.3.1918)</note>
             </person>
-            <person xml:id="vll.19181126_702.13354">
+            <person xml:id="vll.19181126_702.13354" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Rihawetz</surname>
                   <forename>Franz</forename>
@@ -4726,7 +4725,7 @@
                </birth>
                <note>1881; kriegsgef. (War Kriegsgef. In Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181126_702.14888">
+            <person xml:id="vll.19181126_702.14888" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=55&amp;zoom=33">
                <persName>
                   <surname>Sorgics</surname>
                   <forename>Vinzenz</forename>
@@ -4739,7 +4738,7 @@
                </birth>
                <note>Vrtojba, 1888; gestorben (18./6. 1918).</note>
             </person>
-            <person xml:id="vll.19181126_702.17154">
+            <person xml:id="vll.19181126_702.17154" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=64&amp;zoom=33">
                <persName>
                   <surname>Vrtoveč</surname>
                   <forename>Franz</forename>
@@ -4752,7 +4751,7 @@
                </birth>
                <note>1900; gestorben (10.7.1918).</note>
             </person>
-            <person xml:id="vll.19181204_703.1684">
+            <person xml:id="vll.19181204_703.1684" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Bačer</surname>
                   <forename>Anton</forename>
@@ -4765,7 +4764,7 @@
                </birth>
                <note>Šmarje, 1883; verw.</note>
             </person>
-            <person xml:id="vll.19181204_703.2772">
+            <person xml:id="vll.19181204_703.2772" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=12&amp;zoom=33">
                <persName>
                   <surname>Brajnik</surname>
                   <forename>Eduard</forename>
@@ -4778,7 +4777,7 @@
                </birth>
                <note>1891; verw.</note>
             </person>
-            <person xml:id="vll.19181204_703.3274">
+            <person xml:id="vll.19181204_703.3274" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=13&amp;zoom=33">
                <persName>
                   <surname>Cotar</surname>
                   <forename>Leopold</forename>
@@ -4791,7 +4790,7 @@
                </birth>
                <note>Gorjansko, 1900; gestorben (10./8. 1918).</note>
             </person>
-            <person xml:id="vll.19181204_703.8894">
+            <person xml:id="vll.19181204_703.8894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=33&amp;zoom=33">
                <persName>
                   <surname>Leban</surname>
                   <forename>Franz</forename>
@@ -4804,7 +4803,7 @@
                </birth>
                <note>1899; gefallen (15.-20./6. 1918).</note>
             </person>
-            <person xml:id="vll.19181204_703.12340">
+            <person xml:id="vll.19181204_703.12340" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Pipan</surname>
                   <forename>Franz</forename>
@@ -4817,7 +4816,7 @@
                </birth>
                <note>1884; verw.</note>
             </person>
-            <person xml:id="vll.19181204_703.12358">
+            <person xml:id="vll.19181204_703.12358" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=46&amp;zoom=33">
                <persName>
                   <surname>Pirjavec</surname>
                   <forename>Valentin</forename>
@@ -4830,7 +4829,7 @@
                </birth>
                <note>1893; verw.</note>
             </person>
-            <person xml:id="vll.19181204_703.12558">
+            <person xml:id="vll.19181204_703.12558" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Polšak</surname>
                   <forename>Rudolf</forename>
@@ -4843,7 +4842,7 @@
                </birth>
                <note>Velike-Zablje, 1891; verw.</note>
             </person>
-            <person xml:id="vll.19181204_703.13766">
+            <person xml:id="vll.19181204_703.13766" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Saksida</surname>
                   <forename>Anton</forename>
@@ -4856,7 +4855,7 @@
                </birth>
                <note>Dörnberg, 1893; kriegsgef (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181204_703.15828">
+            <person xml:id="vll.19181204_703.15828" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=59&amp;zoom=33">
                <persName>
                   <surname>Szatej</surname>
                   <forename>Cyrill</forename>
@@ -4869,7 +4868,7 @@
                </birth>
                <note>Vrtovin, 1896; gestorben (7./8. 1918).</note>
             </person>
-            <person xml:id="vll.19181219_705.526">
+            <person xml:id="vll.19181219_705.526" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=3&amp;zoom=33">
                <persName>
                   <roleName>Graf</roleName>
                   <surname>Coronini-Cronberg</surname>
@@ -4883,7 +4882,7 @@
                </birth>
                <note>St. Peter, 1899; verw.</note>
             </person>
-            <person xml:id="vll.19181219_705.2030">
+            <person xml:id="vll.19181219_705.2030" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=8&amp;zoom=33">
                <persName>
                   <surname>Batistic</surname>
                   <forename>Karol</forename>
@@ -4896,7 +4895,7 @@
                </birth>
                <note>1896; gestorben (26./7. 1918).</note>
             </person>
-            <person xml:id="vll.19181219_705.2404">
+            <person xml:id="vll.19181219_705.2404" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=10&amp;zoom=33">
                <persName>
                   <surname>Bizjak</surname>
                   <forename>Andrej</forename>
@@ -4909,7 +4908,7 @@
                </birth>
                <note>Gaberje, 1900; gestorben(18./8.1918).</note>
             </person>
-            <person xml:id="vll.19181219_705.5434">
+            <person xml:id="vll.19181219_705.5434" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=20&amp;zoom=33">
                <persName>
                   <surname>Grgic</surname>
                   <forename>Josef</forename>
@@ -4922,7 +4921,7 @@
                </birth>
                <note>Goriansko, 1899; verw.</note>
             </person>
-            <person xml:id="vll.19181219_705.10820">
+            <person xml:id="vll.19181219_705.10820" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=39&amp;zoom=33">
                <persName>
                   <surname>Mlekosch</surname>
                   <forename>Rudolf</forename>
@@ -4935,7 +4934,7 @@
                </birth>
                <note>kriegsgef.</note>
             </person>
-            <person xml:id="vll.19181219_705.11842">
+            <person xml:id="vll.19181219_705.11842" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=43&amp;zoom=33">
                <persName>
                   <surname>Pahor</surname>
                   <forename>Josef</forename>
@@ -4948,7 +4947,7 @@
                </birth>
                <note>Sela, 1882. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehlt.)</note>
             </person>
-            <person xml:id="vll.19181219_705.12382">
+            <person xml:id="vll.19181219_705.12382" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=45&amp;zoom=33">
                <persName>
                   <surname>Pipan</surname>
                   <forename>Philip</forename>
@@ -4961,7 +4960,7 @@
                </birth>
                <note>Komen, 1881. (War kriegsgef. gemeldet. Im Austauschwegezurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181224_706.4882">
+            <person xml:id="vll.19181224_706.4882" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=21&amp;zoom=33">
                <persName>
                   <surname>Furlan</surname>
                   <forename>Josef</forename>
@@ -4974,7 +4973,7 @@
                </birth>
                <note>1896; verw.</note>
             </person>
-            <person xml:id="vll.19181224_706.6486">
+            <person xml:id="vll.19181224_706.6486" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=27&amp;zoom=33">
                <persName>
                   <surname>Hvala</surname>
                   <forename>Franz</forename>
@@ -4987,7 +4986,7 @@
                </birth>
                <note>Slap, 1887; verw.</note>
             </person>
-            <person xml:id="vll.19181224_706.12574">
+            <person xml:id="vll.19181224_706.12574" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=51&amp;zoom=33">
                <persName>
                   <surname>Stergar</surname>
                   <forename>Stefan</forename>
@@ -5000,7 +4999,7 @@
                </birth>
                <note>Kal, 1895; verw.</note>
             </person>
-            <person xml:id="vll.19181224_706.12768">
+            <person xml:id="vll.19181224_706.12768" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=52&amp;zoom=33">
                <persName>
                   <surname>Susmelj</surname>
                   <forename>Hermann</forename>
@@ -5013,7 +5012,7 @@
                </birth>
                <note>Gagrar, 1891; Verw.</note>
             </person>
-            <person xml:id="vll.19181224_706.13910">
+            <person xml:id="vll.19181224_706.13910" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=56&amp;zoom=33">
                <persName>
                   <surname>Vidmar</surname>
                   <forename>Franz</forename>
@@ -5026,7 +5025,7 @@
                </birth>
                <note>Reifenberg, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19181224_706.14616">
+            <person xml:id="vll.19181224_706.14616" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=59&amp;zoom=33">
                <persName>
                   <surname>Zigon</surname>
                   <forename>Andreas</forename>
@@ -5039,7 +5038,7 @@
                </birth>
                <note>Bilje, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19190103_707.7094">
+            <person xml:id="vll.19190103_707.7094" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=28&amp;zoom=33">
                <persName>
                   <surname>Kavča</surname>
                   <forename>Anton</forename>
@@ -5052,7 +5051,7 @@
                </birth>
                <note>Rechenberg 1897; verw.</note>
             </person>
-            <person xml:id="vll.19190103_707.9444">
+            <person xml:id="vll.19190103_707.9444" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Mačuš</surname>
                   <forename>Franz</forename>
@@ -5065,7 +5064,7 @@
                </birth>
                <note>St. Florian, 1886; verw.</note>
             </person>
-            <person xml:id="vll.19190103_707.10430">
+            <person xml:id="vll.19190103_707.10430" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=41&amp;zoom=33">
                <persName>
                   <surname>Milič</surname>
                   <forename>Ernst</forename>
@@ -5078,7 +5077,7 @@
                </birth>
                <note>Repen, 1875; kriegsgef (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19190103_707.12304">
+            <person xml:id="vll.19190103_707.12304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=48&amp;zoom=33">
                <persName>
                   <surname>Pirih</surname>
                   <forename>Stefan</forename>
@@ -5091,7 +5090,7 @@
                </birth>
                <note>St. Vislagera. 1893; verw.</note>
             </person>
-            <person xml:id="vll.19190103_707.13066">
+            <person xml:id="vll.19190103_707.13066" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=51&amp;zoom=33">
                <persName>
                   <surname>Rebek</surname>
                   <forename>Franz</forename>
@@ -5104,7 +5103,7 @@
                </birth>
                <note>Gaberje, 1874. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19190114_709.7716">
+            <person xml:id="vll.19190114_709.7716" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=29&amp;zoom=33">
                <persName>
                   <surname>Kemperle</surname>
                   <forename>Johann</forename>
@@ -5117,7 +5116,7 @@
                </birth>
                <note>Nemškave, 1898; verw.</note>
             </person>
-            <person xml:id="vll.19190114_709.10114">
+            <person xml:id="vll.19190114_709.10114" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=37&amp;zoom=33">
                <persName>
                   <surname>Malnarcič</surname>
                   <forename>Ivan</forename>
@@ -5130,7 +5129,7 @@
                </birth>
                <note>1877. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19190114_709.12802">
+            <person xml:id="vll.19190114_709.12802" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=47&amp;zoom=33">
                <persName>
                   <surname>Pervanyja</surname>
                   <forename>Anton</forename>
@@ -5143,7 +5142,7 @@
                </birth>
                <note>St. Luzia, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19190114_709.15442">
+            <person xml:id="vll.19190114_709.15442" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=56&amp;zoom=33">
                <persName>
                   <surname>Slejko</surname>
                   <forename>Josef</forename>
@@ -5156,7 +5155,7 @@
                </birth>
                <note>Cernizza, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19190114_709.18162">
+            <person xml:id="vll.19190114_709.18162" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=66&amp;zoom=33">
                <persName>
                   <surname>Žerjal</surname>
                   <forename>Josef</forename>
@@ -5169,7 +5168,7 @@
                </birth>
                <note>Reifenberg, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19190129_708.1318">
+            <person xml:id="vll.19190129_708.1318" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190129&amp;seite=6&amp;zoom=33">
                <persName>
                   <surname>Ursic</surname>
                   <forename>Adolf</forename>
@@ -5182,7 +5181,7 @@
                </birth>
                <note>Karfreit, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19190129_708.1320">
+            <person xml:id="vll.19190129_708.1320" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190129&amp;seite=6&amp;zoom=33">
                <persName>
                   <surname>Ursic</surname>
                   <forename>Josef</forename>
@@ -5195,7 +5194,7 @@
                </birth>
                <note>Storje, 1891; gefallen (15./6. 1918).</note>
             </person>
-            <person xml:id="vll.19190129_708.15872">
+            <person xml:id="vll.19190129_708.15872" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190129&amp;seite=54&amp;zoom=33">
                <persName>
                   <surname>Sorli</surname>
                   <forename>Andreas</forename>
