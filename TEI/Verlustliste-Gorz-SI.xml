@@ -412,8 +412,8 @@
                <persName>
                   <surname>Jazbec</surname>
                   <forename>August</forename>
+                  <forename>Josef</forename>
                </persName>
-               <socecStatus>Josef</socecStatus>
                <affiliation>IR. Nr. 58</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
@@ -427,7 +427,7 @@
                   <forename>Antal</forename>
                </persName>
                <socecStatus>FeldwKdtAsp</socecStatus>
-               <affiliation>, k. u. LIR. Nr. 20, 4. Komp.</affiliation>
+               <affiliation>k. u. LIR. Nr. 20, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -1143,7 +1143,7 @@
                   <forename>Justin</forename>
                </persName>
                <socecStatus>ResInfst.</socecStatus>
-               <affiliation>IR, Nr. 7, 13. Komp,</affiliation>
+               <affiliation>IR. Nr. 7, 13. Komp,</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Cepowan</region>
@@ -1161,7 +1161,7 @@
                   <country>Görz</country>
                   <region>Čepovan</region>
                </birth>
-               <note>1887; gestnrben (16./9. 1917).</note>
+               <note>1887; gestorben (16./9. 1917).</note>
             </person>
             <person xml:id="vll.19180124_645.2304">
                <persName>
@@ -1349,8 +1349,9 @@
                <persName>
                   <surname>Slokar</surname>
                   <forename>Leopold</forename>
+                  <genName>I</genName>
                </persName>
-               <socecStatus>I Intst.</socecStatus>
+               <socecStatus>Intst.</socecStatus>
                <affiliation>IR. Nr. 97, 14. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
@@ -2039,8 +2040,8 @@
                   <surname>Fabjan</surname>
                   <forename>Frana</forename>
                </persName>
-               <socecStatus>LstInfst. IR. Nr. 97</socecStatus>
-               <affiliation>MGKomp. I</affiliation>
+               <socecStatus>LstInfst</socecStatus>
+               <affiliation>IR. Nr. 97, MGKomp. I</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4874,8 +4875,8 @@
                   <surname>Coronini-Cronberg</surname>
                   <forename>Alexander</forename>
                </persName>
-               <socecStatus>Fähnr. i. d. Res. DR. Nr. 4</socecStatus>
-               <affiliation>5i Schwd.</affiliation>
+               <socecStatus>Fähnr. i. d. Res.</socecStatus>
+               <affiliation>DR. Nr. 4, 5i Schwd.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4913,8 +4914,8 @@
                   <surname>Grgic</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Drag. DR. Nr. 5</socecStatus>
-               <affiliation>zugeteilt dem DR. Nr. 4, 22. Schwd.,</affiliation>
+               <socecStatus>Drag.</socecStatus>
+               <affiliation>DR. Nr. 5, zugeteilt dem DR. Nr. 4, 22. Schwd.,</affiliation>
                <birth>
                   <country> Görz u. Gradiska</country>
                   <region>Sesana</region>
