@@ -90,18 +90,6 @@
                </birth>
                <note>Dolina, verw.</note>
             </person>
-            <person xml:id="vll.19141124_68.718">
-               <persName>
-                  <surname>Gliha</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Feldw. KdtAsp., IR. Nr. 22, 6. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1800, verw.</note>
-            </person>
             <person xml:id="vll.19141128_E3.4650" sameAs="VIL.20">
                <persName>
                   <surname>Hauska</surname>
@@ -150,18 +138,6 @@
                </birth>
                <note>1874, verw.</note>
             </person>
-            <person xml:id="vll.19141223_85_86.686">
-               <persName>
-                  <surname>Gastwirth</surname>
-                  <forename>Friedrich</forename>
-               </persName>
-               <affiliation>Dr., Fähnr. i. d. Res., IR. Nr. 57, 5. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1884, tot.</note>
-            </person>
             <person xml:id="vll.19141223_85_86.1674">
                <persName>
                   <surname>Brasofoli</surname>
@@ -173,78 +149,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pirano, 1886, verw.</note>
-            </person>
-            <person xml:id="vll.19141223_85_86.1748">
-               <persName>
-                  <surname>Bugovich</surname>
-                  <forename>Viktor</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 5), 7. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1886, verw.</note>
-            </person>
-            <person xml:id="vll.19141223_85_86.1854">
-               <persName>
-                  <surname>Cesnovar</surname>
-                  <forename>Viktorio</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 37 (k. k. LIR. Nr. 5), 7. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1889, verw.</note>
-            </person>
-            <person xml:id="vll.19141223_85_86.2982">
-               <persName>
-                  <surname>Giani</surname>
-                  <forename>Virgilius</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 37, (k. k. LIR, Nr. 5),5. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>verw.</note>
-            </person>
-            <person xml:id="vll.19141223_85_86.5412">
-               <persName>
-                  <surname>Menla</surname>
-                  <forename>Viktor</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 37 (LIR. Nr. 5), 7. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887, tot (15./11. 1914).</note>
-            </person>
-            <person xml:id="vll.19141223_85_86.7178">
-               <persName>
-                  <surname>Skarannizza</surname>
-                  <forename>Flanimir</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR., Nr. 37 (LIR., Nr. 5), 7. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1889, verw.</note>
-            </person>
-            <person xml:id="vll.19141223_85_86.7180">
-               <persName>
-                  <surname>Skarlavoy</surname>
-                  <forename>Franz</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 37 (LIR., Nr. 5) 7. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1889, verw.</note>
             </person>
             <person xml:id="vll.19141223_85_86.7370">
                <persName>
@@ -281,18 +185,6 @@
                   <region>Lezana</region>
                </birth>
                <note>Gorjansko, 1888, tot (16./11.1914).</note>
-            </person>
-            <person xml:id="vll.19150103_91.4878">
-               <persName>
-                  <surname>Kustrin</surname>
-                  <forename>Johann Artur</forename>
-               </persName>
-               <affiliation>Inft.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>kriegsgef. (Slobodsk, Gouvernement Wiatka, Rußland.)</note>
             </person>
             <person xml:id="vll.19150104_92_93.11210">
                <persName>
@@ -653,30 +545,6 @@
                </birth>
                <note>Maresego, 1891, tot (28./11. 1914).</note>
             </person>
-            <person xml:id="vll.19150130_117.5612">
-               <persName>
-                  <surname>Palma</surname>
-                  <forename>Eduard</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 5,5. Mfyrschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>tot (Dez. 1914).</note>
-            </person>
-            <person xml:id="vll.19150131_118.2480">
-               <persName>
-                  <surname>Gembrecieh</surname>
-                  <forename>Maulin</forename>
-               </persName>
-               <affiliation>ResInft., IR. Nr. 59, 14. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1890, kriegsgef. (Skobelewo, Gouvernement Moskau,</note>
-            </person>
             <person xml:id="vll.19150131_118.5718">
                <persName>
                   <surname>Pavlin</surname>
@@ -964,18 +832,6 @@
                   <region>Görz</region>
                </birth>
                <note>kriegsgef.</note>
-            </person>
-            <person xml:id="vll.19150303_136.8528" sameAs="VIL.24">
-               <persName>
-                  <surname>Mondolfo</surname>
-                  <forename>Hugo</forename>
-               </persName>
-               <affiliation>RcsKorp., IR. Nr. 47, 9. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891, verw.</note>
             </person>
             <person xml:id="vll.19150304_137.2186">
                <persName>
@@ -2057,18 +1913,6 @@
                </birth>
                <note>Ocisla-Klaneč, 1888, kriegsgef. (Rußland.)</note>
             </person>
-            <person xml:id="vll.19150402_154.5698">
-               <persName>
-                  <surname>Norio</surname>
-                  <forename>Feruzzio</forename>
-               </persName>
-               <affiliation>Jag., TJR. Nr. 4, 12. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894, verw.</note>
-            </person>
             <person xml:id="vll.19150402_154.6586">
                <persName>
                   <surname>Rasmann</surname>
@@ -2140,14 +1984,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>1894, verw.</note>
-            </person>
-            <person xml:id="vll.19150429_169.4270">
-               <affiliation>KofsijanüiC Iva</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893, kriegsgef. (Nis, Serbien.)</note>
             </person>
             <person xml:id="vll.19150506_173.1972">
                <persName>
@@ -2328,18 +2164,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Vrhpolje, Klanec, 1874, kriegsgef. (Niš, Serbien).</note>
-            </person>
-            <person xml:id="vll.19150511_176.9258">
-               <persName>
-                  <surname>Scala</surname>
-                  <forename>Mario</forename>
-               </persName>
-               <affiliation>Jiig.. TJR. Nr. 1, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893,. verw. -</note>
             </person>
             <person xml:id="vll.19150513_177.2500">
                <persName>
@@ -3001,18 +2825,6 @@
                </birth>
                <note>Isola, 1888, verw.</note>
             </person>
-            <person xml:id="vll.19150722_217.6794">
-               <persName>
-                  <surname>Prodan</surname>
-                  <forename>Eduard</forename>
-               </persName>
-               <affiliation>Jäg., TJR. Nr. 4, 12. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894, verw. ,</note>
-            </person>
             <person xml:id="vll.19150722_217.8616">
                <persName>
                   <surname>Tram</surname>
@@ -3060,42 +2872,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Dolina, 1890, kriegsgef. (Obojan, Gouvernement Kursk, Rußland.)</note>
-            </person>
-            <person xml:id="vll.19150727_221.4616">
-               <persName>
-                  <surname>Kralik</surname>
-                  <forename>Jakob</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 71, zugeteilt dem IR. Nr. 9, 4./9. Marschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1890, verw.</note>
-            </person>
-            <person xml:id="vll.19150727_221.4618">
-               <persName>
-                  <surname>Kralik</surname>
-                  <forename>Martin</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 71, zugeteilt dorn IR. Nr. 9, 4./9. Marschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1888, verw.</note>
-            </person>
-            <person xml:id="vll.19150727_221.8114">
-               <persName>
-                  <surname>Trinplliinl</surname>
-                  <forename>Beaventttto</forename>
-               </persName>
-               <affiliation>ErsRes., SanAbt. Nr. 9 (LstKmdo. 5)</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Tricst</region>
-               </birth>
-               <note>1870, kriegsgef. (Skoplje, Serbien.)</note>
             </person>
             <person xml:id="vll.19150729_223.8422">
                <persName>
@@ -3168,18 +2944,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Muggio, 1891, verw., kriegsgef.</note>
-            </person>
-            <person xml:id="vll.19150805_229.6654">
-               <persName>
-                  <surname>Okretich</surname>
-                  <forename>Friedrich</forename>
-               </persName>
-               <affiliation>Inft., k. k. LIR. Nr. 5, 10. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1883, verw.</note>
             </person>
             <person xml:id="vll.19150805_229.6872">
                <persName>
@@ -3288,18 +3052,6 @@
                   <region>Capodistra</region>
                </birth>
                <note>Isola, 1877, tot (Juni 1915.).</note>
-            </person>
-            <person xml:id="vll.19150812_235.8888">
-               <persName>
-                  <surname>Saič</surname>
-                  <forename>Giovanni</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 27, 1, Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>Pirano, 1895, verw.</note>
             </person>
             <person xml:id="vll.19150814_237.992">
                <persName>
@@ -3576,18 +3328,6 @@
                   <region>Gradiska</region>
                </birth>
                <note>Cormons, 1893, verw.</note>
-            </person>
-            <person xml:id="vll.19150814_237.7360">
-               <persName>
-                  <surname>Sedmak</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Inft., k. k. LIR. Nr. 5,11. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1890, verw.</note>
             </person>
             <person xml:id="vll.19150814_237.7392">
                <persName>
@@ -3985,18 +3725,6 @@
                </birth>
                <note>Kitzheim, 1885, verw.</note>
             </person>
-            <person xml:id="vll.19150826_248.7972">
-               <persName>
-                  <surname>Rupcl</surname>
-                  <forename>Andreas</forename>
-               </persName>
-               <affiliation>Inft., k. k, LstMarschB. Nr. 10, 1. Komp</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>Prosek, 1878, verw.</note>
-            </person>
             <person xml:id="vll.19150830_252.1444">
                <persName>
                   <surname>Bertok</surname>
@@ -4141,18 +3869,6 @@
                </birth>
                <note>Marezige, 1894, verw.</note>
             </person>
-            <person xml:id="vll.19150902_255.6418">
-               <persName>
-                  <surname>Pertott</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 7, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1888, verw.</note>
-            </person>
             <person xml:id="vll.19150902_255.6556">
                <persName>
                   <surname>Plahuta</surname>
@@ -4284,18 +4000,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Buzarji Decani, 1884, kriegsgef., Nis, Serbien.</note>
-            </person>
-            <person xml:id="vll.19150907_260.7974">
-               <persName>
-                  <surname>Pecnik</surname>
-                  <forename>Rudolf</forename>
-               </persName>
-               <affiliation>ErsRes., k. k. LIR. Nr. 5, 3. ErsKomp,</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887, kriegsgef., Nis, Serbien.</note>
             </person>
             <person xml:id="vll.19150907_260.10992">
                <persName>
@@ -4536,18 +4240,6 @@
                </birth>
                <note>Bilje, 1895, verw.</note>
             </person>
-            <person xml:id="vll.19150916_267.2432">
-               <persName>
-                  <surname>Ferlettich</surname>
-                  <forename>Paul</forename>
-               </persName>
-               <affiliation>EinjFreiw. Zugsf. TitFeldw., IR. Nr. 80, 15. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893, tot (28-/5.-23./7. 1915).</note>
-            </person>
             <person xml:id="vll.19150916_267.2672">
                <persName>
                   <surname>Galej</surname>
@@ -4703,18 +4395,6 @@
                   <region>Loič</region>
                </birth>
                <note>Routa, 1887, verw.</note>
-            </person>
-            <person xml:id="vll.19150916_267.5130">
-               <persName>
-                  <surname>Lipold</surname>
-                  <forename>Mateus</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 55, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1899, verw.</note>
             </person>
             <person xml:id="vll.19150916_267.5436">
                <persName>
@@ -5220,30 +4900,6 @@
                </birth>
                <note>tot (1.-30./6.1915).</note>
             </person>
-            <person xml:id="vll.19150928_277.904">
-               <persName>
-                  <surname>Stoka</surname>
-                  <forename>Dr. jur.</forename>
-               </persName>
-               <affiliation>Marius, Kdt. i. d. Res., IR. Nr. 79, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891, verw. (Vom Regiment mit dem Taufnamen Bruno gemeldet.)</note>
-            </person>
-            <person xml:id="vll.19150928_277.5040">
-               <persName>
-                  <surname>Kraly</surname>
-                  <forename>Ferdinand</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 27, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>Trebic, 1886, verw.</note>
-            </person>
             <person xml:id="vll.19150928_277.6222">
                <persName>
                   <surname>Morgan</surname>
@@ -5255,30 +4911,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>1895, verw.</note>
-            </person>
-            <person xml:id="vll.19150928_277.7940">
-               <persName>
-                  <surname>Schelle</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 17, 4. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1883, tot (August 1915).</note>
-            </person>
-            <person xml:id="vll.19150929_278.2812">
-               <persName>
-                  <surname>Gustinec</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>LstInft., IR. Nr. 80, 3. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1881, verw.</note>
             </person>
             <person xml:id="vll.19151003_282.2038">
                <persName>
@@ -5315,18 +4947,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pignano, 1884, verw; kriegsgef., Nowo Nikolaiewsk, Rußland.</note>
-            </person>
-            <person xml:id="vll.19151007_286.1976">
-               <persName>
-                  <surname>Čok</surname>
-                  <forename>August</forename>
-               </persName>
-               <affiliation>LstInft., IR. Nr. 87, 4. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895, verw.</note>
             </person>
             <person xml:id="vll.19151007_286.3800">
                <persName>
@@ -5412,30 +5032,6 @@
                </birth>
                <note>Kanale, 1893; kriegsgef., Wladimir, Rußland.</note>
             </person>
-            <person xml:id="vll.19151007_286.5450">
-               <persName>
-                  <surname>Micol</surname>
-                  <forename>Sandor</forename>
-               </persName>
-               <affiliation>LstInft., k. k. LIR. Nr. 4, 3. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1878, tot (5./7.1915).</note>
-            </person>
-            <person xml:id="vll.19151007_286.5700">
-               <persName>
-                  <surname>Mujesan</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 87, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895, verw.</note>
-            </person>
             <person xml:id="vll.19151007_286.6170">
                <persName>
                   <surname>Pangerc</surname>
@@ -5508,18 +5104,6 @@
                </birth>
                <note>Dolina, 1895, verw.</note>
             </person>
-            <person xml:id="vll.19151007_286.8928">
-               <persName>
-                  <surname>Zanone</surname>
-                  <forename>Marius</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 87, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894, verw.</note>
-            </person>
             <person xml:id="vll.19151007_286.8970">
                <persName>
                   <surname>Žerjal</surname>
@@ -5543,18 +5127,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pinguente, 1894, verw.</note>
-            </person>
-            <person xml:id="vll.19151008_287.3546">
-               <persName>
-                  <surname>Hussu</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 1 zuget. vom k. k. LIR. Nr. 26, 6. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1880, tot (2.—3./9. 1915).</note>
             </person>
             <person xml:id="vll.19151008_287.4180">
                <persName>
@@ -5988,18 +5560,6 @@
                </birth>
                <note>Dabrana, 1893, verw.</note>
             </person>
-            <person xml:id="vll.19151028_303.856">
-               <persName>
-                  <surname>Zandonatti</surname>
-                  <forename>von</forename>
-               </persName>
-               <affiliation>Rudolf, Kdt. i. d. Res., DR. Nr. 3, 3. Esk.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1885, verw.</note>
-            </person>
             <person xml:id="vll.19151028_303.1964">
                <persName>
                   <surname>Cosullich.</surname>
@@ -6036,18 +5596,6 @@
                </birth>
                <note>Caldenavsi, 1872, verw.</note>
             </person>
-            <person xml:id="vll.19151030_304.1266">
-               <persName>
-                  <surname>Ban</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 54, zugeteilt vom k. k. LIR. Nr. 3, 7. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>Prosocco, 1897, verw.</note>
-            </person>
             <person xml:id="vll.19151030_304.1268">
                <persName>
                   <surname>Ban</surname>
@@ -6057,18 +5605,6 @@
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
-               </birth>
-               <note>1897, verw.</note>
-            </person>
-            <person xml:id="vll.19151030_304.1666">
-               <persName>
-                  <surname>Blohar</surname>
-                  <forename>Oskar</forename>
-               </persName>
-               <affiliation>Jäg., IR. Nr. 54, zugeteilt vom k. k. LIR. Nr., 26, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
                </birth>
                <note>1897, verw.</note>
             </person>
@@ -6083,18 +5619,6 @@
                   <region>Capodstria</region>
                </birth>
                <note>Muggia, 1888, tot (20./8. 1915).</note>
-            </person>
-            <person xml:id="vll.19151030_304.3586">
-               <persName>
-                  <surname>Grill</surname>
-                  <forename>Ferdinand</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 54. zugeteilt vom k. k. LIR. Nr. 26, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1884, verw.</note>
             </person>
             <person xml:id="vll.19151030_304.4692">
                <persName>
@@ -6132,18 +5656,6 @@
                </birth>
                <note>Trnske, 1896, verw.</note>
             </person>
-            <person xml:id="vll.19151030_304.6866">
-               <persName>
-                  <surname>MIttis</surname>
-                  <forename>Georg</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 54, vom k. k. LIR. Nr. 26, 15. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1897, verw.</note>
-            </person>
             <person xml:id="vll.19151030_304.7098">
                <persName>
                   <surname>Negrissin</surname>
@@ -6167,30 +5679,6 @@
                   <region>Capo d'Istria</region>
                </birth>
                <note>Isola, 1892, verw.</note>
-            </person>
-            <person xml:id="vll.19151103_306.652">
-               <persName>
-                  <surname>Ferlettich</surname>
-                  <forename>Paul</forename>
-               </persName>
-               <affiliation>EinjFreiw. TitFeldw., IR. Nr. 80, 15. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893, tot (28./ß.-23./7.1915).</note>
-            </person>
-            <person xml:id="vll.19151103_306.11166" sameAs="VIL.267">
-               <persName>
-                  <surname>Ferlettich</surname>
-                  <forename>Paul</forename>
-               </persName>
-               <affiliation>Einj.-Freiw. Zugsf. Tit. Feldw., IR. Nr. 80, 15. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893, tot (28./5.-23./7. 1915).</note>
             </person>
             <person xml:id="vll.19151105_307.2004">
                <persName>
@@ -6612,18 +6100,6 @@
                </birth>
                <note>St. Lucia, 1895, verw.</note>
             </person>
-            <person xml:id="vll.19151112_313.8358">
-               <persName>
-                  <surname>Skampertz</surname>
-                  <forename>Alois</forename>
-               </persName>
-               <affiliation>LstInft., IR. Nr. 55, 6. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887, tot (29./7. 1915).</note>
-            </person>
             <person xml:id="vll.19151112_313.9628">
                <persName>
                   <surname>Berginc</surname>
@@ -6780,30 +6256,6 @@
                </birth>
                <note>1879; verw.</note>
             </person>
-            <person xml:id="vll.19151206_330.2398">
-               <persName>
-                  <surname>Capun</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Inft., SanTruppe-SanAbt. 9</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1872; kritgsgef., Rußland.</note>
-            </person>
-            <person xml:id="vll.19151206_330.6600">
-               <persName>
-                  <surname>Macov</surname>
-                  <forename>Anton</forename>
-               </persName>
-               <affiliation>TifGefr., SanTrp., SanAbt. 9</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1875; kriegsgef., Rußland.</note>
-            </person>
             <person xml:id="vll.19151208_331.956">
                <persName>
                   <surname>Babic</surname>
@@ -6839,18 +6291,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pobeghi, 1875; kriegsgef.</note>
-            </person>
-            <person xml:id="vll.19151208_331.1190">
-               <persName>
-                  <surname>Bena</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Korp., IR. Nr. 97, l./X. Marschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1881; tot (21.-29./7. 1915).</note>
             </person>
             <person xml:id="vll.19151208_331.1282">
                <persName>
@@ -7080,18 +6520,6 @@
                </birth>
                <note>Pinguente, 1879; verw.</note>
             </person>
-            <person xml:id="vll.19151208_331.2788">
-               <persName>
-                  <surname>Giorgini</surname>
-                  <forename>Silvius</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 97, l./X. Marschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887; verw.</note>
-            </person>
             <person xml:id="vll.19151208_331.2830">
                <persName>
                   <surname>Glavič</surname>
@@ -7175,18 +6603,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pinguente, 1885; kriegsgef., Mochmyz, Gouvernement Wjatka, Rußland.</note>
-            </person>
-            <person xml:id="vll.19151208_331.4638">
-               <persName>
-                  <surname>Kosuta</surname>
-                  <forename>Leopold</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 97, l./X. Marschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895; verw.</note>
             </person>
             <person xml:id="vll.19151208_331.5232">
                <persName>
@@ -7428,18 +6844,6 @@
                </birth>
                <note>Pirano, 1894; verw.</note>
             </person>
-            <person xml:id="vll.19151208_331.7292">
-               <persName>
-                  <surname>Sedmak</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 97, 1/10. Marschkomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>St. Oroce, 1881; verw.</note>
-            </person>
             <person xml:id="vll.19151208_331.7330">
                <persName>
                   <surname>Sergos</surname>
@@ -7475,18 +6879,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Dolina, 1895; verw.</note>
-            </person>
-            <person xml:id="vll.19151208_331.7622">
-               <persName>
-                  <surname>Sragiaconio</surname>
-                  <forename>Peter</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 97, MGA.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; verw.</note>
             </person>
             <person xml:id="vll.19151208_331.8410">
                <persName>
@@ -7631,18 +7023,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Isola, 1895; kriegsgef. (Zugeteilt vom TJR. Nr. 2.)</note>
-            </person>
-            <person xml:id="vll.19151213_334.4934">
-               <persName>
-                  <surname>Jesenicar</surname>
-                  <forename>Peter</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 83, 5. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1896; verw.</note>
             </person>
             <person xml:id="vll.19151215_336.1392">
                <persName>
@@ -7812,18 +7192,6 @@
                </birth>
                <note>Pirano, 1892; kriegsgef., Rußland.</note>
             </person>
-            <person xml:id="vll.19160108_352.1582">
-               <persName>
-                  <surname>Buciar</surname>
-                  <forename>Wladimir</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 7, 14. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895; tot (10./11. 1915).</note>
-            </person>
             <person xml:id="vll.19160108_352.2088">
                <persName>
                   <surname>Dodich</surname>
@@ -7943,18 +7311,6 @@
                </birth>
                <note>Pinguente, 1887, verw.; kriegsgef., Evakuationsspital Nr. 32 in Nischnij - Nowgorod, Rußland.</note>
             </person>
-            <person xml:id="vll.19160108_352.5850">
-               <persName>
-                  <surname>Peinitsch</surname>
-                  <forename>Viktor</forename>
-               </persName>
-               <affiliation>EinjFreiw. TitKorp.. IE. Nr. 27, 19. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895; tot (24./11. 1915).</note>
-            </person>
             <person xml:id="vll.19160108_352.6438">
                <persName>
                   <surname>Purger</surname>
@@ -7966,18 +7322,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>1893; kriegsgef., Rußland.</note>
-            </person>
-            <person xml:id="vll.19160108_352.7894">
-               <persName>
-                  <surname>Tadeo</surname>
-                  <forename>Jakob</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 7, 14. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893; tot (10./11. 1915).</note>
             </person>
             <person xml:id="vll.19160108_352.8838">
                <persName>
@@ -8098,30 +7442,6 @@
                   <region>Pirano</region>
                </birth>
                <note>St. Peter, 1896; verw.</note>
-            </person>
-            <person xml:id="vll.19160118_360.7702">
-               <persName>
-                  <surname>Prelz</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 97</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1873; kriegsgef., Rußland.</note>
-            </person>
-            <person xml:id="vll.19160118_360.10094">
-               <persName>
-                  <surname>Vivant</surname>
-                  <forename>Crescencio</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 87</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1872; kriegsgefangen, Rußland.</note>
             </person>
             <person xml:id="vll.19160118_360.10096">
                <persName>
@@ -8254,18 +7574,6 @@
                   <region>Sesana</region>
                </birth>
                <note>1881; verw.</note>
-            </person>
-            <person xml:id="vll.19160208_373.7660">
-               <persName>
-                  <surname>Sosič</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 55, 16. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1886; verw.</note>
             </person>
             <person xml:id="vll.19160208_373.7870">
                <persName>
@@ -8495,18 +7803,6 @@
                </birth>
                <note>Pirano, 1886; kriegsgef., Tschistopol, Gouvernement Kasan, Rußland.</note>
             </person>
-            <person xml:id="vll.19160318_395.1698">
-               <persName>
-                  <surname>Bonivento</surname>
-                  <forename>Marius</forename>
-               </persName>
-               <affiliation>ResInft., k. k. LIR. Nr. 6, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1883; kriegsgef., Mamadysch, Gouvernement Kasan, Rußland.</note>
-            </person>
             <person xml:id="vll.19160318_395.1718">
                <persName>
                   <surname>Bordon</surname>
@@ -8566,18 +7862,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>1887; kriegsgef., Rußland.</note>
-            </person>
-            <person xml:id="vll.19160318_395.3216">
-               <persName>
-                  <surname>Ermann</surname>
-                  <forename>Jesef</forename>
-               </persName>
-               <affiliation>KorapHorn., k. k. LIR. Nr. 5, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1886; kriegsgef., Rußland.</note>
             </person>
             <person xml:id="vll.19160318_395.3422">
                <persName>
@@ -9251,18 +8535,6 @@
                </birth>
                <note>Rozzo; kriegsgef., Chwalynsk, Gouvernement Saratow, Rußland.</note>
             </person>
-            <person xml:id="vll.19160330_401.2394">
-               <persName>
-                  <surname>Cirillo</surname>
-                  <forename>Guido</forename>
-               </persName>
-               <affiliation>Inft., k. k. LstIR. Nr. 5</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1874, kriegsgef., Rußland.</note>
-            </person>
             <person xml:id="vll.19160401_402.1286">
                <persName>
                   <surname>Blažič</surname>
@@ -9455,18 +8727,6 @@
                </birth>
                <note>1891; verw.</note>
             </person>
-            <person xml:id="vll.19160405_404.1182">
-               <persName>
-                  <surname>Bastiančič</surname>
-                  <forename>Alois</forename>
-               </persName>
-               <affiliation>Jäg., FJB. Nr. 8, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>LIR. Nr., 12. Komp., verw.</note>
-            </person>
             <person xml:id="vll.19160405_404.1758">
                <persName>
                   <surname>Bonin</surname>
@@ -9526,30 +8786,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pangnano, 1881; tot (März 1915).</note>
-            </person>
-            <person xml:id="vll.19160405_404.6578">
-               <persName>
-                  <surname>Kovač</surname>
-                  <forename>Mathäus</forename>
-               </persName>
-               <affiliation>ErsRes., IR. Nr. 97, 4. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>kriegsgef., Rußland.</note>
-            </person>
-            <person xml:id="vll.19160405_404.8774">
-               <persName>
-                  <surname>Minert</surname>
-                  <forename>Anton</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 47</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1890; kriegsgef., Rußland.</note>
             </person>
             <person xml:id="vll.19160405_404.10726">
                <persName>
@@ -9623,18 +8859,6 @@
                </birth>
                <note>Pirano, 1887; kriegsef., Rußland.</note>
             </person>
-            <person xml:id="vll.19160405_404.14140">
-               <persName>
-                  <surname>Verbeč</surname>
-                  <forename>Franz</forename>
-               </persName>
-               <affiliation>ErsRes., IR. Nr. 97, 12. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1890; kriegsgef., Rußland.</note>
-            </person>
             <person xml:id="vll.19160405_404.15136">
                <persName>
                   <surname>Zgonik</surname>
@@ -9671,42 +8895,6 @@
                </birth>
                <note>Pirano, 1887; kriegsgef., Tschistopol, Gouvernement Kasan, Rußland.</note>
             </person>
-            <person xml:id="vll.19160417_409.8150">
-               <persName>
-                  <surname>Majlovati</surname>
-                  <forename>Armin</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 16, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1879; verw.</note>
-            </person>
-            <person xml:id="vll.19160417_409.10948">
-               <persName>
-                  <surname>Redjente</surname>
-                  <forename>August</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 16, 5. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>verw.</note>
-            </person>
-            <person xml:id="vll.19160417_409.12660">
-               <persName>
-                  <surname>Strukl</surname>
-                  <forename>Ivo</forename>
-               </persName>
-               <affiliation>EinjFreiw. Inft., IR. Nr. 16, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1879; verw.</note>
-            </person>
             <person xml:id="vll.19160417_409.13684">
                <persName>
                   <surname>Turko</surname>
@@ -9718,18 +8906,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>1892; verw.</note>
-            </person>
-            <person xml:id="vll.19160418_410.446">
-               <persName>
-                  <surname>Goldschmiedt</surname>
-                  <forename>Oskar</forename>
-               </persName>
-               <affiliation>Lt. i. d. Res., IR. Nr. 87</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887; kriegsgef., Kirsanov, Gouvernement Tambow, Rußland.</note>
             </person>
             <person xml:id="vll.19160418_410.4462">
                <persName>
@@ -9995,18 +9171,6 @@
                </birth>
                <note>Dolina; kriegsgef., Wetluga, Gouvernement Kostroma, Rußland.</note>
             </person>
-            <person xml:id="vll.19160525_424.472">
-               <persName>
-                  <surname>Horak</surname>
-                  <forename>Johaann</forename>
-               </persName>
-               <affiliation>Oblt., k. k. LIR. Nr. 27</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1885; kriegsgef., War kriegsgef. in Kirsanow, Rußland. Ist wieder eingerückt.)</note>
-            </person>
             <person xml:id="vll.19160525_424.1602">
                <persName>
                   <surname>Benvenuto</surname>
@@ -10042,18 +9206,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Ronche, 1883; kriegsgef., Orenburg, Rußland.</note>
-            </person>
-            <person xml:id="vll.19160525_424.2520">
-               <persName>
-                  <surname>Čeč</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>LstInft., k. k. LIR. Nr. 5, 3. ErsKomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; kriegsgef., Sawod, Gouvernement Kasan, Rußland.</note>
             </person>
             <person xml:id="vll.19160525_424.3180">
                <persName>
@@ -10199,18 +9351,6 @@
                </birth>
                <note>Muggia, 1891; verw., kriegsgef., Pawlowsk, Gouvernement Woronesh, Rußland.</note>
             </person>
-            <person xml:id="vll.19160525_424.9964">
-               <persName>
-                  <surname>Moscatelli</surname>
-                  <forename>Julius</forename>
-               </persName>
-               <affiliation>LstInft., k. k. LIR. Nr. 5, 3. ErsKomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1888; kriegsgef., Aschabad, Lager Ak Tepe, Gebiet Transkaspien, Rußland.</note>
-            </person>
             <person xml:id="vll.19160525_424.10008">
                <persName>
                   <surname>Moso</surname>
@@ -10222,30 +9362,6 @@
                   <region>Pirano</region>
                </birth>
                <note>1893; kriegsgef., Orenburg, Rußland.</note>
-            </person>
-            <person xml:id="vll.19160525_424.10936">
-               <persName>
-                  <surname>Orzan</surname>
-                  <forename>Franz</forename>
-               </persName>
-               <affiliation>LstInft., k. k. LIR. Nr. 5, 4. ErsKomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891; kriegsgef., Kirsanow, Gouvernement Tambow, Rußland.</note>
-            </person>
-            <person xml:id="vll.19160525_424.13942">
-               <persName>
-                  <surname>Stolfa</surname>
-                  <forename>Marzellus</forename>
-               </persName>
-               <affiliation>LstInft., k. k. LIR. Nr. 5, 3. ErsKomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; kriegsgef., Urshun, Gouvernement Wjatka, Rußland.</note>
             </person>
             <person xml:id="vll.19160525_424.16204">
                <persName>
@@ -10270,30 +9386,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Dolina, 1884; kriegsgef., Orenburg, Rußland.</note>
-            </person>
-            <person xml:id="vll.19160525_424.16818">
-               <persName>
-                  <surname>Zadnig</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <affiliation>LstInft., k. k. LIR. Nr. 5, 3. ErsKomp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; kriegsgef., Kirsanow, Gouvernement Tambow, Rußland.</note>
-            </person>
-            <person xml:id="vll.19160529_425.1598">
-               <persName>
-                  <surname>Bidussi</surname>
-                  <forename>Guido</forename>
-               </persName>
-               <affiliation>Inft., k. k. LIR. Nr. 3</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1897; kriegsgef., Birjutech, Gouvernement Woronesch, Rußland.</note>
             </person>
             <person xml:id="vll.19160529_425.4700">
                <persName>
@@ -10342,18 +9434,6 @@
                   <region>Tolmein</region>
                </birth>
                <note>Čez Soča, 1873; kriegsgef., Orvieto, Italien.</note>
-            </person>
-            <person xml:id="vll.19160529_425.16164">
-               <persName>
-                  <surname>Glaser</surname>
-                  <forename>Rudolf</forename>
-               </persName>
-               <affiliation>Oblt., k. k. LIR. Nr. 5, 6. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1882. (War kriegsgef. gemeldet, ist zu streichen.)</note>
             </person>
             <person xml:id="vll.19160531_426.5264">
                <persName>
@@ -10415,18 +9495,6 @@
                </birth>
                <note>Podgrad, 1889; verw.</note>
             </person>
-            <person xml:id="vll.19160605_428.398">
-               <persName>
-                  <surname>Bunzel</surname>
-                  <forename>Arnold</forename>
-               </persName>
-               <affiliation>Fähnr. i. d. Res., FJB. Nr. 8, 3. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893; verv.</note>
-            </person>
             <person xml:id="vll.19160605_428.5140">
                <persName>
                   <surname>Jerman</surname>
@@ -10474,18 +9542,6 @@
                   <region>Gradisca</region>
                </birth>
                <note>Moraro, 1876; kiiegsgef. (War kriegsgef. in Serbien; ist wieder eingerückt.)</note>
-            </person>
-            <person xml:id="vll.19160605_428.15682">
-               <persName>
-                  <surname>Caudotti</surname>
-                  <forename>Humbert</forename>
-               </persName>
-               <affiliation>ErsRes., IR. Nr. 47, 10. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887; tot (26./10. 1914).</note>
             </person>
             <person xml:id="vll.19160615_431.2400">
                <persName>
@@ -11147,18 +10203,6 @@
                </birth>
                <note>Dolina, 1895; tot (21./5.1916).</note>
             </person>
-            <person xml:id="vll.19160718_442.3666">
-               <persName>
-                  <surname>Grill</surname>
-                  <forename>Alajos</forename>
-               </persName>
-               <affiliation>Inft., k. u. LIR. Nr. 30, RegPionAbt.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1882; verw.</note>
-            </person>
             <person xml:id="vll.19160718_442.7252">
                <persName>
                   <surname>Mihalič</surname>
@@ -11386,18 +10430,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>1882; verw.</note>
-            </person>
-            <person xml:id="vll.19160729_446.10758">
-               <persName>
-                  <surname>Seljak</surname>
-                  <forename>Jözsef</forename>
-               </persName>
-               <affiliation>Inft., k. u. LIR. Nr. 27, zugeteilt dem k. u. LIR. Nr. 6, 9. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; verw.</note>
             </person>
             <person xml:id="vll.19160804_448.880">
                <persName>
@@ -12047,18 +11079,6 @@
                </birth>
                <note>Presnica, 1890; verw.</note>
             </person>
-            <person xml:id="vll.19160824_455.10860">
-               <persName>
-                  <surname>Spazzal</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <affiliation>Inft., IR. Nr. 97, zuget. dem k. k. LstB. Nr. 152, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895; verw.</note>
-            </person>
             <person xml:id="vll.19160824_455.11916">
                <persName>
                   <surname>Tamborlinl</surname>
@@ -12251,30 +11271,6 @@
                </birth>
                <note>1875; verw (Zweite Verw.)</note>
             </person>
-            <person xml:id="vll.19161003_472.852">
-               <persName>
-                  <surname>Sessa</surname>
-                  <forename>Richard</forename>
-               </persName>
-               <affiliation>Fähnr. i. d. Res., IR. Nr. 97, 6. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891; verw.</note>
-            </person>
-            <person xml:id="vll.19161005_473.434">
-               <persName>
-                  <surname>Hassek</surname>
-                  <forename>Peter von</forename>
-               </persName>
-               <affiliation>Fähnr. i. d. Res., IR. Nr. 97, 13. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; kriegsgef., Rußland.</note>
-            </person>
             <person xml:id="vll.19161005_473.1850">
                <persName>
                   <surname>Bordon</surname>
@@ -12347,18 +11343,6 @@
                </birth>
                <note>Capod, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19161007_474.5220">
-               <persName>
-                  <surname>Grisi</surname>
-                  <forename>Heinrich</forename>
-               </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 1, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1887; verw.</note>
-            </person>
             <person xml:id="vll.19161007_474.9010">
                <persName>
                   <surname>Krašovec</surname>
@@ -12370,18 +11354,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Dolina, 1884; tot (13./7.1916).</note>
-            </person>
-            <person xml:id="vll.19161010_475.10682">
-               <persName>
-                  <surname>Presednik</surname>
-                  <forename>Alois</forename>
-               </persName>
-               <affiliation>Infst., k. k. LIR. Nr. 28, 9. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1881; verw.</note>
             </person>
             <person xml:id="vll.19161014_477.944">
                <persName>
@@ -13199,18 +12171,6 @@
                </birth>
                <note>Barste, 1892; tot (17. /9. 1916).</note>
             </person>
-            <person xml:id="vll.19161113_489.490">
-               <persName>
-                  <surname>Camerle</surname>
-                  <forename>Raimund</forename>
-               </persName>
-               <affiliation>Oblt., IR. Nr. 6, 11. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1893; kriegsgef., Zarewokokschaisk, Kasan, Rußland,</note>
-            </person>
             <person xml:id="vll.19161116_490.11968">
                <persName>
                   <surname>Rosa</surname>
@@ -13271,18 +12231,6 @@
                </birth>
                <note>1878; verw.</note>
             </person>
-            <person xml:id="vll.19161214_502.650">
-               <persName>
-                  <surname>Riedl</surname>
-                  <forename>Eduard</forename>
-               </persName>
-               <affiliation>Hptm., IR. Nr. 66, 14. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1896; tot (1.-10./6. 1916).</note>
-            </person>
             <person xml:id="vll.19161216_503.10958">
                <persName>
                   <surname>Ogrin</surname>
@@ -13294,18 +12242,6 @@
                   <region>Slanice</region>
                </birth>
                <note>1896; verw.</note>
-            </person>
-            <person xml:id="vll.19161221_505.5408">
-               <persName>
-                  <surname>Jeric</surname>
-                  <forename>Enrico</forename>
-               </persName>
-               <affiliation>LstInfst., InfVerpflKol. Nr. 1/57</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1876; tot. (Beerdigt am 14./5. 1910 am Ortsfriedhofe zu Vigolo in Südtirol.)</note>
             </person>
             <person xml:id="vll.19161223_506.1824">
                <persName>
@@ -13714,42 +12650,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Isola, 1895; kriegsgef., Charkow, Rußland.</note>
-            </person>
-            <person xml:id="vll.19170403_547.3948">
-               <persName>
-                  <surname>Golmayer</surname>
-                  <forename>Ciprian</forename>
-               </persName>
-               <affiliation>InfstTitGefr., k. k. LstIR. Nr. 2, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891; verw.</note>
-            </person>
-            <person xml:id="vll.19170406_549.4758">
-               <persName>
-                  <surname>Gregorich</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <affiliation>Infst., IR. Nr. 65, 8. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1897; kriegsgef., Rußland.</note>
-            </person>
-            <person xml:id="vll.19170406_549.6198">
-               <persName>
-                  <surname>Kajnelli</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Infst., IR. Nr. 65, 8. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1894; kriegsgef., Rußland.</note>
             </person>
             <person xml:id="vll.19170411_552.4546">
                <persName>
@@ -15095,18 +13995,6 @@
                </birth>
                <note>1878; gefallen (1.-31./5.1917).</note>
             </person>
-            <person xml:id="vll.19170904_610.13278">
-               <persName>
-                  <surname>Vodopivec</surname>
-                  <forename>Franz</forename>
-               </persName>
-               <affiliation>LstJäg., FJB. Nr. 21, 2. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891; verw.</note>
-            </person>
             <person xml:id="vll.19171005_613.1776">
                <persName>
                   <surname>Antich</surname>
@@ -15250,18 +14138,6 @@
                   <region>Sesana</region>
                </birth>
                <note>Skope, 1882; verw.</note>
-            </person>
-            <person xml:id="vll.19171017_618.1630">
-               <persName>
-                  <surname>Bencina</surname>
-                  <forename>Nicolo</forename>
-               </persName>
-               <affiliation>Infst., IR. Nr. 92, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895; gefallen (4. /9.1917).</note>
             </person>
             <person xml:id="vll.19171017_618.1942">
                <persName>
@@ -16331,30 +15207,6 @@
                </birth>
                <note>Pirano, 18992; verw.</note>
             </person>
-            <person xml:id="vll.19180118_643.734">
-               <persName>
-                  <surname>Polli</surname>
-                  <forename>Peter Anton</forename>
-               </persName>
-               <affiliation>Kdt. i. d. Res., IR. Nr. 32</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1891; kriegsgef., Kirsanow, Gouvernement Tambow, Rußland.</note>
-            </person>
-            <person xml:id="vll.19180118_643.4028">
-               <persName>
-                  <surname>Geiča</surname>
-                  <forename>Anton</forename>
-               </persName>
-               <affiliation>Infst., IR. Nr. 47, MGKomp. II,</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>verw.</note>
-            </person>
             <person xml:id="vll.19180118_643.8826">
                <persName>
                   <surname>Michalitsch</surname>
@@ -16474,18 +15326,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pinquente, 1876; verw.</note>
-            </person>
-            <person xml:id="vll.19180124_645.14388">
-               <persName>
-                  <surname>Trevišon</surname>
-                  <forename>Jakob</forename>
-               </persName>
-               <affiliation>Jäg., rt. TJR. Nr. 3</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1875; gestorben (23./8. 1917).</note>
             </person>
             <person xml:id="v11.19180126_646.13170">
                <persName>
@@ -16883,18 +15723,6 @@
                </birth>
                <note>Buzet, 1889; verw.</note>
             </person>
-            <person xml:id="vll.19180313_659.1332">
-               <persName>
-                  <surname>Hvala</surname>
-                  <forename>Rudolf</forename>
-               </persName>
-               <affiliation>EinjFreiw., k. k. SchR. Nr. 5, 9. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1898; verw.</note>
-            </person>
             <person xml:id="vll.19180313_659.3410">
                <persName>
                   <surname>Czernelj</surname>
@@ -16930,18 +15758,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Decani, 1896; gefallen (25./11. 1917).</note>
-            </person>
-            <person xml:id="vll.19180313_659.7698">
-               <persName>
-                  <surname>Kovacs</surname>
-                  <forename>Joran</forename>
-               </persName>
-               <affiliation>Infst., IR. Nr. 45, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>Nabresiina, 1899; verw.</note>
             </person>
             <person xml:id="vll.19180313_659.12152">
                <persName>
@@ -17411,18 +16227,6 @@
                </birth>
                <note>Movraž, 1880; kriegsgef., Skobelew, Geb. Ferghana, Rußland.</note>
             </person>
-            <person xml:id="vll.19180323_662.15678">
-               <persName>
-                  <surname>Tabouret</surname>
-                  <forename>Arrigo</forename>
-               </persName>
-               <affiliation>Feldw., k. k. SchR. Nr. 5</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1896; verw., kriegsgef, VerEvSpit. Nr. 83 in Charkow, Rußland.</note>
-            </person>
             <person xml:id="vll.19180323_662.16084">
                <persName>
                   <surname>Tuliak</surname>
@@ -17446,30 +16250,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Socerga, 1872; gestorben (9./12. 1917).</note>
-            </person>
-            <person xml:id="vll.19180323_662.16362">
-               <persName>
-                  <surname>Verčon</surname>
-                  <forename>Giuseppe</forename>
-               </persName>
-               <affiliation>ErsResSchütze, k. k. SchR. Nr. 5</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1875; kriegsgef., Asinara, Italien.</note>
-            </person>
-            <person xml:id="vll.19180323_662.17182">
-               <persName>
-                  <surname>Znidersich</surname>
-                  <forename>Giuseppe</forename>
-               </persName>
-               <affiliation>ErsResSchütze, k. k. SchR. Nr. 5</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1879; kriegsgef., Schazk, Gouvernement Tambow.</note>
             </person>
             <person xml:id="vll.19180323_662.17222">
                <persName>
@@ -17518,18 +16298,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pirano, 1860; gestorben (19./12. 1917).</note>
-            </person>
-            <person xml:id="vll.19180330_664.2282">
-               <persName>
-                  <surname>Blaseo</surname>
-                  <forename>Josef des Mate</forename>
-               </persName>
-               <affiliation>LstInfst., IR. Nr. 22, l. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1882; verw.</note>
             </person>
             <person xml:id="vll.19180330_664.5128">
                <persName>
@@ -17807,18 +16575,6 @@
                </birth>
                <note>Salvore, 1887; kriegsgef. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19180424_669.2840">
-               <persName>
-                  <surname>Combi</surname>
-                  <forename>Romeo</forename>
-               </persName>
-               <affiliation>LstSchütze, k. k. SchK. Nr. 22, 3. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1878. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
-            </person>
             <person xml:id="vll.19180424_669.5516">
                <persName>
                   <surname>Hrelja</surname>
@@ -17902,18 +16658,6 @@
                   <region>Muggia</region>
                </birth>
                <note>Capodistria, 1891; kriegsgef. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
-            </person>
-            <person xml:id="vll.19180429_670.4868">
-               <persName>
-                  <surname>Gropaje</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Korp., k. k, SchR. Nr. 5, 1. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1883. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
             </person>
             <person xml:id="vll.19180429_670.7978">
                <persName>
@@ -18791,18 +17535,6 @@
                </birth>
                <note>1899; gefallen (24.9.1917)</note>
             </person>
-            <person xml:id="vll.19180814_691.646">
-               <persName>
-                  <surname>Ebner</surname>
-                  <forename>v. Ebental Oskar</forename>
-               </persName>
-               <affiliation>Lt. i. d. Res., IR. Nr. 97</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1892. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</note>
-            </person>
             <person xml:id="vll.19180814_691.2128">
                <persName>
                   <surname>Babic</surname>
@@ -19139,18 +17871,6 @@
                </birth>
                <note>Pinguente, 1887; kriegsgef, (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
-            <person xml:id="vll.19181002_696.13720">
-               <persName>
-                  <surname>Skilan</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <affiliation>Korp.TitZugsf., S. M. S. Franz Josef I, KMar.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1874; kriegsgef. (War kriegsgef. Im Aus Austauschwege zurückgekehrt.)</note>
-            </person>
             <person xml:id="vll.19181002_696.15028">
                <persName>
                   <surname>Tiepolo</surname>
@@ -19162,17 +17882,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Maggia, 1895; gestorben (24.6.1918)</note>
-            </person>
-            <person xml:id="vll.19181005_697.5104">
-               <persName>
-                  <surname>Derosa</surname>
-                  <forename>Colombo</forename>
-               </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 26</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
             </person>
             <person xml:id="vll.19181005_697.6236">
                <persName>
@@ -19257,18 +17966,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pinguente, 1892; gestorben (12./4. 1918).</note>
-            </person>
-            <person xml:id="vll.19181011_698.13672">
-               <persName>
-                  <surname>Pressel</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <affiliation>Infst., IR. Nr. 97, 9. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1895; (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
             </person>
             <person xml:id="vll.19181011_698.13780">
                <persName>
@@ -19473,18 +18170,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Muggia, 1893; kriegsgef., Viterbo, Italien.</note>
-            </person>
-            <person xml:id="vll.19181105_700.15336">
-               <persName>
-                  <surname>Spangler</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 23</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1898; gestorben (13./7. 1918).</note>
             </person>
             <person xml:id="vll.19181105_700.15666">
                <persName>
@@ -19750,18 +18435,6 @@
                </birth>
                <note>Maresego, 1888; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt</note>
             </person>
-            <person xml:id="vll.19190103_707.15978">
-               <persName>
-                  <surname>Tretjak</surname>
-                  <forename>Franz</forename>
-               </persName>
-               <affiliation>ResSchütze, k. k. SchR. Nr. 3, MGKomp. III</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>st. Croce, 1888; gefallen (4./8, 1918.)</note>
-            </person>
             <person xml:id="vll.19190103_707.16226">
                <persName>
                   <surname>Valencic</surname>
@@ -19809,18 +18482,6 @@
                   <region>Capodistria</region>
                </birth>
                <note>Pirano, 1882; kriegsgef. (War kiiegsgef. In Austauschwege zurückgekehrt.</note>
-            </person>
-            <person xml:id="vll.19190129_708.2796">
-               <persName>
-                  <surname>Bencic</surname>
-                  <forename>Johann</forename>
-               </persName>
-               <affiliation>LstInfst., k. k. LstlnfBaon. Nr. 151, 4. Komp.</affiliation>
-               <birth>
-                  <country>Istrien</country>
-                  <region>Triest</region>
-               </birth>
-               <note>1876; gefallen (20./9. 1918).</note>
             </person>
             <person xml:id="vll.19190129_708.8798">
                <persName>
