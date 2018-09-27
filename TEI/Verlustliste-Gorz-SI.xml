@@ -33,7 +33,8 @@
             <person xml:id="vll.19151224_342.8436">
                <persName>
                   <surname>Scuka</surname>
-                  <forename>Jos. Anton</forename>
+                  <forename>Jos.</forename>
+                  <forename>Anton</forename>
                </persName>
                <affiliation>Ldsch., LdschR. Nr. III, 14. Komp.</affiliation>
                <birth>
@@ -897,7 +898,8 @@
             <person xml:id="vll.19171220_637.464">
                <persName>
                   <surname>Galateo</surname>
-                  <forename>Edl. v. Gallinarič August</forename>
+                  <roleName>Edl. v. Gallinarič</roleName>
+                  <forename>August</forename>
                </persName>
                <affiliation>GenStbsHptm., k. k. GebBrigKmdo. Nr. 25</affiliation>
                <birth>
@@ -957,7 +959,8 @@
             <person xml:id="vll.19171222_638.11994">
                <persName>
                   <surname>Rahmanovič</surname>
-                  <forename>Gacanin Hajdar</forename>
+                  <forename>Gacanin</forename>
+                  <forename>Hajdar</forename>
                </persName>
                <affiliation>LstInfst., bh. IR. Nr. 1</affiliation>
                <birth>
@@ -2000,8 +2003,10 @@
             </person>
             <person xml:id="vll.19180415_667.19996">
                <persName>
-                  <surname>Nr.</surname>
-                  <forename>558. Bartels v. Bartherg Arthur Ritter</forename>
+                  <surname>Bartels</surname>
+                  <roleName>v. Bartherg</roleName>
+                  <forename>Arthur</forename>
+                  <roleName>Ritter</roleName>
                </persName>
                <affiliation>Hptm., IR. Nr. 49</affiliation>
                <birth>
@@ -2444,8 +2449,8 @@
             </person>
             <person xml:id="vll.19180527_675.17534">
                <persName>
-                  <surname>Nr.</surname>
-                  <forename>611. Bratina statt Bratma Andreas</forename>
+                  <surname>Bratina statt Bratma</surname>
+                  <forename>Andreas</forename>
                </persName>
                <affiliation>Infst. statt Gefr., IR. Nr. 27</affiliation>
                <birth>
@@ -3129,9 +3134,9 @@
             <person xml:id="vll.19180723_687.7346">
                <persName>
                   <surname>Losar</surname>
-                  <forename>Franz. Schütze</forename>
+                  <forename>Franz</forename>
                </persName>
-               <affiliation>k. k. SchR. Nr. 27, 3. Komp.</affiliation>
+               <affiliation>Schütze, k. k. SchR. Nr. 27, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3873,9 +3878,9 @@
             <person xml:id="vll.19181005_697.11676">
                <persName>
                   <surname>Pipan</surname>
-                  <forename>Stefan. LstZugsf.</forename>
+                  <forename>Stefan</forename>
                </persName>
-               <affiliation>FJB. Nr. 20, 3. Komp.</affiliation>
+               <affiliation>LstZugsf., FJB. Nr. 20, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -3885,7 +3890,7 @@
             <person xml:id="vll.19181011_698.5550">
                <persName>
                   <surname>Figelj</surname>
-                  <forename>josef</forename>
+                  <forename>Josef</forename>
                </persName>
                <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
                <birth>
@@ -4353,9 +4358,9 @@
             <person xml:id="vll.19181126_702.13354">
                <persName>
                   <surname>Rihawetz</surname>
-                  <forename>Franz. Infst.</forename>
+                  <forename>Franz</forename>
                </persName>
-               <affiliation>IR. Nr. 97</affiliation>
+               <affiliation>Infst., IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4365,9 +4370,9 @@
             <person xml:id="vll.19181126_702.14888">
                <persName>
                   <surname>Sorgics</surname>
-                  <forename>Vinzenz. Infst.</forename>
+                  <forename>Vinzenz</forename>
                </persName>
-               <affiliation>IR. Nr. 97, zugeteilt dem VerpflMag. Wien</affiliation>
+               <affiliation>Infst., IR. Nr. 97, zugeteilt dem VerpflMag. Wien</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4496,8 +4501,9 @@
             </person>
             <person xml:id="vll.19181219_705.526">
                <persName>
-                  <surname>Graf</surname>
-                  <forename>Coronini-Cronberg Alexander</forename>
+                  <roleName>Graf</roleName>
+                  <surname>Coronini-Cronberg</surname>
+                  <forename>Alexander</forename>
                </persName>
                <affiliation>Fähnr. i. d. Res. DR. Nr. 4, 5i Schwd.</affiliation>
                <birth>
@@ -4509,9 +4515,9 @@
             <person xml:id="vll.19181219_705.2030">
                <persName>
                   <surname>Batistic</surname>
-                  <forename>Karol Infst.</forename>
+                  <forename>Karol</forename>
                </persName>
-               <affiliation>IR. Nr. 97.</affiliation>
+               <affiliation>Infst., IR. Nr. 97.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4557,9 +4563,9 @@
             <person xml:id="vll.19181219_705.11842">
                <persName>
                   <surname>Pahor</surname>
-                  <forename>Josef. Schütze</forename>
+                  <forename>Josef</forename>
                </persName>
-               <affiliation>k. k. SchR. Nr. 6</affiliation>
+               <affiliation>Schütze, k. k. SchR. Nr. 6</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
