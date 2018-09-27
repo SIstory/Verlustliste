@@ -36,7 +36,8 @@
                   <forename>Jos.</forename>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. III, 14. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. III, 14. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -48,7 +49,8 @@
                   <surname>Pirich</surname>
                   <forename>Andr.</forename>
                </persName>
-               <affiliation>Ldsch., k. k. LdschB. Nr. I, 1. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>k. k. LdschB. Nr. I, 1. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Tolmein</region>
@@ -60,7 +62,8 @@
                   <surname>Sulic</surname>
                   <forename>Andrej</forename>
                </persName>
-               <affiliation>Ldsch., k. k. LdschR. Nr. I, 11. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>k. k. LdschR. Nr. I, 11. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -72,7 +75,8 @@
                   <surname>Hoban</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Vorm., FstAB. Nr. 6</affiliation>
+               <socecStatus>Vorm.</socecStatus>
+               <affiliation>FstAB. Nr. 6</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -84,7 +88,8 @@
                   <surname>Ferdin</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>Inft., k. k. LIR. Nr. 27, zugeteilt dem k. k. LstB. Nr. 30, 2. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, zugeteilt dem k. k. LstB. Nr. 30, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Heidenschaft</region>
@@ -96,7 +101,8 @@
                   <surname>Perlot</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>LstInft., IR. Nr. 58</affiliation>
+               <socecStatus>LstInft.</socecStatus>
+               <affiliation>IR. Nr. 58</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Sesana</region>
@@ -108,7 +114,8 @@
                   <surname>Pachor</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 1. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Grädisca</country>
                   <region>Sesana</region>
@@ -120,7 +127,8 @@
                   <surname>Pelikan</surname>
                   <forename>Benedikt</forename>
                </persName>
-               <affiliation>Inft., k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -132,7 +140,8 @@
                   <surname>Suligoi</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. II, StabPionAbt.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. II, StabPionAbt.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -144,7 +153,8 @@
                   <surname>Hrwat</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstLdsch., LdschR. Nr. II, zugeteilt dem LdschR. Nr. III, 19. Komp.</affiliation>
+               <socecStatus>LstLdsch.</socecStatus>
+               <affiliation>LdschR. Nr. II, zugeteilt dem LdschR. Nr. III, 19. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -156,7 +166,8 @@
                   <surname>Samsa</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstLdsch., LdschR. Nr. II, zugeteiit dom LdschR. Nr. III, 19. Komp.</affiliation>
+               <socecStatus>LstLdsch.</socecStatus>
+               <affiliation>LdschR. Nr. II, zugeteiit dom LdschR. Nr. III, 19. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Sesana</region>
@@ -168,7 +179,8 @@
                   <surname>Spancic</surname>
                   <forename>Ferinand</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. III, 18. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. III, 18. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -180,7 +192,8 @@
                   <surname>Zonta</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstLdsch., LdschR. Nr. IlI, 18. Komp.</affiliation>
+               <socecStatus>LstLdsch.</socecStatus>
+               <affiliation>LdschR. Nr. IlI, 18. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -192,7 +205,8 @@
                   <surname>Badalic</surname>
                   <forename>Johanh</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. III, 17. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. III, 17. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -204,7 +218,8 @@
                   <surname>Lužnik</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 3. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -216,7 +231,8 @@
                   <surname>Seculin</surname>
                   <forename>Arthuro</forename>
                </persName>
-               <affiliation>Inft., k. k. LIR. Nr. 27, zugeteilt dem FJB. Nr. 29</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, zugeteilt dem FJB. Nr. 29</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -228,7 +244,8 @@
                   <surname>Bratina</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 10. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 10. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -240,7 +257,8 @@
                   <surname>Brezawczek</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 10. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 10. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
@@ -252,7 +270,8 @@
                   <surname>Kaucic</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Jäg., TJR. Nr. 2, 16. Komp.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>TJR. Nr. 2, 16. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -264,7 +283,8 @@
                   <surname>Krajnz</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. 1, 1. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. 1, 1. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Tolmein</region>
@@ -276,7 +296,8 @@
                   <surname>Borstnik</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 9. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 9. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Gorz</region>
@@ -288,7 +309,8 @@
                   <surname>Krt</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. II, 13. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. II, 13. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -300,7 +322,8 @@
                   <surname>Michelotti</surname>
                   <forename>Cornelius</forename>
                </persName>
-               <affiliation>KorpTitZugsf., Tir. LstIB. Nr. 2</affiliation>
+               <socecStatus>KorpTitZugsf.</socecStatus>
+               <affiliation>Tir. LstIB. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -312,7 +335,8 @@
                   <surname>Starz</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LIR. Nr. 2, 7. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 2, 7. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Komen</region>
@@ -324,7 +348,8 @@
                   <surname>Zaccon</surname>
                   <forename>Konrad</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LIR. Nr. 13, 14. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 13, 14. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -336,7 +361,8 @@
                   <surname>Pausič</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., k. k. LIR. Nr. 82, 8. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 82, 8. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -348,7 +374,8 @@
                   <surname>Gorianz</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 9. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 9. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Deskla</region>
@@ -360,7 +387,8 @@
                   <surname>Maraz</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>Zugsf., k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -372,7 +400,8 @@
                   <surname>Pelicon</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>Infst., k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -384,7 +413,8 @@
                   <surname>Jazbec</surname>
                   <forename>August</forename>
                </persName>
-               <affiliation>Josef, IR. Nr. 58</affiliation>
+               <socecStatus>Josef</socecStatus>
+               <affiliation>IR. Nr. 58</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -396,7 +426,8 @@
                   <surname>Valentinci</surname>
                   <forename>Antal</forename>
                </persName>
-               <affiliation>FeldwKdtAsp,, k. u. LIR. Nr. 20, 4. Komp.</affiliation>
+               <socecStatus>FeldwKdtAsp</socecStatus>
+               <affiliation>, k. u. LIR. Nr. 20, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -408,7 +439,8 @@
                   <surname>Presen</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 47, zugeteilt dem k. k. LIR. Nr. 24, 2. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 47, zugeteilt dem k. k. LIR. Nr. 24, 2. Komp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Auzze</region>
@@ -420,7 +452,8 @@
                   <surname>Brumart</surname>
                   <forename>Jakob</forename>
                </persName>
-               <affiliation>Ldsch., LdschR. Nr. I, 11. Komp.</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. I, 11. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -432,7 +465,8 @@
                   <surname>Leban</surname>
                   <forename>Martin</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIB. Nr. 99</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIB. Nr. 99</affiliation>
                <birth>
                   <country>Görz und Gradiška</country>
                   <region>Tolmein</region>
@@ -444,7 +478,8 @@
                   <surname>Ussei</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 26, 1. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 26, 1. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -456,7 +491,8 @@
                   <surname>Byteznik</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>LstInfst, IR. Nr. 55, 3. ErsKomp.</affiliation>
+               <socecStatus>LstInfst</socecStatus>
+               <affiliation>IR. Nr. 55, 3. ErsKomp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Bata</region>
@@ -468,7 +504,8 @@
                   <surname>Kogoj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, KaisSchR. Nr. I, 1. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>KaisSchR. Nr. I, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -480,7 +517,8 @@
                   <surname>Petani</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 100, 4. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 100, 4. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -492,7 +530,8 @@
                   <surname>Klaric</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 2, 10. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 2, 10. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -504,7 +543,8 @@
                   <surname>Madon</surname>
                   <forename>Valentin</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstEtpB. Nr. 418, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstEtpB. Nr. 418, 3. Komp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Bate</region>
@@ -516,7 +556,8 @@
                   <surname>Rijavec</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstEtpB. Nr. 418, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstEtpB. Nr. 418, 3. Komp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Ozeljan</region>
@@ -528,7 +569,8 @@
                   <surname>Faletič</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Korp., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 10. Komp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 17, 10. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -540,7 +582,8 @@
                   <surname>Promozič</surname>
                   <forename>Jakob</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 7. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 7. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -552,7 +595,8 @@
                   <surname>Böllinger</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 17, zugeteilt denn k. u. k. FKR. Nr. 6, 12. Komp., zugeteilt der MinenwerfBatt. 6</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 17, zugeteilt denn k. u. k. FKR. Nr. 6, 12. Komp., zugeteilt der MinenwerfBatt. 6</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -564,7 +608,8 @@
                   <surname>Saksida</surname>
                   <forename>Cyrill</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 12. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 12. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -576,7 +621,8 @@
                   <surname>Arčon</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSapp., SappB. Nr. 4, 3. Komp.</affiliation>
+               <socecStatus>LstSapp.</socecStatus>
+               <affiliation>SappB. Nr. 4, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -588,7 +634,8 @@
                   <surname>Visintin</surname>
                   <forename>Alexander</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 6, 4. Komp.</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 6, 4. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -600,7 +647,8 @@
                   <surname>Gregorič</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, 4. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, 4. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -612,7 +660,8 @@
                   <surname>Humar</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, 15. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, 15. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -624,7 +673,8 @@
                   <surname>Belinger</surname>
                   <forename>Jakob</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u Gradiska</country>
                   <region>Görz</region>
@@ -636,7 +686,8 @@
                   <surname>Bisalij</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz Gradisca</country>
                   <region>Tolmein</region>
@@ -648,7 +699,8 @@
                   <surname>Fagauel</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -660,7 +712,8 @@
                   <surname>Gaberšek</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 27, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 27, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -672,7 +725,8 @@
                   <surname>Golja</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Tolmein</region>
@@ -684,7 +738,8 @@
                   <surname>Kavčič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, ErsKomp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, ErsKomp.</affiliation>
                <birth>
                   <country>Görz Gradiska</country>
                   <region>Tolmein</region>
@@ -696,7 +751,8 @@
                   <surname>Klajnicek</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, ErsKomp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, ErsKomp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -708,7 +764,8 @@
                   <surname>Krasna</surname>
                   <forename>Pasqual</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, ErsKomp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, ErsKomp.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
@@ -720,7 +777,8 @@
                   <surname>Petelin</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
@@ -732,7 +790,8 @@
                   <surname>Piccinin</surname>
                   <forename>Eduard</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
@@ -744,7 +803,8 @@
                   <surname>Primozič</surname>
                   <forename>Benedikt</forename>
                </persName>
-               <affiliation>LstJäg., FJB. Nr. 7, 3. Komp.</affiliation>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>FJB. Nr. 7, 3. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -756,7 +816,8 @@
                   <surname>Arčon</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSapp., SappB. Nr. 3, 4. Komp.</affiliation>
+               <socecStatus>LstSapp.</socecStatus>
+               <affiliation>SappB. Nr. 3, 4. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
@@ -768,7 +829,8 @@
                   <surname>Faschin</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, 1. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -780,7 +842,8 @@
                   <surname>Rosič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst, IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz Gradiska</country>
                   <region>Görz</region>
@@ -792,7 +855,8 @@
                   <surname>Sustersic</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. II, 10. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. II, 10. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -804,7 +868,8 @@
                   <surname>Wultsch</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FKR. Nr. 28, MinenwerferBatt. 6</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FKR. Nr. 28, MinenwerferBatt. 6</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Tolmein</region>
@@ -816,7 +881,8 @@
                   <surname>Zučič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -828,7 +894,8 @@
                   <surname>Bensa</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>ResZugsf., IR. Nr. 95, 14. Komp.</affiliation>
+               <socecStatus>ResZugsf.</socecStatus>
+               <affiliation>IR. Nr. 95, 14. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -840,7 +907,8 @@
                   <surname>Lozar</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstIB. Nr. 155, 4. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstIB. Nr. 155, 4. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -852,7 +920,8 @@
                   <surname>Stražišer</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>ResDrag., DR. Nr. 5, 6. Schwd.</affiliation>
+               <socecStatus>ResDrag.</socecStatus>
+               <affiliation>DR. Nr. 5, 6. Schwd.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Sezana</region>
@@ -876,7 +945,8 @@
                   <surname>Belle</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstEtappB. Nr. 418, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstEtappB. Nr. 418, 3. Komp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Vogrsko</region>
@@ -888,7 +958,8 @@
                   <surname>Susmelj</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>ErsResKan., k. u. k. FstAR. Nr. 4, 15cm KanBatt. Nr. 9</affiliation>
+               <socecStatus>ErsResKan.</socecStatus>
+               <affiliation>k. u. k. FstAR. Nr. 4, 15cm KanBatt. Nr. 9</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -901,7 +972,8 @@
                   <roleName>Edl. v. Gallinarič</roleName>
                   <forename>August</forename>
                </persName>
-               <affiliation>GenStbsHptm., k. k. GebBrigKmdo. Nr. 25</affiliation>
+               <socecStatus>GenStbsHptm.</socecStatus>
+               <affiliation>k. k. GebBrigKmdo. Nr. 25</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -913,7 +985,8 @@
                   <surname>Hvala</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -925,7 +998,8 @@
                   <surname>Krapez</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>Unterjäg., FJB. Nr. 20</affiliation>
+               <socecStatus>Unterjäg.</socecStatus>
+               <affiliation>FJB. Nr. 20</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -937,7 +1011,8 @@
                   <surname>Eebula</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Sapp., Gesteinbohr-Lehr-ErsB. Wien. XXI.</affiliation>
+               <socecStatus>Sapp.</socecStatus>
+               <affiliation>Gesteinbohr-Lehr-ErsB. Wien. XXI.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -949,7 +1024,8 @@
                   <surname>Podgorink</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -962,7 +1038,8 @@
                   <forename>Gacanin</forename>
                   <forename>Hajdar</forename>
                </persName>
-               <affiliation>LstInfst., bh. IR. Nr. 1</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>bh. IR. Nr. 1</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -974,7 +1051,8 @@
                   <surname>Rett</surname>
                   <forename>Jakob</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Gradisca</country>
                   <region>Görz</region>
@@ -986,7 +1064,8 @@
                   <surname>Tkaczuk</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>Kan., k. u. k. GAR. Nr. 25</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. GAR. Nr. 25</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -998,7 +1077,8 @@
                   <surname>Tortul</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Gradisca</country>
                   <region>Görz</region>
@@ -1010,7 +1090,8 @@
                   <surname>Trost</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, zugeteilt dem IR. Nr. 100</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 100</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -1022,7 +1103,8 @@
                   <surname>Kalin</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1034,7 +1116,8 @@
                   <surname>Dzeryn</surname>
                   <forename>Paul</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 23, 8. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 23, 8. Komp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Heiligenkreis</region>
@@ -1046,7 +1129,8 @@
                   <surname>Piculin</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Sapp., SappB. Nr. 3</affiliation>
+               <socecStatus>Sapp.</socecStatus>
+               <affiliation>SappB. Nr. 3</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1058,7 +1142,8 @@
                   <surname>Podhornik</surname>
                   <forename>Justin</forename>
                </persName>
-               <affiliation>ResInfst., IR, Nr. 7, 13. Komp,</affiliation>
+               <socecStatus>ResInfst.</socecStatus>
+               <affiliation>IR, Nr. 7, 13. Komp,</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Cepowan</region>
@@ -1070,7 +1155,8 @@
                   <surname>Podhornik</surname>
                   <forename>Justin</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 7, 13. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 7, 13. Komp.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Čepovan</region>
@@ -1082,7 +1168,8 @@
                   <surname>Cusia</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 4</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 4</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1094,7 +1181,8 @@
                   <surname>Leban</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 9. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 9. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1106,7 +1194,8 @@
                   <surname>Struckel</surname>
                   <forename>Michael</forename>
                </persName>
-               <affiliation>LstKan., k. u. k. schw. FAR. Nr. 28</affiliation>
+               <socecStatus>LstKan.</socecStatus>
+               <affiliation>k. u. k. schw. FAR. Nr. 28</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1118,7 +1207,8 @@
                   <surname>Bespet</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Kan., schw. FAR. Nr. 28</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>schw. FAR. Nr. 28</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Tolmein</region>
@@ -1130,7 +1220,8 @@
                   <surname>Braz</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Jäg., FJBaon. Nr. 20</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJBaon. Nr. 20</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1142,7 +1233,8 @@
                   <surname>Cernigoj</surname>
                   <forename>August</forename>
                </persName>
-               <affiliation>LstSchütze, k. k GSchR. Nr. 2, IR. Nr. 91</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k GSchR. Nr. 2, IR. Nr. 91</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1154,7 +1246,8 @@
                   <surname>Klobucar</surname>
                   <forename>Mathias</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1166,7 +1259,8 @@
                   <surname>Kulot</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1178,7 +1272,8 @@
                   <surname>Kutin</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FsAR. Nr. 4</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FsAR. Nr. 4</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1190,7 +1285,8 @@
                   <surname>Lapajne</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1202,7 +1298,8 @@
                   <surname>Marusec</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 22, 1. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1214,7 +1311,8 @@
                   <surname>Rebula</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -1226,7 +1324,8 @@
                   <surname>Samec</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1238,7 +1337,8 @@
                   <surname>Skaber</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
@@ -1250,7 +1350,8 @@
                   <surname>Slokar</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>I Intst., IR. Nr. 97, 14. Komp.</affiliation>
+               <socecStatus>I Intst.</socecStatus>
+               <affiliation>IR. Nr. 97, 14. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1262,7 +1363,8 @@
                   <surname>Cibey</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Luftschiffersold., Luftfahrtruppe, Fliegerarsenal Fischamend</affiliation>
+               <socecStatus>Luftschiffersold.</socecStatus>
+               <affiliation>Luftfahrtruppe, Fliegerarsenal Fischamend</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -1274,7 +1376,8 @@
                   <surname>Urdik</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1286,7 +1389,8 @@
                   <surname>Yiseiitln</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 8</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 8</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1298,7 +1402,8 @@
                   <surname>Arčon</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSapp., SappB. Nr. 3 statt SappB. Nr. 4, 3. Komp.</affiliation>
+               <socecStatus>LstSapp.</socecStatus>
+               <affiliation>SappB. Nr. 3 statt SappB. Nr. 4, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1310,7 +1415,8 @@
                   <surname>Culot</surname>
                   <forename>Eugen</forename>
                </persName>
-               <affiliation>Korp., k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1322,7 +1428,8 @@
                   <surname>Macnik</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Vizewachtm., k. k. LandGendKmdo. Nr. 7</affiliation>
+               <socecStatus>Vizewachtm.</socecStatus>
+               <affiliation>k. k. LandGendKmdo. Nr. 7</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Tolmein</region>
@@ -1334,7 +1441,8 @@
                   <surname>Vidmar</surname>
                   <forename>Engelbert</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstArbAbt Nr. 202</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstArbAbt Nr. 202</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz. Dol. Otlica</region>
@@ -1346,7 +1454,8 @@
                   <surname>Mocnik</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 27, 5. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27, 5. Komp.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
@@ -1358,7 +1467,8 @@
                   <surname>Pelernelj</surname>
                   <forename>Martin</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIB. Nr. 155</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIB. Nr. 155</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -1370,7 +1480,8 @@
                   <surname>Svara</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
@@ -1382,7 +1493,8 @@
                   <surname>Homar</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIB. Nr. 153/4</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIB. Nr. 153/4</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1394,7 +1506,8 @@
                   <surname>Humar</surname>
                   <forename>Sändor</forename>
                </persName>
-               <affiliation>Korp., k. k. LdsGendKmdo. Nr. 7</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. LdsGendKmdo. Nr. 7</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1406,7 +1519,8 @@
                   <surname>Hummer</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Korp., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Gargora</region>
@@ -1418,7 +1532,8 @@
                   <surname>Speranza</surname>
                   <forename>Valentin</forename>
                </persName>
-               <affiliation>LstInfst., k. u. k. MGKomp. 3/5</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. u. k. MGKomp. 3/5</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1430,7 +1545,8 @@
                   <surname>Žvogar</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Trainsold., TrainB. Nr. 3</affiliation>
+               <socecStatus>Trainsold.</socecStatus>
+               <affiliation>TrainB. Nr. 3</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Sesana</region>
@@ -1442,7 +1558,8 @@
                   <surname>Jazbec</surname>
                   <forename>David</forename>
                </persName>
-               <affiliation>Zugsf., IR. Nr. 97</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Sesana</region>
@@ -1454,7 +1571,8 @@
                   <surname>Kenda</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 27</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Ponikwe</region>
@@ -1466,7 +1584,8 @@
                   <surname>Pinter</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1478,7 +1597,8 @@
                   <surname>Gulic</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>ErsResSchütze, IR. Nr. 47, zugeteilt dem k. k, SchR. Nr. 24, 4. Komp.</affiliation>
+               <socecStatus>ErsResSchütze</socecStatus>
+               <affiliation>IR. Nr. 47, zugeteilt dem k. k, SchR. Nr. 24, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1490,7 +1610,8 @@
                   <surname>Sila</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 87</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 87</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -1502,7 +1623,8 @@
                   <surname>Zorn</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -1514,7 +1636,8 @@
                   <surname>Gerbič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, zugeteilt denm k. k. KSchR. Nr. I</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt denm k. k. KSchR. Nr. I</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -1526,7 +1649,8 @@
                   <surname>Petrovčič</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr. 20, StbsUntAbt.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, StbsUntAbt.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1538,7 +1662,8 @@
                   <surname>Skubin</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>ErsResJäg., FJB. Nr. 20, MGKomp.</affiliation>
+               <socecStatus>ErsResJäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, MGKomp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1550,7 +1675,8 @@
                   <surname>Švara</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 7, 19. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 7, 19. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1562,7 +1688,8 @@
                   <surname>Švara</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>Infst , IR. Nr 7, 19. Komp.</affiliation>
+               <socecStatus>Infst </socecStatus>
+               <affiliation>IR. Nr 7, 19. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1574,7 +1701,8 @@
                   <surname>Krapež</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>GendTitWachtm., k. k. GendKorp. für Bosnien u. Hercegovina, zugeteilt dom Kreisfeldgendkmdo. in Kolašin, 6. Gendarmerieflügel in Mostar</affiliation>
+               <socecStatus>GendTitWachtm.</socecStatus>
+               <affiliation>k. k. GendKorp. für Bosnien u. Hercegovina, zugeteilt dom Kreisfeldgendkmdo. in Kolašin, 6. Gendarmerieflügel in Mostar</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -1586,7 +1714,8 @@
                   <surname>Makuč</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstRadfErsBaon.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstRadfErsBaon.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
@@ -1598,7 +1727,8 @@
                   <surname>Rauder</surname>
                   <forename>Max</forename>
                </persName>
-               <affiliation>Oblt., k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>Oblt.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -1610,7 +1740,8 @@
                   <surname>Kjuder</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Patrf., k. k. KSchR. Nr. II, MGKomp. II</affiliation>
+               <socecStatus>Patrf.</socecStatus>
+               <affiliation>k. k. KSchR. Nr. II, MGKomp. II</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sezana</region>
@@ -1622,7 +1753,8 @@
                   <surname>Drašček</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Zugsf., k. k. FstAR. Nr. 5</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>k. k. FstAR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -1634,7 +1766,8 @@
                   <surname>Jereb</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1646,7 +1779,8 @@
                   <surname>Perdih</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Pion., PionB. Nr. 3, 1. Marschkomp.</affiliation>
+               <socecStatus>Pion.</socecStatus>
+               <affiliation>PionB. Nr. 3, 1. Marschkomp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmin</region>
@@ -1658,7 +1792,8 @@
                   <surname>Hvalič</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -1670,7 +1805,8 @@
                   <surname>Konič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Offiziersstellvertreter, bh. IR. Nr. 3</affiliation>
+               <socecStatus>Offiziersstellvertreter</socecStatus>
+               <affiliation>bh. IR. Nr. 3</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -1682,7 +1818,8 @@
                   <surname>Rakusček</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Jäger, k. k. HochgebKomp. 11, zugeteilt dem TJR. Nr. 4, 4. Komp.</affiliation>
+               <socecStatus>Jäger</socecStatus>
+               <affiliation>k. k. HochgebKomp. 11, zugeteilt dem TJR. Nr. 4, 4. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -1694,7 +1831,8 @@
                   <surname>Rutar</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Korp., k. k. HochgebKomp. Nr. 11, zugeteilt dem TJR. Nr. 4, 4. Komp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. HochgebKomp. Nr. 11, zugeteilt dem TJR. Nr. 4, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1706,7 +1844,8 @@
                   <surname>Velisek</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Görz</region>
@@ -1718,7 +1857,8 @@
                   <surname>Vodopivec</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1730,7 +1870,8 @@
                   <surname>Volk</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>Schütze, k. k. KschR. Nr. I, MGKomp. I</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. KschR. Nr. I, MGKomp. I</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1742,7 +1883,8 @@
                   <surname>Debenjak</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97^zugeteilt dem IR. Nr. 17, RgtsStb.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97^zugeteilt dem IR. Nr. 17, RgtsStb.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1754,7 +1896,8 @@
                   <surname>Gernek</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -1766,7 +1909,8 @@
                   <surname>Kovacic</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Sapp., Sturmbaon. der k. u. k. 11. Armee</affiliation>
+               <socecStatus>Sapp.</socecStatus>
+               <affiliation>Sturmbaon. der k. u. k. 11. Armee</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Idria</region>
@@ -1778,7 +1922,8 @@
                   <surname>Kovacic</surname>
                   <forename>Niko</forename>
                </persName>
-               <affiliation>Intst., IR. Nr. 57</affiliation>
+               <socecStatus>Intst.</socecStatus>
+               <affiliation>IR. Nr. 57</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -1790,7 +1935,8 @@
                   <surname>Lisjak</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5, 12. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5, 12. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -1802,7 +1948,8 @@
                   <surname>Mawer</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5, 6. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5, 6. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1814,7 +1961,8 @@
                   <surname>Metlikovec</surname>
                   <forename>Gabriel d. Vinzenz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1826,7 +1974,8 @@
                   <surname>Mokrin</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 2</affiliation>
                <birth>
                   <country>Görz nnd Gradiska</country>
                   <region>Görz</region>
@@ -1838,7 +1987,8 @@
                   <surname>Gregorat</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst, IR. Nr. 7, StbsAbt.</affiliation>
+               <socecStatus>Infst</socecStatus>
+               <affiliation>IR. Nr. 7, StbsAbt.</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -1850,7 +2000,8 @@
                   <surname>Makuč</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schätze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>Schätze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Solkan</region>
@@ -1862,7 +2013,8 @@
                   <surname>Bandelj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 104, TrachomAbt.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 104, TrachomAbt.</affiliation>
                <birth>
                   <country>Görz-Gradisca</country>
                   <region>Sesana</region>
@@ -1874,7 +2026,8 @@
                   <surname>Cilic</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1886,7 +2039,8 @@
                   <surname>Fabjan</surname>
                   <forename>Frana</forename>
                </persName>
-               <affiliation>LstInfst. IR. Nr. 97, MGKomp. I</affiliation>
+               <socecStatus>LstInfst. IR. Nr. 97</socecStatus>
+               <affiliation>MGKomp. I</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -1898,7 +2052,8 @@
                   <surname>Krivič</surname>
                   <forename>Josef des Anton</forename>
                </persName>
-               <affiliation>Infst., k. k. Wach- u. Hilfskomp. 37</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. Wach- u. Hilfskomp. 37</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Ponikve</region>
@@ -1910,7 +2065,8 @@
                   <surname>Tusar</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Zugsf., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -1922,7 +2078,8 @@
                   <surname>Persič</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, zugeteilt dem komb. FJB., MGKomp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem komb. FJB., MGKomp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -1934,7 +2091,8 @@
                   <surname>Skubin</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Schütze, k. k. KschR. Nr. II, 8. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. KschR. Nr. II, 8. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1946,7 +2104,8 @@
                   <surname>Vončina</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -1958,7 +2117,8 @@
                   <surname>Godnič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Infst., ArtZeugsAbt. Wien</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>ArtZeugsAbt. Wien</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1970,7 +2130,8 @@
                   <surname>Skerlj</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 22</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Lesana</region>
@@ -1982,7 +2143,8 @@
                   <surname>Teresel</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstArb., Dynamit Nobel Pozsony</affiliation>
+               <socecStatus>LstArb.</socecStatus>
+               <affiliation>Dynamit Nobel Pozsony</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -1994,7 +2156,8 @@
                   <surname>Stolfa</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstIR. Nr. 5</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 5</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -2008,7 +2171,8 @@
                   <forename>Arthur</forename>
                   <roleName>Ritter</roleName>
                </persName>
-               <affiliation>Hptm., IR. Nr. 49</affiliation>
+               <socecStatus>Hptm.</socecStatus>
+               <affiliation>IR. Nr. 49</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -2020,7 +2184,8 @@
                   <surname>Antonič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, 1. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, 1. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -2032,7 +2197,8 @@
                   <surname>Kikl</surname>
                   <forename>Ludwig</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 27, l. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 27, l. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -2044,7 +2210,8 @@
                   <surname>Widmar</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FKR. Nr. 6, 1. Batt.</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FKR. Nr. 6, 1. Batt.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -2056,7 +2223,8 @@
                   <surname>Culot</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -2068,7 +2236,8 @@
                   <surname>Kokošin</surname>
                   <forename>Matthias</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 5, 2. Komp.</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2080,7 +2249,8 @@
                   <surname>Krapež</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>OffDiener, FJB. Nr. 7</affiliation>
+               <socecStatus>OffDiener</socecStatus>
+               <affiliation>FJB. Nr. 7</affiliation>
                <birth>
                   <country>Görz und Gradiška</country>
                   <region>Görz</region>
@@ -2092,7 +2262,8 @@
                   <surname>Torkar</surname>
                   <forename>Nikolai</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 55, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 55, 3. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2104,7 +2275,8 @@
                   <surname>Baloch</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 58</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 58</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2116,7 +2288,8 @@
                   <surname>Batagelj</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -2128,7 +2301,8 @@
                   <surname>Beguss</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2140,7 +2314,8 @@
                   <surname>Bolcina</surname>
                   <forename>Iwan</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -2152,7 +2327,8 @@
                   <surname>Bratuž</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2164,7 +2340,8 @@
                   <surname>Bregantič</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2176,7 +2353,8 @@
                   <surname>Faganel</surname>
                   <forename>Bartholomäus</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
@@ -2188,7 +2366,8 @@
                   <surname>Grobiša</surname>
                   <forename>Rafael</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1.</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -2200,7 +2379,8 @@
                   <surname>Komac</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2212,7 +2392,8 @@
                   <surname>Kovacic</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr. 21</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 21</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2224,7 +2405,8 @@
                   <surname>Kumar</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 12. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 12. Komp.</affiliation>
                <birth>
                   <country>Gorz und Gradiska</country>
                   <region>Tribuša</region>
@@ -2236,7 +2418,8 @@
                   <surname>Podhornik</surname>
                   <forename>Justyn</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 7, 13. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 7, 13. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Čepovan</region>
@@ -2248,7 +2431,8 @@
                   <surname>Reinec</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2260,7 +2444,8 @@
                   <surname>Renčel</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., HIR. Nr. 26</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>HIR. Nr. 26</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -2272,7 +2457,8 @@
                   <surname>Butar</surname>
                   <forename>August</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1, 9. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 9. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2284,7 +2470,8 @@
                   <surname>Vidmar</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>ResFeldw., IR. Nr. 72</affiliation>
+               <socecStatus>ResFeldw.</socecStatus>
+               <affiliation>IR. Nr. 72</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -2296,7 +2483,8 @@
                   <surname>Hicke</surname>
                   <forename>Oskar</forename>
                </persName>
-               <affiliation>ErsResPion., EisenbR.</affiliation>
+               <socecStatus>ErsResPion.</socecStatus>
+               <affiliation>EisenbR.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2308,7 +2496,8 @@
                   <surname>Koršič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstFahrKan., k. u. k. schw. FAR. Nr. 28</affiliation>
+               <socecStatus>LstFahrKan.</socecStatus>
+               <affiliation>k. u. k. schw. FAR. Nr. 28</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -2320,7 +2509,8 @@
                   <surname>Rakan</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Zivilarbeiter, k. u. k. FleimstalbKmdo.</affiliation>
+               <socecStatus>Zivilarbeiter</socecStatus>
+               <affiliation>k. u. k. FleimstalbKmdo.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -2332,7 +2522,8 @@
                   <surname>Zuzek</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1, 10. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 10. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -2344,7 +2535,8 @@
                   <surname>Jekse</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1, MGKomp. II</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, MGKomp. II</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2356,7 +2548,8 @@
                   <surname>Jevšek</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Sehütze, k. k. GschR. Nr. 1, 10. Komp.</affiliation>
+               <socecStatus>Sehütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 10. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2368,7 +2561,8 @@
                   <surname>Makič</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -2380,7 +2574,8 @@
                   <surname>Masten</surname>
                   <forename>Kasimir</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1, MGKomp. II</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, MGKomp. II</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -2392,7 +2587,8 @@
                   <surname>Satey</surname>
                   <forename>Friedrich</forename>
                </persName>
-               <affiliation>Kan., k. u. k. GAR. Nr. 17, GebKnBatt. 4</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. GAR. Nr. 17, GebKnBatt. 4</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2404,7 +2600,8 @@
                   <surname>Skok</surname>
                   <forename>Filip</forename>
                </persName>
-               <affiliation>ErsGefrUnterjäg., FJB. Nr. 20, zugeteilt dem k. k. SchR. Nr. 28, 11. Komp.</affiliation>
+               <socecStatus>ErsGefrUnterjäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, zugeteilt dem k. k. SchR. Nr. 28, 11. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2416,7 +2613,8 @@
                   <surname>Vodopivec</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1, 6. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 6. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2428,7 +2626,8 @@
                   <surname>Goryup</surname>
                   <forename>Andra</forename>
                </persName>
-               <affiliation>LstGefr., IR. Nr. 97, zugeteilt dem k. k. SchR. Nr. 1, 12. Komp.</affiliation>
+               <socecStatus>LstGefr.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem k. k. SchR. Nr. 1, 12. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -2440,7 +2639,8 @@
                   <surname>Plesniczer</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>Korp., k. k. SchR. Nr. 36, 4. Komp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 36, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -2452,7 +2652,8 @@
                   <surname>Bratina statt Bratma</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Infst. statt Gefr., IR. Nr. 27</affiliation>
+               <socecStatus>Infst. statt Gefr.</socecStatus>
+               <affiliation>IR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2464,7 +2665,8 @@
                   <surname>Rogelja</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz-Gradicsa</country>
                   <region>Sesana</region>
@@ -2476,7 +2678,8 @@
                   <surname>Trampuz</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 6, 3. Komp</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 6, 3. Komp</affiliation>
                <birth>
                   <country>Görz Gradiska</country>
                   <region>Sesana</region>
@@ -2488,7 +2691,8 @@
                   <surname>Doljak</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstJäg., FJB. Nr. 7, 1. Komp.</affiliation>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>FJB. Nr. 7, 1. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -2500,7 +2704,8 @@
                   <surname>Kosmač</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr. 20, MGKomp.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, MGKomp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2512,7 +2717,8 @@
                   <surname>Kurinčič</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>JägTitPatrf., FJB. Nr. 20, 3. Komp.</affiliation>
+               <socecStatus>JägTitPatrf.</socecStatus>
+               <affiliation>FJB. Nr. 20, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2524,7 +2730,8 @@
                   <surname>Marušič</surname>
                   <forename>Bernhard</forename>
                </persName>
-               <affiliation>Gefr., k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Opatjeselo</region>
@@ -2536,7 +2743,8 @@
                   <surname>Taočar</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>LstTragtierführer, k. k. KschR. Nr. III, 9. Komp.</affiliation>
+               <socecStatus>LstTragtierführer</socecStatus>
+               <affiliation>k. k. KschR. Nr. III, 9. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -2548,7 +2756,8 @@
                   <surname>Spazzapan</surname>
                   <forename>Luzian</forename>
                </persName>
-               <affiliation>Oblt. i. d. Res., IR. Nr. 79, 8. Komp.</affiliation>
+               <socecStatus>Oblt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 79, 8. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2560,7 +2769,8 @@
                   <surname>Mrak</surname>
                   <forename>Thomas</forename>
                </persName>
-               <affiliation>ErsResKan., k. u. k. FstAß. Nr. 4</affiliation>
+               <socecStatus>ErsResKan.</socecStatus>
+               <affiliation>k. u. k. FstAß. Nr. 4</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2572,7 +2782,8 @@
                   <surname>Princic</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstFahrkan., k. u. k. FHR. Nr. 6, 3. Batt.</affiliation>
+               <socecStatus>LstFahrkan.</socecStatus>
+               <affiliation>k. u. k. FHR. Nr. 6, 3. Batt.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2584,7 +2795,8 @@
                   <surname>Sgaga</surname>
                   <forename>Theodor</forename>
                </persName>
-               <affiliation>Jag., FJB. Nr. 8, 3. Komp.</affiliation>
+               <socecStatus>Jag.</socecStatus>
+               <affiliation>FJB. Nr. 8, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2596,7 +2808,8 @@
                   <surname>Springer</surname>
                   <forename>Raimund</forename>
                </persName>
-               <affiliation>Hptm., IR. Nr. 47</affiliation>
+               <socecStatus>Hptm.</socecStatus>
+               <affiliation>IR. Nr. 47</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -2608,7 +2821,8 @@
                   <surname>Langos</surname>
                   <forename>Justin</forename>
                </persName>
-               <affiliation>LstSchütze, k.k . GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k.k . GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -2620,7 +2834,8 @@
                   <surname>Makovec</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2632,7 +2847,8 @@
                   <surname>Marinič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz-Gradiska</country>
                   <region>Kojsko</region>
@@ -2644,7 +2860,8 @@
                   <surname>Saksida</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Dornberg</region>
@@ -2656,7 +2873,8 @@
                   <surname>Semolič</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2668,7 +2886,8 @@
                   <surname>Škabar</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstTrainsold., TrB. Nr. 3</affiliation>
+               <socecStatus>LstTrainsold.</socecStatus>
+               <affiliation>TrB. Nr. 3</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -2680,7 +2899,8 @@
                   <surname>Skerlj</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstZugsf., k. k. LstBezKmdo. Nr. 5</affiliation>
+               <socecStatus>LstZugsf.</socecStatus>
+               <affiliation>k. k. LstBezKmdo. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tomaj</region>
@@ -2692,7 +2912,8 @@
                   <surname>Brisko</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Kan., k. u. k. schw. FAR. Nr. 28</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. schw. FAR. Nr. 28</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2704,7 +2925,8 @@
                   <surname>Fabian</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr. 8, 2. Komp.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 8, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -2716,7 +2938,8 @@
                   <surname>Godnig</surname>
                   <forename>Frederiko</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 7, zugeteilt dem k. k Tir. LstIBaon. Innsbruck Nr. 11, 4. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 7, zugeteilt dem k. k Tir. LstIBaon. Innsbruck Nr. 11, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -2728,7 +2951,8 @@
                   <surname>Lapanja</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Patrf., FJB. Nr. 20, zugeteilt dem IR. Nr. 75, 4. Komp.</affiliation>
+               <socecStatus>Patrf.</socecStatus>
+               <affiliation>FJB. Nr. 20, zugeteilt dem IR. Nr. 75, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2740,7 +2964,8 @@
                   <surname>Lovrencic</surname>
                   <forename>Ignac</forename>
                </persName>
-               <affiliation>Wachtm., LandesgendKmdo. Nr. 9</affiliation>
+               <socecStatus>Wachtm.</socecStatus>
+               <affiliation>LandesgendKmdo. Nr. 9</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2752,7 +2977,8 @@
                   <surname>Slokar</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr. 20, MGKomp.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, MGKomp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2764,7 +2990,8 @@
                   <surname>Zivec</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>Vorm., k. u. k. FKR. nr. 28, 3. Batt.</affiliation>
+               <socecStatus>Vorm.</socecStatus>
+               <affiliation>k. u. k. FKR. nr. 28, 3. Batt.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -2776,7 +3003,8 @@
                   <surname>Mokrin</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstSchütze statt Schütze, k. k. GschR. Nr. 2 statt k. k. SchR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze statt Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2 statt k. k. SchR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Lokovec</region>
@@ -2788,7 +3016,8 @@
                   <surname>Stergar</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Hptm., IR. Nr. 79, RgtsStb.</affiliation>
+               <socecStatus>Hptm.</socecStatus>
+               <affiliation>IR. Nr. 79, RgtsStb.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -2800,7 +3029,8 @@
                   <surname>Bandelj</surname>
                   <forename>Peter</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Gorz und Gradiska</country>
                   <region>Görz</region>
@@ -2812,7 +3042,8 @@
                   <surname>Golja</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2824,7 +3055,8 @@
                   <surname>Klemše</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2836,7 +3068,8 @@
                   <surname>Murowetz</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 26, 2. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 26, 2. Komp.</affiliation>
                <birth>
                   <country>Görz u Gradiska</country>
                   <region>Görz</region>
@@ -2848,7 +3081,8 @@
                   <surname>Pipan</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -2860,7 +3094,8 @@
                   <surname>Furlan</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -2872,7 +3107,8 @@
                   <surname>Markič</surname>
                   <forename>Jakov</forename>
                </persName>
-               <affiliation>InfstTitGefr., IR. Nr. 97</affiliation>
+               <socecStatus>InfstTitGefr.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Podgora</region>
@@ -2884,7 +3120,8 @@
                   <surname>Močnik</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstJäg., FJB. Nr. 7</affiliation>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>FJB. Nr. 7</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2896,7 +3133,8 @@
                   <surname>Kenda</surname>
                   <forename>Jakob</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 55</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 55</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -2908,7 +3146,8 @@
                   <surname>Ličer</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 22</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -2920,7 +3159,8 @@
                   <surname>Mlakar</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 22</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -2932,7 +3172,8 @@
                   <surname>Močnik</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 115, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 115, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -2944,7 +3185,8 @@
                   <surname>Serjun</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Gefr., k. k. SchR. Nr. 22</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -2956,7 +3198,8 @@
                   <surname>Ivantschitsch</surname>
                   <forename>Remigius</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 22</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -2968,7 +3211,8 @@
                   <surname>Kocjancič</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 22</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -2980,7 +3224,8 @@
                   <surname>Kovač</surname>
                   <forename>Michael</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -2992,7 +3237,8 @@
                   <surname>Mljač</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIB. Nr. 40, 2. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIB. Nr. 40, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3004,7 +3250,8 @@
                   <surname>Presly</surname>
                   <forename>Urban</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 27</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3016,7 +3263,8 @@
                   <surname>Valentinčič</surname>
                   <forename>Martin</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 31, 4. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 31, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3028,7 +3276,8 @@
                   <surname>Slmač</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>ErsResSchütze, k. k. GschR. Nr. 2, 1. Komp.</affiliation>
+               <socecStatus>ErsResSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Breginj</region>
@@ -3040,7 +3289,8 @@
                   <surname>Bresan</surname>
                   <forename>Ludwig</forename>
                </persName>
-               <affiliation>Oblt. i. d. Res., IR. Nr. 64, 8. Komp.</affiliation>
+               <socecStatus>Oblt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 64, 8. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3052,7 +3302,8 @@
                   <surname>Faletič</surname>
                   <forename>Ignaz</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FstAR. Nr. 4</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FstAR. Nr. 4</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -3064,7 +3315,8 @@
                   <surname>Gorjup</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSch., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSch.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3076,7 +3328,8 @@
                   <surname>Klinkon</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstSch., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSch.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -3088,7 +3341,8 @@
                   <surname>Kofol</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstJäger, FJB. Nr. 9, 2. Komp.</affiliation>
+               <socecStatus>LstJäger</socecStatus>
+               <affiliation>FJB. Nr. 9, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3100,7 +3354,8 @@
                   <surname>Košir</surname>
                   <forename>Matthias</forename>
                </persName>
-               <affiliation>LstJäg., FJB. Nr. 9, 3. Komp.</affiliation>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>FJB. Nr. 9, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3112,7 +3367,8 @@
                   <surname>Košuta</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstSch., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSch.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3124,7 +3380,8 @@
                   <surname>Krivec</surname>
                   <forename>Peter</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3136,7 +3393,8 @@
                   <surname>Losar</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 27, 3. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 27, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3148,7 +3406,8 @@
                   <surname>Makuc</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 55</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 55</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3160,7 +3419,8 @@
                   <surname>Perat</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>MunArb., Pulverfabrik Blumau</affiliation>
+               <socecStatus>MunArb.</socecStatus>
+               <affiliation>Pulverfabrik Blumau</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3172,7 +3432,8 @@
                   <surname>Prezeli</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3184,7 +3445,8 @@
                   <surname>Princič</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>ErsResJäg., FJB. Nr. 9</affiliation>
+               <socecStatus>ErsResJäg.</socecStatus>
+               <affiliation>FJB. Nr. 9</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3196,7 +3458,8 @@
                   <surname>Rijavec</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>VerpflSold., VerpflMag. Castelnuovo</affiliation>
+               <socecStatus>VerpflSold.</socecStatus>
+               <affiliation>VerpflMag. Castelnuovo</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3208,7 +3471,8 @@
                   <surname>Sovdat</surname>
                   <forename>Antonio</forename>
                </persName>
-               <affiliation>ErsResInfst., FJB. Nr. 7</affiliation>
+               <socecStatus>ErsResInfst.</socecStatus>
+               <affiliation>FJB. Nr. 7</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3220,7 +3484,8 @@
                   <surname>Lenardig</surname>
                   <forename>Ludwig</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3232,7 +3497,8 @@
                   <surname>Likar</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 115, 7. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 115, 7. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3244,7 +3510,8 @@
                   <surname>Mrak</surname>
                   <forename>August</forename>
                </persName>
-               <affiliation>ErsResInfst., k. k. LstIR. Nr. 27, 9. Komp.</affiliation>
+               <socecStatus>ErsResInfst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27, 9. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3256,7 +3523,8 @@
                   <surname>Nardin</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3268,7 +3536,8 @@
                   <surname>Rutar</surname>
                   <forename>Andrej</forename>
                </persName>
-               <affiliation>LstInfst., k. k. LstIR. Nr. 27, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -3280,7 +3549,8 @@
                   <surname>Vales</surname>
                   <forename>Micharl</forename>
                </persName>
-               <affiliation>Zugsf., k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3292,7 +3562,8 @@
                   <surname>Bandelj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Lesana</region>
@@ -3304,7 +3575,8 @@
                   <surname>Polivka</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 21</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 21</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3316,7 +3588,8 @@
                   <surname>Svara</surname>
                   <forename>Josef d. Franz</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 37</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 37</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3328,7 +3601,8 @@
                   <surname>Gorgics</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>VerpflSold., VerpflMag. Wien</affiliation>
+               <socecStatus>VerpflSold.</socecStatus>
+               <affiliation>VerpflMag. Wien</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3340,7 +3614,8 @@
                   <surname>Gorinp</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>LstArb., k. k. LstBezKmdo. Nr. 27</affiliation>
+               <socecStatus>LstArb.</socecStatus>
+               <affiliation>k. k. LstBezKmdo. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3364,7 +3639,8 @@
                   <surname>Kovacic</surname>
                   <forename>Andrej</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 36</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 36</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3376,7 +3652,8 @@
                   <surname>Pirich</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>Infst., k. k. SchR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3388,7 +3665,8 @@
                   <surname>Samec</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstKan., k. u. k. schw. FAR. Nr. 6</affiliation>
+               <socecStatus>LstKan.</socecStatus>
+               <affiliation>k. u. k. schw. FAR. Nr. 6</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>St. Marein</region>
@@ -3400,7 +3678,8 @@
                   <surname>Hvala</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 3. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3412,7 +3691,8 @@
                   <surname>Kompany</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 4. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 4. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3424,7 +3704,8 @@
                   <surname>Lepovsek</surname>
                   <forename>Michael</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3436,7 +3717,8 @@
                   <surname>Lipolt</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInf8t., IR. Nr. 97, 6. Komp.</affiliation>
+               <socecStatus>LstInf8t.</socecStatus>
+               <affiliation>IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3448,7 +3730,8 @@
                   <surname>Podversič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 55</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 55</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3460,7 +3743,8 @@
                   <surname>Krainer</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 1, 10. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 10. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3472,7 +3756,8 @@
                   <surname>Kravanya</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, 6. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -3484,7 +3769,8 @@
                   <surname>Pariš</surname>
                   <forename>Peter</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3496,7 +3782,8 @@
                   <surname>Saksida</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, zugeteilt dem IR. Wachkomp. 2</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Wachkomp. 2</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3508,7 +3795,8 @@
                   <surname>Cehovin</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Gefr., k. k. LstEtappBaon. 65, techn. Zug</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. LstEtappBaon. 65, techn. Zug</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3520,7 +3808,8 @@
                   <surname>Jeroncič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3532,7 +3821,8 @@
                   <surname>Kranner</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>InfstTitGefr., k. k. LstIB. Nr. 151/1</affiliation>
+               <socecStatus>InfstTitGefr.</socecStatus>
+               <affiliation>k. k. LstIB. Nr. 151/1</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3544,7 +3834,8 @@
                   <surname>Legissa</surname>
                   <forename>Benedikt</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Lesana</region>
@@ -3556,7 +3847,8 @@
                   <surname>Luisa</surname>
                   <forename>Eduard</forename>
                </persName>
-               <affiliation>LstGefr., k. k. SchR. Nr. 35, 3. Komp.</affiliation>
+               <socecStatus>LstGefr.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 35, 3. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3568,7 +3860,8 @@
                   <surname>Perič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3580,7 +3873,8 @@
                   <surname>Rogelja</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Infst., k. k. LstIR. Nr. 6</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 6</affiliation>
                <birth>
                   <country>Görz u.Gradiska</country>
                   <region>Sesana</region>
@@ -3592,7 +3886,8 @@
                   <surname>Sardon</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr., 20</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr., 20</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3604,7 +3899,8 @@
                   <surname>Kaučič</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Offiziersdiener, k. k. SchR. Nr. 37</affiliation>
+               <socecStatus>Offiziersdiener</socecStatus>
+               <affiliation>k. k. SchR. Nr. 37</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3616,7 +3912,8 @@
                   <surname>Brundula</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>ResDrag., DR. Nr. 5</affiliation>
+               <socecStatus>ResDrag.</socecStatus>
+               <affiliation>DR. Nr. 5</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -3628,7 +3925,8 @@
                   <surname>Cesent</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>ZivArb., Bahnexpositur Görz</affiliation>
+               <socecStatus>ZivArb.</socecStatus>
+               <affiliation>Bahnexpositur Görz</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3640,7 +3938,8 @@
                   <surname>GateJ</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FAR. Nr. 128,</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FAR. Nr. 128,</affiliation>
                <birth>
                   <country> Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3664,7 +3963,8 @@
                   <surname>Ursič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Jäg., FJB. Nr. 1, 1. Komp.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 1, 1. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3676,7 +3976,8 @@
                   <surname>Brič</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3688,7 +3989,8 @@
                   <surname>Cernič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstKan., k. u. k. schw. FAR. Nr. 6, Batt. 4</affiliation>
+               <socecStatus>LstKan.</socecStatus>
+               <affiliation>k. u. k. schw. FAR. Nr. 6, Batt. 4</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3700,7 +4002,8 @@
                   <surname>Gulin</surname>
                   <forename>Valentin</forename>
                </persName>
-               <affiliation>LstSohütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSohütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3712,7 +4015,8 @@
                   <surname>Leban</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -3724,7 +4028,8 @@
                   <surname>Mišic</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 40, 11. Korn.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 40, 11. Korn.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3736,7 +4041,8 @@
                   <surname>Pertovt</surname>
                   <forename>Michael</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3748,7 +4054,8 @@
                   <surname>Rijavec</surname>
                   <forename>Stepan</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr.2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr.2</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3760,7 +4067,8 @@
                   <surname>Roic</surname>
                   <forename>Andrea</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3772,7 +4080,8 @@
                   <surname>Stor</surname>
                   <forename>Engelbert</forename>
                </persName>
-               <affiliation>VerpflSold., VerpflMag. Graz</affiliation>
+               <socecStatus>VerpflSold.</socecStatus>
+               <affiliation>VerpflMag. Graz</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3784,7 +4093,8 @@
                   <surname>Suligoj</surname>
                   <forename>Filipp</forename>
                </persName>
-               <affiliation>LstKan., k. u. k. FAR. Nr. 28, Batt. 6</affiliation>
+               <socecStatus>LstKan.</socecStatus>
+               <affiliation>k. u. k. FAR. Nr. 28, Batt. 6</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3796,7 +4106,8 @@
                   <surname>Trebec</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>ErsResZugsfTitOberjäg., FJB. Nr. 20, StbsUntAbt.</affiliation>
+               <socecStatus>ErsResZugsfTitOberjäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, StbsUntAbt.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -3808,7 +4119,8 @@
                   <surname>Cergolj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 87</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 87</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3820,7 +4132,8 @@
                   <surname>Cerkvenik</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstJäg., FJB. Nr. 20, MGKomp.</affiliation>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>FJB. Nr. 20, MGKomp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -3832,7 +4145,8 @@
                   <surname>Cernigoj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 17, 1. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 17, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3844,7 +4158,8 @@
                   <surname>Devetak</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3856,7 +4171,8 @@
                   <surname>Kragelj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>JägTitPatrf., FJB. Nr. 20, 1. Komp.</affiliation>
+               <socecStatus>JägTitPatrf.</socecStatus>
+               <affiliation>FJB. Nr. 20, 1. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>St. Tolmein</region>
@@ -3868,7 +4184,8 @@
                   <surname>Močnik</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., k. k. SchR. Nr. 3, zugeteilt dem k. k. SchR. Nr. 2, 9. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 3, zugeteilt dem k. k. SchR. Nr. 2, 9. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -3880,7 +4197,8 @@
                   <surname>Pipan</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>LstZugsf., FJB. Nr. 20, 3. Komp.</affiliation>
+               <socecStatus>LstZugsf.</socecStatus>
+               <affiliation>FJB. Nr. 20, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -3892,7 +4210,8 @@
                   <surname>Figelj</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -3904,7 +4223,8 @@
                   <surname>Gorjan</surname>
                   <forename>Pawel</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -3916,7 +4236,8 @@
                   <surname>Kokole</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSehütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSehütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3928,7 +4249,8 @@
                   <surname>Kukanja</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Trainsold., TrainB. Nr. 3</affiliation>
+               <socecStatus>Trainsold.</socecStatus>
+               <affiliation>TrainB. Nr. 3</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -3940,7 +4262,8 @@
                   <surname>Kurinčič</surname>
                   <forename>Ignac</forename>
                </persName>
-               <affiliation>Gefr., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -3952,7 +4275,8 @@
                   <surname>Loik</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstGefr., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstGefr.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3964,7 +4288,8 @@
                   <surname>Marušič</surname>
                   <forename>Francesco</forename>
                </persName>
-               <affiliation>ErsResSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>ErsResSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -3976,7 +4301,8 @@
                   <surname>Mozetič</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 23</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 23</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -3988,7 +4314,8 @@
                   <surname>Mrak</surname>
                   <forename>Viktor</forename>
                </persName>
-               <affiliation>ErsResSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>ErsResSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4000,7 +4327,8 @@
                   <surname>Pelizon</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Gorz und Gradiska</country>
                   <region>Görz</region>
@@ -4012,7 +4340,8 @@
                   <surname>Podgornik</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>Feldw., k. k. GschR. Nr. 2, 8. Komp.</affiliation>
+               <socecStatus>Feldw.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 8. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Haiderschaft</region>
@@ -4024,7 +4353,8 @@
                   <surname>Prinčič</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2, 3. Komp.</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 3. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4036,7 +4366,8 @@
                   <surname>Skrt</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4048,7 +4379,8 @@
                   <surname>Šorli</surname>
                   <forename>Peter</forename>
                </persName>
-               <affiliation>ErsRes Schütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>ErsRes Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -4060,7 +4392,8 @@
                   <surname>Stulc</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -4072,7 +4405,8 @@
                   <surname>Sturm</surname>
                   <forename>Bartolome</forename>
                </persName>
-               <affiliation>LstKorp., k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstKorp.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -4084,7 +4418,8 @@
                   <surname>Trebižan</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>ErsResJäg., FJR. Nr. 20</affiliation>
+               <socecStatus>ErsResJäg.</socecStatus>
+               <affiliation>FJR. Nr. 20</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4096,7 +4431,8 @@
                   <surname>Trojer</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 6. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 6. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -4108,7 +4444,8 @@
                   <surname>Vižin</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4120,7 +4457,8 @@
                   <surname>Gabrijelcić</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nrl 97, 13. Komp.,</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nrl 97, 13. Komp.,</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4132,7 +4470,8 @@
                   <surname>Orel</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>Kan., k. u. k. schw. ResFAR. Nr. 58</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. schw. ResFAR. Nr. 58</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
@@ -4144,7 +4483,8 @@
                   <surname>Pegan</surname>
                   <forename>Roman</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, 5. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, 5. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4156,7 +4496,8 @@
                   <surname>Preglj</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4168,7 +4509,8 @@
                   <surname>Volk</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FKR. Nr. 8</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FKR. Nr. 8</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4180,7 +4522,8 @@
                   <surname>Furlan</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., MinwLehr- und EisBaon., MinwBatt. Nr. 6/11</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>MinwLehr- und EisBaon., MinwBatt. Nr. 6/11</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4192,7 +4535,8 @@
                   <surname>Gabriolčič</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4204,7 +4548,8 @@
                   <surname>Košuta</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4216,7 +4561,8 @@
                   <surname>Milichen</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Offiziersdiener, k. u. k. GAR. Nr. 3, zugeteilt dem k. u. k. FAR. Nr. 116, HbBatt. 2</affiliation>
+               <socecStatus>Offiziersdiener</socecStatus>
+               <affiliation>k. u. k. GAR. Nr. 3, zugeteilt dem k. u. k. FAR. Nr. 116, HbBatt. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -4228,7 +4574,8 @@
                   <surname>Sorti</surname>
                   <forename>Jernej</forename>
                </persName>
-               <affiliation>Offiziersdierer, k. u. k. GAAbt. Nr. 29/3</affiliation>
+               <socecStatus>Offiziersdierer</socecStatus>
+               <affiliation>k. u. k. GAAbt. Nr. 29/3</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -4240,7 +4587,8 @@
                   <surname>Manfreda</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR.Nr. 97, zugeteilt dem IR. Nr. 17, 2. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR.Nr. 97, zugeteilt dem IR. Nr. 17, 2. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -4252,7 +4600,8 @@
                   <surname>Micheli</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>InfstTitGefr., IR. Nr. 117</affiliation>
+               <socecStatus>InfstTitGefr.</socecStatus>
+               <affiliation>IR. Nr. 117</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4264,7 +4613,8 @@
                   <surname>Rijavec</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4276,7 +4626,8 @@
                   <surname>Stubfa</surname>
                   <forename>Demeter</forename>
                </persName>
-               <affiliation>Kan., k. u. k. FHR. Nr. 6</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FHR. Nr. 6</affiliation>
                <birth>
                   <country>Görz, u. Gradiska</country>
                   <region>Sesana</region>
@@ -4288,7 +4639,8 @@
                   <surname>Sturm</surname>
                   <forename>Alois</forename>
                </persName>
-               <affiliation>LstZugsf., k. k. LstBezKmdo. Nr. 3, zugeteilt dem IR. Nr. 87, 7. Komp.</affiliation>
+               <socecStatus>LstZugsf.</socecStatus>
+               <affiliation>k. k. LstBezKmdo. Nr. 3, zugeteilt dem IR. Nr. 87, 7. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4300,7 +4652,8 @@
                   <surname>Volčič</surname>
                   <forename>Albin</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. SchR. Nr. 6, zugeteilt dem IR. Nr. 87, 3. Komp.</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 6, zugeteilt dem IR. Nr. 87, 3. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4312,7 +4665,8 @@
                   <surname>Duscha</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 7</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
@@ -4324,7 +4678,8 @@
                   <surname>Grapulin</surname>
                   <forename>Marios</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, 2. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>GÖrz u. Gradiska</country>
                   <region>Görz</region>
@@ -4336,7 +4691,8 @@
                   <surname>Kuret</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 17, 1. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 17, 1. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4348,7 +4704,8 @@
                   <surname>Martinovič</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>Gefr., IR. Nr. 97, zugeteilt dem bh. IR. Nr. 2, RekAbt.,</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem bh. IR. Nr. 2, RekAbt.,</affiliation>
                <birth>
                   <country> Görz u. Gradiska</country>
                   <region>Görz.</region>
@@ -4360,7 +4717,8 @@
                   <surname>Rihawetz</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4372,7 +4730,8 @@
                   <surname>Sorgics</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, zugeteilt dem VerpflMag. Wien</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem VerpflMag. Wien</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4384,7 +4743,8 @@
                   <surname>Vrtoveč</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4396,7 +4756,8 @@
                   <surname>Bačer</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>ResInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 9, Komp.</affiliation>
+               <socecStatus>ResInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 17, 9, Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradsica</country>
                   <region>Görz</region>
@@ -4408,7 +4769,8 @@
                   <surname>Brajnik</surname>
                   <forename>Eduard</forename>
                </persName>
-               <affiliation>LstKan., k. u. k. FAK. Nr. 28, Batt. 4</affiliation>
+               <socecStatus>LstKan.</socecStatus>
+               <affiliation>k. u. k. FAK. Nr. 28, Batt. 4</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4420,7 +4782,8 @@
                   <surname>Cotar</surname>
                   <forename>Leopold</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 127, 11. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 127, 11. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -4432,7 +4795,8 @@
                   <surname>Leban</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 45, 2. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 45, 2. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>St. Michael</region>
@@ -4444,7 +4808,8 @@
                   <surname>Pipan</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5, zugeteilt dem k. k. GschR. Nr. 1, MGKomp. IT„</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5, zugeteilt dem k. k. GschR. Nr. 1, MGKomp. IT„</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4456,7 +4821,8 @@
                   <surname>Pirjavec</surname>
                   <forename>Valentin</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 9. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 17, 9. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Sesana</region>
@@ -4468,7 +4834,8 @@
                   <surname>Polšak</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>ErsResKorp., k. u. k. FAR. Nr. 28, Batt. 6</affiliation>
+               <socecStatus>ErsResKorp.</socecStatus>
+               <affiliation>k. u. k. FAR. Nr. 28, Batt. 6</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4480,7 +4847,8 @@
                   <surname>Saksida</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstSchütze, k. k. GschR. Nr. 2</affiliation>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4492,7 +4860,8 @@
                   <surname>Szatej</surname>
                   <forename>Cyrill</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4505,7 +4874,8 @@
                   <surname>Coronini-Cronberg</surname>
                   <forename>Alexander</forename>
                </persName>
-               <affiliation>Fähnr. i. d. Res. DR. Nr. 4, 5i Schwd.</affiliation>
+               <socecStatus>Fähnr. i. d. Res. DR. Nr. 4</socecStatus>
+               <affiliation>5i Schwd.</affiliation>
                <birth>
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
@@ -4517,7 +4887,8 @@
                   <surname>Batistic</surname>
                   <forename>Karol</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 97.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4529,7 +4900,8 @@
                   <surname>Bizjak</surname>
                   <forename>Andrej</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 1. Komp</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 1. Komp</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -4541,7 +4913,8 @@
                   <surname>Grgic</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Drag. DR. Nr. 5, zugeteilt dem DR. Nr. 4, 22. Schwd.,</affiliation>
+               <socecStatus>Drag. DR. Nr. 5</socecStatus>
+               <affiliation>zugeteilt dem DR. Nr. 4, 22. Schwd.,</affiliation>
                <birth>
                   <country> Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4553,7 +4926,8 @@
                   <surname>Mlekosch</surname>
                   <forename>Rudolf</forename>
                </persName>
-               <affiliation>Jag., FJB. Nr. 20</affiliation>
+               <socecStatus>Jag.</socecStatus>
+               <affiliation>FJB. Nr. 20</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4565,7 +4939,8 @@
                   <surname>Pahor</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 6</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 6</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
@@ -4577,7 +4952,8 @@
                   <surname>Pipan</surname>
                   <forename>Philip</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -4589,7 +4965,8 @@
                   <surname>Furlan</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstKan., k. k. schw. FAR. Nr. 22, 2. Batt.</affiliation>
+               <socecStatus>LstKan.</socecStatus>
+               <affiliation>k. k. schw. FAR. Nr. 22, 2. Batt.</affiliation>
                <birth>
                   <country>Görz</country>
                   <region>Haidenschaft</region>
@@ -4601,7 +4978,8 @@
                   <surname>Hvala</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>ResZugsf., k. k. GebArtAbt. 22, 3. Batt.</affiliation>
+               <socecStatus>ResZugsf.</socecStatus>
+               <affiliation>k. k. GebArtAbt. 22, 3. Batt.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -4613,7 +4991,8 @@
                   <surname>Stergar</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>LstSapp., SappErsB. Marburg, 1/44. SappKomp.</affiliation>
+               <socecStatus>LstSapp.</socecStatus>
+               <affiliation>SappErsB. Marburg, 1/44. SappKomp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -4625,7 +5004,8 @@
                   <surname>Susmelj</surname>
                   <forename>Hermann</forename>
                </persName>
-               <affiliation>Infst., IR. Nr. 27, zugeteilt den» DivSturmb, Nr. 6, 2. Sturmkomp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 27, zugeteilt den» DivSturmb, Nr. 6, 2. Sturmkomp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4637,7 +5017,8 @@
                   <surname>Vidmar</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>LstGefr., k. k. GschR. Nr. 2, MGKomp. I</affiliation>
+               <socecStatus>LstGefr.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, MGKomp. I</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
@@ -4649,7 +5030,8 @@
                   <surname>Zigon</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Zugsf., k. k. GschR. Nr. 2, 2. Komp.</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4661,7 +5043,8 @@
                   <surname>Kavča</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 17, zugeteilt dem IR. TechnKomp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 17, zugeteilt dem IR. TechnKomp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4673,7 +5056,8 @@
                   <surname>Mačuš</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Schütze, k. k. GschR. Nr. 2, 11. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 11. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
@@ -4685,7 +5069,8 @@
                   <surname>Milič</surname>
                   <forename>Ernst</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -4697,7 +5082,8 @@
                   <surname>Pirih</surname>
                   <forename>Stefan</forename>
                </persName>
-               <affiliation>LstDrag., DR. Nr. 5, zugeteilt dem k. u. k. FAR. Nr. 4, 4. Schwd.</affiliation>
+               <socecStatus>LstDrag.</socecStatus>
+               <affiliation>DR. Nr. 5, zugeteilt dem k. u. k. FAR. Nr. 4, 4. Schwd.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
@@ -4709,7 +5095,8 @@
                   <surname>Rebek</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Oberkan., k. k. LstArtAbt. Nr. 6/3</affiliation>
+               <socecStatus>Oberkan.</socecStatus>
+               <affiliation>k. k. LstArtAbt. Nr. 6/3</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4721,7 +5108,8 @@
                   <surname>Kemperle</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 7. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 17, 7. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -4733,7 +5121,8 @@
                   <surname>Malnarcič</surname>
                   <forename>Ivan</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 6, 12. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 6, 12. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
@@ -4745,7 +5134,8 @@
                   <surname>Pervanyja</surname>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Zugsf., k. k. GschR. Nr. 2, 5. Komp.</affiliation>
+               <socecStatus>Zugsf.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 5. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
@@ -4757,7 +5147,8 @@
                   <surname>Slejko</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Gefr., k. k. GschR. Nr. 2, 11. Komp.</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 2, 11. Komp.</affiliation>
                <birth>
                   <country>Görz und Giadiska</country>
                   <region>Görz</region>
@@ -4769,7 +5160,8 @@
                   <surname>Žerjal</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 3. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, zugeteilt dem IR. Nr. 17, 3. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -4781,7 +5173,8 @@
                   <surname>Ursic</surname>
                   <forename>Adolf</forename>
                </persName>
-               <affiliation>Lt., k. k. GebSchR. Nr. 2, 2. Komp.</affiliation>
+               <socecStatus>Lt.</socecStatus>
+               <affiliation>k. k. GebSchR. Nr. 2, 2. Komp.</affiliation>
                <birth>
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
@@ -4793,7 +5186,8 @@
                   <surname>Ursic</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Oblt. i. d. Res., IR. Nr. 47</affiliation>
+               <socecStatus>Oblt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 47</affiliation>
                <birth>
                   <country>Görz uud Gradisca</country>
                   <region>Sesana</region>
@@ -4805,7 +5199,8 @@
                   <surname>Sorli</surname>
                   <forename>Andreas</forename>
                </persName>
-               <affiliation>Schütze, k. k. SchR. Nr. 5, zugeteilt dem k. k. GschR. Nr. 1, 11. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. SchR. Nr. 5, zugeteilt dem k. k. GschR. Nr. 1, 11. Komp.</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
