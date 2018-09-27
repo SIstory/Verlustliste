@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Primorska</title>
+            <title>Osebe brez označenega okraja</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../Verlustliste.xml">TEI Corpus za XML direktorij</ref>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="vll.19150206_121.2064">
+               <note>Burek Sulejman, IR. ?</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>Mufelkosch?, kriegsgef.(EIabuga, Gouvernement Kasan, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150429_169.728">
+               <note>Xovakovic Robert, Lt. i. d. Res., k. k. LIR. Nr. 5</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2824">
+               <note>Giachin Josef, ErsRes., IR. Nr. 88, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.5464">
+               <note>Mtthorcic Johann, Inft., IR. Nr. 87, 7. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.7342">
+               <note>Prejuha Bozos, Inft., IR. Nr. 87, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150508_174.3308">
+               <note>Geroschitsch Karl</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef. (Elabuga, Gouvernement Wjatka, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150513_177.3796">
+               <note>Gerbas Ahoi, ErsRes., FJB. Nr. 20, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150513_177.14720" sameAs="VIL.103">
+               <note>Castellan Peter Paul Anton, FrsRes., FJB.. Nr. 20,. </note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150617_195.3462">
+               <note>Hersch Dina</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef. (Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150625_200.2298">
+               <note>Damian Anton, ErsRes., IR. Nr. 97, I. ErsKomp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150625_200.9366">
+               <note>Sekly Josef</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>verw., kriegsgef. (Evakuationslazarett in Nishnij-Nowgorod, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150625_200.12022">
+               <note>Cisilin Heinrich, Inft., IR. Nr. 97, IB. K-omp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150625_200.12036">
+               <note>Puenar Valentin, ErsRes., IR. Nr. 97,1. ErsKomp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150625_200.12046">
+               <note>Vidoz Anton, Inft., IR. Kr. 97, 4. statt 7. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150717_213.5406">
+               <note>Kumar Valentin, Lstlnft., k. k. LdsGendKmdo. Nr. 7, GendAssistenz</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>tot (23.—21./5. 1915).</note>
+            </person>
+            <person xml:id="vll.19150814_237.1246">
+               <note>Battiston Theofil, Inft., IR. Nr. 7,13. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1888, verw. ■</note>
+            </person>
+            <person xml:id="vll.19150821_244.2800">
+               <note>Fnrlanick Dominik, Inft., k. k. LIR. Nr. 37, 5.' Kcm^.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19150821_244.3966">
+               <note>Juraniö Georg, Inft., k. k. LIR. Nr. 37, 5. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1888, verw.</note>
+            </person>
+            <person xml:id="vll.19150825_247.1832">
+               <note>Covaclch Johann, Inft., k. k. LTR. Nr. 36, 5. Kcmp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1883, verw.</note>
+            </person>
+            <person xml:id="vll.19150825_247.2984">
+               <note>Gobo Gottfried, Inft., k. k. LIR. Nr. 36, 5. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1883, tot (1.-4./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150825_247.3878">
+               <note>Jeller Josef, Inft., k.' k. LIR. Nr. 36, 3. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1891, verw/</note>
+            </person>
+            <person xml:id="vll.19150825_247.6798">
+               <note>Renko Josef, Inft., k. k. LIR. Nr. 36, 8, Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1883, verw.</note>
+            </person>
+            <person xml:id="vll.19150825_247.8372">
+               <note>ToHoj Lorenz, Inft., k. k. LIR. Nr. 33, 2. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19150826_248.2248">
+               <note>Cnmnlieh Nikolaus, Inft., k. k. LIR. Nr. 37, 3. Komp., </note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19150826_248.8558">
+               <note>Skopaz Johann, Eeslnft., k. k. LIE. Nr. 37, (k. k. LIR. Nr. 5) 1. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1886, verw.</note>
+            </person>
+            <person xml:id="vll.19150826_248.10348">
+               <note>Zerjal Johann, Inft., k. k. LTE. Nr. 37 (k. k. LiR. Nr. 5)</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1892, tot (11.—20./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19150829_251.2290">
+               <note>Devedac Anton</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef. (Reserve-Militärspital Nr. 1 in Čačak, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19150910_263.5432">
+               <note>Onicic Josef, Inft., k. k. LstB. Nr. 156,1. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1883, verw.</note>
+            </person>
+            <person xml:id="vll.19150927_276.5326">
+               <note>Luscha Rafael</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef., gestorben 7./2. 1915 im ResMilSpit. Nr. 7 in Nis, Serbien.</note>
+            </person>
+            <person xml:id="vll.19151003_282.4730">
+               <note>Kage Mihajl</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef. (Gestorben 22./1. 1915 im 7. ResMilSpit. in Nis, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19151005_284.698">
+               <note>Cernogoi Karl, Kdt. i. d. Res., IR. Nr. 80, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1892, verw.</note>
+            </person>
+            <person xml:id="vll.19151020_296.2148">
+               <note>Debla Antok; </note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef. (Gestörben am 23. 1. 1915 im 3. Reserve-Militär-Spital in Valjevo, Serbien.)</note>
+            </person>
+            <person xml:id="vll.19151107_309.2008">
+               <note>Braikowicz Martin, Inft., k. k. LIR. Nr. 22., 8. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1895, tot (1./3.-31./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19151107_309.2018">
+               <note>Brcevic Josef, Inft., k. k. LIR. Nr. 22, 8. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.10382">
+               <note>Witory Luigi, Inft,, k. k. LIR. Nr. 20, 6. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1889, verw.</note>
+            </person>
+            <person xml:id="vll.19151213_334.1432">
+               <note>Bersot Giovani, Inft., k. k. LIR. Nr. 36,10. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1896, verw.</note>
+            </person>
+            <person xml:id="vll.19151213_334.3588">
+               <note>Gerion Agostino, Inft., k. k. LIR. Nr. 20, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1891, kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19151222_340.9498">
+               <note>Tonezar Josef, Inft., IR. Nr. 83,12, Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1876, kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19160104_349.6492">
+               <note>Moscon Robert, Jäg., FJB. Nr. 19, 2. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19160107_351.4774">
+               <note>Jakomin Rudolf, Inft., k. k. LIR. Nr. 5 (zugeteilt dem k. k. LIR. Nr. 37), 3. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1894; verw.</note>
+            </person>
+            <person xml:id="vll.19160108_352.6690">
+               <note>Rocco Dominik, Inft., IR. Nr. 7, 13. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1877; verw.</note>
+            </person>
+            <person xml:id="vll.19160110_353.4656">
+               <note>Jelenić Johann. Inft., k. k. LIR. Nr. 23, 2. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1899; tot (3./11.1915).</note>
+            </person>
+            <person xml:id="vll.19160110_353.7000">
+               <note>Mikori Jakob, Inft., k. k. LIR. Nr. 23, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1894; verw.</note>
+            </person>
+            <person xml:id="vll.19160201_368.11662">
+               <note>Vončina Johann, Inft., IR, Nr. 55, 13. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19160208_373.3188">
+               <note>Grisila Pasqual, Lstlnft., IR. Nr. 55, 7. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19160208_373.6574">
+               <note>Panlovič Josef, Inft., IR. Nr. 55, 5. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19160208_373.7336">
+               <note>Rustia Anton, Inft., IR. Kr. 55, 16. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1889; verw.</note>
+            </person>
+            <person xml:id="vll.19160208_373.7878">
+               <note>Switič Anton, LstInft., IR. Nr. 55, 7. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19160208_373.8854">
+               <note>Wujcik Johann, Inft., IR. Kr. 65, 16. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1877, verw.</note>
+            </person>
+            <person xml:id="vll.19160318_395.6140">
+               <note>Kljun Johann, ResInft., k. k. LIR. Nr. 5, 3. ErsKomp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1880; kriegsgef., Pensa, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160318_395.8938">
+               <note>Pipan Johann, ErsRes., k. k. LIR. Nr. 5, 1. ErsKomp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1883; verw., kriegsgef., 42. Reserve-Evakuationsspital in Rjäsan, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160401_402.1646">
+               <note>Bujič Marko, Inft., IR. Nr. 17, 6. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1892; kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19160510_419.6862">
+               <note>Koren Johann, LstInft., k. k. LIR. Nr. 37, 10. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19160529_425.1504">
+               <note>Bergudač Anton, Jäg., FJB. Nr. 8, 3. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1873; verw.</note>
+            </person>
+            <person xml:id="vll.19160624_434.16824">
+               <note>Zenzerovich Josef, Inft., IR. Nr. 27, 4. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1895; verw.</note>
+            </person>
+            <person xml:id="vll.19160816_452.2850">
+               <note>Dajčič Anton, Inft., k. k. LIR. Nr. 23, 9. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1882; verw.</note>
+            </person>
+            <person xml:id="vll.19160819_454.15874">
+               <note>Trucznowicz Josef, Inft., IR. Nr. 40, 6. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160824_455.10858">
+               <note>Spazzal Josef, Inft., k. k. LIR. Nr. 5. zuget. dem k. k. LstB. Nr. 152, 2. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1875; verw.</note>
+            </person>
+            <person xml:id="vll.19160824_455.11280">
+               <note>Sychra Josef, Inft., IR. Nr. 47, 2, Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1890; verw.</note>
+            </person>
+            <person xml:id="vll.19160826_456.12356">
+               <note>Skoczaj Anton, Inft., k. k. LIR. 36, 2. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1881; verw.</note>
+            </person>
+            <person xml:id="vll.19160829_457.8250">
+               <note>Pelikan Franz, FinanzwachOberaufseher, Finanzwachinspektorat, Görz, Abt. Nr. 5, Posten Nr. 1</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef., Castelrocchero, Italien.</note>
+            </person>
+            <person xml:id="vll.19161221_505.13212">
+               <note>Trusnowicz Josef, Infst., IR. Nr. 40, 12. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19170329_544.3184">
+               <note>Černe Eduard, Infst., k. k. LIR. Nr. 27, 10. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1899; tot (2. 11. 1916).</note>
+            </person>
+            <person xml:id="vll.19170411_552.2656">
+               <note>Chermel Karl, LstInfst., k. k. LstIB. IV/2, 2. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1873; tot (2./1. 1917).</note>
+            </person>
+            <person xml:id="vll.19170414_554.2778">
+               <note>Dobrilovics Marelli, LstInfst., IR. Nr. 52, 9. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1896; kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="v11.19170418_556.1612">
+               <note>Benedetti Gregor, Infst., k. k. LstIR. Nr. 27, MGKomp. I</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1873; verw.</note>
+            </person>
+            <person xml:id="vll.19170424_559.1400">
+               <note>Baša Johann, LstInfst., IR. Nr. 17, zugeteilt dem TJR. Nr. 3, 7. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1875; verw.</note>
+            </person>
+            <person xml:id="vll.19170424_559.10730">
+               <note>Raccovac Benjamin, LstInfst., k. k. LIR. Nr. 6</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1876; verw.</note>
+            </person>
+            <person xml:id="vll.19170430_563.7028">
+               <note>Lubjana Johann, Infst., k. k. LIR. Nr. 4, 7. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1897; kriegsgef.(War verw. und kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19170508_569.1488">
+               <note>Baskar Anton, LstInfst., IR. Nr. 55, 11. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19170508_569.14692">
+               <note>Vattovaz August, Infst., IR. Nr. 55, 6. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1887; kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19170728_603.11654">
+               <note>Trusztnowic Josef, LstInfst., IR. Nr. 40, 12, Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19170814_607.5414">
+               <note>Kussmitsch, Schütze, k. k. KschR. Nr. I, 9. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180824_692.9150">
+               <note>Mosettig Ernst, LstInfst., IR. Nr. 97, 6. Komp.</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1882; gestorben (23./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19181005_697.1030">
+               <note>Miklančič Viktor, Lt., TJR. Nr. 2, Triest</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>(War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181126_702.12158">
+               <note>Petteros Josef, Autosold., Kraftfahruuppe</note>
+               <birth>
+                  <country>Küstenland</country>
+               </birth>
+               <note>1875; gestorben (15./7. 1918).</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

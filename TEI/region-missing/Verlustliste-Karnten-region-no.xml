@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Koroška</title>
+            <title>Osebe brez označenega okraja</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../Verlustliste.xml">TEI Corpus za XML direktorij</ref>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="vll.19150415_161.3714">
+               <note>Kattin Jakob, Fahrsold., PiohAbt. Kr. 3, 1. Komp.,</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150415_161.3762">
+               <note>Keuschnig Anton, Pinn., PionB. Kr. 3, 1. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150415_161.4768">
+               <note>Malle Georg, Inft,, LstMarschB. Nr. 11, 1. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2534">
+               <note>Fischer Peter, Korp., k. k. LIK. Nr. 4, 1. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2666">
+               <note>Fritz PeteT, Inft., k. k. LIR. Nr. 4, 4. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2920">
+               <note>Grabner Peter, Inft., k. k. LIK. Nr. 4, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2970">
+               <note>Groelicr Leopold, k. k. LIE. Nr. 4, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.2976">
+               <note>Groger Johann, Inft., k. k. LIE. Nr. 4, MGA. 8/4</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+            </person>
+            <person xml:id="vll.19150506_173.5520">
+               <note>Malle Mathias, ErsRes, k. k. LIR. Nr. 4, 4. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.6996">
+               <note>Poglitsclx Rupert, ErsRes., k. k. LIE. Nr. 4</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.7336">
+               <note>Preiinl Gottiieb, Inft, k. k. LIR. Nr. 4, 4. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.8540">
+               <note>Smrpkar Kristian, Inft., k. k. LIK. Nr. 4, 10. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150506_173.10968" sameAs="VIL.93">
+               <note>ülurer Franz, Inft., k. k. LIR. Nr. 4, 5. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19150520_182.4326">
+               <note>Kavalireck Franz, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (April 1915).</note>
+            </person>
+            <person xml:id="vll.19150520_182.5216">
+               <note>Lach Adalbert, Inft., IE. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (April 1915).</note>
+            </person>
+            <person xml:id="vll.19150520_182.7240">
+               <note>Piskernik Franz, Inft., IR. Nr. 7, MGA. Nr. II</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150520_182.8044">
+               <note>Sapnsch Alexander, Inft., IR. Nr. 7, MGA. Nr. 2</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150616_194.3652">
+               <note>Hassler Thomas, Inft., IR. Nr. 7, 11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (8./Ö. 1915).</note>
+            </person>
+            <person xml:id="vll.19150616_194.7488">
+               <note>Ortner Thomas, Gefr., III. Nr. 7, 16. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150616_194.9626">
+               <note>Steiner Josef, Gefr., IR. Nr. 7, 16, Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150701_203.2980">
+               <note>Feichtcr Robert, Korp., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150701_203.6058">
+               <note>lassnig Lorenz, Inft., IR. Nr.'7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150701_203.8918">
+               <note>Ssnjjsr Bruno, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150701_203.10028">
+               <note>Tlicmol Mathias, loft., IR. Kr.-7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150710_208.5440">
+               <note>Maurer Anton, Inft,, IR. Nr. 7, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1893, verw.</note>
+            </person>
+            <person xml:id="vll.19150729_223.1038">
+               <note>Antolovi« Simon, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150729_223.1572">
+               <note>BiluseLitz Franz, Inft., IR. Nr. 7,.9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150729_223.4616">
+               <note>Jesenk Lukas, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150729_223.7946">
+               <note>Orlitsch Johann II, Inft., IR. Nr. 7,9; Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150729_223.8718">
+               <note>Probst Franz, KoTp., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150729_223.11434">
+               <note>Weäcnlg Johann, Inft., IR. Nr. 7, 0. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150729_223.11472">
+               <note>Wertnig Friedrich, Inft. TitGefr., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (JÜT:i : 1915).</note>
+            </person>
+            <person xml:id="vll.19150812_235.6036">
+               <note>Lcsiak Jakob, ResFeldw., k. u. k. Gebirgstelephonabteilung, Nr. 5, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1885, verw.</note>
+            </person>
+            <person xml:id="vll.19150816_239.5986">
+               <note>Mitsche Anton, Gefr., IR. Nr. 15, 16. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.1142">
+               <note>Albaner Mathias, Inft,, IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.1208">
+               <note>Asslabcr Johann, Zugsf., IR. Nr : 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.2112">
+               <note>Dragge Josef, Inft., IR. Nr. 7, MGA. II</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.2714">
+               <note>Gröblaehcr Franz, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.3412">
+               <note>Kakl Johann, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (22./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150819_242.3574">
+               <note>Klanrer Josef, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (22./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150819_242.4750">
+               <note>Matiaschitz Anton, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.5034">
+               <note>Moser Hubert, Gefr., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.5432">
+               <note>Osehmalz Jakob, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.6154">
+               <note>Rampitsch Johann, Inft., IE. Nr. 7, MGA. II</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.6268">
+               <note>RiKdler Johann, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (22./G. 1915).</note>
+            </person>
+            <person xml:id="vll.19150819_242.6404">
+               <note>Samitü Josef, Inft., IR, Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.6864">
+               <note>Sittlinger Martin, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150819_242.8440">
+               <note>IT' I ^ ft " IK - Nr. 97,10. Komp., tot (11.-12./6,1915)' v' i* v Nr. 7, 9, Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150820_243.7246">
+               <note>Poziwanyk Michael, Gefr., IR. Nr. 58,11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1888, verw.</note>
+            </person>
+            <person xml:id="vll.19150826_248.5940">
+               <note>Makula Lorenz, Inft., k. k. LstMarschbaon. Nr. 10</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1877, verw.</note>
+            </person>
+            <person xml:id="vll.19150904_257.9008">
+               <note>Steinbach Eduard, Inft., k. k. LIR. Nr. 37, 2. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1891, verw.</note>
+            </person>
+            <person xml:id="vll.19150906_259.5008">
+               <note>Kuß Thomas, Inft., IR. Nr. 7,7. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150917_268.1662">
+               <note>Bruckner Franz, Drag., DR. Nr. 5</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19150925_274.1586">
+               <note>Böhr Ferdinand, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19150925_274.5560">
+               <note>Kuttnig Vinzenz, Inft., IR. Nr. 7, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (Juli 1915).</note>
+            </person>
+            <person xml:id="vll.19151008_287.1408">
+               <note>Bolder Christian, Inft., IR. Nr. 15, 15. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1896, verw.</note>
+            </person>
+            <person xml:id="vll.19151008_287.6100">
+               <note>Mucilnik Leopold, Inft., IR. Nr. 15, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1895, tot (16.—31./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19151008_287.7730">
+               <note>Schmid Valentin, Inft, IE. Nr. 15, 15. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.3000">
+               <note>Forster Georg, Inft., IR. Nr. 65,12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1878, verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.3022">
+               <note>Frank Martin, Inft., IR. Nr. 55, 12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1878, verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.3146">
+               <note>Galantz Paul, Inft., IR. Nr. 55, 12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1879, verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.5562">
+               <note>Lagler Filip, Inft., IR. Nr. 55, 12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1880, varw.</note>
+            </person>
+            <person xml:id="vll.19160108_352.7292">
+               <note>Skanzoni Jakob, Inft., IE. Nr. 7, 14. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>tot (10/11. 1915).</note>
+            </person>
+            <person xml:id="vll.19160208_373.8236">
+               <note>Tiefnig Johann. Inft., IR. Nr. 55, 11. Konip.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1882; tot (6./in. 1915).</note>
+            </person>
+            <person xml:id="vll.19160330_401.796">
+               <note>Applitscher Silvester, Korp. k. k. LstIR. Nr. 3. 13. Komp., Feldkirchen</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1877; kriegsgef., 10. Komb. Evakuationsspital, Moskau, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160919_466.832">
+               <note>Aigner Bernhard, Patrf., LdschR. Nr. I, 11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1885; verw.</note>
+            </person>
+            <person xml:id="vll.19161007_474.11920">
+               <note>Osojnik Gregor, Fahrkan., FKR. Nr. 28, Batt. 2</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1890; verw.</note>
+            </person>
+            <person xml:id="vll.19161024_481.8382">
+               <note>Oberwandling Matthias, LstInfstTitGefr., IR. Nr. 95, MGA. II</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1888; verw.</note>
+            </person>
+            <person xml:id="vll.19161101_485.6856">
+               <note>Koutschenig Friedrich, Infst., IR. Nr. 7, 1. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1884; verw.</note>
+            </person>
+            <person xml:id="v11.19170418_556.10462">
+               <note>Stümpfl Anton, Jäg., FJB. Nr. 8, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1881; verw.</note>
+            </person>
+            <person xml:id="vll.19180527_675.2596">
+               <note>Brandstütter Engelbert, Schütze, k. k. Kärntner freiw. SthR., 7. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>verw.</note>
+            </person>
+            <person xml:id="vll.19180605_678.8326">
+               <note>Kernmaier Rupert, InfstTitGefr., IR. Nr. 7, 1. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1883; verw.</note>
+            </person>
+            <person xml:id="vll.19181011_698.8274">
+               <note>Kftgcr Karl, ijstInfst., IR. Nr. V, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note/>
+            </person>
+            <person xml:id="vll.19181019_699.6544">
+               <note>lois, InfstTitGefr., IR. Nr. 1,12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+               </birth>
+               <note>1891; verw.</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
