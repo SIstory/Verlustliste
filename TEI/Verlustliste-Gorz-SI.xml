@@ -366,7 +366,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1898; </note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
+               <note>1898</note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19161014_477.4140" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161014&amp;seite=17&amp;zoom=33">
                <persName>
@@ -470,7 +470,7 @@
                   <country>Görz und Gradiška</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Grahovo, 1874; </note><event type="pow"><label>kriegsgef.</label><desc>, Tobolsk, Rotte 27, Rußland.</desc></event>
+               <note>Grahovo, 1874</note><event type="pow"><label>kriegsgef.</label><desc>, Tobolsk, Rotte 27, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19170403_547.14040" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170403&amp;seite=60&amp;zoom=33">
                <persName>
@@ -483,7 +483,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Peki, 1876; </note><event type="pow"><label>kriegsgef.</label><desc>, Birjutsch, Gouv. Woronesh, Rußland.</desc></event>
+               <note>Peki, 1876</note><event type="pow"><label>kriegsgef.</label><desc>, Birjutsch, Gouv. Woronesh, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19170417_555.2736" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170417&amp;seite=11&amp;zoom=33">
                <persName>
@@ -496,7 +496,7 @@
                   <country>Görz</country>
                   <region>Bata</region>
                </birth>
-               <note>1895; </note><event type="pow"><label>kriegsgef.</label><desc>, Prochorovka, Gouv. Kursk, Rußland.</desc></event>
+               <note>1895</note><event type="pow"><label>kriegsgef.</label><desc>, Prochorovka, Gouv. Kursk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19170424_559.6540" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=28&amp;zoom=33">
                <persName>
@@ -522,7 +522,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1890; </note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
+               <note>1890</note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19170814_607.4758" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170814&amp;seite=21&amp;zoom=33">
                <persName>
@@ -1733,7 +1733,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1889; </note><event type="pow"><label>kriegsgef.</label><desc>, Wolotschisk, Rußland.</desc></event>
+               <note>1889</note><event type="pow"><label>kriegsgef.</label><desc>, Wolotschisk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180313_659.7158" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180313&amp;seite=27&amp;zoom=33">
                <persName>
@@ -1902,7 +1902,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Sesana</region>
                </birth>
-               <note>Kobjeglava, 1895; </note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobölsk, Rußland.</desc></event>
+               <note>Kobjeglava, 1895</note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobölsk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180323_662.8812" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=34&amp;zoom=33">
                <persName>
@@ -1941,7 +1941,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Hrusevica, 1889; </note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobolsk, Rußland.</desc></event>
+               <note>Hrusevica, 1889</note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobolsk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180323_662.10476" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=40&amp;zoom=33">
                <persName>
@@ -1954,7 +1954,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Lokev, 1889; </note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobolsk, Rußland.</desc></event>
+               <note>Lokev, 1889</note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobolsk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180323_662.10670" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=41&amp;zoom=33">
                <persName>
@@ -1967,7 +1967,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Komen, 1894; </note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
+               <note>Komen, 1894</note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180323_662.10926" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=42&amp;zoom=33">
                <persName>
@@ -2162,7 +2162,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Berje, 1892; </note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobolsk, Rußland.</desc></event>
+               <note>Berje, 1892</note><event type="pow"><label>kriegsgef.</label><desc>, Tjumen, Gouvernement Tobolsk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180415_667.19996" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=67&amp;zoom=33">
                <persName>
@@ -2177,7 +2177,7 @@
                   <country>Görz-Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Andrä, 1876. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
+               <note>St. Andrä, 1876</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180419_668.1346" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180419&amp;seite=6&amp;zoom=33">
                <persName>
@@ -2242,7 +2242,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Drežnica, 1892. (War </note><event type="pow"><label>kriegsgef.</label><desc>Aus der Kriegsgefangenschaft zurückgekehrt.)</desc></event>
+               <note>Drežnica, 1892</note><event type="pow"><desc>(War kriegsgef. Aus der Kriegsgefangenschaft zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180424_669.7368" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=27&amp;zoom=33">
                <persName>
@@ -2268,7 +2268,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Grahova, 1895. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austsuschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
+               <note>Grahova, 1895</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austsuschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180429_670.1456" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=6&amp;zoom=33">
                <persName>
@@ -2281,7 +2281,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Idrija pri Bači, 1895. (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
+               <note>Idrija pri Bači, 1895</note><event type="pow"><desc>(War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180429_670.1672" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=7&amp;zoom=33">
                <persName>
@@ -2294,7 +2294,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kamnje, 1879; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Kamnje, 1879</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.1782" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=7&amp;zoom=33">
                <persName>
@@ -2307,7 +2307,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Grahovo, 1885; </note><event type="pow"><label>kriegsgef.</label><desc>, Kiew, Rußland.</desc></event>
+               <note>Grahovo, 1885</note><event type="pow"><label>kriegsgef.</label><desc>, Kiew, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.2184" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=8&amp;zoom=33">
                <persName>
@@ -2333,7 +2333,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Čepovan, 1883; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Čepovan, 1883</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.2404" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=9&amp;zoom=33">
                <persName>
@@ -2346,7 +2346,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Sankt Martin-Quisca, 1894; </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
+               <note>Sankt Martin-Quisca, 1894</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.3846" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=14&amp;zoom=33">
                <persName>
@@ -2372,7 +2372,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Temnica, 1881; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Temnica, 1881</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.7224" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=25&amp;zoom=33">
                <persName>
@@ -2398,7 +2398,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>St. Lucio, 1885. (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
+               <note>St. Lucio, 1885</note><event type="pow"><desc>(War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180429_670.8090" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=28&amp;zoom=33">
                <persName>
@@ -2424,7 +2424,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Čepovan</region>
                </birth>
-               <note>1887; </note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
+               <note>1887</note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180429_670.15108" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=52&amp;zoom=33">
                <persName>
@@ -2437,7 +2437,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Osek-Vitovlje, 1879; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Osek-Vitovlje, 1879</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.15152" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=52&amp;zoom=33">
                <persName>
@@ -2463,7 +2463,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Woltschach, 1888; verw., </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
+               <note>Woltschach, 1888; verw.</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180429_670.18638" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=63&amp;zoom=33">
                <persName>
@@ -2476,7 +2476,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Dol-Otlica, 1886; </note><event type="pow"><label>kriegsgef.</label><desc>, Potschinki, Gouvernement NishHij-Nowgorod, Rußland.</desc></event>
+               <note>Dol-Otlica, 1886</note><event type="pow"><label>kriegsgef.</label><desc>, Potschinki, Gouvernement NishHij-Nowgorod, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180511_672.5232" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=21&amp;zoom=33">
                <persName>
@@ -2489,7 +2489,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1887; </note><event type="pow"><label>kriegsgef.</label><desc>, Rusajewka, Rußland.</desc></event>
+               <note>1887</note><event type="pow"><label>kriegsgef.</label><desc>, Rusajewka, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180511_672.6916" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=28&amp;zoom=33">
                <persName>
@@ -2762,7 +2762,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1887; </note><event type="pow"><label>kriegsgef.</label><desc>, Schazk, Gouvernement, Tambow, Rußland.</desc></event>
+               <note>1887</note><event type="pow"><label>kriegsgef.</label><desc>, Schazk, Gouvernement, Tambow, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180605_678.12052" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=47&amp;zoom=33">
                <persName>
@@ -2814,7 +2814,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>(War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege zurückgekehrt.)</desc></event>
+               <event type="pow"><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180610_679.6302" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180610&amp;seite=28&amp;zoom=33">
                <persName>
@@ -3022,7 +3022,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Bäte, 1879; </note><event type="pow"><label>kriegsgef.</label><desc>, Simbirsk, Rußland.</desc></event>
+               <note>Bäte, 1879</note><event type="pow"><label>kriegsgef.</label><desc>, Simbirsk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180620_681.1622" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=8&amp;zoom=33">
                <persName>
@@ -3126,7 +3126,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Cerkno, 1881. (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Cerkno, 1881</note><event type="pow"><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180709_684.6954" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=25&amp;zoom=33">
                <persName>
@@ -3152,7 +3152,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Lekovec, 1880; </note><event type="pow"><label>kriegsgef.</label><desc>, Serdobsk, Gouvernement Saratow, Rußland.</desc></event>
+               <note>Lekovec, 1880</note><event type="pow"><label>kriegsgef.</label><desc>, Serdobsk, Gouvernement Saratow, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180709_684.10278" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=36&amp;zoom=33">
                <persName>
@@ -3165,7 +3165,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Sabrelje, 1388; </note><event type="pow"><label>kriegsgef.</label><desc>, Jenotajewsk, Gouvernement Astrachan, Rußland.</desc></event>
+               <note>Sabrelje, 1388</note><event type="pow"><label>kriegsgef.</label><desc>, Jenotajewsk, Gouvernement Astrachan, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180709_684.10304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=36&amp;zoom=33">
                <persName>
@@ -3191,7 +3191,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Cerhno, 1885; </note><event type="pow"><label>kriegsgef.</label><desc>, Narowtschat, Gouvernement Pensa, Rußland.</desc></event>
+               <note>Cerhno, 1885</note><event type="pow"><label>kriegsgef.</label><desc>, Narowtschat, Gouvernement Pensa, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180713_685.7338" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=26&amp;zoom=33">
                <persName>
@@ -3204,7 +3204,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Cezsoča, 1886; </note><event type="pow"><label>kriegsgef.</label><desc>, Pensa, Rußland.</desc></event>
+               <note>Cezsoča, 1886</note><event type="pow"><label>kriegsgef.</label><desc>, Pensa, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19180713_685.8796" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=31&amp;zoom=33">
                <persName>
@@ -3217,7 +3217,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Brestovica, 1891; </note><event type="pow"><label>kriegsgef.</label><desc>, Genova, Forte Begato, Italien.</desc></event>
+               <note>Brestovica, 1891</note><event type="pow"><label>kriegsgef.</label><desc>, Genova, Forte Begato, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180713_685.9304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=32&amp;zoom=33">
                <persName>
@@ -3295,7 +3295,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Podgora, 1888; </note><event type="pow"><label>kriegsgef.</label><desc>, Monreale, Italien.</desc></event>
+               <note>Podgora, 1888</note><event type="pow"><label>kriegsgef.</label><desc>, Monreale, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180723_687.3338" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=13&amp;zoom=33">
                <persName>
@@ -3347,7 +3347,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1885; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>Kal, 1885</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180723_687.6516" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=24&amp;zoom=33">
                <persName>
@@ -3360,7 +3360,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Ajba, 1891; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>Ajba, 1891</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180723_687.6532" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=24&amp;zoom=33">
                <persName>
@@ -3399,7 +3399,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Vrtovin, 1894; (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Vrtovin, 1894</note><event type="pow"><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180723_687.7540" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=27&amp;zoom=33">
                <persName>
@@ -3412,7 +3412,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Solkan, 1895; </note><event type="pow"><label>kriegsgef.</label><desc>, Sipote, Rumänien.</desc></event>
+               <note>Solkan, 1895</note><event type="pow"><label>kriegsgef.</label><desc>, Sipote, Rumänien.</desc></event>
             </person>
             <person xml:id="vll.19180723_687.9246" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=33&amp;zoom=33">
                <persName>
@@ -3451,7 +3451,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Florian, 1887; </note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien.</desc></event>
+               <note>St. Florian, 1887</note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180723_687.10810" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=38&amp;zoom=33">
                <persName>
@@ -3477,7 +3477,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Idersko, 1887; </note><event type="pow"><label>kriegsgef.</label><desc>, Forli, Italien.</desc></event>
+               <note>Idersko, 1887</note><event type="pow"><label>kriegsgef.</label><desc>, Forli, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180801_688.8500" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=32&amp;zoom=33">
                <persName>
@@ -3490,7 +3490,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>1875; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>1875</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180801_688.8596" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=32&amp;zoom=33">
                <persName>
@@ -3516,7 +3516,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>St. Luzia, 1876; </note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien,</desc></event>
+               <note>St. Luzia, 1876</note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien,</desc></event>
             </person>
             <person xml:id="vll.19180801_688.10204" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=38&amp;zoom=33">
                <persName>
@@ -3529,7 +3529,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Vogrsko, 1495; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Vogrsko, 1495</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180801_688.12558" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=46&amp;zoom=33">
                <persName>
@@ -3542,7 +3542,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Čadra, 1874; </note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien.</desc></event>
+               <note>Čadra, 1874</note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180801_688.14896" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=56&amp;zoom=33">
                <persName>
@@ -3555,7 +3555,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Gabrije, 1877; </note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien.</desc></event>
+               <note>Gabrije, 1877</note><event type="pow"><label>kriegsgef.</label><desc>, Asinara, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180805_689.2278" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=10&amp;zoom=33">
                <persName>
@@ -3581,7 +3581,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Slivno, 1898; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>Slivno, 1898</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180805_689.12280" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=48&amp;zoom=33">
                <persName>
@@ -3594,7 +3594,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Körnen, 1892; </note><event type="pow"><label>kriegsgef.</label><desc>, Firenze, Italien.</desc></event>
+               <note>Körnen, 1892</note><event type="pow"><label>kriegsgef.</label><desc>, Firenze, Italien.</desc></event>
             </person>
             <person xml:id="vll.19180812_690.3490" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=20&amp;zoom=33">
                <persName>
@@ -3658,7 +3658,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Grahovo, 1896. (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Grahovo, 1896</note><event type="pow"><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19180812_690.11282" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=49&amp;zoom=33">
                <persName>
@@ -3905,7 +3905,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Dornberg, 1891; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien,</desc></event>
+               <note>Dornberg, 1891</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien,</desc></event>
             </person>
             <person xml:id="vll.19180928_695.2446" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=12&amp;zoom=33">
                <persName>
@@ -3918,7 +3918,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Dutovlje, 1889. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austauschwege zurückgekehrt]</desc></event>
+               <note>Dutovlje, 1889</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt]</desc></event>
             </person>
             <person xml:id="vll.19180928_695.2720" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=13&amp;zoom=33">
                <persName>
@@ -3969,7 +3969,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Svino, 1886; </note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Svino, 1886</note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19181002_696.4090" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=15&amp;zoom=33">
                <persName>
@@ -3982,7 +3982,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1884; </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
+               <note>1884</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181002_696.4400" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=16&amp;zoom=33">
                <persName>
@@ -4008,7 +4008,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Bäte, 1894, </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Bäte, 1894</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181002_696.9412" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=34&amp;zoom=33">
                <persName>
@@ -4021,7 +4021,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>St. Veitsberg, 1876; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>St. Veitsberg, 1876</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181002_696.10654" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=38&amp;zoom=33">
                <persName>
@@ -4034,7 +4034,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Bovec, 1896; </note><event type="pow"><label>kriegsgef.</label></event>
+               <note>Bovec, 1896</note><event type="pow"><label>kriegsgef.</label></event>
             </person>
             <person xml:id="vll.19181002_696.11836" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=43&amp;zoom=33">
                <persName>
@@ -4047,7 +4047,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1895; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Kal, 1895</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181002_696.12578" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=45&amp;zoom=33">
                <persName>
@@ -4060,7 +4060,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Trnovo, 1876; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Trnovo, 1876</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181002_696.12638" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=46&amp;zoom=33">
                <persName>
@@ -4073,7 +4073,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Dörnberg, 1887; </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
+               <note>Dörnberg, 1887</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181002_696.14310" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=52&amp;zoom=33">
                <persName>
@@ -4216,7 +4216,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Peter, 1876; </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien</desc></event>
+               <note>St. Peter, 1876</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien</desc></event>
             </person>
             <person xml:id="vll.19181011_698.6276" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=23&amp;zoom=33">
                <persName>
@@ -4229,7 +4229,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Opatje Selo, 1895; </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
+               <note>Opatje Selo, 1895</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.9284" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=33&amp;zoom=33">
                <persName>
@@ -4242,7 +4242,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Karfreit, 1896; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien</desc></event>
+               <note>Karfreit, 1896</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien</desc></event>
             </person>
             <person xml:id="vll.19181011_698.10312" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=36&amp;zoom=33">
                <persName>
@@ -4268,7 +4268,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Idersko, 1885; </note><event type="pow"><label>kriegsgef.</label><desc>, Aquila, Italien.</desc></event>
+               <note>Idersko, 1885</note><event type="pow"><label>kriegsgef.</label><desc>, Aquila, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.11046" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=39&amp;zoom=33">
                <persName>
@@ -4281,7 +4281,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Schönpass, 1898; </note><event type="pow"><label>kriegsgef.</label><desc>, Aquila, Italien.</desc></event>
+               <note>Schönpass, 1898</note><event type="pow"><label>kriegsgef.</label><desc>, Aquila, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.11654" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=41&amp;zoom=33">
                <persName>
@@ -4294,7 +4294,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1887; verw., </note><event type="pow"><label>kriegsgef.</label><desc>, Cesena, Italien,</desc></event>
+               <note>1887; verw.</note><event type="pow"><label>kriegsgef.</label><desc>, Cesena, Italien,</desc></event>
             </person>
             <person xml:id="vll.19181011_698.12176" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=43&amp;zoom=33">
                <persName>
@@ -4320,7 +4320,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Quisca, 1885; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Quisca, 1885</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.13022" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=46&amp;zoom=33">
                <persName>
@@ -4333,7 +4333,7 @@
                   <country>Gorz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1894; </note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien. .</desc></event>
+               <note>1894</note><event type="pow"><label>kriegsgef.</label><desc>, Cassino, Italien. .</desc></event>
             </person>
             <person xml:id="vll.19181011_698.13422" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=47&amp;zoom=33">
                <persName>
@@ -4346,7 +4346,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Haiderschaft</region>
                </birth>
-               <note>1891: </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>1891</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.13698" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=48&amp;zoom=33">
                <persName>
@@ -4359,7 +4359,11 @@
                   <country>Görz u. Gradisca</country>
                   <region>Görz</region>
                </birth>
-               <note>Cerovo, 1881; krieggef., Padula, Italien.</note>
+               <note>Cerovo, 1881</note>
+               <event type="pow">
+                  <label>krieggef.</label>
+                  <desc>Padula, Italien.</desc>
+               </event>
             </person>
             <person xml:id="vll.19181011_698.15096" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=53&amp;zoom=33">
                <persName>
@@ -4372,7 +4376,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1884; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien,</desc></event>
+               <note>Kal, 1884</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien,</desc></event>
             </person>
             <person xml:id="vll.19181011_698.15108" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=53&amp;zoom=33">
                <persName>
@@ -4385,7 +4389,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>1885; verw., </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italia.;</desc></event>
+               <note>1885; verw.</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italia.;</desc></event>
             </person>
             <person xml:id="vll.19181011_698.15362" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=54&amp;zoom=33">
                <persName>
@@ -4398,7 +4402,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>St. Luzia, 1896; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>St. Luzia, 1896</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.15364" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=54&amp;zoom=33">
                <persName>
@@ -4411,7 +4415,7 @@
                   <country>Görz und Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Volarje, 1882; </note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
+               <note>Volarje, 1882</note><event type="pow"><label>kriegsgef.</label><desc>, Padula, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.16206" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=57&amp;zoom=33">
                <persName>
@@ -4424,7 +4428,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Heiligenkreuz, 1880; </note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Heiligenkreuz, 1880</note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19181011_698.16224" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=57&amp;zoom=33">
                <persName>
@@ -4437,7 +4441,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Bača-Podbrdo, 1887; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Bača-Podbrdo, 1887</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181011_698.16578" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=59&amp;zoom=33">
                <persName>
@@ -4450,7 +4454,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Salcano, 1895; </note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
+               <note>Salcano, 1895</note><event type="pow"><label>kriegsgef.</label><desc>, Avezzano, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181019_699.4228" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=17&amp;zoom=33">
                <persName>
@@ -4554,7 +4558,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Schönpass, 1896; </note><event type="pow"><label>kriegsgef.</label><desc>, Aquila, Italien.</desc></event>
+               <note>Schönpass, 1896</note><event type="pow"><label>kriegsgef.</label><desc>, Aquila, Italien.</desc></event>
             </person>
             <person xml:id="vll.19181105_700.10306" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=38&amp;zoom=33">
                <persName>
@@ -4671,7 +4675,7 @@
                   <country>Görz u. Gradisca</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Woltschach, 1887; </note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Woltschach, 1887</note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19181126_702.5240" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=22&amp;zoom=33">
                <persName>
@@ -4723,7 +4727,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>1881; </note><event type="pow"><label>kriegsgef.</label><desc>(War Kriegsgef. In Austauschwege zurückgekehrt.)</desc></event>
+               <note>1881</note><event type="pow"><label>kriegsgef.</label><desc>(War Kriegsgef. In Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19181126_702.14888" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=55&amp;zoom=33">
                <persName>
@@ -4853,7 +4857,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Dörnberg, 1893; kriegsgef (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Dörnberg, 1893</note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19181204_703.15828" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=59&amp;zoom=33">
                <persName>
@@ -4945,7 +4949,7 @@
                   <country>Görz u. Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Sela, 1882. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austauschwege zurückgekehlt.)</desc></event>
+               <note>Sela, 1882</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austauschwege zurückgekehlt.)</desc></event>
             </person>
             <person xml:id="vll.19181219_705.12382" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=45&amp;zoom=33">
                <persName>
@@ -4958,7 +4962,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Komen, 1881. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austauschwegezurückgekehrt.)</desc></event>
+               <note>Komen, 1881</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austauschwegezurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19181224_706.4882" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=21&amp;zoom=33">
                <persName>
@@ -5075,7 +5079,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>Repen, 1875; kriegsgef (War </note><event type="pow"><label>kriegsgef.</label><desc>Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Repen, 1875</note><event type="pow"><label>kriegsgef.</label><desc>(War kriegsgef. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19190103_707.12304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=48&amp;zoom=33">
                <persName>
@@ -5101,7 +5105,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
                </birth>
-               <note>Gaberje, 1874. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>Gaberje, 1874</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19190114_709.7716" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=29&amp;zoom=33">
                <persName>
@@ -5127,7 +5131,7 @@
                   <country>Görz und Gradiska</country>
                   <region>Sesana</region>
                </birth>
-               <note>1877. (War </note><event type="pow"><label>kriegsgef.</label><desc>gemeldet. Im Austauschwege zurückgekehrt.)</desc></event>
+               <note>1877</note><event type="pow"><desc>(War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</desc></event>
             </person>
             <person xml:id="vll.19190114_709.12802" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=47&amp;zoom=33">
                <persName>
