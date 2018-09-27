@@ -13,6 +13,8 @@
     
     <xsl:output method="xml" indent="yes"/>
     
+    <xsl:param name="country">Steiermark</xsl:param>
+    
     <xsl:template match="/">
         <TEI>
             <teiHeader>
@@ -30,7 +32,9 @@
                 <body>
                     <listPlace>
                         <place type="country">
-                            <country>Krain</country>
+                            <country>
+                                <xsl:value-of select="$country"/>
+                            </country>
                             <xsl:for-each-group select="tei:TEI/tei:text/tei:body/tei:listPerson/tei:person" group-by="tei:birth/tei:region">
                                 <xsl:sort select="current-grouping-key()"/>
                                 <place type="region">
