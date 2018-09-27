@@ -1,0 +1,3220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Slovenska Goriška</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../TEI/Verlustliste-Gorz.xml"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="vll.19151224_342.8436">
+               <note>Scuka Jos. Anton, Ldsch., LdschR. Nr. III, 14. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Skrbina, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160523_423.10374">
+               <note>Pirich Andr., Ldsch., k. k. LdschB. Nr. I, 1. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Veitsberg, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19160523_423.12874">
+               <note>Sulic Andrej, Ldsch., k. k. LdschR. Nr. I, 11. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Prvačina, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19160525_424.5320">
+               <note>Hoban Josef, Vorm., FstAB. Nr. 6</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Biglia, 1887; verw.</note>
+            </person>
+            <person xml:id="vll.19160624_434.3862">
+               <note>Ferdin Karl, Inft., k. k. LIR. Nr. 27, zugeteilt dem k. k. LstB. Nr. 30, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Heidenschaft</region>
+               </birth>
+               <note>1802; verw.</note>
+            </person>
+            <person xml:id="vll.19160701_436.10736">
+               <note>Perlot Karl, LstInft., IR. Nr. 58</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Nabrezina, 1895; tot (13./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19160715_441.8596">
+               <note>Pachor Josef, Ldsch., LdschR. Nr. I, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Grädisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Brestowica, 1874; verw.</note>
+            </person>
+            <person xml:id="vll.19160715_441.8776">
+               <note>Pelikan Benedikt, Inft., k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Merna, 1889; verw.</note>
+            </person>
+            <person xml:id="vll.19160720_443.11938">
+               <note>Suligoi Johann, Ldsch., LdschR. Nr. II, StabPionAbt.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Auzza, 1877; verw.</note>
+            </person>
+            <person xml:id="vll.19160807_449.5052">
+               <note>Hrwat Anton, LstLdsch., LdschR. Nr. II, zugeteilt dem LdschR. Nr. III, 19. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Corgnale, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160807_449.10430">
+               <note>Samsa Franz, LstLdsch., LdschR. Nr. II, zugeteiit dom LdschR. Nr. III, 19. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160807_449.11384">
+               <note>Spancic Ferinand, Ldsch., LdschR. Nr. III, 18. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kojsko, 1873; tot (30./5.1916).</note>
+            </person>
+            <person xml:id="vll.19160807_449.13728">
+               <note>Zonta Anton, LstLdsch., LdschR. Nr. IlI, 18. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol. Otlica, 1873; verw.</note>
+            </person>
+            <person xml:id="vll.19160818_453.1238">
+               <note>Badalic Johanh, Ldsch., LdschR. Nr. III, 17. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Osek, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19160829_457.6708">
+               <note>Lužnik Andreas, Ldsch., LdschR. Nr. I, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kozaršže, 1875; verw.</note>
+            </person>
+            <person xml:id="vll.19160829_457.9386">
+               <note>Seculin Arthuro, Inft., k. k. LIR. Nr. 27, zugeteilt dem FJB. Nr. 29</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1875; tot (5./6.1916).</note>
+            </person>
+            <person xml:id="vll.19160907_461.2284">
+               <note>Bratina Franz, Ldsch., LdschR. Nr. I, 10. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Doll, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19160907_461.2318">
+               <note>Brezawczek Alois, Ldsch., LdschR. Nr. I, 10. Komp.</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160907_461.6338">
+               <note>Kaucic Franz, Jäg., TJR. Nr. 2, 16. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Lipa, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160907_461.7546">
+               <note>Krajnz Johann, Ldsch., LdschR. Nr. 1, 1. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Lubinj, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19160919_466.1664">
+               <note>Borstnik Josef, Ldsch., LdschR. Nr. I, 9. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Gorz</region>
+               </birth>
+               <note>Deskla, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160919_466.5292">
+               <note>Krt Anton, Ldsch., LdschR. Nr. II, 13. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>St. Daniel, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160919_466.6272">
+               <note>Michelotti Cornelius, KorpTitZugsf., Tir. LstIB. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Trenta, 1879; verw.</note>
+            </person>
+            <person xml:id="vll.19160919_466.9138">
+               <note>Starz Anton, LstInfst., k. k. LIR. Nr. 2, 7. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Komen</region>
+               </birth>
+               <note>Dekani, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19160926_469.13412">
+               <note>Zaccon Konrad, LstInfst., k. k. LIR. Nr. 13, 14. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19161005_473.9538">
+               <note>Pausič Franz, Infst., k. k. LIR. Nr. 82, 8. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1898; kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19161014_477.4140">
+               <note>Gorianz Josef, Ldsch., LdschR. Nr. I, 9. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Deskla</region>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19161014_477.8448">
+               <note>Maraz Karl, Zugsf., k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1891; verw.</note>
+            </person>
+            <person xml:id="vll.19161014_477.10952">
+               <note>Pelicon Leopold, Infst., k. k. LIR. Nr. 27, zugeteilt dem IR. Nr. 59, MGA. 3</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Schönpaß, 1896; tot (23./7.1916).</note>
+            </person>
+            <person xml:id="vll.19161024_481.4972">
+               <note>Jazbec August, Josef, IR. Nr. 58</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1887; verw.</note>
+            </person>
+            <person xml:id="vll.19161028_483.634">
+               <note>Valentinci Antal, FeldwKdtAsp,, k. u. LIR. Nr. 20, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Deskle; verw.</note>
+            </person>
+            <person xml:id="vll.19161123_492.11126">
+               <note>Presen Johann, LstInfst., IR. Nr. 47, zugeteilt dem k. k. LIR. Nr. 24, 2. Komp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Auzze</region>
+               </birth>
+               <note>1894; verw.</note>
+            </person>
+            <person xml:id="vll.19161227_507.1960">
+               <note>Brumart Jakob, Ldsch., LdschR. Nr. I, 11. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Salkano, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19161227_507.6506">
+               <note>Leban Martin, Infst., k. k. LstIB. Nr. 99</note>
+               <birth>
+                  <country>Görz und Gradiška</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Grahovo, 1874; kriegsgef., Tobolsk, Rotte 27, Rußland.</note>
+            </person>
+            <person xml:id="vll.19170403_547.14040">
+               <note>Ussei Josef, LstInfst., IR. Nr. 26, 1. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Peki, 1876; kriegsgef., Birjutsch, Gouv. Woronesh, Rußland.</note>
+            </person>
+            <person xml:id="vll.19170417_555.2736">
+               <note>Byteznik Ivan, LstInfst, IR. Nr. 55, 3. ErsKomp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Bata</region>
+               </birth>
+               <note>1895; kriegsgef., Prochorovka, Gouv. Kursk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19170424_559.6540">
+               <note>Kogoj Franz, Schütze, KaisSchR. Nr. I, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bare, 1877; tot (11.—20./1.1917).</note>
+            </person>
+            <person xml:id="vll.19170501_564.9952">
+               <note>Petani Alois, LstInfst., IR. Nr. 100, 4. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1890; kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19170814_607.4758">
+               <note>Klaric Johann, Infst., k. k. LstIR. Nr. 2, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Vizovlje, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19170814_607.5912">
+               <note>Madon Valentin, LstInfst., k. k. LstEtpB. Nr. 418, 3. Komp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Bate</region>
+               </birth>
+               <note>1869; gefallen (29.-30./6. 1917).</note>
+            </person>
+            <person xml:id="vll.19170814_607.8134">
+               <note>Rijavec Anton, LstInfst., k. k. LstEtpB. Nr. 418, 3. Komp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Ozeljan</region>
+               </birth>
+               <note>1874; gefallen (29.—30./6.1917).</note>
+            </person>
+            <person xml:id="vll.19170901_609.3160">
+               <note>Faletič Franz, Korp., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Luico, 1892; verw.</note>
+            </person>
+            <person xml:id="vll.19171005_613.9208">
+               <note>Promozič Jakob, Schütze, k. k. GschR. Nr. 2, 7. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Renče, 1882; gestorben (22. 7. 1917).</note>
+            </person>
+            <person xml:id="vll.19171010_615.1926">
+               <note>Böllinger Alois, LstInfst., IR. Nr. 17, zugeteilt denn k. u. k. FKR. Nr. 6, 12. Komp., zugeteilt der MinenwerfBatt. 6</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Ravnica, 1875; verw.</note>
+            </person>
+            <person xml:id="vll.19171010_615.9658">
+               <note>Saksida Cyrill, Schütze, k. k. GschR. Nr. 2, 12. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1897; verw.</note>
+            </person>
+            <person xml:id="vll.19171017_618.1298">
+               <note>Arčon Anton, LstSapp., SappB. Nr. 4, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Rence, 1898; gestorben (6./9. 1917)</note>
+            </person>
+            <person xml:id="vll.19171025_620.12048">
+               <note>Visintin Alexander, LstSchütze, k. k. SchR. Nr. 6, 4. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Martin; verw.</note>
+            </person>
+            <person xml:id="vll.19171027_621.5500">
+               <note>Gregorič Anton, Infst., IR. Nr. 97, 4. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kronberg, 1898; gestorben (9./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19171027_621.6386">
+               <note>Humar Leopold, Infst., IR. Nr. 97, 15. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bäte, 1897; gestorben (11./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.1792">
+               <note>Belinger Jakob, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Gargaro, 1866; gestorben (8.5. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.2012">
+               <note>Bisalij Franz, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Volče, 1869; gestorben (5./4. 1914).</note>
+            </person>
+            <person xml:id="vll.19171108_626.3690">
+               <note>Fagauel Anton, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Osek, 1866; gestorben (4./6. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.3876">
+               <note>Gaberšek Anton, LstInfst., IR. Nr. 27, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Gabrije, 1890; verw.</note>
+            </person>
+            <person xml:id="vll.19171108_626.4464">
+               <note>Golja Johann, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Woltschach, 1893; gestorben (26.4. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.7274">
+               <note>Kavčič Josef, LstInfst., IR. Nr. 97, ErsKomp.</note>
+               <birth>
+                  <country>Görz Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1876; gestorben (5.12. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.7280">
+               <note>Klajnicek Josef, LstInfst., IR. Nr. 97, ErsKomp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1869; gestorben (18.4.1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.8126">
+               <note>Krasna Pasqual, LstInfst., IR. Nr. 97, ErsKomp.</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Haidenschaft, 1880; gestorben (27. 8. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.11814">
+               <note>Petelin Johann, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Gorjansko, 1892; gestorben (2./4. 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.11940">
+               <note>Piccinin Eduard, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1899; gestorben (11./6 - 1917).</note>
+            </person>
+            <person xml:id="vll.19171108_626.12598">
+               <note>Primozič Benedikt, LstJäg., FJB. Nr. 7, 3. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Temnica, 1874; verw.</note>
+            </person>
+            <person xml:id="vll.19171113_627.1802">
+               <note>Arčon Anton, LstSapp., SappB. Nr. 3, 4. Komp.</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Renče, 1898, verw.</note>
+            </person>
+            <person xml:id="vll.19171113_627.2774">
+               <note>Faschin Alois, LstInfst., IR. Nr. 97, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Škibina, 188l; verw.</note>
+            </person>
+            <person xml:id="vll.19171113_627.9956">
+               <note>Rosič Johann, LstInfst, IR. Nr. 97</note>
+               <birth>
+                  <country>Görz Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bäte, 1879: gestorben (30./4. 1917).</note>
+            </person>
+            <person xml:id="vll.19171119_629.13512">
+               <note>Sustersic Josef, Schütze, k. k. SchR. Nr. II, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Gorjansko, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19171119_629.14952">
+               <note>Wultsch Franz, Kan., k. u. k. FKR. Nr. 28, MinenwerferBatt. 6</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cezsoča, 1898; verw.</note>
+            </person>
+            <person xml:id="vll.19171119_629.15308">
+               <note>Zučič Johann, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Opatje Selo, 1870; gestcrbcn (31./8.1917).</note>
+            </person>
+            <person xml:id="vll.19171121_630.1806">
+               <note>Bensa Andreas, ResZugsf., IR. Nr. 95, 14. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1884; verw.</note>
+            </person>
+            <person xml:id="vll.19171121_630.8374">
+               <note>Lozar Franz, LstInfst., k. k. LstIB. Nr. 155, 4. Komp.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtovin, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19171121_630.12670">
+               <note>Stražišer Franz, ResDrag., DR. Nr. 5, 6. Schwd.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Sezana</region>
+               </birth>
+               <note>Naklo, 1890; verw.</note>
+            </person>
+            <person xml:id="vll.19171127_631.14348">
+               <note>Podkornik Josef, IR. Nr. 7</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Trnovo, 1860; gestorben (8.9. 1917)</note>
+            </person>
+            <person xml:id="vll.19171130_632.2406">
+               <note>Belle Anton, LstInfst., k. k. LstEtappB. Nr. 418, 3. Komp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Vogrsko</region>
+               </birth>
+               <note>1867; verw.</note>
+            </person>
+            <person xml:id="v11.19171204_633.12112">
+               <note>Susmelj Stefan, ErsResKan., k. u. k. FstAR. Nr. 4, 15cm KanBatt. Nr. 9</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Trnovo, 1882; verw.</note>
+            </person>
+            <person xml:id="vll.19171220_637.464">
+               <note>Galateo Edl. v. Gallinarič August, GenStbsHptm., k. k. GebBrigKmdo. Nr. 25</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1887; gestorben (17./9. 1917).</note>
+            </person>
+            <person xml:id="vll.19171220_637.6022">
+               <note>Hvala Anton, Schütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1871; gestorben (16./10. 1917).</note>
+            </person>
+            <person xml:id="vll.19171220_637.7994">
+               <note>Krapez Rudolf, Unterjäg., FJB. Nr. 20</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol. Otlica, 1885; gestorben (6./10.1917).</note>
+            </person>
+            <person xml:id="vll.19171220_637.11526">
+               <note>Eebula Josef, Sapp., Gesteinbohr-Lehr-ErsB. Wien. XXI.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>1871; gestorben (21./9. 1917).</note>
+            </person>
+            <person xml:id="vll.19171222_638.10814">
+               <note>Podgorink Rudolf, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Čepowan, 1899; gestorben (6.10. 1917).</note>
+            </person>
+            <person xml:id="vll.19171222_638.11994">
+               <note>Rahmanovič Gacanin Hajdar, LstInfst., bh. IR. Nr. 1</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Lokve, 1898; gestorben (9./10. 1917).</note>
+            </person>
+            <person xml:id="vll.19171222_638.12376">
+               <note>Rett Jakob, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Monfalcone, Aquileja, 1878; gestorben (11./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19171228_639.12568">
+               <note>Tkaczuk Ivan, Kan., k. u. k. GAR. Nr. 25</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Lokovec, 1898; gestorben (8./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19171228_639.12792">
+               <note>Tortul Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>odgora, 1879; gestorben (25. 7. 1917).</note>
+            </person>
+            <person xml:id="vll.19171228_639.13024">
+               <note>Trost Josef, Infst., IR. Nr. 97, zugeteilt dem IR. Nr. 100</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Haidenschaft, 1899; gestorben (16./10. 1917).</note>
+            </person>
+            <person xml:id="vll.19180103_640.6168">
+               <note>Kalin Stefan, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Heiligenkreuz, 1867; gestorben (29./7. 1917).</note>
+            </person>
+            <person xml:id="vll.19180105_641.4280">
+               <note>Dzeryn Paul, Schütze, k. k. SchR. Nr. 23, 8. Komp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Heiligenkreis</region>
+               </birth>
+               <note>1897; gestorben (27./9. 1917).</note>
+            </person>
+            <person xml:id="vll.19180105_641.10776">
+               <note>Piculin Anton, Sapp., SappB. Nr. 3</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Florian, 1889; gestorben (20.9.1917).</note>
+            </person>
+            <person xml:id="vll.19180105_641.10896">
+               <note>Podhornik Justin, ResInfst., IR, Nr. 7, 13. Komp,</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Cepowan</region>
+               </birth>
+               <note>1887; gestorben (16./9. 1917).</note>
+            </person>
+            <person xml:id="vll.19180118_643.10658">
+               <note>Podhornik Justin, Infst., IR. Nr. 7, 13. Komp.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Čepovan</region>
+               </birth>
+               <note>1887; gestnrben (16./9. 1917).</note>
+            </person>
+            <person xml:id="vll.19180124_645.2304">
+               <note>Cusia Josef, Schütze, k. k. SchR. Nr. 4</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Logje, 1891; gestorben (10./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180124_645.7150">
+               <note>Leban Franz, Schütze, k. k. GschR. Nr. 2, 9. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Lucia, 1887; verw.</note>
+            </person>
+            <person xml:id="vll.19180124_645.13368">
+               <note>Struckel Michael, LstKan., k. u. k. schw. FAR. Nr. 28</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Lucia, 1891; gestorben (l./ll. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.1714">
+               <note>Bespet Johann, Kan., schw. FAR. Nr. 28</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kirchheim, 1867; gestorben (17./10. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.2098">
+               <note>Braz Johann, Jäg., FJBaon. Nr. 20</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Soča, 1882; gestorben (7. 11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.2460">
+               <note>Cernigoj August, LstSchütze, k. k GSchR. Nr. 2, IR. Nr. 91</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Heilligen Kreutz, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19180129_647.6030">
+               <note>Klobucar Mathias, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1897; gestorben (7./7. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.7078">
+               <note>Kulot Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtojba, 1895; gestorben (8./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.7168">
+               <note>Kutin Anton, Kan., k. u. k. FsAR. Nr. 4</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1883; gestoibei (3./11. 1917)</note>
+            </person>
+            <person xml:id="vll.19180129_647.7304">
+               <note>Lapajne Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Plužne, 1880; gestrben (6./7. 1917)</note>
+            </person>
+            <person xml:id="vll.19180129_647.8128">
+               <note>Marusec Karl, Schütze, k. k. SchR. Nr. 22, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180129_647.11792">
+               <note>Rebula Vinzenz, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Brestovica, 1894; gestorben (12.8.1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.12504">
+               <note>Samec Josef, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Samaria, 1871; gestorben (7./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.13216">
+               <note>Skaber Franz, Schütze, k. k. GschR. Nr. 2. </note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Temnica, 1897; gestorben (15./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180129_647.13408">
+               <note>Slokar Leopold, I Intst., IR. Nr. 97, 14. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Haidenschaft, 1891; gestorben (19.8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180201_648.3474">
+               <note>Cibey Franz, Luftschiffersold., Luftfahrtruppe, Fliegerarsenal Fischamend</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol-Otlica, 1881; Gestorben (2l./ll. 1917).</note>
+            </person>
+            <person xml:id="vll.19180201_648.13438">
+               <note>Urdik Andreas, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Temnica, 1890; gestorben (29./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180201_648.13906">
+               <note>Yiseiitln Stefan, Infst., IR. Nr. 8</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Opatiesclo, 1877; gestorben (l./ll. 1917).</note>
+            </person>
+            <person xml:id="vll.19180201_648.14844">
+               <note>Arčon Anton, LstSapp., SappB. Nr. 3 statt SappB. Nr. 4, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Renče, 1898; gestorben (6./9. 1917).</note>
+            </person>
+            <person xml:id="vll.19180204_649.2790">
+               <note>Culot Eugen, Korp., k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1880; gestorben (3./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180204_649.8902">
+               <note>Macnik Franz, Vizewachtm., k. k. LandGendKmdo. Nr. 7</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kneža, 1885; gestorben (17./7. 1917).</note>
+            </person>
+            <person xml:id="vll.19180204_649.15078">
+               <note>Vidmar Engelbert, LstInfst., k. k. LstArbAbt Nr. 202</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz. Dol. Otlica</region>
+               </birth>
+               <note>1886 gestorben (5./ll. 1917).</note>
+            </person>
+            <person xml:id="v11.19180209_651.8408">
+               <note>Mocnik Josef, Infst., k. k. LstIR. Nr. 27, 5. Komp.</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Sibelji, 1877; gestorben (26./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180209_651.9894">
+               <note>Pelernelj Martin, Infst., k. k. LstIB. Nr. 155</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1887; gestorben (19./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180209_651.12836">
+               <note>Svara Anton, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Veliki Dol, 1869; gestorben (25./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180214_652.4032">
+               <note>Homar Stefan, Infst., k. k. LstIB. Nr. 153/4</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1889; gestorben (20./l0. 1917).</note>
+            </person>
+            <person xml:id="v11.19180214_652.4164">
+               <note>Humar Sändor, Korp., k. k. LdsGendKmdo. Nr. 7</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Gargaro, 1872; gertorben (1./12. 1917).</note>
+            </person>
+            <person xml:id="v11.19180214_652.4170">
+               <note>Hummer Johann, Korp., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Gargora</region>
+               </birth>
+               <note>1872; gestorben (1./12. 1917).</note>
+            </person>
+            <person xml:id="v11.19180214_652.10294">
+               <note>Speranza Valentin, LstInfst., k. u. k. MGKomp. 3/5</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Medea, 1876; gestorben (18./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180214_652.14186">
+               <note>Žvogar Andreas, Trainsold., TrainB. Nr. 3</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Veliki Dol, 1872; gestorben (24./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180221_653.4672">
+               <note>Jazbec David, Zugsf., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1876; gestorben (6./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180221_653.5176">
+               <note>Kenda Anton, Schütze, k. k. SchR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Ponikwe</region>
+               </birth>
+               <note>1886; gestorben (28./11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180221_653.9708">
+               <note>Pinter Johann, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Florian, 1880; gestorben (23./10. 1917).</note>
+            </person>
+            <person xml:id="v11.19180223_654.6308">
+               <note>Gulic Franz, ErsResSchütze, IR. Nr. 47, zugeteilt dem k. k, SchR. Nr. 24, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Skopa, 1887: verw.</note>
+            </person>
+            <person xml:id="v11.19180227_655.12300">
+               <note>Sila Franz, Infst., IR. Nr. 87</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Corgnale, 1870; gestorben (13. 11. 1917).</note>
+            </person>
+            <person xml:id="v11.19180227_655.14142">
+               <note>Zorn Johann, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Prvačina, 1896; gestorben (18./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180307_657.2858">
+               <note>Gerbič Josef, LstInfst., IR. Nr. 97, zugeteilt denm k. k. KSchR. Nr. I</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1873; verw.</note>
+            </person>
+            <person xml:id="vll.19180307_657.9184">
+               <note>Petrovčič Ivan, Jäg., FJB. Nr. 20, StbsUntAbt.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bate, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180307_657.10802">
+               <note>Skubin Josef, ErsResJäg., FJB. Nr. 20, MGKomp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Drežnica, 1884; verw.</note>
+            </person>
+            <person xml:id="vll.19180307_657.11460">
+               <note>Švara Anton, Infst., IR. Nr. 7, 19. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Gabrowize, 1875; verw.</note>
+            </person>
+            <person xml:id="vll.19180307_657.11462">
+               <note>Švara Vinzenz, Infst , IR. Nr 7, 19. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1874; verw.</note>
+            </person>
+            <person xml:id="vll.19180309_658.4944">
+               <note>Krapež Johann, GendTitWachtm., k. k. GendKorp. für Bosnien u. Hercegovina, zugeteilt dom Kreisfeldgendkmdo. in Kolašin, 6. Gendarmerieflügel in Mostar</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Otlica, 1886; verw.</note>
+            </person>
+            <person xml:id="vll.19180309_658.5690">
+               <note>Makuč Andreas, LstInfst., k. k. LstRadfErsBaon.</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Andrä, 1874; gestorben (10./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180313_659.986">
+               <note>Rauder Max, Oblt., k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1889; kriegsgef., Wolotschisk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180313_659.7158">
+               <note>Kjuder Franz, Patrf., k. k. KSchR. Nr. II, MGKomp. II</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sezana</region>
+               </birth>
+               <note>Dutovlje, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180315_660.2782">
+               <note>Drašček Alois, Zugsf., k. k. FstAR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Salcano, 1884; gestorben (14., 1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180315_660.4870">
+               <note>Jereb Josef, Infst., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cerkno, 1899; gestorben (17./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180315_660.10588">
+               <note>Perdih Johann, Pion., PionB. Nr. 3, 1. Marschkomp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmin</region>
+               </birth>
+               <note>1890; verw.</note>
+            </person>
+            <person xml:id="vll.19180319_661.7554">
+               <note>Hvalič Rudolf, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Stadt, Podgora, 1884; gestorben (18./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180319_661.8894">
+               <note>Konič Johann, Offiziersstellvertreter, bh. IR. Nr. 3</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Ossegliano, 1879; gestorben (24./11.1917).</note>
+            </person>
+            <person xml:id="vll.19180319_661.12428">
+               <note>Rakusček Franz, Jäger, k. k. HochgebKomp. 11, zugeteilt dem TJR. Nr. 4, 4. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Drežnica, 1878; verw.</note>
+            </person>
+            <person xml:id="vll.19180319_661.12840">
+               <note>Rutar Josef, Korp., k. k. HochgebKomp. Nr. 11, zugeteilt dem TJR. Nr. 4, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Dreznica, 1884; verw.</note>
+            </person>
+            <person xml:id="vll.19180319_661.15576">
+               <note>Velisek Anton, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Martin, 1891; gestorben (27./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180319_661.15722">
+               <note>Vodopivec Josef, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Prvacina, 1897; gestorben (22./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180319_661.15752">
+               <note>Volk Stefan, Schütze, k. k. KschR. Nr. I, MGKomp. I</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Trnovo, 1896; verv.</note>
+            </person>
+            <person xml:id="vll.19180323_662.4252">
+               <note>Debenjak Franz, LstInfst., IR. Nr. 97^zugeteilt dem IR. Nr. 17, RgtsStb.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kojsko, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19180323_662.5792">
+               <note>Gernek Franz, LstSchütze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Kobjeglava, 1895; kriegsgef., Tjumen, Gouvernement Tobölsk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180323_662.8812">
+               <note>Kovacic Johann, Sapp., Sturmbaon. der k. u. k. 11. Armee</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Idria</region>
+               </birth>
+               <note>1888; gefallen (4./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180323_662.8816">
+               <note>Kovacic Niko, Intst., IR. Nr. 57</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Mihalji, 1898; gestorben (22./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180323_662.9732">
+               <note>Lisjak Josef, Schütze, k. k. SchR. Nr. 5, 12. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Hrusevica, 1889; kriegsgef., Tjumen, Gouvernement Tobolsk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180323_662.10476">
+               <note>Mawer Anton, Schütze, k. k. SchR. Nr. 5, 6. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Lokev, 1889; kriegsgef., Tjumen, Gouvernement Tobolsk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180323_662.10670">
+               <note>Metlikovec Gabriel d. Vinzenz, LstSchütze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1894; kriegsgef., Rußland.</note>
+            </person>
+            <person xml:id="vll.19180323_662.10926">
+               <note>Mokrin Johann, Schütze, k. k. SchR. Nr. 2</note>
+               <birth>
+                  <country>Görz nnd Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Lokovec, 1893; gestorben (6. 1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180328_663.4440">
+               <note>Gregorat Josef, Infst, IR. Nr. 7, StbsAbt.</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1891; verw.</note>
+            </person>
+            <person xml:id="vll.19180328_663.8518">
+               <note>Makuč Josef, Schätze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Solkan</region>
+               </birth>
+               <note>1879 gestorben (20./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180330_664.1752">
+               <note>Bandelj Franz, LstInfst., IR. Nr. 104, TrachomAbt.</note>
+               <birth>
+                  <country>Görz-Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Kreplje, 1878; gestorben (24./12.1917).</note>
+            </person>
+            <person xml:id="vll.19180330_664.2992">
+               <note>Cilic Josef, Schütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Ranogliano, 187L; gestwbe« (26./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180330_664.4166">
+               <note>Fabjan Frana, LstInfst. IR. Nr. 97, MGKomp. I</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Kobdil, 1889; verw.</note>
+            </person>
+            <person xml:id="vll.19180330_664.9094">
+               <note>Krivič Josef des Anton, Infst., k. k. Wach- u. Hilfskomp. 37</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Ponikve</region>
+               </birth>
+               <note>1868; gestorben (13./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180330_664.15864">
+               <note>Tusar Franz, Zugsf., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Idria, 1872; gestorben (4./ll. 1917).</note>
+            </person>
+            <person xml:id="vll.19180403_665.10034">
+               <note>Persič Alois, Infst., IR. Nr. 97, zugeteilt dem komb. FJB., MGKomp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Schönpass, 1891; gefallen (24./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180403_665.12408">
+               <note>Skubin Johann, Schütze, k. k. KschR. Nr. II, 8. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Drežnica, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180403_665.15416">
+               <note>Vončina Vinzenz, Schütze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kal, 1874; gestorben (11./l. 1918).</note>
+            </person>
+            <person xml:id="vll.19180411_666.6718">
+               <note>Godnič Johann, Infst., ArtZeugsAbt. Wien</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1877; gestorben (16./12. 1917).</note>
+            </person>
+            <person xml:id="vll.19180411_666.15682">
+               <note>Skerlj Rudolf, LstSchütze, k. k. SchR. Nr. 22</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Lesana</region>
+               </birth>
+               <note>Tomaj, 1986; gestorben (11./10. 1916).</note>
+            </person>
+            <person xml:id="vll.19180411_666.16696">
+               <note>Teresel Alois, LstArb., Dynamit Nobel Pozsony</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Stjak, 1892; gestorben (7./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180415_667.17538">
+               <note>Stolfa Leopold, LstInfst., k. k. LstIR. Nr. 5</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Berje, 1892; kriegsgef., Tjumen, Gouvernement Tobolsk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180415_667.19996">
+               <note>Nr. 558. Bartels v. Bartherg Arthur Ritter, Hptm., IR. Nr. 49</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Andrä, 1876. (War kriegsgef. gemeldet. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180419_668.1346">
+               <note>Antonič Josef, Infst., IR. Nr. 97, 1. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Brestovica, 1896; gestorben (6./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180419_668.7896">
+               <note>Kikl Ludwig, Infst., IR. Nr. 27, l. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Stržišče, 1893; gestorben (9./l. 1918).</note>
+            </person>
+            <person xml:id="vll.19180419_668.18576">
+               <note>Widmar Anton, Kan., k. u. k. FKR. Nr. 6, 1. Batt.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Reifenberg, 1880; gestorben (17./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180424_669.2940">
+               <note>Culot Alois, Schütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1896-, gestorben (27./l. 1918).</note>
+            </person>
+            <person xml:id="vll.19180424_669.6856">
+               <note>Kokošin Matthias, LstSchütze, k. k. SchR. Nr. 5, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Drežnica, 1892. (War kriegsgef. Aus der Kriegsgefangenschaft zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180424_669.7368">
+               <note>Krapež Alois, OffDiener, FJB. Nr. 7</note>
+               <birth>
+                  <country>Görz und Gradiška</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol Otlica, 1887; gefallen (18.-25./6. 1916).</note>
+            </person>
+            <person xml:id="vll.19180424_669.19750">
+               <note>Torkar Nikolai, LstInfst., IR. Nr. 55, 3. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Grahova, 1895. (War kriegsgef. gemeldet. Im Austsuschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180429_670.1456">
+               <note>Baloch Josef, LstInfst., IR. Nr. 58</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Idrija pri Bači, 1895. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180429_670.1672">
+               <note>Batagelj Anton, LstSchütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kamnje, 1879; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19180429_670.1782">
+               <note>Beguss Franz, LstSchütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Grahovo, 1885; kriegsgef., Kiew, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180429_670.2184">
+               <note>Bolcina Iwan, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol. Otlica, 1885; gestorben (16./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180429_670.2374">
+               <note>Bratuž Anton, LstSchütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Čepovan, 1883; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19180429_670.2404">
+               <note>Bregantič Anton, LstSchütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Sankt Martin-Quisca, 1894; kriegsgef., Cassino, Italien.</note>
+            </person>
+            <person xml:id="vll.19180429_670.3846">
+               <note>Faganel Bartholomäus, Infst., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Solkan, 1899; gestorben (24./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180429_670.4852">
+               <note>Grobiša Rafael, LstSchütze, k. k. GschR. Nr. 1. </note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Temnica, 1881; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19180429_670.7224">
+               <note>Komac Johann, LstInfst., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Flitsch, 1885; gestorben (3./2. 1918).</note>
+            </person>
+            <person xml:id="vll.19180429_670.7680">
+               <note>Kovacic Ivan, Jäg., FJB. Nr. 21</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Lucio, 1885. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180429_670.8090">
+               <note>Kumar Franz, Schütze, k. k. GschR. Nr. 2, 12. Komp.</note>
+               <birth>
+                  <country>Gorz und Gradiska</country>
+                  <region>Tribuša</region>
+               </birth>
+               <note>Gorenja, 1897; gestorben (3./2. 1918)</note>
+            </person>
+            <person xml:id="vll.19180429_670.13888">
+               <note>Podhornik Justyn, Infst., IR. Nr. 7, 13. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Čepovan</region>
+               </birth>
+               <note>1887; kriegsgef. (War kriegsgef. Im Austauschwege als Kriegsinvalider zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180429_670.15108">
+               <note>Reinec Andreas, LstSchütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Osek-Vitovlje, 1879; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19180429_670.15152">
+               <note>Renčel Franz, Infst., HIR. Nr. 26</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Dane, 1868; gestorben (6.2. 1918).</note>
+            </person>
+            <person xml:id="vll.19180429_670.15466">
+               <note>Butar August, Schütze, k. k. GschR. Nr. 1, 9. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Woltschach, 1888; verw., kriegsgef., Cassino, Italien.</note>
+            </person>
+            <person xml:id="vll.19180429_670.18638">
+               <note>Vidmar Rudolf, ResFeldw., IR. Nr. 72</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol-Otlica, 1886; kriegsgef., Potschinki, Gouvernement NishHij-Nowgorod, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180511_672.5232">
+               <note>Hicke Oskar, ErsResPion., EisenbR.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1887; kriegsgef., Rusajewka, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180511_672.6916">
+               <note>Koršič Josef, LstFahrKan., k. u. k. schw. FAR. Nr. 28</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Solkan, 1894; gestorben (2. /l0. 1917).</note>
+            </person>
+            <person xml:id="vll.19180511_672.11350">
+               <note>Rakan Johann, Zivilarbeiter, k. u. k. FleimstalbKmdo.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Breginj, 1858; gestorben (26./lO. 1917).</note>
+            </person>
+            <person xml:id="vll.19180511_672.18840">
+               <note>Zuzek Josef, Schütze, k. k. GschR. Nr. 1, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Mavhinje, 1880; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.6046">
+               <note>Jekse Johann, Schütze, k. k. GschR. Nr. 1, MGKomp. II</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Selo, 1875; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.6072">
+               <note>Jevšek Josef, Sehütze, k. k. GschR. Nr. 1, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bate, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.8998">
+               <note>Makič Anton, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bainsizza, 1879; gestorben (7./2. 1918).</note>
+            </person>
+            <person xml:id="vll.19180514_673.9124">
+               <note>Masten Kasimir, Schütze, k. k. GschR. Nr. 1, MGKomp. II</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1898; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.11776">
+               <note>Satey Friedrich, Kan., k. u. k. GAR. Nr. 17, GebKnBatt. 4</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Ortorin, 1894; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.12284">
+               <note>Skok Filip, ErsGefrUnterjäg., FJB. Nr. 20, zugeteilt dem k. k. SchR. Nr. 28, 11. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Viskogora, 1890; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.15136">
+               <note>Vodopivec Anton, Schütze, k. k. GschR. Nr. 1, 6. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kamnje, 1884; verw.</note>
+            </person>
+            <person xml:id="vll.19180527_675.4652">
+               <note>Goryup Andra, LstGefr., IR. Nr. 97, zugeteilt dem k. k. SchR. Nr. 1, 12. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19180527_675.10324">
+               <note>Plesniczer Leopold, Korp., k. k. SchR. Nr. 36, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bobej, 1891; verw.</note>
+            </person>
+            <person xml:id="vll.19180527_675.17534">
+               <note>Nr. 611. Bratina statt Bratma Andreas, Infst. statt Gefr., IR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Thomas, 1870; gestorben (30./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180531_676.10774">
+               <note>Rogelja Franz, LstSchütze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz-Gradicsa</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Temnica, 1897; gestorben (28./4. 1917).</note>
+            </person>
+            <person xml:id="vll.19180531_676.14820">
+               <note>Trampuz Karl, LstSchütze, k. k. SchR. Nr. 6, 3. Komp</note>
+               <birth>
+                  <country>Görz Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>1870; gestorben (28./4. 1917).</note>
+            </person>
+            <person xml:id="vll.19180603_677.4258">
+               <note>Doljak Alois, LstJäg., FJB. Nr. 7, 1. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Zgornik, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19180603_677.7676">
+               <note>Kosmač Johann, Jäg., FJB. Nr. 20, MGKomp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cerkno, 1884; verw.</note>
+            </person>
+            <person xml:id="vll.19180603_677.8170">
+               <note>Kurinčič Franz, JägTitPatrf., FJB. Nr. 20, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Karfreit, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180603_677.9032">
+               <note>Marušič Bernhard, Gefr., k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Opatjeselo</region>
+               </birth>
+               <note>1893; gestorben (11./7. 1917).</note>
+            </person>
+            <person xml:id="vll.19180603_677.14522">
+               <note>Taočar Andreas, LstTragtierführer, k. k. KschR. Nr. III, 9. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Dutovlje, 1876; gefallen (8. 2. 1918).</note>
+            </person>
+            <person xml:id="vll.19180605_678.824">
+               <note>Spazzapan Luzian, Oblt. i. d. Res., IR. Nr. 79, 8. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1887; kriegsgef., Schazk, Gouvernement, Tambow, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180605_678.12052">
+               <note>Mrak Thomas, ErsResKan., k. u. k. FstAß. Nr. 4</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Tribuša, 1882; gestorben (4.10.1917).</note>
+            </person>
+            <person xml:id="vll.19180605_678.13190">
+               <note>Princic Johann, LstFahrkan., k. u. k. FHR. Nr. 6, 3. Batt.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kojsko, 1899; verw.</note>
+            </person>
+            <person xml:id="vll.19180605_678.14122">
+               <note>Sgaga Theodor, Jag., FJB. Nr. 8, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Hudajuzna, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180610_679.974">
+               <note>Springer Raimund, Hptm., IR. Nr. 47</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>(War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180610_679.6302">
+               <note>Langos Justin, LstSchütze, k.k . GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1895; gestorben (10./6. 1917)</note>
+            </person>
+            <person xml:id="vll.19180610_679.6942">
+               <note>Makovec Franz, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vel. Zablje, 1880; gestorben (30.6.1917).</note>
+            </person>
+            <person xml:id="vll.19180610_679.7142">
+               <note>Marinič Johann, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz-Gradiska</country>
+                  <region>Kojsko</region>
+               </birth>
+               <note>1897; gestorben (19./6. 1917).</note>
+            </person>
+            <person xml:id="vll.19180610_679.11630">
+               <note>Saksida Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Dornberg</region>
+               </birth>
+               <note>1867, gestorben (5.3.1918).</note>
+            </person>
+            <person xml:id="vll.19180610_679.12148">
+               <note>Semolič Franz, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Opatje Selo, 1878; gestorben (26. 5. 1917).</note>
+            </person>
+            <person xml:id="vll.19180610_679.12294">
+               <note>Škabar Josef, LstTrainsold., TrB. Nr. 3</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Lekev, 1893; gestorben (19./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180610_679.12318">
+               <note>Skerlj Alois, LstZugsf., k. k. LstBezKmdo. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tomaj</region>
+               </birth>
+               <note>1877; gestorben (22./7. 1917).</note>
+            </person>
+            <person xml:id="vll.19180613_680.2530">
+               <note>Brisko Andreas, Kan., k. u. k. schw. FAR. Nr. 28</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1898; gestorben (19./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180613_680.4084">
+               <note>Fabian Johann, Jäg., FJB. Nr. 8, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Pliskovica, 1894; verw.</note>
+            </person>
+            <person xml:id="vll.19180613_680.4996">
+               <note>Godnig Frederiko, LstInfst., IR. Nr. 7, zugeteilt dem k. k Tir. LstIBaon. Innsbruck Nr. 11, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Comen, 1875; verw.</note>
+            </person>
+            <person xml:id="vll.19180613_680.8582">
+               <note>Lapanja Johann, Patrf., FJB. Nr. 20, zugeteilt dem IR. Nr. 75, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Šebrelje, 1890; verw.</note>
+            </person>
+            <person xml:id="vll.19180613_680.8968">
+               <note>Lovrencic Ignac, Wachtm., LandesgendKmdo. Nr. 9 </note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Karfreit, 1881; gestorben (11./2 1918)</note>
+            </person>
+            <person xml:id="vll.19180613_680.12114">
+               <note>Slokar Alois, Jäg., FJB. Nr. 20, MGKomp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Komen, 1885; verw.</note>
+            </person>
+            <person xml:id="vll.19180613_680.14236">
+               <note>Zivec Karl, Vorm., k. u. k. FKR. nr. 28, 3. Batt.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Powir, 1890; verw</note>
+            </person>
+            <person xml:id="vll.19180613_680.14534">
+               <note>Mokrin Johann, LstSchütze statt Schütze, k. k. GschR. Nr. 2 statt k. k. SchR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Lokovec</region>
+               </birth>
+               <note>1893; gestorben (6./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180620_681.786">
+               <note>Stergar Anton, Hptm., IR. Nr. 79, RgtsStb.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bäte, 1879; kriegsgef., Simbirsk, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180620_681.1622">
+               <note>Bandelj Peter, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Gorz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Podgora, 1888; gestorben (5./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180620_681.4392">
+               <note>Golja Johann, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Volče, 1893; gestorben (26./4. 1917).</note>
+            </person>
+            <person xml:id="vll.19180620_681.6622">
+               <note>Klemše Franz, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Smarje, 1885; gestorben (9./7. 1917).</note>
+            </person>
+            <person xml:id="vll.19180620_681.9250">
+               <note>Murowetz Josef, Schütze, k. k. SchR. Nr. 26, 2. Komp.</note>
+               <birth>
+                  <country>Görz u Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Plava, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19180620_681.10550">
+               <note>Pipan Vinzenz, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Suta, 1898; gestorben (20./8. 1917).</note>
+            </person>
+            <person xml:id="vll.19180625_682.3820">
+               <note>Furlan Leopold, Schütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Smarje, 1889; gestorben (12./3.1918).</note>
+            </person>
+            <person xml:id="vll.19180625_682.7830">
+               <note>Markič Jakov, InfstTitGefr., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Podgora</region>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19180625_682.8444">
+               <note>Močnik Franz, LstJäg., FJB. Nr. 7</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cerkno, 1881. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180709_684.6954">
+               <note>Kenda Jakob, LstInfst., IR. Nr. 55</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kirchheim, 1887; gefallen (27. /7. 1916).</note>
+            </person>
+            <person xml:id="vll.19180709_684.8784">
+               <note>Ličer Anton, LstSchütze, k. k. SchR. Nr. 22</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Lekovec, 1880; kriegsgef., Serdobsk, Gouvernement Saratow, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180709_684.10278">
+               <note>Mlakar Franz, LstSchütze, k. k. SchR. Nr. 22</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Sabrelje, 1388; kriegsgef., Jenotajewsk, Gouvernement Astrachan, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180709_684.10304">
+               <note>Močnik Johann, LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 115, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kneza, 1898; verw.</note>
+            </person>
+            <person xml:id="vll.19180709_684.13766">
+               <note>Serjun Franz, Gefr., k. k. SchR. Nr. 22</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cerhno, 1885; kriegsgef., Narowtschat, Gouvernement Pensa, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180713_685.7338">
+               <note>Ivantschitsch Remigius, LstSchütze, k. k. SchR. Nr. 22</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cezsoča, 1886; kriegsgef., Pensa, Rußland.</note>
+            </person>
+            <person xml:id="vll.19180713_685.8796">
+               <note>Kocjancič Franz, LstSchütze, k. k. SchR. Nr. 22</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Brestovica, 1891; kriegsgef., Genova, Forte Begato, Italien.</note>
+            </person>
+            <person xml:id="vll.19180713_685.9304">
+               <note>Kovač Michael, LstSchütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Podbrdo, 1875; gestorben (16./11. 1917).</note>
+            </person>
+            <person xml:id="vll.19180713_685.11224">
+               <note>Mljač Franz, Infst., k. k. LstIB. Nr. 40, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Lokev, 1898; gestorben (29./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180713_685.12306">
+               <note>Presly Urban, Infst., IR. Nr. 27</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Cerkno, 1876; gestorben (9./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180713_685.13628">
+               <note>Valentinčič Martin, Infst., k. k. LstIR. Nr. 31, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Peunua, 1872; verw.</note>
+            </person>
+            <person xml:id="vll.19180718_686.13550">
+               <note>Slmač Josef, ErsResSchütze, k. k. GschR. Nr. 2, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Breginj</region>
+               </birth>
+               <note>1889; gestorben (25./1. 1918).</note>
+            </person>
+            <person xml:id="vll.19180723_687.412">
+               <note>Bresan Ludwig, Oblt. i. d. Res., IR. Nr. 64, 8. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Podgora, 1888; kriegsgef., Monreale, Italien.</note>
+            </person>
+            <person xml:id="vll.19180723_687.3338">
+               <note>Faletič Ignaz, Kan., k. u. k. FstAR. Nr. 4</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Libanje, 1883; gestorben (24./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180723_687.4020">
+               <note>Gorjup Franz, LstSch., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Šent Andrer, 1882; gestorben (11./7.1917).</note>
+            </person>
+            <person xml:id="vll.19180723_687.6084">
+               <note>Klinkon Josef, LstSch., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1896; gestorben (9./3. 1917).</note>
+            </person>
+            <person xml:id="vll.19180723_687.6228">
+               <note>Kofol Anton, LstJäger, FJB. Nr. 9, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1885; kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19180723_687.6516">
+               <note>Košir Matthias, LstJäg., FJB. Nr. 9, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Ajba, 1891; kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19180723_687.6532">
+               <note>Košuta Johann, LstSch., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1868; gestorben (20./5. 1917).</note>
+            </person>
+            <person xml:id="vll.19180723_687.6832">
+               <note>Krivec Peter, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Lucia, 1898; gestorben (27./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180723_687.7346">
+               <note>Losar Franz. Schütze, k. k. SchR. Nr. 27, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtovin, 1894; (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180723_687.7540">
+               <note>Makuc Josef, LstInfst., IR. Nr. 55</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Solkan, 1895; kriegsgef., Sipote, Rumänien.</note>
+            </person>
+            <person xml:id="vll.19180723_687.9246">
+               <note>Perat Johann, MunArb., Pulverfabrik Blumau</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Livek, 1875; gestorben (29./5. 1918).</note>
+            </person>
+            <person xml:id="vll.19180723_687.10050">
+               <note>Prezeli Franz, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Čezsoški, 1898; gestorben (24./6. 1917).</note>
+            </person>
+            <person xml:id="vll.19180723_687.10106">
+               <note>Princič Anton, ErsResJäg., FJB. Nr. 9</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Florian, 1887; kriegsgef., Asinara, Italien.</note>
+            </person>
+            <person xml:id="vll.19180723_687.10810">
+               <note>Rijavec Leopold, VerpflSold., VerpflMag. Castelnuovo</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1886; gestorben (18./5.1918).</note>
+            </person>
+            <person xml:id="vll.19180723_687.12822">
+               <note>Sovdat Antonio, ErsResInfst., FJB. Nr. 7</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Idersko, 1887; kriegsgef., Forli, Italien.</note>
+            </person>
+            <person xml:id="vll.19180801_688.8500">
+               <note>Lenardig Ludwig, Infst., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1875; kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19180801_688.8596">
+               <note>Likar Johann, LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 115, 7. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dol-Otlica, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180801_688.9952">
+               <note>Mrak August, ErsResInfst., k. k. LstIR. Nr. 27, 9. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Luzia, 1876; kriegsgef., Asinara, Italien,</note>
+            </person>
+            <person xml:id="vll.19180801_688.10204">
+               <note>Nardin Josef, Infst., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vogrsko, 1495; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19180801_688.12558">
+               <note>Rutar Andrej, LstInfst., k. k. LstIR. Nr. 27, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Čadra, 1874; kriegsgef., Asinara, Italien.</note>
+            </person>
+            <person xml:id="vll.19180801_688.14896">
+               <note>Vales Micharl, Zugsf., k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Gabrije, 1877; kriegsgef., Asinara, Italien.</note>
+            </person>
+            <person xml:id="vll.19180805_689.2278">
+               <note>Bandelj Franz, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Lesana</region>
+               </birth>
+               <note>Komen, 1887; gestorben (1./2. 1918).</note>
+            </person>
+            <person xml:id="vll.19180805_689.10394">
+               <note>Polivka Franz, LstInfst., IR. Nr. 21</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Slivno, 1898; kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19180805_689.12280">
+               <note>Svara Josef d. Franz, LstInfst., IR. Nr. 37</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Körnen, 1892; kriegsgef., Firenze, Italien.</note>
+            </person>
+            <person xml:id="vll.19180812_690.3490">
+               <note>Gorgics Vinzenz, VerpflSold., VerpflMag. Wien</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtojba, 1888; gestorben (18./6.1918).</note>
+            </person>
+            <person xml:id="vll.19180812_690.3492">
+               <note>Gorinp Stefan, LstArb., k. k. LstBezKmdo. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1868; gestorben (16.4.1918).</note>
+            </person>
+            <person xml:id="vll.19180812_690.3564">
+               <note>Grauner Marzelin, Infst.m k. k. LstIR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Florian, 1890; gestorben (27.3.1918).1894; gestorben (22./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180812_690.6044">
+               <note>Kovacic Andrej, Schütze, k. k. SchR. Nr. 36</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Modreja, 1881, gestorben (15./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180812_690.9968">
+               <note>Pirich Ivan, Infst., k. k. SchR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Grahovo, 1896. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19180812_690.11282">
+               <note>Samec Alois, LstKan., k. u. k. schw. FAR. Nr. 6</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>St. Marein</region>
+               </birth>
+               <note>1896; gestorben (9./2.1918).</note>
+            </person>
+            <person xml:id="vll.19180814_691.6158">
+               <note>Hvala Franz, Schütze, k. k. GschR. Nr. 2, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Čepovan, 1896; gestorben (13./8. 1915).</note>
+            </person>
+            <person xml:id="vll.19180814_691.7442">
+               <note>Kompany Anton, Schütze, k. k. GschR. Nr. 2, 4. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1875; gestorben (20./8. 1915).</note>
+            </person>
+            <person xml:id="vll.19180814_691.8582">
+               <note>Lepovsek Michael, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1872; gestorben (13./4.1918).</note>
+            </person>
+            <person xml:id="vll.19180814_691.8672">
+               <note>Lipolt Anton, LstInf8t., IR. Nr. 97, 6. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Rodik, 1867; gefallen (l2./3. 1917).</note>
+            </person>
+            <person xml:id="vll.19180814_691.11382">
+               <note>Podversič Josef, LstInfst., IR. Nr. 55</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1891; gestorben (27./2. 1916).</note>
+            </person>
+            <person xml:id="vll.19180824_692.7198">
+               <note>Krainer Josef, Schütze, k. k. GschR. Nr. 1, 10. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Naklo, 1891; gestorben (16.11.1917)</note>
+            </person>
+            <person xml:id="vll.19180824_692.7280">
+               <note>Kravanya Anton, LstInfst., IR. Nr. 97, 6. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Trenta, 1871; gestorben (27. /ll. 1917).</note>
+            </person>
+            <person xml:id="vll.19180824_692.10140">
+               <note>Pariš Peter, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Breth, 1898; gestorben (28./4. 1918).</note>
+            </person>
+            <person xml:id="vll.19180824_692.11784">
+               <note>Saksida Anton, Infst., IR. Nr. 97, zugeteilt dem IR. Wachkomp. 2</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1868; gestorben (20.4. 1918).</note>
+            </person>
+            <person xml:id="vll.19180830_693.2384">
+               <note>Cehovin Alois, Gefr., k. k. LstEtappBaon. 65, techn. Zug</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>gestorben (11./5.1918).</note>
+            </person>
+            <person xml:id="vll.19180830_693.5068">
+               <note>Jeroncič Johann, Schütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kanal, 1898; gestorben (5./5. 1918).</note>
+            </person>
+            <person xml:id="vll.19180830_693.6142">
+               <note>Kranner Alois, InfstTitGefr., k. k. LstIB. Nr. 151/1</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Flitsch, 1886; gestorben (4./5. 1918)</note>
+            </person>
+            <person xml:id="vll.19180830_693.6706">
+               <note>Legissa Benedikt, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Lesana</region>
+               </birth>
+               <note>Cerovlje, 1870; gestorben (11/4. 1918).</note>
+            </person>
+            <person xml:id="vll.19180830_693.6904">
+               <note>Luisa Eduard, LstGefr., k. k. SchR. Nr. 35, 3. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kozana, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19180830_693.8672">
+               <note>Perič Josef, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dolnji, 1888; gestorben (10./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19180830_693.9638">
+               <note>Rogelja Alois, Infst., k. k. LstIR. Nr. 6</note>
+               <birth>
+                  <country>Görz u.Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Temnica, 1878; gestorben (28./4. 1918).</note>
+            </person>
+            <person xml:id="vll.19180830_693.10112">
+               <note>Sardon Rudolf, Jäg., FJB. Nr., 20</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1883; gestorben (10./5. 1918).</note>
+            </person>
+            <person xml:id="vll.19180910_694.6464">
+               <note>Kaučič Alois, Offiziersdiener, k. k. SchR. Nr. 37</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dornberg, 1891; kriegsgef., Padula, Italien,</note>
+            </person>
+            <person xml:id="vll.19180928_695.2446">
+               <note>Brundula Franz, ResDrag., DR. Nr. 5</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Dutovlje, 1889. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt]</note>
+            </person>
+            <person xml:id="vll.19180928_695.2720">
+               <note>Cesent Johann, ZivArb., Bahnexpositur Görz</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Savodnje, 1863; gestorben (29./3. 1918).</note>
+            </person>
+            <person xml:id="vll.19180928_695.4142">
+               <note>GateJ Josef, Kan., k. u. k. FAR. Nr. 128,</note>
+               <birth>
+                  <country> Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1898; gestorben (15.6.1918)</note>
+            </person>
+            <person xml:id="vll.19180928_695.5932">
+               <note>Kančič Thomas, Infst. IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1895; gestorben (4./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19180928_695.14438">
+               <note>Ursič Johann, Jäg., FJB. Nr. 1, 1. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Svino, 1886; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181002_696.4090">
+               <note>Brič Franz, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1884; kriegsgef., Cassino, Italien.</note>
+            </person>
+            <person xml:id="vll.19181002_696.4400">
+               <note>Cernič Johann, LstKan., k. u. k. schw. FAR. Nr. 6, Batt. 4</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtojba, 1898; verw.</note>
+            </person>
+            <person xml:id="vll.19181002_696.6392">
+               <note>Gulin Valentin, LstSohütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bäte, 1894, kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181002_696.9412">
+               <note>Leban Johann, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Veitsberg, 1876; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181002_696.10654">
+               <note>Mišic Franz, Infst., IR. Nr. 40, 11. Korn.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Bovec, 1896; kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19181002_696.11836">
+               <note>Pertovt Michael, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1895; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181002_696.12578">
+               <note>Rijavec Stepan, LstSchütze, k. k. GschR. Nr.2</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Trnovo, 1876; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181002_696.12638">
+               <note>Roic Andrea, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dörnberg, 1887; kriegsgef., Cassino, Italien.</note>
+            </person>
+            <person xml:id="vll.19181002_696.14310">
+               <note>Stor Engelbert, VerpflSold., VerpflMag. Graz</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1874; gestorben (18./5. 1918).</note>
+            </person>
+            <person xml:id="vll.19181002_696.14432">
+               <note>Suligoj Filipp, LstKan., k. u. k. FAR. Nr. 28, Batt. 6</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Trnovo, 1898; verw.</note>
+            </person>
+            <person xml:id="vll.19181002_696.15330">
+               <note>Trebec Anton, ErsResZugsfTitOberjäg., FJB. Nr. 20, StbsUntAbt.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Naklo, 1885; verw.</note>
+            </person>
+            <person xml:id="vll.19181005_697.4074">
+               <note>Cergolj Franz, Infst., IR. Nr. 87</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Naklo, 1899; gestorben (25./5. 1918).</note>
+            </person>
+            <person xml:id="vll.19181005_697.4076">
+               <note>Cerkvenik Franz, LstJäg., FJB. Nr. 20, MGKomp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Vale, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19181005_697.4088">
+               <note>Cernigoj Franz, Infst., IR. Nr. 17, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Skrilje, 1896; gestorben (13./7. 1918)</note>
+            </person>
+            <person xml:id="vll.19181005_697.5146">
+               <note>Devetak Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1894; gestorben (20./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19181005_697.9394">
+               <note>Kragelj Franz, JägTitPatrf., FJB. Nr. 20, 1. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>St. Tolmein</region>
+               </birth>
+               <note>Luzia, 1894; verw.</note>
+            </person>
+            <person xml:id="vll.19181005_697.10684">
+               <note>Močnik Anton, LstInfst., k. k. SchR. Nr. 3, zugeteilt dem k. k. SchR. Nr. 2, 9. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kirchheim, 1876; verw.</note>
+            </person>
+            <person xml:id="vll.19181005_697.11676">
+               <note>Pipan Stefan. LstZugsf., FJB. Nr. 20, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Kobjeglava, 1894; verw.</note>
+            </person>
+            <person xml:id="vll.19181011_698.5550">
+               <note>Figelj josef, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Peter, 1876; kriegsgef., Cassino, Italien</note>
+            </person>
+            <person xml:id="vll.19181011_698.6276">
+               <note>Gorjan Pawel, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Opatje Selo, 1895; kriegsgef., Cassino, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.9284">
+               <note>Kokole Franz, LstSehütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Karfreit, 1896; kriegsgef., Padula, Italien</note>
+            </person>
+            <person xml:id="vll.19181011_698.10312">
+               <note>Kukanja Anton, Trainsold., TrainB. Nr. 3</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1891; gestorben (14./7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181011_698.10406">
+               <note>Kurinčič Ignac, Gefr., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Idersko, 1885; kriegsgef., Aquila, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.11046">
+               <note>Loik Anton, LstGefr., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Schönpass, 1898; kriegsgef., Aquila, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.11654">
+               <note>Marušič Francesco, ErsResSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1887; verw., kriegsgef., Cesena, Italien,</note>
+            </person>
+            <person xml:id="vll.19181011_698.12176">
+               <note>Mozetič Vinzenz, Schütze, k. k. SchR. Nr. 23</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dornberg, 1876; gestorben (17./7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181011_698.12182">
+               <note>Mrak Viktor, ErsResSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Quisca, 1885; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.13022">
+               <note>Pelizon Josef, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Gorz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1894; kriegsgef., Cassino, Italien. .</note>
+            </person>
+            <person xml:id="vll.19181011_698.13422">
+               <note>Podgornik Alois, Feldw., k. k. GschR. Nr. 2, 8. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Haiderschaft</region>
+               </birth>
+               <note>1891: kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.13698">
+               <note>Prinčič Josef, LstSchütze, k. k. GschR. Nr. 2, 3. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Cerovo, 1881; krieggef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.15096">
+               <note>Skrt Johann, Schütze, k. k. SchR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1884; kriegsgef., Avezzano, Italien,</note>
+            </person>
+            <person xml:id="vll.19181011_698.15108">
+               <note>Šorli Peter, ErsRes Schütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1885; verw., kriegsgef., Padula, Italia.;</note>
+            </person>
+            <person xml:id="vll.19181011_698.15362">
+               <note>Stulc Franz, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Luzia, 1896; kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.15364">
+               <note>Sturm Bartolome, LstKorp., k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Volarje, 1882; kriegsgef., Padula, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.16206">
+               <note>Trebižan Alois, ErsResJäg., FJR. Nr. 20</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Heiligenkreuz, 1880; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181011_698.16224">
+               <note>Trojer Anton, Schütze, k. k. GschR. Nr. 2, 6. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Bača-Podbrdo, 1887; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181011_698.16578">
+               <note>Vižin Josef, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Salcano, 1895; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19181019_699.4228">
+               <note>Gabrijelcić Anton, LstInfst., IR. Nrl 97, 13. Komp.,</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Canale; gefallen (15 /7. 1916).</note>
+            </person>
+            <person xml:id="vll.19181019_699.10472">
+               <note>Orel Ivan, Kan., k. u. k. schw. ResFAR. Nr. 58</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Dutovlje, 1890; gestorben (15./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19181019_699.10890">
+               <note>Pegan Roman, LstInfst., IR. Nr. 97, 5. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Kobjeglava; gefallen (19./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19181019_699.11558">
+               <note>Preglj Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>gestorben 7./4. 1918). J</note>
+            </person>
+            <person xml:id="vll.19181019_699.15738">
+               <note>Volk Stefan, Kan., k. u. k. FKR. Nr. 8</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1876; gestorben (11/7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181105_700.4854">
+               <note>Furlan Franz, Infst., MinwLehr- und EisBaon., MinwBatt. Nr. 6/11</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Smarje, 1898; gestorben (28.6.1918)</note>
+            </person>
+            <person xml:id="vll.19181105_700.4890">
+               <note>Gabriolčič Johann, Schütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Anhovo, 1873; gestorben (29./7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181105_700.8108">
+               <note>Košuta Anton, LstInfst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Schönpass, 1896; kriegsgef., Aquila, Italien.</note>
+            </person>
+            <person xml:id="vll.19181105_700.10306">
+               <note>Milichen Johann, Offiziersdiener, k. u. k. GAR. Nr. 3, zugeteilt dem k. u. k. FAR. Nr. 116, HbBatt. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Flitsch, 1892; verw.</note>
+            </person>
+            <person xml:id="vll.19181105_700.15276">
+               <note>Sorti Jernej, Offiziersdierer, k. u. k. GAAbt. Nr. 29/3</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>1897; gestorben (19/6.1918).</note>
+            </person>
+            <person xml:id="vll.19181111_701.9310">
+               <note>Manfreda Johann, LstInfst., IR.Nr. 97, zugeteilt dem IR. Nr. 17, 2. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Volče, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19181111_701.9734">
+               <note>Micheli Alois, InfstTitGefr., IR. Nr. 117</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Reifenberg, 1892; verw.</note>
+            </person>
+            <person xml:id="vll.19181111_701.12318">
+               <note>Rijavec Anton, Schütze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1885; gestorben (9./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19181111_701.13798">
+               <note>Stubfa Demeter, Kan., k. u. k. FHR. Nr. 6</note>
+               <birth>
+                  <country>Görz, u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1888; gestorben (2./7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181111_701.13918">
+               <note>Sturm Alois, LstZugsf., k. k. LstBezKmdo. Nr. 3, zugeteilt dem IR. Nr. 87, 7. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kojsko, 1878; verw.</note>
+            </person>
+            <person xml:id="vll.19181111_701.15582">
+               <note>Volčič Albin, LstSchütze, k. k. SchR. Nr. 6, zugeteilt dem IR. Nr. 87, 3. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1699; verw.</note>
+            </person>
+            <person xml:id="vll.19181126_702.3978">
+               <note>Duscha Johann, Infst., IR. Nr. 7</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Woltschach, 1887; kriegsgef. (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181126_702.5240">
+               <note>Grapulin Marios, Infst., IR. Nr. 97, 2. Komp.</note>
+               <birth>
+                  <country>GÖrz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1896; gestorben (18./6 1918).</note>
+            </person>
+            <person xml:id="vll.19181126_702.8804">
+               <note>Kuret Franz, Infst., IR. Nr. 17, 1. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Povir, 1898; gestorben (29.7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181126_702.9924">
+               <note>Martinovič Vinzenz, Gefr., IR. Nr. 97, zugeteilt dem bh. IR. Nr. 2, RekAbt.,</note>
+               <birth>
+                  <country> Görz u. Gradiska</country>
+                  <region>Görz.</region>
+               </birth>
+               <note>Merna, 1879; gestorben (8.3.1918)</note>
+            </person>
+            <person xml:id="vll.19181126_702.13354">
+               <note>Rihawetz Franz. Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1881; kriegsgef. (War Kriegsgef. In Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181126_702.14888">
+               <note>Sorgics Vinzenz. Infst., IR. Nr. 97, zugeteilt dem VerpflMag. Wien</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtojba, 1888; gestorben (18./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19181126_702.17154">
+               <note>Vrtoveč Franz, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1900; gestorben (10.7.1918).</note>
+            </person>
+            <person xml:id="vll.19181204_703.1684">
+               <note>Bačer Anton, ResInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 9, Komp.</note>
+               <birth>
+                  <country>Görz u. Gradsica</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Šmarje, 1883; verw.</note>
+            </person>
+            <person xml:id="vll.19181204_703.2772">
+               <note>Brajnik Eduard, LstKan., k. u. k. FAK. Nr. 28, Batt. 4</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1891; verw.</note>
+            </person>
+            <person xml:id="vll.19181204_703.3274">
+               <note>Cotar Leopold, Infst., IR. Nr. 127, 11. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Gorjansko, 1900; gestorben (10./8. 1918).</note>
+            </person>
+            <person xml:id="vll.19181204_703.8894">
+               <note>Leban Franz, Infst., IR. Nr. 45, 2. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>St. Michael</region>
+               </birth>
+               <note>1899; gefallen (15.-20./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19181204_703.12340">
+               <note>Pipan Franz, Schütze, k. k. SchR. Nr. 5, zugeteilt dem k. k. GschR. Nr. 1, MGKomp. IT„ </note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>1884; verw.</note>
+            </person>
+            <person xml:id="vll.19181204_703.12358">
+               <note>Pirjavec Valentin, Infst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 9. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>1893; verw.</note>
+            </person>
+            <person xml:id="vll.19181204_703.12558">
+               <note>Polšak Rudolf, ErsResKorp., k. u. k. FAR. Nr. 28, Batt. 6</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Velike-Zablje, 1891; verw.</note>
+            </person>
+            <person xml:id="vll.19181204_703.13766">
+               <note>Saksida Anton, LstSchütze, k. k. GschR. Nr. 2</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Dörnberg, 1893; kriegsgef (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181204_703.15828">
+               <note>Szatej Cyrill, Infst., IR. Nr. 97</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Vrtovin, 1896; gestorben (7./8. 1918).</note>
+            </person>
+            <person xml:id="vll.19181219_705.526">
+               <note>Graf Coronini-Cronberg Alexander, Fähnr. i. d. Res. DR. Nr. 4, 5i Schwd.</note>
+               <birth>
+                  <country>Görz u. Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Peter, 1899; verw.</note>
+            </person>
+            <person xml:id="vll.19181219_705.2030">
+               <note>Batistic Karol Infst., IR. Nr. 97.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>1896; gestorben (26./7. 1918).</note>
+            </person>
+            <person xml:id="vll.19181219_705.2404">
+               <note>Bizjak Andrej, Schütze, k. k. GschR. Nr. 2, 1. Komp</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Gaberje, 1900; gestorben(18./8.1918).</note>
+            </person>
+            <person xml:id="vll.19181219_705.5434">
+               <note>Grgic Josef, Drag. DR. Nr. 5, zugeteilt dem DR. Nr. 4, 22. Schwd.,</note>
+               <birth>
+                  <country> Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Goriansko, 1899; verw.</note>
+            </person>
+            <person xml:id="vll.19181219_705.10820">
+               <note>Mlekosch Rudolf, Jag., FJB. Nr. 20</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19181219_705.11842">
+               <note>Pahor Josef. Schütze, k. k. SchR. Nr. 6</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Sela, 1882. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehlt.)</note>
+            </person>
+            <person xml:id="vll.19181219_705.12382">
+               <note>Pipan Philip, Infst., IR. Nr. 27</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Komen, 1881. (War kriegsgef. gemeldet. Im Austauschwegezurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19181224_706.4882">
+               <note>Furlan Josef, LstKan., k. k. schw. FAR. Nr. 22, 2. Batt.</note>
+               <birth>
+                  <country>Görz</country>
+                  <region>Haidenschaft</region>
+               </birth>
+               <note>1896; verw.</note>
+            </person>
+            <person xml:id="vll.19181224_706.6486">
+               <note>Hvala Franz, ResZugsf., k. k. GebArtAbt. 22, 3. Batt.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Slap, 1887; verw.</note>
+            </person>
+            <person xml:id="vll.19181224_706.12574">
+               <note>Stergar Stefan, LstSapp., SappErsB. Marburg, 1/44. SappKomp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Kal, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19181224_706.12768">
+               <note>Susmelj Hermann, Infst., IR. Nr. 27, zugeteilt den» DivSturmb, Nr. 6, 2. Sturmkomp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Gagrar, 1891; Verw.</note>
+            </person>
+            <person xml:id="vll.19181224_706.13910">
+               <note>Vidmar Franz, LstGefr., k. k. GschR. Nr. 2, MGKomp. I</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Reifenberg, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19181224_706.14616">
+               <note>Zigon Andreas, Zugsf., k. k. GschR. Nr. 2, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Bilje, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19190103_707.7094">
+               <note>Kavča Anton, LstInfst., IR. Nr. 17, zugeteilt dem IR. TechnKomp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Rechenberg 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19190103_707.9444">
+               <note>Mačuš Franz, Schütze, k. k. GschR. Nr. 2, 11. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>St. Florian, 1886; verw.</note>
+            </person>
+            <person xml:id="vll.19190103_707.10430">
+               <note>Milič Ernst, Schütze, k. k. SchR. Nr. 5</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Repen, 1875; kriegsgef (War kriegsgef. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19190103_707.12304">
+               <note>Pirih Stefan, LstDrag., DR. Nr. 5, zugeteilt dem k. u. k. FAR. Nr. 4, 4. Schwd.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Vislagera. 1893; verw.</note>
+            </person>
+            <person xml:id="vll.19190103_707.13066">
+               <note>Rebek Franz, Oberkan., k. k. LstArtAbt. Nr. 6/3</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Gaberje, 1874. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19190114_709.7716">
+               <note>Kemperle Johann, LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 7. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Nemškave, 1898; verw.</note>
+            </person>
+            <person xml:id="vll.19190114_709.10114">
+               <note>Malnarcič Ivan, Schütze, k. k. SchR. Nr. 6, 12. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>1877. (War kriegsgef. gemeldet. Im Austauschwege zurückgekehrt.)</note>
+            </person>
+            <person xml:id="vll.19190114_709.12802">
+               <note>Pervanyja Anton, Zugsf., k. k. GschR. Nr. 2, 5. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>St. Luzia, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19190114_709.15442">
+               <note>Slejko Josef, Gefr., k. k. GschR. Nr. 2, 11. Komp.</note>
+               <birth>
+                  <country>Görz und Giadiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Cernizza, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19190114_709.18162">
+               <note>Žerjal Josef, LstInfst., IR. Nr. 97, zugeteilt dem IR. Nr. 17, 3. Komp.</note>
+               <birth>
+                  <country>Görz und Gradiska</country>
+                  <region>Görz</region>
+               </birth>
+               <note>Reifenberg, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19190129_708.1318">
+               <note>Ursic Adolf, Lt., k. k. GebSchR. Nr. 2, 2. Komp.</note>
+               <birth>
+                  <country>Görz und Gradisca</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Karfreit, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19190129_708.1320">
+               <note>Ursic Josef, Oblt. i. d. Res., IR. Nr. 47</note>
+               <birth>
+                  <country>Görz uud Gradisca</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Storje, 1891; gefallen (15./6. 1918).</note>
+            </person>
+            <person xml:id="vll.19190129_708.15872">
+               <note>Sorli Andreas, Schütze, k. k. SchR. Nr. 5, zugeteilt dem k. k. GschR. Nr. 1, 11. Komp.</note>
+               <birth>
+                  <country>Görz u. Gradiska</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Kuczat, 1886; verw.</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
