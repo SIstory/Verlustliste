@@ -196,7 +196,7 @@
                   <country>Istrien</country>
                   <region>Lezana</region>
                </birth>
-               <note>Gorjansko, 1888, </note><event type="death"><label>tot</label><desc>(16./11.1914).</desc></event>
+               <note>Gorjansko, 1888</note><event type="death"><label>tot</label><desc>(16./11.1914).</desc></event>
             </person>
             <person xml:id="vll.19150104_92_93.11210" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150104&amp;seite=46&amp;zoom=33">
                <persName>
@@ -209,7 +209,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1893, </note><event type="death"><label>tot</label><desc>(6./11. 1914).</desc></event>
+               <note>1893</note><event type="death"><label>tot</label><desc>(6./11. 1914).</desc></event>
             </person>
             <person xml:id="vll.19150104_92_93.11750" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150104&amp;seite=48&amp;zoom=33">
                <persName>
@@ -567,7 +567,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1893, </note><event type="death"><label>tot</label><desc>(6. — 7./11. 1914).</desc></event>
+               <note>1893</note><event type="death"><label>tot</label><desc>(6. — 7./11. 1914).</desc></event>
             </person>
             <person xml:id="vll.19150130_117.1864" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150130&amp;seite=10&amp;zoom=33">
                <persName>
@@ -593,7 +593,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maresego, 1891, </note><event type="death"><label>tot</label><desc>(28./11. 1914).</desc></event>
+               <note>Maresego, 1891</note><event type="death"><label>tot</label><desc>(28./11. 1914).</desc></event>
             </person>
             <person xml:id="vll.19150131_118.5718" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150131&amp;seite=25&amp;zoom=33">
                <persName>
@@ -1039,7 +1039,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1891, </note><event type="death"><label>tot</label><desc>(8.-3.1./12. 1914).</desc></event>
+               <note>Pinguente, 1891</note><event type="death"><label>tot</label><desc>(8.-3.1./12. 1914).</desc></event>
             </person>
             <person xml:id="vll.19150317_143.1742" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150317&amp;seite=9&amp;zoom=33">
                <persName>
@@ -1104,7 +1104,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1884, </note><event type="death"><label>tot</label><desc>(18.—31./10. 1914).</desc></event>
+               <note>Pinguente, 1884</note><event type="death"><label>tot</label><desc>(18.—31./10. 1914).</desc></event>
             </person>
             <person xml:id="vll.19150317_143.2264" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150317&amp;seite=11&amp;zoom=33">
                <persName>
@@ -1234,7 +1234,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maresego, 3889</note><event type="wounded"><label>verw.</label></event>
+               <note>Maresego, 1889</note><event type="wounded"><label>verw.</label></event>
             </person>
             <person xml:id="vll.19150317_143.4044" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150317&amp;seite=19&amp;zoom=33">
                <persName>
@@ -1273,7 +1273,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1893, </note><event type="death"><label>tot</label><desc>(8. —31./12. 1911).</desc></event>
+               <note>Pinguente, 1893</note><event type="death"><label>tot</label><desc>(8. —31./12. 1911).</desc></event>
             </person>
             <person xml:id="vll.19150317_143.4506" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150317&amp;seite=21&amp;zoom=33">
                <persName>
@@ -1508,7 +1508,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1884, </note><event type="death"><label>tot</label><desc>(18.-31./10.1914).</desc></event>
+               <note>Pinguente, 1884</note><event type="death"><label>tot</label><desc>(18.-31./10.1914).</desc></event>
             </person>
             <person xml:id="vll.19150317_143.7088" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150317&amp;seite=33&amp;zoom=33">
                <persName>
@@ -1547,7 +1547,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1S0O, </note><event type="death"><label>tot</label><desc>(18. — 31./10.1014).</desc></event>
+               <note>Pinguente, 1890</note><event type="death"><label>tot</label><desc>(18.—31./10.1914).</desc></event>
             </person>
             <person xml:id="vll.19150317_143.7366" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150317&amp;seite=34&amp;zoom=33">
                <persName>
@@ -1820,7 +1820,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1881, </note><event type="death"><label>tot.</label></event>
+               <note>Dolina, 1881</note><event type="death"><label>tot.</label></event>
             </person>
             <person xml:id="vll.19150330_152.5262" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150330&amp;seite=25&amp;zoom=33">
                <persName>
@@ -2096,7 +2096,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1894, </note><event type="death"><label>tot</label><desc>(18./2. 1915).</desc></event>
+               <note>1894</note><event type="death"><label>tot</label><desc>(18./2. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150413_159.8436" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150413&amp;seite=40&amp;zoom=33">
                <persName>
@@ -2148,7 +2148,7 @@
                   <country>Istrien</country>
                   <region>Gradisca</region>
                </birth>
-               <note>Brazzano, 1893, </note><event type="death"><label>tot</label><desc>(8./3.1915).</desc></event>
+               <note>Brazzano, 1893</note><event type="death"><label>tot</label><desc>(8./3.1915).</desc></event>
             </person>
             <person xml:id="vll.19150428_168.2424" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150428&amp;seite=12&amp;zoom=33">
                <persName>
@@ -2200,7 +2200,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1893, </note><event type="death"><label>tot</label><desc>(Februar, 1915).</desc></event>
+               <note>Pinguente, 1893</note><event type="death"><label>tot</label><desc>(Februar, 1915).</desc></event>
             </person>
             <person xml:id="vll.19150506_173.3032" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150506&amp;seite=14&amp;zoom=33">
                <persName>
@@ -2343,7 +2343,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1893, </note><event type="death"><label>tot</label><desc>(26./2. 1915).</desc></event>
+               <note>Muggia, 1893</note><event type="death"><label>tot</label><desc>(26./2. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150510_175.6074" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150510&amp;seite=26&amp;zoom=33">
                <persName>
@@ -2851,7 +2851,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Vrbojba, 1892, </note><event type="death"><label>tot</label><desc>(16.—20./5. 1915).</desc></event>
+               <note>Vrbojba, 1892</note><event type="death"><label>tot</label><desc>(16.—20./5. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150710_208.5656" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150710&amp;seite=26&amp;zoom=33">
                <persName>
@@ -2916,7 +2916,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1879, </note><event type="death"><label>tot</label><desc>(17./5. 1915).</desc></event>
+               <note>Dekani, 1879</note><event type="death"><label>tot</label><desc>(17./5. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150720_215.5650" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150720&amp;seite=26&amp;zoom=33">
                <persName>
@@ -2942,7 +2942,7 @@
                   <country>Istrien</country>
                   <region>Sesana</region>
                </birth>
-               <note>Storje, 1889, </note><event type="death"><label>tot.</label></event>
+               <note>Storje, 1889</note><event type="death"><label>tot.</label></event>
             </person>
             <person xml:id="vll.19150720_215.7824" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150720&amp;seite=35&amp;zoom=33">
                <persName>
@@ -3085,7 +3085,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1894, </note><event type="death"><label>tot</label><desc>(7./5. 1915).</desc></event>
+               <note>Pirano, 1894</note><event type="death"><label>tot</label><desc>(7./5. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150723_218.6610" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150723&amp;seite=31&amp;zoom=33">
                <persName>
@@ -3176,7 +3176,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1881, </note><event type="death"><label>tot</label><desc>(20/5. 1915.)</desc></event>
+               <note>Dolina, 1881</note><event type="death"><label>tot</label><desc>(20/5. 1915.)</desc></event>
             </person>
             <person xml:id="vll.19150805_229.2276" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150805&amp;seite=12&amp;zoom=33">
                <persName>
@@ -3240,7 +3240,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1886, </note><event type="death"><label>tot</label><desc>(Mai 1915).</desc></event>
+               <note>Dolina, 1886</note><event type="death"><label>tot</label><desc>(Mai 1915).</desc></event>
             </person>
             <person xml:id="vll.19150805_229.8516" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150805&amp;seite=39&amp;zoom=33">
                <persName>
@@ -3308,7 +3308,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1872, </note><event type="death"><label>tot</label><desc>(1./5. 1915).</desc></event>
+               <note>Isola, 1872</note><event type="death"><label>tot</label><desc>(1./5. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150812_235.2914" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150812&amp;seite=14&amp;zoom=33">
                <persName>
@@ -3321,7 +3321,7 @@
                   <country>Istrien</country>
                   <region>Capodistra</region>
                </birth>
-               <note>Isola, 1877, </note><event type="death"><label>tot</label><desc>(Juni 1915.).</desc></event>
+               <note>Isola, 1877</note><event type="death"><label>tot</label><desc>(Juni 1915.).</desc></event>
             </person>
             <person xml:id="vll.19150814_237.992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150814&amp;seite=6&amp;zoom=33">
                <persName>
@@ -3451,7 +3451,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1886, </note><event type="death"><label>tot</label><desc>(13./6.1915).</desc></event>
+               <note>1886</note><event type="death"><label>tot</label><desc>(13./6.1915).</desc></event>
             </person>
             <person xml:id="vll.19150814_237.2484" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150814&amp;seite=13&amp;zoom=33">
                <persName>
@@ -3503,7 +3503,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pangnano, 1891, </note><event type="death"><label>tot.</label><desc>(4.—10./6. 1915).</desc></event>
+               <note>Pangnano, 1891</note><event type="death"><label>tot.</label><desc>(4.—10./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150814_237.4522" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150814&amp;seite=24&amp;zoom=33">
                <persName>
@@ -3672,7 +3672,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1891 ,</note><event type="death"><label>tot</label><desc>(4.—10./6. 1915).</desc></event>
+               <note>Dekani, 1891</note><event type="death"><label>tot</label><desc>(4.—10./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150814_237.8376" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150814&amp;seite=44&amp;zoom=33">
                <persName>
@@ -3698,7 +3698,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1883, </note><event type="death"><label>tot</label><desc>(4./6. 1915).</desc></event>
+               <note>Dekani, 1883</note><event type="death"><label>tot</label><desc>(4./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150814_237.9092" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150814&amp;seite=48&amp;zoom=33">
                <persName>
@@ -3776,7 +3776,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1869, </note><event type="death"><label>tot</label><desc>(5./7. 1915).</desc></event>
+               <note>1869</note><event type="death"><label>tot</label><desc>(5./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150819_242.5766" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150819&amp;seite=28&amp;zoom=33">
                <persName>
@@ -3828,7 +3828,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1879, </note><event type="death"><label>tot</label><desc>(Juli 1915).</desc></event>
+               <note>1879</note><event type="death"><label>tot</label><desc>(Juli 1915).</desc></event>
             </person>
             <person xml:id="vll.19150822_245.7708" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150822&amp;seite=38&amp;zoom=33">
                <persName>
@@ -3867,7 +3867,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Rizmanje, 1891, </note><event type="death"><label>tot</label><desc>(29./6.-12./7. 1915).</desc></event>
+               <note>Rizmanje, 1891</note><event type="death"><label>tot</label><desc>(29./6.-12./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150824_246.1740" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150824&amp;seite=9&amp;zoom=33">
                <persName>
@@ -4076,7 +4076,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Grahovo bei Tolmein, 1878,: </note><event type="death"><label>tot</label><desc>(14./7.1915).</desc></event>
+               <note>Grahovo bei Tolmein, 1878</note><event type="death"><label>tot</label><desc>(14./7.1915).</desc></event>
             </person>
             <person xml:id="vll.19150830_252.4094" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150830&amp;seite=21&amp;zoom=33">
                <persName>
@@ -4167,7 +4167,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Lusinika, 1894, </note><event type="death"><label>tot</label><desc>(Juli 1915).</desc></event>
+               <note>Lusinika, 1894</note><event type="death"><label>tot</label><desc>(Juli 1915).</desc></event>
             </person>
             <person xml:id="vll.19150901_254.8908" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150901&amp;seite=38&amp;zoom=33">
                <persName>
@@ -4193,7 +4193,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1891, </note><event type="death"><label>tot</label><desc>(Juni 1915).</desc></event>
+               <note>1891</note><event type="death"><label>tot</label><desc>(Juni 1915).</desc></event>
             </person>
             <person xml:id="vll.19150902_255.3556" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150902&amp;seite=18&amp;zoom=33">
                <persName>
@@ -4416,7 +4416,7 @@
                   <country>Istrien</country>
                   <region>Klanec</region>
                </birth>
-               <note>Očisla, 1890, </note><event type="death"><label>tot</label><desc>(Juli 1915).</desc></event>
+               <note>Očisla, 1890</note><event type="death"><label>tot</label><desc>(Juli 1915).</desc></event>
             </person>
             <person xml:id="vll.19150910_263.6196" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150910&amp;seite=29&amp;zoom=33">
                <persName>
@@ -4519,7 +4519,7 @@
                   <country>Istrien</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Grahovo, 1895, </note><event type="death"><label>tot</label><desc>(4.—6./6. 1915).</desc></event>
+               <note>Grahovo, 1895</note><event type="death"><label>tot</label><desc>(4.—6./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150916_267.1304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=7&amp;zoom=33">
                <persName>
@@ -4727,7 +4727,7 @@
                   <country>Istrien</country>
                   <region>Loitsch</region>
                </birth>
-               <note>Stanitzy, 1895, </note><event type="death"><label>tot</label><desc>(18./6. 1915).</desc></event>
+               <note>Stanitzy, 1895</note><event type="death"><label>tot</label><desc>(18./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150916_267.4734" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=23&amp;zoom=33">
                <persName>
@@ -4753,7 +4753,7 @@
                   <country>Istrien</country>
                   <region>Goryca</region>
                </birth>
-               <note>Kal, 1888, </note><event type="death"><label>tot</label><desc>(6./6.1915).</desc></event>
+               <note>Kal, 1888</note><event type="death"><label>tot</label><desc>(6./6.1915).</desc></event>
             </person>
             <person xml:id="vll.19150916_267.5084" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=25&amp;zoom=33">
                <persName>
@@ -4819,7 +4819,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1888, </note><event type="death"><label>tot</label><desc>(6./6. 1915).</desc></event>
+               <note>Kal, 1888</note><event type="death"><label>tot</label><desc>(6./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150916_267.6396" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=32&amp;zoom=33">
                <persName>
@@ -5288,7 +5288,7 @@
                   <country>Istrien</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Iderska, 1892, </note><event type="death"><label>tot</label><desc>(29./6. 1915).</desc></event>
+               <note>Iderska, 1892</note><event type="death"><label>tot</label><desc>(29./6. 1915).</desc></event>
             </person>
             <person xml:id="vll.19150926_275.1106" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150926&amp;seite=6&amp;zoom=33">
                <persName>
@@ -5788,7 +5788,7 @@
                   <country>Istrien</country>
                   <region>Lohatec</region>
                </birth>
-               <note>Routa, 1890, </note><event type="death"><label>tot</label><desc>(2.-3. /7.1915).</desc></event>
+               <note>Routa, 1890</note><event type="death"><label>tot</label><desc>(2.-3. /7.1915).</desc></event>
             </person>
             <person xml:id="vll.19151010_289.10372" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151010&amp;seite=46&amp;zoom=33">
                <persName>
@@ -5944,7 +5944,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1888, </note><event type="death"><label>tot</label><desc>(16./9.1915).</desc></event>
+               <note>Dolina, 1888</note><event type="death"><label>tot</label><desc>(16./9.1915).</desc></event>
             </person>
             <person xml:id="vll.19151016_294.6010" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151016&amp;seite=33&amp;zoom=33">
                <persName>
@@ -6022,7 +6022,7 @@
                   <country>Istrien</country>
                   <region>Mezzolombardo</region>
                </birth>
-               <note>1885, </note><event type="death"><label>tot</label><desc>(1.—3./9. 1915. Zugeteilt vom LdschR. Nr. II).</desc></event>
+               <note>1885</note><event type="death"><label>tot</label><desc>(1.—3./9. 1915. Zugeteilt vom LdschR. Nr. II).</desc></event>
             </person>
             <person xml:id="vll.19151020_296.8482" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151020&amp;seite=42&amp;zoom=33">
                <persName>
@@ -6113,7 +6113,7 @@
                   <country>Istrien</country>
                   <region>Capodstria</region>
                </birth>
-               <note>Muggia, 1888, </note><event type="death"><label>tot</label><desc>(20./8. 1915).</desc></event>
+               <note>Muggia, 1888</note><event type="death"><label>tot</label><desc>(20./8. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151030_304.4692" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151030&amp;seite=24&amp;zoom=33">
                <persName>
@@ -6249,7 +6249,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pingue'nte, 1887</note><event type="pow"><label>kriegsgef.</label><desc>, Kurgati, Gouvernement Tobolsk, Rußland.</desc></event>
+               <note>Pinguente, 1887</note><event type="pow"><label>kriegsgef.</label><desc>, Kurgati, Gouvernement Tobolsk, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19151105_307.8360" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151105&amp;seite=38&amp;zoom=33">
                <persName>
@@ -6366,7 +6366,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1896, </note><event type="death"><label>tot</label><desc>(11. —20./9. 1915).</desc></event>
+               <note>1896</note><event type="death"><label>tot</label><desc>(11. —20./9. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151109_310.2916" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151109&amp;seite=16&amp;zoom=33">
                <persName>
@@ -6484,7 +6484,7 @@
                   <country>Istrien</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Zaga, 1895, </note><event type="death"><label>tot</label><desc>(20./7. 1915).</desc></event>
+               <note>Zaga, 1895</note><event type="death"><label>tot</label><desc>(20./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151112_313.1178" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151112&amp;seite=7&amp;zoom=33">
                <persName>
@@ -6536,7 +6536,7 @@
                   <country>Istrien</country>
                   <region>Goryca</region>
                </birth>
-               <note>Kai, 1890, </note><event type="death"><label>tot</label><desc>(29./7. 1915).</desc></event>
+               <note>Kai, 1890</note><event type="death"><label>tot</label><desc>(29./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151112_313.2988" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151112&amp;seite=14&amp;zoom=33">
                <persName>
@@ -6549,7 +6549,7 @@
                   <country>Istrien</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Tnnow, 1895, </note><event type="death"><label>tot</label><desc>(29./7.1915).</desc></event>
+               <note>Tnnow, 1895</note><event type="death"><label>tot</label><desc>(29./7.1915).</desc></event>
             </person>
             <person xml:id="vll.19151112_313.3992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151112&amp;seite=19&amp;zoom=33">
                <persName>
@@ -6783,7 +6783,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1896; </note><event type="death"><label>tot</label><desc>(20./8. 1915).</desc></event>
+               <note>1896</note><event type="death"><label>tot</label><desc>(20./8. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151203_328.6850" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151203&amp;seite=33&amp;zoom=33">
                <persName>
@@ -6796,7 +6796,7 @@
                   <country>Istrien</country>
                   <region>Koper</region>
                </birth>
-               <note>Zabawle, 1882; </note><event type="death"><label>tot</label><desc>(1.-30./9. 1915).</desc></event>
+               <note>Zabawle, 1882</note><event type="death"><label>tot</label><desc>(1.-30./9. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151204_329.9594" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151204&amp;seite=44&amp;zoom=33">
                <persName>
@@ -6835,7 +6835,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1883; </note><event type="death"><label>tot</label><desc>(9.-28./10. 1915).</desc></event>
+               <note>1883</note><event type="death"><label>tot</label><desc>(9.-28./10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.1118" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=7&amp;zoom=33">
                <persName>
@@ -6900,7 +6900,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1895; </note><event type="death"><label>tot</label><desc>(21.—29./7. 1915).</desc></event>
+               <note>Pinguente, 1895</note><event type="death"><label>tot</label><desc>(21.—29./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.1532" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=9&amp;zoom=33">
                <persName>
@@ -6926,7 +6926,10 @@
                   <country>Istrien</country>
                   <region>Gradisea.</region>
                </birth>
-               <note>Volesp, 1894; veiw.</note>
+               <note>Volesp, 1894</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
             <person xml:id="vll.19151208_331.1704" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=10&amp;zoom=33">
                <persName>
@@ -7082,7 +7085,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Carcanze, 1882; </note><event type="death"><label>tot</label><desc>(20.—30./7.1915).</desc></event>
+               <note>Carcanze, 1882</note><event type="death"><label>tot</label><desc>(20.—30./7.1915).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.2772" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=15&amp;zoom=33">
                <persName>
@@ -7173,7 +7176,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1890; </note><event type="death"><label>tot</label><desc>(21.—29./7. 1915).</desc></event>
+               <note>Pinguente, 1890</note><event type="death"><label>tot</label><desc>(21.—29./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.4076" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=21&amp;zoom=33">
                <persName>
@@ -7225,7 +7228,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1895; </note><event type="death"><label>tot</label><desc>(21.—29./7. 1915).</desc></event>
+               <note>1895</note><event type="death"><label>tot</label><desc>(21.—29./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.5422" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=28&amp;zoom=33">
                <persName>
@@ -7251,7 +7254,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>, Bolunz, 1883</note><event type="wounded"><label>verw.</label></event>
+               <note>Bolunz, 1883</note><event type="wounded"><label>verw.</label></event>
             </person>
             <person xml:id="vll.19151208_331.5728" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=30&amp;zoom=33">
                <persName>
@@ -7368,7 +7371,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1895; </note><event type="death"><label>tot</label><desc>(21.—29./7. 1916).</desc></event>
+               <note>Pirano, 1895</note><event type="death"><label>tot</label><desc>(21.—29./7. 1916).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.6300" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=33&amp;zoom=33">
                <persName>
@@ -7394,7 +7397,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1893; </note><event type="death"><label>tot</label><desc>(21.— 29./7. 1915).</desc></event>
+               <note>Pinguente, 1893</note><event type="death"><label>tot</label><desc>(21.— 29./7. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151208_331.6362" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=33&amp;zoom=33">
                <persName>
@@ -7511,7 +7514,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>S.'Antonio, 1881</note><event type="wounded"><label>verw.</label></event>
+               <note>St. Antonio, 1881</note><event type="wounded"><label>verw.</label></event>
             </person>
             <person xml:id="vll.19151208_331.8436" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151208&amp;seite=44&amp;zoom=33">
                <persName>
@@ -7654,7 +7657,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pomjan, 1892; </note><event type="death"><label>tot</label><desc>(11./11. 1915). .</desc></event>
+               <note>Pomjan, 1892</note><event type="death"><label>tot</label><desc>(11./11. 1915). .</desc></event>
             </person>
             <person xml:id="vll.19151215_336.9418" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151215&amp;seite=45&amp;zoom=33">
                <persName>
@@ -7667,7 +7670,7 @@
                   <country>Istrien</country>
                   <region>Gradiska</region>
                </birth>
-               <note>Medana, 1893; </note><event type="death"><label>tot</label><desc>(3./11. 1915).</desc></event>
+               <note>Medana, 1893</note><event type="death"><label>tot</label><desc>(3./11. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151218_337.890" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151218&amp;seite=6&amp;zoom=33">
                <persName>
@@ -7719,7 +7722,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>1887; </note><event type="death"><label>tot</label><desc>(7./10. 1915).</desc></event>
+               <note>1887</note><event type="death"><label>tot</label><desc>(7./10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19151224_342.5844" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151224&amp;seite=26&amp;zoom=33">
                <persName>
@@ -7745,7 +7748,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Clanz, 1896; </note><event type="death"><label>tot.</label><desc>(24./10.1915).</desc></event>
+               <note>Clanz, 1896</note><event type="death"><label>tot.</label><desc>(24./10.1915).</desc></event>
             </person>
             <person xml:id="vll.19151228_344.5556" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151228&amp;seite=26&amp;zoom=33">
                <persName>
@@ -7771,7 +7774,7 @@
                   <country>Istrien</country>
                   <region>Trient</region>
                </birth>
-               <note>Cavediuc, 1885; '</note><event type="wounded"><label>verw.</label></event>
+               <note>Cavediuc, 1885</note><event type="wounded"><label>verw.</label></event>
             </person>
             <person xml:id="vll.19160104_349.5150" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160104&amp;seite=24&amp;zoom=33">
                <persName>
@@ -7784,7 +7787,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Piran, 1889; </note><event type="death"><label>tot</label><desc>(l./12. 1915).</desc></event>
+               <note>Piran, 1889</note><event type="death"><label>tot</label><desc>(l./12. 1915).</desc></event>
             </person>
             <person xml:id="vll.19160104_349.8992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160104&amp;seite=40&amp;zoom=33">
                <persName>
@@ -7939,7 +7942,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1881; </note><event type="death"><label>tot</label><desc>(27./10. 1915).</desc></event>
+               <note>1881</note><event type="death"><label>tot</label><desc>(27./10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19160108_352.5822" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160108&amp;seite=30&amp;zoom=33">
                <persName>
@@ -8004,7 +8007,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1896; </note><event type="death"><label>tot</label><desc>(7.—9./10. 1915).</desc></event>
+               <note>Muggia, 1896</note><event type="death"><label>tot</label><desc>(7.—9./10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19160110_353.5506" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160110&amp;seite=26&amp;zoom=33">
                <persName>
@@ -8134,7 +8137,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinquente, 1882; </note><event type="death"><label>tot</label><desc>(16. /12. 1915).</desc></event>
+               <note>Pinquente, 1882</note><event type="death"><label>tot</label><desc>(16. /12. 1915).</desc></event>
             </person>
             <person xml:id="vll.19160201_368.8958" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160201&amp;seite=37&amp;zoom=33">
                <persName>
@@ -8199,7 +8202,7 @@
                   <country>Istrien</country>
                   <region>Castelnuovo</region>
                </birth>
-               <note>Obrovo, 1896; </note><event type="death"><label>tot</label><desc>(3./1. 1916).</desc></event>
+               <note>Obrovo, 1896</note><event type="death"><label>tot</label><desc>(3./1. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160208_373.3154" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160208&amp;seite=17&amp;zoom=33">
                <persName>
@@ -9372,7 +9375,7 @@
                   <country>Istrien</country>
                   <region>Tolmein</region>
                </birth>
-               <note>Drežnica, 1878; </note><event type="death"><label>tot</label><desc>(16.—21./10.1915).</desc></event>
+               <note>Drežnica, 1878</note><event type="death"><label>tot</label><desc>(16.—21./10.1915).</desc></event>
             </person>
             <person xml:id="vll.19160401_402.5166" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160401&amp;seite=24&amp;zoom=33">
                <persName>
@@ -9515,7 +9518,7 @@
                   <country>Istrien</country>
                   <region>Capodisria</region>
                </birth>
-               <note>l. komp.</note><event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
+               <event type="pow"><label>kriegsgef.</label><desc>, Rußland.</desc></event>
             </person>
             <person xml:id="vll.19160405_404.2278" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160405&amp;seite=9&amp;zoom=33">
                <persName>
@@ -9528,7 +9531,7 @@
                   <country>Istrien</country>
                   <region>Sesana</region>
                </birth>
-               <note>Naklo; </note><event type="death"><label>tot</label><desc>(21./6.1915).</desc></event>
+               <note>Naklo</note><event type="death"><label>tot</label><desc>(21./6.1915).</desc></event>
             </person>
             <person xml:id="vll.19160405_404.2882" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160405&amp;seite=12&amp;zoom=33">
                <persName>
@@ -9539,9 +9542,12 @@
                <affiliation>FJB. Nr. 20, 2. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
-                  <region>Capodistria; kriegsgef.</region>
+                  <region>Capodistria</region>
                </birth>
-               <note>Rußland.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Rußland.</desc>
+               </event>
             </person>
             <person xml:id="vll.19160405_404.3842" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160405&amp;seite=15&amp;zoom=33">
                <persName>
@@ -9567,7 +9573,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pangnano, 1881; </note><event type="death"><label>tot</label><desc>(März 1915).</desc></event>
+               <note>Pangnano, 1881</note><event type="death"><label>tot</label><desc>(März 1915).</desc></event>
             </person>
             <person xml:id="vll.19160405_404.10726" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160405&amp;seite=42&amp;zoom=33">
                <persName>
@@ -9822,7 +9828,7 @@
                   <country>Istrien</country>
                   <region>Sesana</region>
                </birth>
-               <note>Naklo; </note><event type="death"><label>tot</label><desc>(21./6.1916).</desc></event>
+               <note>Naklo</note><event type="death"><label>tot</label><desc>(21./6.1916).</desc></event>
             </person>
             <person xml:id="vll.19160523_423.2432" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160523&amp;seite=11&amp;zoom=33">
                <persName>
@@ -10844,9 +10850,12 @@
                <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Istrien</country>
-                  <region>Capodistria; kriegsgef.</region>
+                  <region>Capodistria</region>
                </birth>
-               <note>Skobelew, Gebiet Ferghana, Rußland.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Skobelew, Gebiet Ferghana, Rußland.</desc>
+               </event>
             </person>
             <person xml:id="vll.19160704_437.13968" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160704&amp;seite=57&amp;zoom=33">
                <persName>
@@ -11127,7 +11136,7 @@
                   <country>Istrien</country>
                   <region>Koper</region>
                </birth>
-               <note>Dolina, 1895; </note><event type="death"><label>tot</label><desc>(21./5.1916).</desc></event>
+               <note>Dolina, 1895</note><event type="death"><label>tot</label><desc>(21./5.1916).</desc></event>
             </person>
             <person xml:id="vll.19160718_442.7252" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160718&amp;seite=32&amp;zoom=33">
                <persName>
@@ -11166,7 +11175,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1882; </note><event type="death"><label>tot</label><desc>(1.-10./6. 1916).</desc></event>
+               <note>Isola, 1882</note><event type="death"><label>tot</label><desc>(1.-10./6. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160720_443.5784" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160720&amp;seite=24&amp;zoom=33">
                <persName>
@@ -11723,9 +11732,12 @@
                <affiliation>k. k. LIR. Nr. 5, 10. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
-                  <region>Capodistria; kriegsgef.</region>
+                  <region>Capodistria</region>
                </birth>
-               <note>Asinara, 1. Rep., Italien.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Asinara, 1. Rep., Italien.</desc>
+               </event>
             </person>
             <person xml:id="vll.19160804_448.10398" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160804&amp;seite=45&amp;zoom=33">
                <persName>
@@ -11881,7 +11893,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Bezovica, 1896; </note><event type="death"><label>tot</label><desc>(30./5. 1916).</desc></event>
+               <note>Bezovica, 1896</note><event type="death"><label>tot</label><desc>(30./5. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160807_449.8114" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160807&amp;seite=35&amp;zoom=33">
                <persName>
@@ -11920,7 +11932,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1876; </note><event type="death"><label>tot</label><desc>(30./5. 1916).</desc></event>
+               <note>Pinguente, 1876</note><event type="death"><label>tot</label><desc>(30./5. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160810_450.12440" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160810&amp;seite=50&amp;zoom=33">
                <persName>
@@ -11972,7 +11984,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1887; </note><event type="death"><label>tot.</label></event>
+               <note>Muggia, 1887</note><event type="death"><label>tot.</label></event>
             </person>
             <person xml:id="vll.19160819_454.9452" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160819&amp;seite=36&amp;zoom=33">
                <persName>
@@ -12063,7 +12075,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Padena; </note><event type="death"><label>tot</label><desc>(30./6. 1916).</desc></event>
+               <note>Padena</note><event type="death"><label>tot</label><desc>(30./6. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160824_455.9270" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160824&amp;seite=41&amp;zoom=33">
                <persName>
@@ -12115,7 +12127,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1888; </note><event type="death"><label>tot</label><desc>(15.—20./5. 1916;.</desc></event>
+               <note>Dolina, 1888</note><event type="death"><label>tot</label><desc>(15.—20./5. 1916;.</desc></event>
             </person>
             <person xml:id="vll.19160824_455.13514" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160824&amp;seite=58&amp;zoom=33">
                <persName>
@@ -12141,7 +12153,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Decani, 1894; </note><event type="death"><label>tot</label><desc>(4./4. 1916).</desc></event>
+               <note>Decani, 1894</note><event type="death"><label>tot</label><desc>(4./4. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160826_456.2854" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160826&amp;seite=12&amp;zoom=33">
                <persName>
@@ -12219,7 +12231,7 @@
                   <country>Istrien</country>
                   <region>Gradisca</region>
                </birth>
-               <note>1880; </note><event type="death"><label>tot</label><desc>(19./6. 1916).</desc></event>
+               <note>1880</note><event type="death"><label>tot</label><desc>(19./6. 1916).</desc></event>
             </person>
             <person xml:id="vll.19160909_462.4716" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160909&amp;seite=22&amp;zoom=33">
                <persName>
@@ -12392,7 +12404,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1884; </note><event type="death"><label>tot</label><desc>(13./7.1916).</desc></event>
+               <note>Dolina, 1884</note><event type="death"><label>tot</label><desc>(13./7.1916).</desc></event>
             </person>
             <person xml:id="vll.19161014_477.944" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161014&amp;seite=5&amp;zoom=33">
                <persName>
@@ -12821,7 +12833,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1883; </note><event type="death"><label>tot</label><desc>(4./7. 1916).</desc></event>
+               <note>1883</note><event type="death"><label>tot</label><desc>(4./7. 1916).</desc></event>
             </person>
             <person xml:id="vll.19161014_477.11222" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161014&amp;seite=43&amp;zoom=33">
                <persName>
@@ -13146,7 +13158,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet, 1893; </note><event type="death"><label>tot</label><desc>(13./7.1916).</desc></event>
+               <note>Buzet, 1893</note><event type="death"><label>tot</label><desc>(13./7.1916).</desc></event>
             </person>
             <person xml:id="vll.19161101_485.8356" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161101&amp;seite=37&amp;zoom=33">
                <persName>
@@ -13276,7 +13288,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Barste, 1892; </note><event type="death"><label>tot</label><desc>(17. /9. 1916).</desc></event>
+               <note>Barste, 1892</note><event type="death"><label>tot</label><desc>(17. /9. 1916).</desc></event>
             </person>
             <person xml:id="vll.19161116_490.11968" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161116&amp;seite=46&amp;zoom=33">
                <persName>
@@ -13411,7 +13423,7 @@
                   <country>Istrien</country>
                   <region>Gradiska</region>
                </birth>
-               <note>Cormons, 1889; </note><event type="death"><label>tot.</label><desc>(Laut Meldung des russischen Roten Kreuzesgestorben am 13./4. 1915 in Krasnojarsk, Rußland. Nicht legal nachgewiesen.)</desc></event>
+               <note>Cormons, 1889</note><event type="death"><label>tot.</label><desc>(Laut Meldung des russischen Roten Kreuzesgestorben am 13./4. 1915 in Krasnojarsk, Rußland. Nicht legal nachgewiesen.)</desc></event>
             </person>
             <person xml:id="vll.19161223_506.3358" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161223&amp;seite=16&amp;zoom=33">
                <persName>
@@ -13532,7 +13544,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>1877; </note><event type="death"><label>tot</label><desc>(5./9. 1916).</desc></event>
+               <note>1877</note><event type="death"><label>tot</label><desc>(5./9. 1916).</desc></event>
             </person>
             <person xml:id="vll.19161223_506.8760" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161223&amp;seite=39&amp;zoom=33">
                <persName>
@@ -13675,7 +13687,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Rozzo, 1893; </note><event type="death"><label>tot</label><desc>(22./10. 1915).</desc></event>
+               <note>Rozzo, 1893</note><event type="death"><label>tot</label><desc>(22./10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19161227_507.1424" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19161227&amp;seite=7&amp;zoom=33">
                <persName>
@@ -13878,7 +13890,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1897; </note><event type="death"><label>tot</label><desc>(21./9. 1916).</desc></event>
+               <note>Pinguente, 1897</note><event type="death"><label>tot</label><desc>(21./9. 1916).</desc></event>
             </person>
             <person xml:id="v11.19170418_556.5842" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170418&amp;seite=27&amp;zoom=33">
                <persName>
@@ -13904,7 +13916,7 @@
                   <country>Istrien</country>
                   <region>Gradisca</region>
                </birth>
-               <note>Marüano, 1892; </note><event type="death"><label>tot</label><desc>(4./7. 1916).</desc></event>
+               <note>Marüano, 1892</note><event type="death"><label>tot</label><desc>(4./7. 1916).</desc></event>
             </person>
             <person xml:id="vll.19170423_558.13248" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170423&amp;seite=58&amp;zoom=33">
                <persName>
@@ -13917,7 +13929,7 @@
                   <country>Istrien</country>
                   <region>Pirano</region>
                </birth>
-               <note>1879; </note><event type="death"><label>tot</label><desc>(16./9.1915).</desc></event>
+               <note>1879</note><event type="death"><label>tot</label><desc>(16./9.1915).</desc></event>
             </person>
             <person xml:id="vll.19170424_559.952" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=6&amp;zoom=33">
                <persName>
@@ -13956,7 +13968,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Podgora, 1881; </note><event type="death"><label>tot.</label><desc>(Laut Meld. des russischen Roten Kreuzes gestorben am 20./1.1915 in Moskau, Rußland. Nicht legal nachgewieiesen.)</desc></event>
+               <note>Podgora, 1881</note><event type="death"><label>tot.</label><desc>(Laut Meld. des russischen Roten Kreuzes gestorben am 20./1.1915 in Moskau, Rußland. Nicht legal nachgewieiesen.)</desc></event>
             </person>
             <person xml:id="vll.19170424_559.2998" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=14&amp;zoom=33">
                <persName>
@@ -13982,7 +13994,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1893; </note><event type="death"><label>tot</label><desc>(11./10.1916).</desc></event>
+               <note>Dekani, 1893</note><event type="death"><label>tot</label><desc>(11./10.1916).</desc></event>
             </person>
             <person xml:id="vll.19170424_559.4074" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=18&amp;zoom=33">
                <persName>
@@ -14021,7 +14033,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1897; </note><event type="death"><label>tot</label><desc>(16. /10. 1916).</desc></event>
+               <note>Muggia, 1897</note><event type="death"><label>tot</label><desc>(16. /10. 1916).</desc></event>
             </person>
             <person xml:id="vll.19170424_559.8092" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=35&amp;zoom=33">
                <persName>
@@ -14047,7 +14059,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Rozzo, 1896; </note><event type="death"><label>tot</label><desc>(8./12. 1916).</desc></event>
+               <note>Rozzo, 1896</note><event type="death"><label>tot</label><desc>(8./12. 1916).</desc></event>
             </person>
             <person xml:id="vll.19170424_559.11970" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=51&amp;zoom=33">
                <persName>
@@ -14086,7 +14098,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1895; </note><event type="death"><label>tot</label><desc>(21./10. 1915).</desc></event>
+               <note>Dekani, 1895</note><event type="death"><label>tot</label><desc>(21./10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19170424_559.13852" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=58&amp;zoom=33">
                <persName>
@@ -14099,7 +14111,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1896; </note><event type="death"><label>tot</label><desc>(22. /10. 1915).</desc></event>
+               <note>Pinguente, 1896</note><event type="death"><label>tot</label><desc>(22. /10. 1915).</desc></event>
             </person>
             <person xml:id="vll.19170424_559.14334" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170424&amp;seite=60&amp;zoom=33">
                <persName>
@@ -14584,7 +14596,7 @@
                   <country>Istrien</country>
                   <region>Sesana</region>
                </birth>
-               <note>Stjak, 1894; </note><event type="death"><label>tot</label><desc>(27./2. 1915).</desc></event>
+               <note>Stjak, 1894</note><event type="death"><label>tot</label><desc>(27./2. 1915).</desc></event>
             </person>
             <person xml:id="vll.19170430_563.9650" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170430&amp;seite=44&amp;zoom=33">
                <persName>
@@ -14636,7 +14648,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1894; </note><event type="death"><label>tot</label><desc>(14.—21./5. 1916).</desc></event>
+               <note>Pirano, 1894</note><event type="death"><label>tot</label><desc>(14.—21./5. 1916).</desc></event>
             </person>
             <person xml:id="vll.19170430_563.11644" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170430&amp;seite=53&amp;zoom=33">
                <persName>
@@ -14662,7 +14674,7 @@
                   <country>Istrien</country>
                   <region>Sesana</region>
                </birth>
-               <note>1894; </note><event type="death"><label>tot</label><desc>(17./2. 1915).</desc></event>
+               <note>1894</note><event type="death"><label>tot</label><desc>(17./2. 1915).</desc></event>
             </person>
             <person xml:id="vll.19170430_563.11750" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170430&amp;seite=54&amp;zoom=33">
                <persName>
@@ -14727,7 +14739,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Brazzana, 1873; </note><event type="death"><label>tot</label><desc>(8./8.1916).</desc></event>
+               <note>Brazzana, 1873</note><event type="death"><label>tot</label><desc>(8./8.1916).</desc></event>
             </person>
             <person xml:id="vll.19170501_564.12654" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170501&amp;seite=49&amp;zoom=33">
                <persName>
@@ -14779,7 +14791,7 @@
                   <country>Istrien</country>
                   <region>Gradisca</region>
                </birth>
-               <note>Medea, 1876; </note><event type="death"><label>tot.</label><desc>(Laut Meldung des russischen Roten Kreuzes gestorben am 20./3. 1916 in Perm, Rußland. Nicht legal nachgewiesen.)</desc></event>
+               <note>Medea, 1876</note><event type="death"><label>tot.</label><desc>(Laut Meldung des russischen Roten Kreuzes gestorben am 20./3. 1916 in Perm, Rußland. Nicht legal nachgewiesen.)</desc></event>
             </person>
             <person xml:id="vll.19170507_568.2346" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170507&amp;seite=11&amp;zoom=33">
                <persName>
@@ -14930,7 +14942,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Kal, 1894; </note><event type="death"><label>tot.</label><desc>(Laut Meldung des russischenen Roten Kreuzes gestorben am 21./12. 1915 in Moskau. Nicht legal nachgewiesen.)</desc></event>
+               <note>Kal, 1894</note><event type="death"><label>tot.</label><desc>(Laut Meldung des russischenen Roten Kreuzes gestorben am 21./12. 1915 in Moskau. Nicht legal nachgewiesen.)</desc></event>
             </person>
             <person xml:id="vll.19170507_568.10846" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170507&amp;seite=50&amp;zoom=33">
                <persName>
@@ -15029,7 +15041,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Ronzina, 1882; </note><event type="death"><label>tot</label><desc>(16.—20./10. 1916).</desc></event>
+               <note>Ronzina, 1882</note><event type="death"><label>tot</label><desc>(16.—20./10. 1916).</desc></event>
             </person>
             <person xml:id="vll.19170726_602.10690" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170726&amp;seite=40&amp;zoom=33">
                <persName>
@@ -15094,7 +15106,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>St. Thomas, 1897; </note><event type="death"><label>gefallen</label><desc>(5./6. 1917).</desc></event>
+               <note>St. Thomas, 1897</note><event type="death"><label>gefallen</label><desc>(5./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19170731_604.1410" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170731&amp;seite=7&amp;zoom=33">
                <persName>
@@ -15185,7 +15197,7 @@
                   <country>Istrien</country>
                   <region>Sesana</region>
                </birth>
-               <note>Berje, 1887; </note><event type="death"><label>gefallen</label><desc>(1. 6. 1917).</desc></event>
+               <note>Berje, 1887</note><event type="death"><label>gefallen</label><desc>(1. 6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19170901_609.1742" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170901&amp;seite=8&amp;zoom=33">
                <persName>
@@ -15198,7 +15210,7 @@
                   <country>Istrien</country>
                   <region>Castelnuova</region>
                </birth>
-               <note>Volosca, 1871, </note><event type="death"><label>gestorben</label><desc>(22./6.1917).</desc></event>
+               <note>Volosca, 1871</note><event type="death"><label>gestorben</label><desc>(22./6.1917).</desc></event>
             </person>
             <person xml:id="vll.19170901_609.2384" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170901&amp;seite=10&amp;zoom=33">
                <persName>
@@ -15224,7 +15236,7 @@
                   <country>Istrien</country>
                   <region>Pirano</region>
                </birth>
-               <note>1896; </note><event type="death"><label>gefallen</label><desc>(23./7. 1917).</desc></event>
+               <note>1896</note><event type="death"><label>gefallen</label><desc>(23./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19170901_609.8044" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170901&amp;seite=36&amp;zoom=33">
                <persName>
@@ -15250,7 +15262,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1874; </note><event type="death"><label>gefallen</label><desc>(3. 6. 1917).</desc></event>
+               <note>Dolina, 1874</note><event type="death"><label>gefallen</label><desc>(3. 6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19170904_610.10758" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170904&amp;seite=41&amp;zoom=33">
                <persName>
@@ -15263,7 +15275,11 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Paugnano, 1876; getellen (20./9.1916).</note>
+               <note>Paugnano, 1876</note>
+               <event type="death">
+                  <label>gefallen</label>
+                  <desc>(20./9.1916).</desc>
+               </event>
             </person>
             <person xml:id="vll.19170904_610.11056" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170904&amp;seite=42&amp;zoom=33">
                <persName>
@@ -15289,7 +15305,7 @@
                   <country>Istrien</country>
                   <region>Köper</region>
                </birth>
-               <note>1878; </note><event type="death"><label>gefallen</label><desc>(1.-31./5.1917).</desc></event>
+               <note>1878</note><event type="death"><label>gefallen</label><desc>(1.-31./5.1917).</desc></event>
             </person>
             <person xml:id="vll.19171005_613.1776" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171005&amp;seite=8&amp;zoom=33">
                <persName>
@@ -15315,7 +15331,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maresego, 1874; </note><event type="death"><label>gefallen</label><desc>(13.-19./5.1917).</desc></event>
+               <note>Maresego, 1874</note><event type="death"><label>gefallen</label><desc>(13.-19./5.1917).</desc></event>
             </person>
             <person xml:id="vll.19171005_613.2198" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171005&amp;seite=9&amp;zoom=33">
                <persName>
@@ -15328,7 +15344,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maresego, 1899; </note><event type="death"><label>gestorben</label><desc>(2./7. 1917).</desc></event>
+               <note>Maresego, 1899</note><event type="death"><label>gestorben</label><desc>(2./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171005_613.5550" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171005&amp;seite=23&amp;zoom=33">
                <persName>
@@ -15341,7 +15357,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1892; </note><event type="death"><label>gestorben</label><desc>(14./7.1917).</desc></event>
+               <note>Pinguente, 1892</note><event type="death"><label>gestorben</label><desc>(14./7.1917).</desc></event>
             </person>
             <person xml:id="vll.19171005_613.5812" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171005&amp;seite=24&amp;zoom=33">
                <persName>
@@ -15457,7 +15473,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Brest, 1886; </note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
+               <note>Brest, 1886</note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.2128" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=9&amp;zoom=33">
                <persName>
@@ -15470,7 +15486,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1890; </note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
+               <note>Pirano, 1890</note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.3696" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=14&amp;zoom=33">
                <persName>
@@ -15483,7 +15499,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1895; </note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
+               <note>Pirano, 1895</note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.7310" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=28&amp;zoom=33">
                <persName>
@@ -15496,7 +15512,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Očisla-Klanec, 1881; </note><event type="death"><label>gefallen</label><desc>(6./7.1916).</desc></event>
+               <note>Očisla-Klanec, 1881</note><event type="death"><label>gefallen</label><desc>(6./7.1916).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.10536" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=39&amp;zoom=33">
                <persName>
@@ -15509,7 +15525,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet; </note><event type="death"><label>gefallen</label><desc>(9./8.1917).</desc></event>
+               <note>Buzet</note><event type="death"><label>gefallen</label><desc>(9./8.1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.10688" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=40&amp;zoom=33">
                <persName>
@@ -15522,7 +15538,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1873; </note><event type="death"><label>gestorben</label><desc>(1./7. 1917).</desc></event>
+               <note>Isola, 1873</note><event type="death"><label>gestorben</label><desc>(1./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.10774" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=40&amp;zoom=33">
                <persName>
@@ -15535,7 +15551,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Trebeše, 1891; </note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
+               <note>Trebeše, 1891</note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.10832" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=40&amp;zoom=33">
                <persName>
@@ -15548,7 +15564,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Gorenja Vas, 1884; </note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
+               <note>Gorenja Vas, 1884</note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.11948" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=44&amp;zoom=33">
                <persName>
@@ -15561,7 +15577,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Decani, 1897; </note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
+               <note>Decani, 1897</note><event type="death"><label>gefallen</label><desc>(9./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171017_618.12006" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171017&amp;seite=44&amp;zoom=33">
                <persName>
@@ -15613,7 +15629,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1897; </note><event type="death"><label>gefallen</label><desc>(9./8.1917).</desc></event>
+               <note>1897</note><event type="death"><label>gefallen</label><desc>(9./8.1917).</desc></event>
             </person>
             <person xml:id="vll.19171025_620.2976" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171025&amp;seite=13&amp;zoom=33">
                <persName>
@@ -15652,7 +15668,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isolar; </note><event type="death"><label>gestorben</label><desc>(10.8. 1917).</desc></event>
+               <note>Isolar</note><event type="death"><label>gestorben</label><desc>(10.8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171027_621.8240" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171027&amp;seite=34&amp;zoom=33">
                <persName>
@@ -15665,7 +15681,7 @@
                   <country>Istrien</country>
                   <region>Kopar</region>
                </birth>
-               <note>Oslici, 1879; </note><event type="death"><label>gefallen</label><desc>(10./8. 1916).</desc></event>
+               <note>Oslici, 1879</note><event type="death"><label>gefallen</label><desc>(10./8. 1916).</desc></event>
             </person>
             <person xml:id="vll.19171027_621.8802" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171027&amp;seite=36&amp;zoom=33">
                <persName>
@@ -15691,7 +15707,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1896; </note><event type="death"><label>gestorben</label><desc>(11./8. 1917).</desc></event>
+               <note>Pirano, 1896</note><event type="death"><label>gestorben</label><desc>(11./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.1274" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=6&amp;zoom=33">
                <persName>
@@ -15704,7 +15720,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1870; </note><event type="death"><label>gestorben</label><desc>(18./4.1917).</desc></event>
+               <note>1870</note><event type="death"><label>gestorben</label><desc>(18./4.1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.2646" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=12&amp;zoom=33">
                <persName>
@@ -15730,7 +15746,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1868; </note><event type="death"><label>gestorben</label><desc>(6./4. 1917). J</desc></event>
+               <note>Pinguente, 1868</note><event type="death"><label>gestorben</label><desc>(6./4. 1917). J</desc></event>
             </person>
             <person xml:id="vll.19171108_626.3860" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=17&amp;zoom=33">
                <persName>
@@ -15743,7 +15759,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1891; </note><event type="death"><label>gestorben</label><desc>(29./4. 1917).</desc></event>
+               <note>1891</note><event type="death"><label>gestorben</label><desc>(29./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.4500" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=19&amp;zoom=33">
                <persName>
@@ -15756,7 +15772,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1871; </note><event type="death"><label>gestorben</label><desc>(18..4. 1917).</desc></event>
+               <note>Pirano, 1871</note><event type="death"><label>gestorben</label><desc>(18..4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.11644" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=48&amp;zoom=33">
                <persName>
@@ -15769,7 +15785,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1896; </note><event type="death"><label>gestorben</label><desc>(30./4. 1917).</desc></event>
+               <note>1896</note><event type="death"><label>gestorben</label><desc>(30./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.12510" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=52&amp;zoom=33">
                <persName>
@@ -15782,7 +15798,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1867; </note><event type="death"><label>gestorben</label><desc>(5,/5. 1917).</desc></event>
+               <note>Dolina, 1867</note><event type="death"><label>gestorben</label><desc>(5,/5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171108_626.12628" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171108&amp;seite=53&amp;zoom=33">
                <persName>
@@ -15821,7 +15837,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1876; </note><event type="death"><label>gestorben</label><desc>(8./5. 1917).</desc></event>
+               <note>Pirano, 1876</note><event type="death"><label>gestorben</label><desc>(8./5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171113_627.1918" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171113&amp;seite=9&amp;zoom=33">
                <persName>
@@ -15873,7 +15889,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Paugnano, 1897; </note><event type="death"><label>gestorben</label><desc>(17./6. 1917).</desc></event>
+               <note>Paugnano, 1897</note><event type="death"><label>gestorben</label><desc>(17./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171113_627.11328" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171113&amp;seite=45&amp;zoom=33">
                <persName>
@@ -15886,7 +15902,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1893; </note><event type="death"><label>gestorben</label><desc>(23./5. 1917).</desc></event>
+               <note>Muggia, 1893</note><event type="death"><label>gestorben</label><desc>(23./5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171119_629.5364" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171119&amp;seite=21&amp;zoom=33">
                <persName>
@@ -16101,7 +16117,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>St. Lucia, 1888; </note><event type="death"><label>gestorben</label><desc>(20./9. 1917).</desc></event>
+               <note>St. Lucia, 1888</note><event type="death"><label>gestorben</label><desc>(20./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171127_631.15536" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171127&amp;seite=56&amp;zoom=33">
                <persName>
@@ -16257,7 +16273,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Sovignaco, 1895; </note><event type="death"><label>gestorben</label><desc>(2./7. 19117).</desc></event>
+               <note>Sovignaco, 1895</note><event type="death"><label>gestorben</label><desc>(2./7. 19117).</desc></event>
             </person>
             <person xml:id="vll.19171210_634.6340" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171210&amp;seite=24&amp;zoom=33">
                <persName>
@@ -16335,7 +16351,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1881; </note><event type="death"><label>gestorben</label><desc>(31./8. 1917).</desc></event>
+               <note>Pirano, 1881</note><event type="death"><label>gestorben</label><desc>(31./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171210_634.11106" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171210&amp;seite=44&amp;zoom=33">
                <persName>
@@ -16348,7 +16364,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirauo, 1897; </note><event type="death"><label>gestorben</label><desc>(27./9.1917).</desc></event>
+               <note>Pirauo, 1897</note><event type="death"><label>gestorben</label><desc>(27./9.1917).</desc></event>
             </person>
             <person xml:id="vll.19171210_634.12644" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171210&amp;seite=49&amp;zoom=33">
                <persName>
@@ -16361,7 +16377,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Breg, 1889; </note><event type="death"><label>gestorben</label><desc>(29./8. 1917).</desc></event>
+               <note>Breg, 1889</note><event type="death"><label>gestorben</label><desc>(29./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.2596" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=10&amp;zoom=33">
                <persName>
@@ -16374,7 +16390,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Raspor, 1897; </note><event type="death"><label>gestorben</label><desc>(21./10. 1917).</desc></event>
+               <note>Raspor, 1897</note><event type="death"><label>gestorben</label><desc>(21./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.3020" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=12&amp;zoom=33">
                <persName>
@@ -16387,7 +16403,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1886 ; </note><event type="death"><label>gestorben</label><desc>(26./9. 1917).</desc></event>
+               <note>1886</note><event type="death"><label>gestorben</label><desc>(26./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.4794" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=18&amp;zoom=33">
                <persName>
@@ -16400,7 +16416,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Sovignano, 1878; </note><event type="death"><label>gestorben</label><desc>(19.9. 1917).</desc></event>
+               <note>Sovignano, 1878</note><event type="death"><label>gestorben</label><desc>(19.9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.9244" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=35&amp;zoom=33">
                <persName>
@@ -16413,7 +16429,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1869; </note><event type="death"><label>gestorben</label><desc>(17./10. 1917).</desc></event>
+               <note>Pirano, 1869</note><event type="death"><label>gestorben</label><desc>(17./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171220_637.10722" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171220&amp;seite=40&amp;zoom=33">
                <persName>
@@ -16426,7 +16442,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet, 1898; </note><event type="death"><label>gestorben</label><desc>(7./10. 1917).</desc></event>
+               <note>Buzet, 1898</note><event type="death"><label>gestorben</label><desc>(7./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19171222_638.8874" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171222&amp;seite=34&amp;zoom=33">
                <persName>
@@ -16595,7 +16611,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1874; </note><event type="death"><label>gestorben</label><desc>(16./9. 1917).</desc></event>
+               <note>Pinguente, 1874</note><event type="death"><label>gestorben</label><desc>(16./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180105_641.4758" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180105&amp;seite=18&amp;zoom=33">
                <persName>
@@ -16621,7 +16637,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Ocisia Klanc, IS96; </note><event type="death"><label>gestorben</label><desc>(5./9. 1917).</desc></event>
+               <note>Ocisia Klanc, IS96</note><event type="death"><label>gestorben</label><desc>(5./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180118_643.9254" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180118&amp;seite=36&amp;zoom=33">
                <persName>
@@ -16634,7 +16650,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Rosariol, 1875; </note><event type="death"><label>gestorben</label><desc>(4./8. 1917).</desc></event>
+               <note>Rosariol, 1875</note><event type="death"><label>gestorben</label><desc>(4./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180123_644.1512" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180123&amp;seite=7&amp;zoom=33">
                <persName>
@@ -16647,7 +16663,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1899; </note><event type="death"><label>gestorben</label><desc>(29./l0. 1917).</desc></event>
+               <note>1899</note><event type="death"><label>gestorben</label><desc>(29./l0. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180123_644.3270" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180123&amp;seite=13&amp;zoom=33">
                <persName>
@@ -16686,7 +16702,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1879; </note><event type="death"><label>gestorben</label><desc>(26./10. 1917).</desc></event>
+               <note>Isola, 1879</note><event type="death"><label>gestorben</label><desc>(26./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180123_644.5226" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180123&amp;seite=20&amp;zoom=33">
                <persName>
@@ -16699,7 +16715,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Scoffie; </note><event type="death"><label>gestorben</label><desc>(12./10. 1917).</desc></event>
+               <note>Scoffie</note><event type="death"><label>gestorben</label><desc>(12./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180123_644.10658" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180123&amp;seite=41&amp;zoom=33">
                <persName>
@@ -16712,7 +16728,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1896; </note><event type="death"><label>gestorben</label><desc>(4./9. 1917).</desc></event>
+               <note>Pirano, 1896</note><event type="death"><label>gestorben</label><desc>(4./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180124_645.2860" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=12&amp;zoom=33">
                <persName>
@@ -16725,7 +16741,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dvori, 1887; </note><event type="death"><label>gefallen</label><desc>(14./11. 1917).</desc></event>
+               <note>Dvori, 1887</note><event type="death"><label>gefallen</label><desc>(14./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180124_645.5642" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180124&amp;seite=23&amp;zoom=33">
                <persName>
@@ -16777,7 +16793,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Kostelec, 1871; </note><event type="death"><label>gestorben</label><desc>(30./8. 1917).</desc></event>
+               <note>Kostelec, 1871</note><event type="death"><label>gestorben</label><desc>(30./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.830" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=4&amp;zoom=33">
                <persName>
@@ -16789,7 +16805,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Piquente; </note><event type="death"><label>gestorben</label><desc>(31. 10. 1917).</desc></event>
+               <note>Piquente</note><event type="death"><label>gestorben</label><desc>(31. 10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.9908" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=38&amp;zoom=33">
                <persName>
@@ -16802,7 +16818,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1898; </note><event type="death"><label>gestorben</label><desc>(9./11. 1917).</desc></event>
+               <note>1898</note><event type="death"><label>gestorben</label><desc>(9./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.13410" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=51&amp;zoom=33">
                <persName>
@@ -16815,7 +16831,7 @@
                   <country>Istrien</country>
                   <region>Castelmnovo</region>
                </birth>
-               <note>1873; </note><event type="death"><label>gestorben</label><desc>(7./9. 1917).</desc></event>
+               <note>1873</note><event type="death"><label>gestorben</label><desc>(7./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180129_647.15176" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=57&amp;zoom=33">
                <persName>
@@ -16854,7 +16870,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1867; </note><event type="death"><label>gestorben</label><desc>(7./11. 1917).</desc></event>
+               <note>1867</note><event type="death"><label>gestorben</label><desc>(7./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180204_649.7036" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180204&amp;seite=27&amp;zoom=33">
                <persName>
@@ -16867,7 +16883,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani., 1898; </note><event type="death"><label>gestorben</label><desc>(11./9. 1917).</desc></event>
+               <note>Dekani., 1898</note><event type="death"><label>gestorben</label><desc>(11./9. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180209_651.10880" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=43&amp;zoom=33">
                <persName>
@@ -16880,7 +16896,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1893; </note><event type="death"><label>gestorben</label><desc>(26./11. 1917).</desc></event>
+               <note>Pinguente, 1893</note><event type="death"><label>gestorben</label><desc>(26./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180209_651.11992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180209&amp;seite=47&amp;zoom=33">
                <persName>
@@ -16893,7 +16909,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Gallignana, 1883; </note><event type="death"><label>gestorben</label><desc>(25./11.1917).</desc></event>
+               <note>Gallignana, 1883</note><event type="death"><label>gestorben</label><desc>(25./11.1917).</desc></event>
             </person>
             <person xml:id="v11.19180214_652.2674" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180214&amp;seite=12&amp;zoom=33">
                <persName>
@@ -16932,7 +16948,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Cernica, 1894; </note><event type="death"><label>gestorben</label><desc>(5./12. 1917).</desc></event>
+               <note>Cernica, 1894</note><event type="death"><label>gestorben</label><desc>(5./12. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180221_653.3148" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=14&amp;zoom=33">
                <persName>
@@ -16971,7 +16987,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1867; </note><event type="death"><label>gestorben</label><desc>(16./11. 1917).</desc></event>
+               <note>1867</note><event type="death"><label>gestorben</label><desc>(16./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180221_653.4696" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=20&amp;zoom=33">
                <persName>
@@ -16997,7 +17013,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Valmovrasa, 1880; </note><event type="death"><label>gestorben</label><desc>(26./11. 1917).</desc></event>
+               <note>Valmovrasa, 1880</note><event type="death"><label>gestorben</label><desc>(26./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180221_653.7528" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180221&amp;seite=31&amp;zoom=33">
                <persName>
@@ -17010,7 +17026,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1897; </note><event type="death"><label>gestorben</label><desc>(16./11. 1917).</desc></event>
+               <note>Pinguente, 1897</note><event type="death"><label>gestorben</label><desc>(16./11. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180223_654.5642" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180223&amp;seite=23&amp;zoom=33">
                <persName>
@@ -17023,7 +17039,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1868; </note><event type="death"><label>gestorben</label><desc>(8./12.1917).</desc></event>
+               <note>Isola, 1868</note><event type="death"><label>gestorben</label><desc>(8./12.1917).</desc></event>
             </person>
             <person xml:id="v11.19180223_654.10854" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180223&amp;seite=43&amp;zoom=33">
                <persName>
@@ -17049,7 +17065,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Podgače, 1875; </note><event type="death"><label>gefallen</label><desc>(25.-31.10. 1917).</desc></event>
+               <note>Podgače, 1875</note><event type="death"><label>gefallen</label><desc>(25.-31.10. 1917).</desc></event>
             </person>
             <person xml:id="v11.19180227_655.6522" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180227&amp;seite=27&amp;zoom=33">
                <persName>
@@ -17062,7 +17078,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Gason,, 1872; </note><event type="death"><label>gestorben</label><desc>(27./11. 1917).</desc></event>
+               <note>Gason,, 1872</note><event type="death"><label>gestorben</label><desc>(27./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180305_656.11312" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180305&amp;seite=46&amp;zoom=33">
                <persName>
@@ -17088,7 +17104,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1877; </note><event type="death"><label>gefallen</label><desc>(14./11. 1917).</desc></event>
+               <note>Dolina, 1877</note><event type="death"><label>gefallen</label><desc>(14./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180307_657.1758" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=8&amp;zoom=33">
                <persName>
@@ -17114,7 +17130,7 @@
                   <country>Istrien</country>
                   <region>Capodistrla</region>
                </birth>
-               <note>1879; </note><event type="death"><label>gefallen</label><desc>(25./7. 1917).</desc></event>
+               <note>1879</note><event type="death"><label>gefallen</label><desc>(25./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180307_657.8344" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180307&amp;seite=33&amp;zoom=33">
                <persName>
@@ -17140,7 +17156,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1899; </note><event type="death"><label>gefallen</label><desc>(17./9. 1917).</desc></event>
+               <note>Dolina, 1899</note><event type="death"><label>gefallen</label><desc>(17./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180309_658.1398" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180309&amp;seite=6&amp;zoom=33">
                <persName>
@@ -17192,7 +17208,11 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Očela-KLanec, 1894; gefallan (15./11. 1917).</note>
+               <note>Očela-KLanec, 1894</note>
+               <event type="death">
+                  <label>gefallen</label>
+                  <desc>(15./11. 1917).</desc>
+               </event>
             </person>
             <person xml:id="vll.19180313_659.7274" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180313&amp;seite=27&amp;zoom=33">
                <persName>
@@ -17205,7 +17225,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Decani, 1896; </note><event type="death"><label>gefallen</label><desc>(25./11. 1917).</desc></event>
+               <note>Decani, 1896</note><event type="death"><label>gefallen</label><desc>(25./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180313_659.12152" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180313&amp;seite=44&amp;zoom=33">
                <persName>
@@ -17218,7 +17238,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1890; </note><event type="death"><label>gefallen</label><desc>, (15./11. 1917).</desc></event>
+               <note>1890</note><event type="death"><label>gefallen</label><desc>, (15./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180315_660.2776" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=11&amp;zoom=33">
                <persName>
@@ -17231,7 +17251,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Salvore, 1894; </note><event type="death"><label>gestorben</label><desc>(12./12. 1917).</desc></event>
+               <note>Salvore, 1894</note><event type="death"><label>gestorben</label><desc>(12./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180315_660.7090" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180315&amp;seite=27&amp;zoom=33">
                <persName>
@@ -17257,7 +17277,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1886; </note><event type="death"><label>gefallen</label><desc>(9./12.1917).</desc></event>
+               <note>Isola, 1886</note><event type="death"><label>gefallen</label><desc>(9./12.1917).</desc></event>
             </person>
             <person xml:id="vll.19180319_661.5838" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=22&amp;zoom=33">
                <persName>
@@ -17270,7 +17290,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1876; </note><event type="death"><label>gestorben</label><desc>(l./l. 1918).</desc></event>
+               <note>1876</note><event type="death"><label>gestorben</label><desc>(l./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180319_661.9732" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180319&amp;seite=35&amp;zoom=33">
                <persName>
@@ -17283,7 +17303,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Rozzo, 1878; </note><event type="death"><label>gestorben</label><desc>(4./10. 1917).</desc></event>
+               <note>Rozzo, 1878</note><event type="death"><label>gestorben</label><desc>(4./10. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180323_662.1324" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=6&amp;zoom=33">
                <persName>
@@ -17353,7 +17373,7 @@
                   <country>Istrien</country>
                   <region>Capodistra</region>
                </birth>
-               <note>Pinguente, 1897; </note><event type="death"><label>gestorben</label><desc>(17./12. 1917).</desc></event>
+               <note>Pinguente, 1897</note><event type="death"><label>gestorben</label><desc>(17./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180323_662.1608" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=7&amp;zoom=33">
                <persName>
@@ -17491,7 +17511,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinquenti, 1893; </note><event type="death"><label>gestorben</label><desc>(7./12. 1917).</desc></event>
+               <note>Pinquenti, 1893</note><event type="death"><label>gestorben</label><desc>(7./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180323_662.5850" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=23&amp;zoom=33">
                <persName>
@@ -17556,7 +17576,11 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1874; gelallen (24./10. 1917).</note>
+               <note>1874</note>
+               <event type="death">
+                  <label>gefallen</label>
+                  <desc>(24./10. 1917).</desc>
+               </event>
             </person>
             <person xml:id="vll.19180323_662.10984" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=42&amp;zoom=33">
                <persName>
@@ -17766,7 +17790,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Socerga, 1872; </note><event type="death"><label>gestorben</label><desc>(9./12. 1917).</desc></event>
+               <note>Socerga, 1872</note><event type="death"><label>gestorben</label><desc>(9./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180323_662.17222" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180323&amp;seite=64&amp;zoom=33">
                <persName>
@@ -17819,7 +17843,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1860; </note><event type="death"><label>gestorben</label><desc>(19./12. 1917).</desc></event>
+               <note>Pirano, 1860</note><event type="death"><label>gestorben</label><desc>(19./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.5128" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=20&amp;zoom=33">
                <persName>
@@ -17845,7 +17869,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Corte d’ Isola, 1886; </note><event type="death"><label>gestorben</label><desc>(23./12. 1917).</desc></event>
+               <note>Corte d’ Isola, 1886</note><event type="death"><label>gestorben</label><desc>(23./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.8264" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=32&amp;zoom=33">
                <persName>
@@ -17858,7 +17882,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1899; </note><event type="death"><label>gestorben</label><desc>(17./9. 1917).</desc></event>
+               <note>Dekani, 1899</note><event type="death"><label>gestorben</label><desc>(17./9. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.13762" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=52&amp;zoom=33">
                <persName>
@@ -17871,7 +17895,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1878; </note><event type="death"><label>gestorben</label><desc>(15./12. 1917).</desc></event>
+               <note>1878</note><event type="death"><label>gestorben</label><desc>(15./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180330_664.16036" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180330&amp;seite=61&amp;zoom=33">
                <persName>
@@ -17884,7 +17908,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1896; </note><event type="death"><label>gestorben</label><desc>(6./1. 1918).</desc></event>
+               <note>1896</note><event type="death"><label>gestorben</label><desc>(6./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180403_665.1552" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=7&amp;zoom=33">
                <persName>
@@ -17897,7 +17921,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Brest, 1873; </note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
+               <note>Brest, 1873</note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180403_665.2836" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=12&amp;zoom=33">
                <persName>
@@ -17910,7 +17934,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pingente, 1873; </note><event type="death"><label>gestorben</label><desc>(20./8. 1917).</desc></event>
+               <note>Pingente, 1873</note><event type="death"><label>gestorben</label><desc>(20./8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180403_665.14892" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180403&amp;seite=54&amp;zoom=33">
                <persName>
@@ -17923,7 +17947,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1885; </note><event type="death"><label>gefallen</label><desc>(12./12 1917).</desc></event>
+               <note>Pinguente, 1885</note><event type="death"><label>gefallen</label><desc>(12./12 1917).</desc></event>
             </person>
             <person xml:id="vll.19180411_666.4698" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180411&amp;seite=17&amp;zoom=33">
                <persName>
@@ -17936,7 +17960,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1890; </note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
+               <note>1890</note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.4200" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=15&amp;zoom=33">
                <persName>
@@ -17949,7 +17973,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet, 1896; </note><event type="death"><label>gestorben</label><desc>(4./l. 1918).</desc></event>
+               <note>Buzet, 1896</note><event type="death"><label>gestorben</label><desc>(4./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.7260" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=25&amp;zoom=33">
                <persName>
@@ -17975,7 +17999,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dekani, 1887; </note><event type="death"><label>gestorben</label><desc>(24./1.1918).</desc></event>
+               <note>Dekani, 1887</note><event type="death"><label>gestorben</label><desc>(24./1.1918).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.11046" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=37&amp;zoom=33">
                <persName>
@@ -18001,7 +18025,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1886; </note><event type="death"><label>gefallen</label><desc>(14./ll. 1917).</desc></event>
+               <note>Pinguente, 1886</note><event type="death"><label>gefallen</label><desc>(14./ll. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.11642" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=39&amp;zoom=33">
                <persName>
@@ -18014,7 +18038,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1896; </note><event type="death"><label>gefallen</label><desc>(14./11. 1917).</desc></event>
+               <note>1896</note><event type="death"><label>gefallen</label><desc>(14./11. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.11732" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=40&amp;zoom=33">
                <persName>
@@ -18040,7 +18064,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente; </note><event type="death"><label>gestorben</label><desc>(13./l. 1918).</desc></event>
+               <note>Pinguente</note><event type="death"><label>gestorben</label><desc>(13./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180415_667.17120" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180415&amp;seite=57&amp;zoom=33">
                <persName>
@@ -18131,7 +18155,7 @@
                   <country>Istrien</country>
                   <region>Gračišče</region>
                </birth>
-               <note>1896; </note><event type="death"><label>gestorben</label><desc>(9.1.1918).</desc></event>
+               <note>1896</note><event type="death"><label>gestorben</label><desc>(9.1.1918).</desc></event>
             </person>
             <person xml:id="vll.19180424_669.5518" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=21&amp;zoom=33">
                <persName>
@@ -18144,7 +18168,10 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Auzza, 1872. (gestorbem am 8.6.1817 als Austauschinvalider von Rußland in Tornea an Tuberkulose.)</note>
+               <note>Auzza, 1872</note>
+               <event type="death">
+                  <desc>(gestorben am 8.6.1917 als Austauschinvalider von Rußland in Tornea an Tuberkulose.)</desc>
+               </event>
             </person>
             <person xml:id="vll.19180424_669.7306" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=27&amp;zoom=33">
                <persName>
@@ -18183,7 +18210,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Padena; </note><event type="death"><label>gestorben</label><desc>(29./1. 1918).</desc></event>
+               <note>Padena</note><event type="death"><label>gestorben</label><desc>(29./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180424_669.20610" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180424&amp;seite=70&amp;zoom=33">
                <persName>
@@ -18196,7 +18223,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1880, </note><event type="death"><label>gestorben</label><desc>(30./1. 1918).</desc></event>
+               <note>Isola, 1880</note><event type="death"><label>gestorben</label><desc>(30./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180429_670.3860" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180429&amp;seite=14&amp;zoom=33">
                <persName>
@@ -18248,7 +18275,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1897; </note><event type="death"><label>gefallen</label><desc>(14./5. 1917).</desc></event>
+               <note>Pinguente, 1897</note><event type="death"><label>gefallen</label><desc>(14./5. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180501_671.1854" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180501&amp;seite=8&amp;zoom=33">
                <persName>
@@ -18274,7 +18301,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1867; </note><event type="death"><label>gestorben</label><desc>(9./7. 1917.)</desc></event>
+               <note>1867</note><event type="death"><label>gestorben</label><desc>(9./7. 1917.)</desc></event>
             </person>
             <person xml:id="vll.19180501_671.5202" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180501&amp;seite=19&amp;zoom=33">
                <persName>
@@ -18287,7 +18314,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1867; </note><event type="death"><label>gestorben</label><desc>(9./7. 1917).</desc></event>
+               <note>1867</note><event type="death"><label>gestorben</label><desc>(9./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180511_672.7200" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180511&amp;seite=29&amp;zoom=33">
                <persName>
@@ -18326,7 +18353,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1897; </note><event type="death"><label>gestorben</label><desc>(6.6. 1916)</desc></event>
+               <note>Isola, 1897</note><event type="death"><label>gestorben</label><desc>(6.6. 1916)</desc></event>
             </person>
             <person xml:id="vll.19180515_674.3034" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180515&amp;seite=13&amp;zoom=33">
                <persName>
@@ -18365,7 +18392,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1898; </note><event type="death"><label>gestorben</label><desc>(11./2. 1918).</desc></event>
+               <note>Pirano, 1898</note><event type="death"><label>gestorben</label><desc>(11./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180527_675.2016" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180527&amp;seite=9&amp;zoom=33">
                <persName>
@@ -18443,7 +18470,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1883; </note><event type="death"><label>gestorben</label><desc>(20./l. 1918).</desc></event>
+               <note>1883</note><event type="death"><label>gestorben</label><desc>(20./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180527_675.12024" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180527&amp;seite=47&amp;zoom=33">
                <persName>
@@ -18469,7 +18496,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Piguente, 1884; </note><event type="death"><label>gestorben</label><desc>(16./2. 1918).</desc></event>
+               <note>Piguente, 1884</note><event type="death"><label>gestorben</label><desc>(16./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180531_676.1032" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180531&amp;seite=5&amp;zoom=33">
                <persName>
@@ -18482,7 +18509,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1890; </note><event type="death"><label>gestorben</label><desc>(19./6. 1917).</desc></event>
+               <note>Muggia, 1890</note><event type="death"><label>gestorben</label><desc>(19./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180531_676.5984" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180531&amp;seite=24&amp;zoom=33">
                <persName>
@@ -18508,7 +18535,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pomjan, 1897; </note><event type="death"><label>gestorben</label><desc>(16.6.1917).</desc></event>
+               <note>Pomjan, 1897</note><event type="death"><label>gestorben</label><desc>(16.6.1917).</desc></event>
             </person>
             <person xml:id="vll.19180603_677.3316" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=13&amp;zoom=33">
                <persName>
@@ -18521,7 +18548,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1878; </note><event type="death"><label>gefallen</label><desc>(5./3. 1917).</desc></event>
+               <note>1878</note><event type="death"><label>gefallen</label><desc>(5./3. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180603_677.5676" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=22&amp;zoom=33">
                <persName>
@@ -18547,7 +18574,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1897; </note><event type="death"><label>gestorben</label><desc>(6./4. 1917).</desc></event>
+               <note>Muggia, 1897</note><event type="death"><label>gestorben</label><desc>(6./4. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180603_677.11244" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180603&amp;seite=43&amp;zoom=33">
                <persName>
@@ -18573,7 +18600,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Decani, 1897; </note><event type="death"><label>gefallen</label><desc>(16./12. 1917).</desc></event>
+               <note>Decani, 1897</note><event type="death"><label>gefallen</label><desc>(16./12. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180605_678.4924" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=21&amp;zoom=33">
                <persName>
@@ -18603,7 +18630,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Decani, 1887; </note><event type="death"><label>gestorben</label><desc>(30./6. 1917).</desc></event>
+               <note>Decani, 1887</note><event type="death"><label>gestorben</label><desc>(30./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180605_678.14092" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180605&amp;seite=55&amp;zoom=33">
                <persName>
@@ -18616,7 +18643,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Skofije, 1898; </note><event type="death"><label>gestorben</label><desc>(14./2. 1918).</desc></event>
+               <note>Skofije, 1898</note><event type="death"><label>gestorben</label><desc>(14./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180613_680.10400" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180613&amp;seite=45&amp;zoom=33">
                <persName>
@@ -18655,7 +18682,7 @@
                   <country>Istrien</country>
                   <region>Capodstria</region>
                </birth>
-               <note>Valle Oltra, 1873; </note><event type="death"><label>gestorben</label><desc>(21 ./ 8 . 1917).</desc></event>
+               <note>Valle Oltra, 1873</note><event type="death"><label>gestorben</label><desc>(21 ./ 8 . 1917).</desc></event>
             </person>
             <person xml:id="vll.19180620_681.7218" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=29&amp;zoom=33">
                <persName>
@@ -18668,7 +18695,7 @@
                   <country>Istrien</country>
                   <region>Littai</region>
                </birth>
-               <note>Račica, 1899; </note><event type="death"><label>gestorben</label><desc>(24./3.1918).</desc></event>
+               <note>Račica, 1899</note><event type="death"><label>gestorben</label><desc>(24./3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180620_681.7766" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180620&amp;seite=31&amp;zoom=33">
                <persName>
@@ -18681,7 +18708,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Butari, 1868, </note><event type="death"><label>gestorben</label><desc>(29./12. 1916).</desc></event>
+               <note>Butari, 1868</note><event type="death"><label>gestorben</label><desc>(29./12. 1916).</desc></event>
             </person>
             <person xml:id="vll.19180625_682.2428" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180625&amp;seite=11&amp;zoom=33">
                <persName>
@@ -18733,7 +18760,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maresego, 1887; </note><event type="death"><label>gestorben</label><desc>(27.2.1918).</desc></event>
+               <note>Maresego, 1887</note><event type="death"><label>gestorben</label><desc>(27.2.1918).</desc></event>
             </person>
             <person xml:id="vll.19180628_683.7664" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180628&amp;seite=37&amp;zoom=33">
                <persName>
@@ -18746,7 +18773,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1899; </note><event type="death"><label>gestorben</label><desc>(25./6 1917).</desc></event>
+               <note>Pirano, 1899</note><event type="death"><label>gestorben</label><desc>(25./6 1917).</desc></event>
             </person>
             <person xml:id="vll.19180628_683.8640" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180628&amp;seite=42&amp;zoom=33">
                <persName>
@@ -18759,7 +18786,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1899; </note><event type="death"><label>gestorben</label><desc>(25.6.1917).</desc></event>
+               <note>Pirano, 1899</note><event type="death"><label>gestorben</label><desc>(25.6.1917).</desc></event>
             </person>
             <person xml:id="vll.19180709_684.10068" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=35&amp;zoom=33">
                <persName>
@@ -18814,7 +18841,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet, 1890, </note><event type="death"><label>gefallen</label><desc>(27./7. 1916).</desc></event>
+               <note>Buzet, 1890</note><event type="death"><label>gefallen</label><desc>(27./7. 1916).</desc></event>
             </person>
             <person xml:id="vll.19180709_684.13746" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=48&amp;zoom=33">
                <persName>
@@ -18827,7 +18854,7 @@
                   <country>Istrien</country>
                   <region>Pirano</region>
                </birth>
-               <note>1871; </note><event type="death"><label>gestorben</label><desc>(22./2. 1918).</desc></event>
+               <note>1871</note><event type="death"><label>gestorben</label><desc>(22./2. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180709_684.14294" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180709&amp;seite=50&amp;zoom=33">
                <persName>
@@ -18879,7 +18906,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maresego, 1887; </note><event type="death"><label>gestorben</label><desc>(31./l. 1918).</desc></event>
+               <note>Maresego, 1887</note><event type="death"><label>gestorben</label><desc>(31./l. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.8760" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=31&amp;zoom=33">
                <persName>
@@ -18892,7 +18919,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1877; </note><event type="death"><label>gestorben</label><desc>(24./3. 1918).</desc></event>
+               <note>Muggia, 1877</note><event type="death"><label>gestorben</label><desc>(24./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.9008" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=31&amp;zoom=33">
                <persName>
@@ -18905,7 +18932,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pingnente, 1876; </note><event type="death"><label>gestorben</label><desc>(18./3.1918).</desc></event>
+               <note>Pingnente, 1876</note><event type="death"><label>gestorben</label><desc>(18./3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.12992" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=45&amp;zoom=33">
                <persName>
@@ -18918,7 +18945,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1887; </note><event type="death"><label>gefallen</label><desc>(5./3. 1918).</desc></event>
+               <note>1887</note><event type="death"><label>gefallen</label><desc>(5./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180713_685.14110" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180713&amp;seite=49&amp;zoom=33">
                <persName>
@@ -18931,7 +18958,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Klenovščak, 1890; </note><event type="death"><label>gestorben</label><desc>(23./3. 1918).</desc></event>
+               <note>Klenovščak, 1890</note><event type="death"><label>gestorben</label><desc>(23./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180718_686.7886" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180718&amp;seite=27&amp;zoom=33">
                <persName>
@@ -18944,7 +18971,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Rocko, Polje, 1896; </note><event type="death"><label>gestorben</label><desc>(13./5. 1918).</desc></event>
+               <note>Rocko, Polje, 1896</note><event type="death"><label>gestorben</label><desc>(13./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180718_686.18250" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180718&amp;seite=61&amp;zoom=33">
                <persName>
@@ -18957,7 +18984,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1876; </note><event type="death"><label>gestorben</label><desc>(28./4. 1918).</desc></event>
+               <note>1876</note><event type="death"><label>gestorben</label><desc>(28./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.3548" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=14&amp;zoom=33">
                <persName>
@@ -18970,7 +18997,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet, 1899; </note><event type="death"><label>gefallen</label><desc>(9./6. 1918).</desc></event>
+               <note>Buzet, 1899</note><event type="death"><label>gefallen</label><desc>(9./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.9976" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=35&amp;zoom=33">
                <persName>
@@ -18983,7 +19010,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolina, 1896; </note><event type="death"><label>gestorben</label><desc>(23./5. 1918).</desc></event>
+               <note>Dolina, 1896</note><event type="death"><label>gestorben</label><desc>(23./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.10474" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=37&amp;zoom=33">
                <persName>
@@ -18996,7 +19023,7 @@
                   <country>Istrien</country>
                   <region>Pirano</region>
                </birth>
-               <note>1898; </note><event type="death"><label>gestorben</label><desc>(23./12.1917).</desc></event>
+               <note>1898</note><event type="death"><label>gestorben</label><desc>(23./12.1917).</desc></event>
             </person>
             <person xml:id="vll.19180723_687.14914" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180723&amp;seite=52&amp;zoom=33">
                <persName>
@@ -19009,7 +19036,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1887; </note><event type="death"><label>gestorben</label><desc>(19./3. 1918).</desc></event>
+               <note>1887</note><event type="death"><label>gestorben</label><desc>(19./3. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180801_688.4352" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=17&amp;zoom=33">
                <persName>
@@ -19022,7 +19049,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1878; </note><event type="death"><label>gefallen</label><desc>(20.2.-19.5.1918).</desc></event>
+               <note>Pirano, 1878</note><event type="death"><label>gefallen</label><desc>(20.2.-19.5.1918).</desc></event>
             </person>
             <person xml:id="vll.19180801_688.4758" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=19&amp;zoom=33">
                <persName>
@@ -19048,7 +19075,7 @@
                   <country>Istrien</country>
                   <region>Capodistna</region>
                </birth>
-               <note>Pinquente, 1890; </note><event type="death"><label>gestorben</label><desc>(16./3.1918).</desc></event>
+               <note>Pinquente, 1890</note><event type="death"><label>gestorben</label><desc>(16./3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180801_688.9082" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=34&amp;zoom=33">
                <persName>
@@ -19061,7 +19088,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1871; </note><event type="death"><label>gestorben</label><desc>(28.3.1918).</desc></event>
+               <note>Muggia, 1871</note><event type="death"><label>gestorben</label><desc>(28.3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180801_688.11974" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180801&amp;seite=44&amp;zoom=33">
                <persName>
@@ -19087,7 +19114,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1896; </note><event type="death"><label>gestorben</label><desc>(31./5.1918).</desc></event>
+               <note>Isola, 1896</note><event type="death"><label>gestorben</label><desc>(31./5.1918).</desc></event>
             </person>
             <person xml:id="vll.19180805_689.3734" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=17&amp;zoom=33">
                <persName>
@@ -19100,7 +19127,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>St. martin; </note><event type="death"><label>gestorben</label><desc>(16.5.1918).</desc></event>
+               <note>St. martin</note><event type="death"><label>gestorben</label><desc>(16.5.1918).</desc></event>
             </person>
             <person xml:id="vll.19180805_689.4272" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=19&amp;zoom=33">
                <persName>
@@ -19113,7 +19140,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Buzet, 1897; </note><event type="death"><label>gestorben</label><desc>(1./4. 1918).</desc></event>
+               <note>Buzet, 1897</note><event type="death"><label>gestorben</label><desc>(1./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180805_689.7502" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=31&amp;zoom=33">
                <persName>
@@ -19139,7 +19166,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1896; </note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
+               <note>Muggia, 1896</note><event type="death"><label>gestorben</label><desc>(7./1. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180805_689.11222" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=44&amp;zoom=33">
                <persName>
@@ -19152,7 +19179,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1873; </note><event type="death"><label>gestorben</label><desc>(13./4. 1918).</desc></event>
+               <note>1873</note><event type="death"><label>gestorben</label><desc>(13./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180812_690.15198" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180812&amp;seite=64&amp;zoom=33">
                <persName>
@@ -19165,7 +19192,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1899; </note><event type="death"><label>gefallen</label><desc>(24.9.1917)</desc></event>
+               <note>1899</note><event type="death"><label>gefallen</label><desc>(24.9.1917)</desc></event>
             </person>
             <person xml:id="vll.19180814_691.2128" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=10&amp;zoom=33">
                <persName>
@@ -19178,7 +19205,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Smokvica, 1895; </note><event type="death"><label>gestorben</label><desc>(19.3.1918).</desc></event>
+               <note>Smokvica, 1895</note><event type="death"><label>gestorben</label><desc>(19.3.1918).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.6028" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=25&amp;zoom=33">
                <persName>
@@ -19191,7 +19218,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Lopar, 1887; </note><event type="death"><label>gestorben</label><desc>(8./4. 1918).</desc></event>
+               <note>Lopar, 1887</note><event type="death"><label>gestorben</label><desc>(8./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.7134" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=29&amp;zoom=33">
                <persName>
@@ -19204,7 +19231,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>San Donato, 1898; </note><event type="death"><label>gestorben</label><desc>(24./4. 1918).</desc></event>
+               <note>San Donato, 1898</note><event type="death"><label>gestorben</label><desc>(24./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.11704" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=44&amp;zoom=33">
                <persName>
@@ -19217,7 +19244,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1874; </note><event type="death"><label>gestorben</label><desc>(27./5. 1918).</desc></event>
+               <note>1874</note><event type="death"><label>gestorben</label><desc>(27./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180814_691.15118" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180814&amp;seite=56&amp;zoom=33">
                <persName>
@@ -19230,7 +19257,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1884; </note><event type="death"><label>gestorben</label><desc>(12./4. 1918).</desc></event>
+               <note>1884</note><event type="death"><label>gestorben</label><desc>(12./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.1820" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=8&amp;zoom=33">
                <persName>
@@ -19243,7 +19270,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1886; </note><event type="death"><label>gefallen</label><desc>(8./6.1918).</desc></event>
+               <note>1886</note><event type="death"><label>gefallen</label><desc>(8./6.1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.2326" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=10&amp;zoom=33">
                <persName>
@@ -19256,7 +19283,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Prešnica, 1897; </note><event type="death"><label>gefallen</label><desc>(29.5.1918).</desc></event>
+               <note>Prešnica, 1897</note><event type="death"><label>gefallen</label><desc>(29.5.1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.2476" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=10&amp;zoom=33">
                <persName>
@@ -19269,7 +19296,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1870;</note><event type="death"><label>gestorben</label><desc>(l4./4. 1918).</desc></event>
+               <note>1870</note><event type="death"><label>gestorben</label><desc>(l4./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.2750" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=12&amp;zoom=33">
                <persName>
@@ -19282,7 +19309,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1885; </note><event type="death"><label>gestorben</label><desc>(18. 5. 1918)</desc></event>
+               <note>1885</note><event type="death"><label>gestorben</label><desc>(18. 5. 1918)</desc></event>
             </person>
             <person xml:id="vll.19180824_692.4110" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=17&amp;zoom=33">
                <persName>
@@ -19295,7 +19322,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1868; </note><event type="death"><label>gestorben</label><desc>(9./7. 1917).</desc></event>
+               <note>Pinguente, 1868</note><event type="death"><label>gestorben</label><desc>(9./7. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.8394" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=32&amp;zoom=33">
                <persName>
@@ -19308,7 +19335,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1895; </note><event type="death"><label>gefallen</label><desc>(27.4.1918)</desc></event>
+               <note>Muggia, 1895</note><event type="death"><label>gefallen</label><desc>(27.4.1918)</desc></event>
             </person>
             <person xml:id="vll.19180824_692.9322" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=35&amp;zoom=33">
                <persName>
@@ -19321,7 +19348,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1898; </note><event type="death"><label>gestorben</label><desc>(28./5. 1918).</desc></event>
+               <note>1898</note><event type="death"><label>gestorben</label><desc>(28./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.12380" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=46&amp;zoom=33">
                <persName>
@@ -19334,7 +19361,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1884; </note><event type="death"><label>gestorben</label><desc>(30./5. 1918).</desc></event>
+               <note>1884</note><event type="death"><label>gestorben</label><desc>(30./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180824_692.15710" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180824&amp;seite=60&amp;zoom=33">
                <persName>
@@ -19347,7 +19374,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1898; </note><event type="death"><label>gestorben</label><desc>(26./4. 1918).</desc></event>
+               <note>1898</note><event type="death"><label>gestorben</label><desc>(26./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.5298" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=22&amp;zoom=33">
                <persName>
@@ -19360,7 +19387,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1897; </note><event type="death"><label>gestorben</label><desc>(10. 8. 1917).</desc></event>
+               <note>1897</note><event type="death"><label>gestorben</label><desc>(10. 8. 1917).</desc></event>
             </person>
             <person xml:id="vll.19180830_693.9094" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=35&amp;zoom=33">
                <persName>
@@ -19374,7 +19401,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1882; </note><event type="death"><label>gestorben</label><desc>(19./6. 1918)</desc></event>
+               <note>Pirano, 1882</note><event type="death"><label>gestorben</label><desc>(19./6. 1918)</desc></event>
             </person>
             <person xml:id="vll.19180830_693.9354" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180830&amp;seite=36&amp;zoom=33">
                <persName>
@@ -19401,7 +19428,7 @@
                   <country>Istrien</country>
                   <region>Pirano</region>
                </birth>
-               <note>1886; </note><event type="death"><label>gestorben</label><desc>(19./6. 1918.)</desc></event>
+               <note>1886</note><event type="death"><label>gestorben</label><desc>(19./6. 1918.)</desc></event>
             </person>
             <person xml:id="vll.19180910_694.10088" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180910&amp;seite=40&amp;zoom=33">
                <persName>
@@ -19427,7 +19454,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Sarat Antonio, 1885; </note><event type="death"><label>gestorben</label><desc>(30./6 1918).</desc></event>
+               <note>Sarat Antonio, 1885</note><event type="death"><label>gestorben</label><desc>(30./6 1918).</desc></event>
             </person>
             <person xml:id="vll.19180928_695.2692" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=13&amp;zoom=33">
                <persName>
@@ -19440,7 +19467,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1898; </note><event type="death"><label>gestorben</label><desc>(12./5. 1918).</desc></event>
+               <note>1898</note><event type="death"><label>gestorben</label><desc>(12./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180928_695.2844" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=14&amp;zoom=33">
                <persName>
@@ -19453,7 +19480,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1893; </note><event type="death"><label>gestorben</label><desc>(26./6. 1918).</desc></event>
+               <note>1893</note><event type="death"><label>gestorben</label><desc>(26./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19180928_695.5418" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180928&amp;seite=25&amp;zoom=33">
                <persName>
@@ -19492,7 +19519,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Crusfari, 1894; </note><event type="death"><label>gestorben</label><desc>(30./6. 1918).</desc></event>
+               <note>Crusfari, 1894</note><event type="death"><label>gestorben</label><desc>(30./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181002_696.5714" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=21&amp;zoom=33">
                <persName>
@@ -19505,7 +19532,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1872; </note><event type="death"><label>gestorben</label><desc>(30./5. 1918).</desc></event>
+               <note>Pirano, 1872</note><event type="death"><label>gestorben</label><desc>(30./5. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181002_696.8340" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=30&amp;zoom=33">
                <persName>
@@ -19518,7 +19545,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Dolnia, 1882; </note><event type="death"><label>gefallen</label><desc>(8/9.917).</desc></event>
+               <note>Dolnia, 1882</note><event type="death"><label>gefallen</label><desc>(8/9.917).</desc></event>
             </person>
             <person xml:id="vll.19181002_696.10272" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181002&amp;seite=37&amp;zoom=33">
                <persName>
@@ -19544,7 +19571,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Maggia, 1895; </note><event type="death"><label>gestorben</label><desc>(24.6.1918)</desc></event>
+               <note>Maggia, 1895</note><event type="death"><label>gestorben</label><desc>(24.6.1918)</desc></event>
             </person>
             <person xml:id="vll.19181005_697.6236" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=23&amp;zoom=33">
                <persName>
@@ -19557,7 +19584,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1896; </note><event type="death"><label>gestorben</label><desc>(22./6. 1918).</desc></event>
+               <note>Pirano, 1896</note><event type="death"><label>gestorben</label><desc>(22./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181005_697.6706" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=24&amp;zoom=33">
                <persName>
@@ -19570,7 +19597,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Bozzo, 1871; </note><event type="death"><label>gestorben</label><desc>(20./6. 1918).</desc></event>
+               <note>Bozzo, 1871</note><event type="death"><label>gestorben</label><desc>(20./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181005_697.8740" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=31&amp;zoom=33">
                <persName>
@@ -19583,7 +19610,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1897; </note><event type="death"><label>gestorben</label><desc>(7./6. 1918).</desc></event>
+               <note>1897</note><event type="death"><label>gestorben</label><desc>(7./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181005_697.9176" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181005&amp;seite=33&amp;zoom=33">
                <persName>
@@ -19596,7 +19623,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Babici, 1896; </note><event type="death"><label>gestorben</label><desc>(14.7.1918)</desc></event>
+               <note>Babici, 1896</note><event type="death"><label>gestorben</label><desc>(14.7.1918)</desc></event>
             </person>
             <person xml:id="vll.19181011_698.7146" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=26&amp;zoom=33">
                <persName>
@@ -19609,7 +19636,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>San Giuseppe, 1888; </note><event type="death"><label>gestorben</label><desc>(19./6. 1918).</desc></event>
+               <note>San Giuseppe, 1888</note><event type="death"><label>gestorben</label><desc>(19./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181011_698.11540" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=41&amp;zoom=33">
                <persName>
@@ -19635,7 +19662,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1892; </note><event type="death"><label>gestorben</label><desc>(12./4. 1918).</desc></event>
+               <note>Pinguente, 1892</note><event type="death"><label>gestorben</label><desc>(12./4. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181011_698.13780" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=48&amp;zoom=33">
                <persName>
@@ -19648,7 +19675,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1891; </note><event type="death"><label>gestorben</label><desc>(16./6. 1918).</desc></event>
+               <note>1891</note><event type="death"><label>gestorben</label><desc>(16./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181011_698.16304" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181011&amp;seite=58&amp;zoom=33">
                <persName>
@@ -19661,7 +19688,11 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1883; kgf. (Im Austauschwege zurückgekehrt.)</note>
+               <note>1883</note>
+               <event type="pow">
+                  <label>kgf.</label>
+                  <desc>(Im Austauschwege zurückgekehrt.)</desc>
+               </event>
             </person>
             <person xml:id="vll.19181019_699.2744" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=11&amp;zoom=33">
                <persName>
@@ -19674,7 +19705,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1891; </note><event type="death"><label>gestorben</label><desc>(26./6. 1918).</desc></event>
+               <note>1891</note><event type="death"><label>gestorben</label><desc>(26./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.4508" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=18&amp;zoom=33">
                <persName>
@@ -19687,7 +19718,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1871; </note><event type="death"><label>gefallen</label><desc>(29 /10. 1916).</desc></event>
+               <note>Pinguente, 1871</note><event type="death"><label>gefallen</label><desc>(29 /10. 1916).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.6894" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=26&amp;zoom=33">
                <persName>
@@ -19700,7 +19731,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Ocisla, 1897; </note><event type="death"><label>gestorben</label><desc>(3. /6.1918)</desc></event>
+               <note>Ocisla, 1897</note><event type="death"><label>gestorben</label><desc>(3. /6.1918)</desc></event>
             </person>
             <person xml:id="vll.19181019_699.11646" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=43&amp;zoom=33">
                <persName>
@@ -19713,7 +19744,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Prodani, 1886; </note><event type="death"><label>gestorben</label><desc>(4./7. 1918).</desc></event>
+               <note>Prodani, 1886</note><event type="death"><label>gestorben</label><desc>(4./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.11694" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=43&amp;zoom=33">
                <persName>
@@ -19726,7 +19757,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1870; </note><event type="death"><label>gestorben</label><desc>(1./6. 1918). ’</desc></event>
+               <note>Isola, 1870</note><event type="death"><label>gestorben</label><desc>(1./6. 1918). ’</desc></event>
             </person>
             <person xml:id="vll.19181019_699.12134" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=44&amp;zoom=33">
                <persName>
@@ -19739,7 +19770,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Paugnano, 1897; </note><event type="death"><label>gestorben</label><desc>(25./6. 1918).</desc></event>
+               <note>Paugnano, 1897</note><event type="death"><label>gestorben</label><desc>(25./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.12384" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=45&amp;zoom=33">
                <persName>
@@ -19752,7 +19783,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Tomjan, 1876; </note><event type="death"><label>gestorben</label><desc>(11./7. 1918).</desc></event>
+               <note>Tomjan, 1876</note><event type="death"><label>gestorben</label><desc>(11./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.13216" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=48&amp;zoom=33">
                <persName>
@@ -19765,7 +19796,7 @@
                   <country>Istrien</country>
                   <region>Cilli</region>
                </birth>
-               <note>Klauc, 1896; </note><event type="death"><label>gefallen</label><desc>(18./6. 1918).</desc></event>
+               <note>Klauc, 1896</note><event type="death"><label>gefallen</label><desc>(18./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181019_699.13344" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181019&amp;seite=48&amp;zoom=33">
                <persName>
@@ -19778,7 +19809,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Petrinje, 1882; </note><event type="death"><label>gestorben</label><desc>(22./7. 1918).</desc></event>
+               <note>Petrinje, 1882</note><event type="death"><label>gestorben</label><desc>(22./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181105_700.5026" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=19&amp;zoom=33">
                <persName>
@@ -19843,7 +19874,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>S. Barbara. 1893; </note><event type="death"><label>gefallen</label><desc>(4./7. 1918).</desc></event>
+               <note>S. Barbara. 1893</note><event type="death"><label>gefallen</label><desc>(4./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181105_700.14888" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181105&amp;seite=53&amp;zoom=33">
                <persName>
@@ -19869,7 +19900,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>1887; </note><event type="death"><label>gestorben</label><desc>(23./7.1918).</desc></event>
+               <note>1887</note><event type="death"><label>gestorben</label><desc>(23./7.1918).</desc></event>
             </person>
             <person xml:id="vll.19181111_701.4734" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=19&amp;zoom=33">
                <persName>
@@ -19882,7 +19913,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>St. Florian, 1881; </note><event type="death"><label>gefallen</label><desc>(18./6. 1918).</desc></event>
+               <note>St. Florian, 1881</note><event type="death"><label>gefallen</label><desc>(18./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181111_701.9908" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=39&amp;zoom=33">
                <persName>
@@ -19895,7 +19926,7 @@
                   <country>Istrien</country>
                   <region>Capiodistria</region>
                </birth>
-               <note>Roč, 1888; </note><event type="death"><label>gefallen</label><desc>(2./6. 1918).</desc></event>
+               <note>Roč, 1888</note><event type="death"><label>gefallen</label><desc>(2./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181111_701.11128" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=43&amp;zoom=33">
                <persName>
@@ -19922,7 +19953,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1895; </note><event type="death"><label>gestorben</label><desc>(23./7, 1918)</desc></event>
+               <note>Pirano, 1895</note><event type="death"><label>gestorben</label><desc>(23./7, 1918)</desc></event>
             </person>
             <person xml:id="vll.19181111_701.12080" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=47&amp;zoom=33">
                <persName>
@@ -19948,7 +19979,7 @@
                   <country>Istrien</country>
                   <region>Görz</region>
                </birth>
-               <note>Čepovan, 1894; </note><event type="death"><label>gefallen</label><desc>(20./6. 1918).</desc></event>
+               <note>Čepovan, 1894</note><event type="death"><label>gefallen</label><desc>(20./6. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181126_702.16920" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181126&amp;seite=63&amp;zoom=33">
                <persName>
@@ -19976,7 +20007,7 @@
                   <country>Istrien</country>
                   <region>Capodjstria</region>
                </birth>
-               <note>Pirano, 1881; </note><event type="death"><label>gestorben</label><desc>(1.1.1918)</desc></event>
+               <note>Pirano, 1881</note><event type="death"><label>gestorben</label><desc>(1.1.1918)</desc></event>
             </person>
             <person xml:id="vll.19181204_703.1352" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181204&amp;seite=6&amp;zoom=33">
                <persName>
@@ -20066,7 +20097,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Truske, 1895; </note><event type="death"><label>gestorben</label><desc>(5./9. 1918).</desc></event>
+               <note>Truske, 1895</note><event type="death"><label>gestorben</label><desc>(5./9. 1918).</desc></event>
             </person>
             <person xml:id="vll.19181219_705.13652" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=50&amp;zoom=33">
                <persName>
@@ -20093,7 +20124,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pinguente, 1892; </note><event type="death"><label>gestorben</label><desc>(21./8; 1918).</desc></event>
+               <note>Pinguente, 1892</note><event type="death"><label>gestorben</label><desc>(21./8; 1918).</desc></event>
             </person>
             <person xml:id="vll.19181219_705.18394" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181219&amp;seite=66&amp;zoom=33">
                <persName>
@@ -20106,7 +20137,7 @@
                   <country>Istrien</country>
                   <region>Capodstria</region>
                </birth>
-               <note>Pomjan, 1897; </note><event type="death"><label>gestorben</label><desc>(16./6. 1917).</desc></event>
+               <note>Pomjan, 1897</note><event type="death"><label>gestorben</label><desc>(16./6. 1917).</desc></event>
             </person>
             <person xml:id="vll.19181224_706.6628" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181224&amp;seite=28&amp;zoom=33">
                <persName>
@@ -20119,7 +20150,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Muggia, 1894; </note><event type="death"><label>gestorben</label><desc>(29./7. 1918).</desc></event>
+               <note>Muggia, 1894</note><event type="death"><label>gestorben</label><desc>(29./7. 1918).</desc></event>
             </person>
             <person xml:id="vll.19190103_707.1700" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190103&amp;seite=8&amp;zoom=33">
                <persName>
@@ -20171,7 +20202,7 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Pirano, 1879; </note><event type="death"><label>gefallen</label><desc>(16.-30./6. L918).</desc></event>
+               <note>Pirano, 1879</note><event type="death"><label>gefallen</label><desc>(16.-30./6. L918).</desc></event>
             </person>
             <person xml:id="vll.19190114_709.13536" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19190114&amp;seite=49&amp;zoom=33">
                <persName>
