@@ -2061,7 +2061,6 @@
                </birth>
                <event type="wounded">
                   <label>verw.</label>
-                  <desc>'</desc>
                </event>
             </person>
             <person xml:id="vll.19150317_143.7084"
@@ -3618,7 +3617,6 @@
                </birth>
                <event type="pow">
                   <label>kriegsgef.</label>
-                  <desc>'</desc>
                </event>
             </person>
             <person xml:id="vll.19150625_200.3044"
@@ -5047,7 +5045,6 @@
                </birth>
                <event type="wounded">
                   <label>verw.</label>
-                  <desc>t .</desc>
                </event>
             </person>
             <person xml:id="vll.19150814_237.7408"
@@ -5084,7 +5081,6 @@
                </birth>
                <event type="wounded">
                   <label>verw.</label>
-                  <desc>-</desc>
                </event>
             </person>
             <person xml:id="vll.19150814_237.7650"
@@ -19276,8 +19272,8 @@
                   <surname>Visintin</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Dr.</socecStatus>
-               <affiliation>Assist. Arzt i. d. Res., IR. Nr. 19, 3. Komp.</affiliation>
+               <socecStatus>Dr., Assist. Arzt i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 19, 3. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Gradiska</region>
@@ -26806,7 +26802,7 @@
             <person xml:id="vll.19180805_689.4272"
                     source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180805&amp;seite=19&amp;zoom=33">
                <persName>
-                  <surname>po</surname>
+                  <surname>?go</surname>
                   <forename>Peter</forename>
                </persName>
                <socecStatus>Schütze</socecStatus>
