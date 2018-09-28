@@ -5121,7 +5121,8 @@
                   <surname>Grauner</surname>
                   <forename>Marzelin</forename>
                </persName>
-               <affiliation>Infst.m k. k. LstIR. Nr. 27</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LstIR. Nr. 27</affiliation>
                <birth>
                   <country>Görz und Gradiska</country>
                   <region>Görz</region>
@@ -5584,7 +5585,8 @@
                   <surname>Kančič</surname>
                   <forename>Thomas</forename>
                </persName>
-               <affiliation>Infst. IR. Nr. 97</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 97</affiliation>
                <birth>
                   <country>Görz u. Gradiska</country>
                   <region>Tolmein</region>

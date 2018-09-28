@@ -270,7 +270,7 @@
                   <forename>Johann</forename>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Pirano</region>
@@ -283,7 +283,7 @@
                   <forename>Josef</forename>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -295,7 +295,7 @@
                   <surname>Klischetz</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Gradisca</region>
@@ -307,7 +307,7 @@
                   <surname>Lawrentitsch</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -320,7 +320,7 @@
                   <forename>Esio</forename>
                   <forename>Anton</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Gradisca</region>
@@ -332,7 +332,7 @@
                   <surname>Schariar</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Sežana</region>
@@ -344,7 +344,7 @@
                   <surname>Zur</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -371,7 +371,7 @@
                   <forename>Josef</forename>
                   <forename>Gaspar</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -398,8 +398,7 @@
                   <forename>Johann</forename>
                   <forename>Peter</forename>
                </persName>
-               <socecStatus>k. k. LIR. Nr. 27</socecStatus>
-               <affiliation>9. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 27, 9. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -450,7 +449,7 @@
                   <surname>Ossich</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -906,8 +905,7 @@
                   <surname>Degrassi</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>k. k. LIR. Nr. 5</socecStatus>
-               <affiliation>3. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 5, 3. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -1233,7 +1231,7 @@
                   <forename>Andreas</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IK. Nr. 97, 6. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 6. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capdistria</region>
@@ -1272,7 +1270,7 @@
                   <forename>Karl</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IB. Nr. 97, l. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, l. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -1428,7 +1426,7 @@
                   <forename>Oskar</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>, IR. Nr. 97, 2. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 2. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -1507,7 +1505,7 @@
                   <forename>Blasius</forename>
                </persName>
                <socecStatus>Feldw.</socecStatus>
-               <affiliation>TR. Nr. 97, 11. Komp.</affiliation>
+               <affiliation>IR. Nr. 97, 11. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -1754,7 +1752,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k._k. LIR. Nr. 6, 11. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 6, 11. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -1871,7 +1869,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k. ki LIR. Nr. 6, 11. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 6, 11. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -1896,7 +1894,7 @@
                   <surname>Peressa</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 6,11. Kamp</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -2872,7 +2870,7 @@
                   <surname>Cossich</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>k. k. LIR, Nr. 5, 12. Komp</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -3171,8 +3169,7 @@
                   <surname>Eller</surname>
                   <forename>Andreas</forename>
                </persName>
-               <socecStatus>k. k. LIR. Nr. 5</socecStatus>
-               <affiliation>4. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 5, 4. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -3548,8 +3545,8 @@
                   <surname>Micov</surname>
                   <forename>Emil</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, k. k. LIR. Nr. 5, 10. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 5, 10. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -3614,7 +3611,7 @@
                   <forename>Franz</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, k. LIR. Nr. 5^, 11. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 5, 11. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Sesar.a Sela</region>
@@ -5087,7 +5084,7 @@
                   <surname>Križman</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Inft.</affiliation>
+               <socecStatus>Inft.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -6779,8 +6776,8 @@
                   <surname>Swab</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 1</socecStatus>
-               <affiliation>zugeteilt vom k. k. LIR. Nr. 3, 6. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 1, zugeteilt vom k. k. LIR. Nr. 3, 6. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Poncan</region>
@@ -7208,8 +7205,8 @@
                   <surname>Marchesich</surname>
                   <forename>Jtghann</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
-               <affiliation>, IR. Nr. 97, 2,/X, Marschkomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 2,/X, Marschkomp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -7456,7 +7453,7 @@
                   <forename>Anton</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR. Nr. 9J, l./X. Marschkomp.</affiliation>
+               <affiliation>IR. Nr. 97, l./X. Marschkomp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -7533,8 +7530,8 @@
                   <surname>Zuljan</surname>
                   <forename>Georg</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 97</socecStatus>
-               <affiliation>1./10. Marschkomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 97, 1./10. Marschkomp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -7677,7 +7674,7 @@
                   <forename>Rochus</forename>
                </persName>
                <socecStatus>Ldsch</socecStatus>
-               <affiliation>, LdschR. Nr. II, 13. Komp.</affiliation>
+               <affiliation>LdschR. Nr. II, 13. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -7741,8 +7738,8 @@
                   <surname>Cattoni</surname>
                   <forename>Placido</forename>
                </persName>
-               <socecStatus>LdschR. Nr. II</socecStatus>
-               <affiliation>13. Komp., zugeteilt dem IR. Nr. 54</affiliation>
+               <socecStatus>LdschR.</socecStatus>
+               <affiliation>Nr. II, 13. Komp., zugeteilt dem IR. Nr. 54</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Trient</region>
@@ -7780,8 +7777,8 @@
                   <surname>Sterpin</surname>
                   <forename>Vinzenz</forename>
                </persName>
-               <socecStatus>Ldsch. LdschR. Nr. III</socecStatus>
-               <affiliation>2. Komp,</affiliation>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. III, 2. Komp,</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -7831,7 +7828,7 @@
                   <surname>Goind</surname>
                   <forename>Peter</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, 4. ErsKomp.</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -8300,7 +8297,7 @@
                   <forename>Robert</forename>
                </persName>
                <socecStatus>ErsRes</socecStatus>
-               <affiliation>, IR. Nr. 47, 1. ErsKomp.</affiliation>
+               <affiliation>IR. Nr. 47, 1. ErsKomp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Gradiska</region>
@@ -8364,8 +8361,8 @@
                   <surname>Buschian</surname>
                   <forename>Emerico</forename>
                </persName>
-               <socecStatus>LdschR. Nr. l</socecStatus>
-               <affiliation>zugeteilt dem IR. Nr. 52, 16 Komp.</affiliation>
+               <socecStatus>LdschR.</socecStatus>
+               <affiliation>Nr. l, zugeteilt dem IR. Nr. 52, 16 Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -8522,7 +8519,7 @@
                   <forename>Paul</forename>
                </persName>
                <socecStatus>Korp.</socecStatus>
-               <affiliation>k.k. LIR. Nr. 5, ll. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 5, ll. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -8547,7 +8544,8 @@
                   <surname>Flego</surname>
                   <forename>Jakob</forename>
                </persName>
-               <affiliation>Gefr. k. k. LIR. Nr. 5</affiliation>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 5</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria </region>
@@ -8690,7 +8688,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k.k. LIR. Nr. 5, 4. Komp.</affiliation>
+               <affiliation>k. k. LIR. Nr. 5, 4. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -8781,7 +8779,7 @@
                   <forename>Johann</forename>
                </persName>
                <socecStatus>Gefr.</socecStatus>
-               <affiliation>k k LIR. Nr. 5, 2. ErsKomp</affiliation>
+               <affiliation>k. k LIR. Nr. 5, 2. ErsKomp</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -8939,7 +8937,7 @@
                   <forename>Matteus des Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k, 1. LIR. Nr. 5, 6. Komp.</affiliation>
+               <affiliation>k, k. LIR. Nr. 5, 6. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -9472,7 +9470,7 @@
                   <surname>Bonin</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 97, 9. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -9589,7 +9587,8 @@
                   <surname>Tunin</surname>
                   <forename>Antero</forename>
                </persName>
-               <affiliation>ErsRes.. IR. Nr. 97. 9. Komp.</affiliation>
+               <socecStatus>ErsRes.</socecStatus>
+               <affiliation>IR. Nr. 97. 9. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Gradisca</region>
@@ -9627,7 +9626,7 @@
                   <surname>Morolo</surname>
                   <forename>Andreas d. Anton</forename>
                </persName>
-               <socecStatus>Inft</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -10384,7 +10383,7 @@
                   <forename>Maria</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>k. u. LIR. Nr. 30, 6. Komp.</affiliation>
+               <affiliation>k. u. k. IR. Nr. 30, 6. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Gradiska</region>
@@ -12049,7 +12048,7 @@
                   <forename>Karl</forename>
                </persName>
                <socecStatus>LstInft</socecStatus>
-               <affiliation>, IR. Nr. 87, 4. Komp.</affiliation>
+               <affiliation>IR. Nr. 87, 4. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -13062,8 +13061,8 @@
                   <surname>Krbančič</surname>
                   <forename>Anton</forename>
                </persName>
-               <socecStatus>Infst. k. k. LIR. Nr. 26</socecStatus>
-               <affiliation>2. Komp.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 26, 2. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -14428,7 +14427,8 @@
                   <surname>Perosa</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>LstInfst. k. k. LIR. Nr. 5</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 5</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -14896,7 +14896,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>LstInfst</socecStatus>
-               <affiliation>, IR. Nr. 55</affiliation>
+               <affiliation>IR. Nr. 55</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -15324,8 +15324,7 @@
                   <surname>Žlobec</surname>
                   <forename>Paul</forename>
                </persName>
-               <socecStatus>bh. IR. Nr. 2</socecStatus>
-               <affiliation>10, Komp.</affiliation>
+               <affiliation>bh. IR. Nr. 2, 10, Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Sesana</region>
@@ -15895,9 +15894,10 @@
                <persName>
                   <surname>Walderstein</surname>
                   <forename>Johann</forename>
+                  <roleName>Graf v.</roleName>
                </persName>
-               <socecStatus>Graf v.</socecStatus>
-               <affiliation>LstInfst., IR. Nr. 97, 8. Komp.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 97, 8. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -16663,7 +16663,7 @@
                   <surname>Rieger</surname>
                   <forename>Alfied</forename>
                </persName>
-               <affiliation>Oblt.</affiliation>
+               <socecStatus>Oblt.</socecStatus>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -17663,8 +17663,9 @@
                <persName>
                   <surname>Langer</surname>
                   <forename>Felix</forename>
+                  <roleName>Ritter von</roleName>
                </persName>
-               <socecStatus>Ritter von MarKomissär 1. Kl.</socecStatus>
+               <socecStatus>MarKomissär 1. Kl.</socecStatus>
                <affiliation>KMar.</affiliation>
                <birth>
                   <country>Istrien</country>
@@ -18236,7 +18237,8 @@
                   <surname>Bonifacio</surname>
                   <forename>Georg</forename>
                </persName>
-               <affiliation>Matr. 1. Kl. S. M. S. "Kaiserin Elisabeth”</affiliation>
+               <socecStatus>Matr. 1. Kl.</socecStatus>
+               <affiliation>S. M. S. "Kaiserin Elisabeth”</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -18626,7 +18628,7 @@
                   <forename>Engelbert</forename>
                </persName>
                <socecStatus>Infst</socecStatus>
-               <affiliation>, k. k. SchR. Nr. 6, 2. Komp.</affiliation>
+               <affiliation>k. k. SchR. Nr. 6, 2. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -18639,7 +18641,7 @@
                   <forename>Anton</forename>
                </persName>
                <socecStatus>LstSchütze</socecStatus>
-               <affiliation>k, k. SchR. Nr. 22</affiliation>
+               <affiliation>k. k. SchR. Nr. 22</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -18743,7 +18745,7 @@
                   <forename>Josef</forename>
                </persName>
                <socecStatus>LstSchütze</socecStatus>
-               <affiliation>k. k, LstEtappB. Nr. 419, 1. Komp.</affiliation>
+               <affiliation>k. k. LstEtappB. Nr. 419, 1. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -19055,7 +19057,7 @@
                   <forename>Anton</forename>
                </persName>
                <socecStatus>Kan.</socecStatus>
-               <affiliation>k. u.k. FAR. Nr. 103</affiliation>
+               <affiliation>k. u. k. FAR. Nr. 103</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistria</region>
@@ -19803,7 +19805,10 @@
                   <country>Istrien</country>
                   <region>Capodistria</region>
                </birth>
-               <note>Isola, 1874; kriegsgef. (Gestorben am 21./22. 1916 in Jaransk, Wjatka, Rusland.)</note>
+               <note>Isola, 1874; kriegsgef.</note>
+               <event type="death">
+                  <desc>(Gestorben am 21./22. 1916 in Jaransk, Wjatka, Rusland.)</desc>
+               </event>
             </person>
             <person xml:id="vll.19181126_702.17138">
                <persName>
@@ -19849,8 +19854,8 @@
                   <surname>Surina</surname>
                   <forename>Bozo</forename>
                </persName>
-               <socecStatus>Kan. k. u. k. FAR. Nr. 6</socecStatus>
-               <affiliation>Batt. 4</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. u. k. FAR. Nr. 6, Batt. 4</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Jelsane</region>
@@ -19888,8 +19893,7 @@
                   <surname>Hobina</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>k. k. GschR. Nr. 1</socecStatus>
-               <affiliation>1. Komp.</affiliation>
+               <affiliation>k. k. GschR. Nr. 1, 1. Komp.</affiliation>
                <birth>
                   <country>Istrien</country>
                   <region>Capodistiria</region>
