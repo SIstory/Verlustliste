@@ -14,17 +14,23 @@
     
     <xsl:param name="months">
         <month n="01">Jän.</month>
+        <month n="01">Jänner</month>
         <month n="02">Febr.</month>
+        <month n="02">Februar</month>
         <month n="03">März</month>
         <month n="04">April</month>
         <month n="05">Mai</month>
         <month n="06">Juni</month>
         <month n="07">Juli</month>
+        <month n="08">Aug.</month>
         <month n="08">August</month>
         <month n="09">Sept.</month>
+        <month n="09">September</month>
         <month n="10">Oktober</month>
         <month n="11">November</month>
+        <month n="11">Nov.</month>
         <month n="12">Dezember</month>
+        <month n="12">Dez.</month>
     </xsl:param>
     
     <xsl:template match="@* | node()">
@@ -93,8 +99,8 @@
                         </xsl:non-matching-substring>
                     </xsl:analyze-string>
                 </xsl:when>
-                <xsl:when test="matches(.,'\([A-Z][a-z]+\.?\s\d{4}\)')">
-                    <xsl:analyze-string select="." regex="([A-Z][a-z]+\.?)(\s)(\d{{4}})">
+                <xsl:when test="matches(.,'\([A-Z][a-zäöü]+\.?\s\d{4}\)')">
+                    <xsl:analyze-string select="." regex="([A-Z][a-zäöü]+\.?)(\s)(\d{{4}})">
                         <xsl:matching-substring>
                             <xsl:choose>
                                 <xsl:when test="regex-group(1) = $months/tei:month">
@@ -104,6 +110,9 @@
                                         <xsl:value-of select="."/>
                                     </date>
                                 </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="."/>
+                                </xsl:otherwise>
                             </xsl:choose>
                         </xsl:matching-substring>
                         <xsl:non-matching-substring>
