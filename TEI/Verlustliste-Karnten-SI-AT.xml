@@ -256,7 +256,7 @@
                   <surname>Gressfieng</surname>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Gefr.</affiliation>
+               <socecStatus>Gefr.</socecStatus>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -304,7 +304,7 @@
                   <forename>Markus</forename>
                   <forename>Josef</forename>
                </persName>
-               <affiliation>Cefr.</affiliation>
+               <socecStatus>Infr.</socecStatus>
                <birth>
                   <country>Kärnten</country>
                   <region>Wollsberg</region>
@@ -1043,8 +1043,8 @@
                   <surname>Lnschin</surname>
                   <forename>Joaef</forename>
                </persName>
-               <socecStatus>ErsRes. k. k. LIR. Kr. 4</socecStatus>
-               <affiliation>2, ErsKomp.</affiliation>
+               <socecStatus>ErsRes.</socecStatus>
+               <affiliation>k. k. LIR. Kr. 4, 2. ErsKomp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermark</region>
@@ -2423,8 +2423,8 @@
                   <surname>Messner</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>Inft.; IR. Nr. 7</socecStatus>
-               <affiliation>16. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7, 16. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -2996,7 +2996,7 @@
                   <surname>Pegrin</surname>
                   <forename>Matthäus</forename>
                </persName>
-               <socecStatus>.Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4, 2. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -3486,7 +3486,8 @@
             </person>
             <person xml:id="vll.19150508_174.8230">
                <persName>
-                  <forename>RepingKarl</forename>
+                  <surname>Reping</surname>
+                  <forename>Karl</forename>
                </persName>
                <socecStatus>ErsRes. SanSold.</socecStatus>
                <affiliation>SanTruppe, SanAbt. 10</affiliation>
@@ -3553,8 +3554,8 @@
                   <surname>Schlatte</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>EinjFrciw. TitG-efr.</socecStatus>
-               <affiliation>IE. Nr. 7, 13. Komp.</affiliation>
+               <socecStatus>EinjFreiw. TitGefr.</socecStatus>
+               <affiliation>IR. Nr. 7, 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -3566,7 +3567,7 @@
                   <surname>Tschom</surname>
                   <forename>Michael</forename>
                </persName>
-               <socecStatus>Eeslnft.</socecStatus>
+               <socecStatus>Reslnft.</socecStatus>
                <affiliation>IR. Nr. 7, 14. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -3676,18 +3677,7 @@
                   <country>Kärnten</country>
                   <region>Völkennarkt</region>
                </birth>
-               <note>Zittersdorf, 1890, verw..</note>
-            </person>
-            <person xml:id="vll.19150605_188.1212">
-               <persName>
-                  <forename>Transportkomp</forename>
-               </persName>
-               <affiliation>des LstB. Nr. 151</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>Teissing, 1876, kriegsgef. (Chabarcwsk, Gouvernement Primorsk, Rußland.)</note>
+               <note>Zittersdorf, 1890, verw.</note>
             </person>
             <person xml:id="vll.19150605_188.2682">
                <persName>
@@ -3990,7 +3980,8 @@
             </person>
             <person xml:id="vll.19150710_208.3256">
                <persName>
-                  <forename>HabcmigMatthias</forename>
+                  <surname>Habcmig</surname>
+                  <forename>Matthias</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr.7, 4. Komp.</affiliation>
@@ -4798,8 +4789,7 @@
                   <surname>Pototschnig</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>IR. Nr. 7</socecStatus>
-               <affiliation>16. Komp.</affiliation>
+               <affiliation>IR. Nr. 7, 16. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkcrroarkt</region>
@@ -5123,7 +5113,7 @@
                   <surname>Gutenberger</surname>
                   <forename>Stanislaus</forename>
                </persName>
-               <socecStatus>.ErsRes.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4, 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -5383,7 +5373,7 @@
                   <surname>Kienzer</surname>
                   <forename>Oswald</forename>
                </persName>
-               <socecStatus>ErsEes.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -5421,9 +5411,10 @@
                <persName>
                   <surname>KozoT</surname>
                   <forename>Thomas</forename>
+                  <forename>richtig Gomernik</forename>
                </persName>
-               <socecStatus>richtig Gomernik</socecStatus>
-               <affiliation>Inft., k. k. LIR. Nr. 4, 2. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 4, 2. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkennaikt</region>
@@ -5734,7 +5725,7 @@
                   <surname>Peterlin</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>ErsEes.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>k. k. LIE. Nr. 4, 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -5786,7 +5777,7 @@
                   <surname>Pollheim</surname>
                   <forename>Kilian</forename>
                </persName>
-               <socecStatus>ErsEes.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>IR. Nr. 7, 12. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -5825,7 +5816,7 @@
                   <surname>Porčnik</surname>
                   <forename>Lukas</forename>
                </persName>
-               <socecStatus>ErsEes.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -5929,7 +5920,7 @@
                   <surname>Eiegler</surname>
                   <forename>Kaspar</forename>
                </persName>
-               <socecStatus>ErsUes.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4, 11. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -5968,7 +5959,7 @@
                   <surname>Roth!</surname>
                   <forename>Roman</forename>
                </persName>
-               <socecStatus>ErsEcs.</socecStatus>
+               <socecStatus>ErsRes.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4; 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -6031,7 +6022,7 @@
             <person xml:id="vll.19150812_235.9620">
                <persName>
                   <surname>Stern</surname>
-                  <forename>-Wilhelm</forename>
+                  <forename>Wilhelm</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4, 10. Komp.</affiliation>
@@ -6382,7 +6373,7 @@
             <person xml:id="vll.19150814_237.7446">
                <persName>
                   <surname>Simonie</surname>
-                  <forename>.Michael</forename>
+                  <forename>Michael</forename>
                </persName>
                <socecStatus>Gefr.</socecStatus>
                <affiliation>IR. Nr. 17, 9. Komp.</affiliation>
@@ -6397,8 +6388,8 @@
                   <surname>Steidl</surname>
                   <forename>Thomas</forename>
                </persName>
-               <socecStatus>Inft.* IR. Nr. 7</socecStatus>
-               <affiliation>13. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7, 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -6411,7 +6402,7 @@
                   <forename>Albin</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
-               <affiliation>IR. Nr. 7,13. Komp.</affiliation>
+               <affiliation>IR. Nr. 7, 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -6837,7 +6828,7 @@
             <person xml:id="vll.19150816_239.7656">
                <persName>
                   <surname>Sehelander</surname>
-                  <forename>"Valentin</forename>
+                  <forename>Valentin</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 15, 14. Komp.</affiliation>
@@ -7382,7 +7373,8 @@
             </person>
             <person xml:id="vll.19150819_242.4600">
                <persName>
-                  <forename>MairitschMatthias</forename>
+                  <surname>Mairitsch</surname>
+                  <forename>Matthias</forename>
                </persName>
                <socecStatus>Gefr.</socecStatus>
                <affiliation>k.k. LIR. Nr. 4</affiliation>
@@ -7787,7 +7779,7 @@
                   <surname>Wucherer</surname>
                   <forename>Michael</forename>
                </persName>
-               <socecStatus>' Offiziersdiener</socecStatus>
+               <socecStatus>Offiziersdiener</socecStatus>
                <affiliation>k, k, LIR, Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -7878,8 +7870,8 @@
                   <surname>Andritz</surname>
                   <forename>Engelbert</forename>
                </persName>
-               <socecStatus>Inft* k. k. LstMarschB. Nr. 10</socecStatus>
-               <affiliation>4. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LstMarschB. Nr. 10, 4. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Yölkermarltt</region>
@@ -8359,8 +8351,8 @@
                   <surname>Berchtaler</surname>
                   <forename>llax</forename>
                </persName>
-               <socecStatus>"Inft.</socecStatus>
-               <affiliation>IR, Nr. ,7 ,.i4. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. ,7 ,.i4. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolifsberg</region>
@@ -8710,8 +8702,8 @@
                   <surname>Theuermann</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>Korp.. IR. Nr. 7</socecStatus>
-               <affiliation>14. Komp.</affiliation>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>IR. Nr. 7, 14. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -8931,7 +8923,8 @@
                   <surname>Vogeinik</surname>
                   <forename>Johann</forename>
                </persName>
-               <affiliation>Inft.. k. k. LIR. Nr. 4</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -10648,7 +10641,7 @@
                   <surname>Andre</surname>
                   <forename>August</forename>
                </persName>
-               <socecStatus>inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -10935,7 +10928,7 @@
                   <surname>Nuart</surname>
                   <forename>Georg</forename>
                </persName>
-               <socecStatus>'Lstlnft.</socecStatus>
+               <socecStatus>Lstlnft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4, 5. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -11052,7 +11045,7 @@
                   <surname>Schenk</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>;.Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -11065,8 +11058,8 @@
                   <surname>Schmerlaib</surname>
                   <forename>Lorenz</forename>
                </persName>
-               <socecStatus/>
-               <affiliation>Inft., k. k, LIR. Nr. 4</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -11936,13 +11929,13 @@
                   <surname>Zantoni</surname>
                   <forename>Roman</forename>
                </persName>
-               <socecStatus>- Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 15,15. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
                </birth>
-               <note>St. Paul, 1895, verw..</note>
+               <note>St. Paul, 1895, verw.</note>
             </person>
             <person xml:id="vll.19151008_287.9682">
                <persName>
@@ -12157,8 +12150,8 @@
                   <surname>Mösslacher</surname>
                   <forename>Ilans</forename>
                </persName>
-               <socecStatus>Lt. i</socecStatus>
-               <affiliation>d. Res., bh. IR. Nr. 4</affiliation>
+               <socecStatus>Lt. i. d. Res.</socecStatus>
+               <affiliation>bh. IR. Nr. 4</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völker- markt</region>
@@ -12172,9 +12165,9 @@
                </persName>
                <birth>
                   <country>Kärnten</country>
-                  <region>Völkermarkt; kriegsgef.</region>
+                  <region>Völkermarkt</region>
                </birth>
-               <note>Pensa, Rußland.</note>
+               <note>kriegsgef., Pensa, Rußland.</note>
             </person>
             <person xml:id="vll.19151028_303.2724">
                <persName>
@@ -12371,7 +12364,7 @@
             </person>
             <person xml:id="vll.19151028_303.9720">
                <persName>
-                  <forename>Windisch</forename>
+                  <surname>Windisch</surname>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 15, 15. Komp.</affiliation>
@@ -12487,7 +12480,7 @@
             </person>
             <person xml:id="vll.19151105_307.8720">
                <persName>
-                  <forename>Rossmann</forename>
+                  <surname>Rossmann</surname>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 55, 16. Komp.</affiliation>
@@ -12775,8 +12768,8 @@
                   <surname>Krenegger</surname>
                   <forename>Friedrich</forename>
                </persName>
-               <socecStatus>Fähnr. i. d. Res. IR. Nr. 7</socecStatus>
-               <affiliation>MGA.</affiliation>
+               <socecStatus>Fähnr. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 7, MGA.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -13582,7 +13575,7 @@
                   <surname>Janesch</surname>
                   <forename>Simon</forename>
                </persName>
-               <socecStatus>Tnft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 7, 1. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -14181,8 +14174,8 @@
                   <surname>Koberer</surname>
                   <forename>Othmar</forename>
                </persName>
-               <socecStatus/>
-               <affiliation>Kdt, IK. Nr. 7, 12. Komp.</affiliation>
+               <socecStatus>Kdt.</socecStatus>
+               <affiliation>IK. Nr. 7, 12. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -14390,7 +14383,7 @@
                   <surname>Krieže</surname>
                   <forename>Thomas</forename>
                </persName>
-               <socecStatus>Eeslnft.</socecStatus>
+               <socecStatus>Erslnft.</socecStatus>
                <affiliation>k. k. LIR. Nr. 47, 10. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -14819,7 +14812,7 @@
                   <surname>Zupanc</surname>
                   <forename>Michael</forename>
                </persName>
-               <socecStatus>. Inft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 7, 10. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -15702,7 +15695,7 @@
                   <surname>Eberhart</surname>
                   <forename>Friedrich</forename>
                </persName>
-               <socecStatus>T nft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -16092,8 +16085,8 @@
                   <surname>Repnik</surname>
                   <forename>Andreas</forename>
                </persName>
-               <socecStatus>Inft.. IR. Nr. 7</socecStatus>
-               <affiliation>9. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -16105,12 +16098,13 @@
                   <surname>Stuck</surname>
                   <forename>Georg</forename>
                </persName>
-               <affiliation>Inft.. IR. Nr. 7</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkemarkt</region>
                </birth>
-               <note>Haimborg, 1891; kriegsgof., Nertsebmsk, Gebiet Sabaikal, Baßland,</note>
+               <note>Haimborg, 1891; kriegsgef., Nertsebmsk, Gebiet Sabaikal, Baßland,</note>
             </person>
             <person xml:id="vll.19160414_408.5252">
                <persName>
@@ -17327,7 +17321,7 @@
                   <surname>Dreier</surname>
                   <forename>Georg</forename>
                </persName>
-               <socecStatus>Tr.ft.</socecStatus>
+               <socecStatus>Inft.</socecStatus>
                <affiliation>1:. k. LIR. Kr. 4, ß, Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -17769,10 +17763,11 @@
             </person>
             <person xml:id="vll.19160615_431.426">
                <persName>
-                  <forename>Ger</forename>
+                  <surname>Geramm</surname>
+                  <forename>Leopold</forename>
                </persName>
-               <socecStatus>amm Leopold</socecStatus>
-               <affiliation>Lt. i. d. Res., IR. Nr. 7</affiliation>
+               <socecStatus>Lt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -17966,7 +17961,8 @@
                   <surname>Kopp</surname>
                   <forename>Friedrich</forename>
                </persName>
-               <affiliation>Inft. IR. Nr. 7</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -18277,8 +18273,8 @@
                   <surname>Vallant</surname>
                   <forename>Valentin</forename>
                </persName>
-               <socecStatus>Inft. IR. Nr. 7</socecStatus>
-               <affiliation>3. ErsKomp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7, 3. ErsKomp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -18485,8 +18481,8 @@
                   <surname>Planteu</surname>
                   <forename>Johann</forename>
                </persName>
-               <socecStatus>Jäg„ k. fc komb. FJB. Mjr. Schenk</socecStatus>
-               <affiliation>4. Komp,</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>k. k. komb. FJB. Mjr. Schenk, 4. Komp,</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -18508,7 +18504,8 @@
             </person>
             <person xml:id="vll.19160617_432.11950">
                <persName>
-                  <forename>SchuIloyAnton</forename>
+                  <surname>SchuIloy</surname>
+                  <forename>Anton</forename>
                </persName>
                <socecStatus>LstJäg.</socecStatus>
                <affiliation>k.k. komb. FJB, Mjr, Schenk, 1. Komp.j</affiliation>
@@ -18651,7 +18648,7 @@
             <person xml:id="vll.19160624_434.12158">
                <persName>
                   <surname>Ramser</surname>
-                  <forename>Jwef</forename>
+                  <forename>Josef</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 7,10. Komp.</affiliation>
@@ -18900,7 +18897,8 @@
                   <surname>Primig</surname>
                   <forename>Albin</forename>
                </persName>
-               <affiliation>Kan. k. k. LstArtAbt. 3/4</affiliation>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>k. k. LstArtAbt. 3/4</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -19484,8 +19482,8 @@
                   <surname>Prešičnik</surname>
                   <forename>Michael</forename>
                </persName>
-               <socecStatus>Inft.. IK. Nr. 47</socecStatus>
-               <affiliation>zugeteilt dein^k. k. LstB. Nr. 152, 1. Komp.</affiliation>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 47, zugeteilt dem k. k. LstB. Nr. 152, 1. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -20929,7 +20927,7 @@
                   <surname>Markut</surname>
                   <forename>Peter</forename>
                </persName>
-               <affiliation>ErsKomp.</affiliation>
+               <socecStatus>ErsKomp.</socecStatus>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -21136,7 +21134,7 @@
                   <surname>Sand</surname>
                   <forename>Georg</forename>
                </persName>
-               <affiliation>LstInfst.</affiliation>
+               <socecStatus>LstInfst.</socecStatus>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -21616,8 +21614,8 @@
                   <surname>Svete</surname>
                   <forename>Leopold</forename>
                </persName>
-               <socecStatus>Infst. k. k. LIR. Nr. 27</socecStatus>
-               <affiliation>RgtsStb.</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 27, RgtsStb.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -22864,8 +22862,7 @@
                   <surname>Halbreiner</surname>
                   <forename>Andreas</forename>
                </persName>
-               <socecStatus>FJB. Nr. 8</socecStatus>
-               <affiliation>BaonsStb.</affiliation>
+               <affiliation>FJB. Nr. 8, BaonsStb.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -23241,8 +23238,8 @@
                   <surname>Tongl</surname>
                   <forename>Ferdinand</forename>
                </persName>
-               <socecStatus>Lt</socecStatus>
-               <affiliation>i. d. Res., IR. Nr. 7, 2. Komp.</affiliation>
+               <socecStatus>Lt. i. d. Res.</socecStatus>
+               <affiliation>IR. Nr. 7, 2. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -23384,7 +23381,7 @@
                   <surname>Huhs</surname>
                   <forename>Franz</forename>
                </persName>
-               <socecStatus>ResSchü ze</socecStatus>
+               <socecStatus>ResSchütze</socecStatus>
                <affiliation>k. k. GichR. Nr. 1 , 6 . Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -25461,7 +25458,8 @@
             </person>
             <person xml:id="v11.19180209_651.4012">
                <persName>
-                  <forename>BgoraMichael</forename>
+                  <surname>Bgora</surname>
+                  <forename>Michael</forename>
                </persName>
                <socecStatus>Schütze</socecStatus>
                <affiliation>k. k. SchR. Nr. 26,3. Komp.</affiliation>
@@ -25512,7 +25510,8 @@
             </person>
             <person xml:id="v11.19180214_652.8060">
                <persName>
-                  <forename>PetschnigFranz</forename>
+                  <surname>Petschnig</surname>
+                  <forename>Franz</forename>
                </persName>
                <socecStatus>Infst.</socecStatus>
                <affiliation>IR. Nr. 7, 6. Komp.</affiliation>
@@ -26931,8 +26930,8 @@
                   <surname>Rasehun</surname>
                   <forename>Martin</forename>
                </persName>
-               <socecStatus>infst.. IH. iSr. 7</socecStatus>
-               <affiliation>2. Komp..</affiliation>
+               <socecStatus>infst.</socecStatus>
+               <affiliation>IR. iSr. 7, 2. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Volkermarkt</region>
@@ -26983,8 +26982,8 @@
                   <surname>Setz</surname>
                   <forename>Paul</forename>
                </persName>
-               <socecStatus>Jäg.. FJB. Nr. 8</socecStatus>
-               <affiliation>zugeteilt dem komb. JägBaon. 4. Komp.</affiliation>
+               <socecStatus>Jäg.</socecStatus>
+               <affiliation>FJB. Nr. 8, zugeteilt dem komb. JägBaon. 4. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -27165,7 +27164,7 @@
                   <surname>Nuart</surname>
                   <forename>Michael</forename>
                </persName>
-               <socecStatus>Inf st.</socecStatus>
+               <socecStatus>Infst.</socecStatus>
                <affiliation>IR. Nr. 7, 3. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -28012,7 +28011,8 @@
                   <surname>Scherling</surname>
                   <forename>Karl</forename>
                </persName>
-               <affiliation>LstSchütze. k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>LstSchütze.</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -28255,7 +28255,7 @@
             <person xml:id="vll.19180429_670.8858">
                <persName>
                   <surname>Lobaig</surname>
-                  <forename>Ale.v</forename>
+                  <forename>Alex</forename>
                </persName>
                <socecStatus>ErsResSchütze</socecStatus>
                <affiliation>k. k. GschR. Nr. 1</affiliation>
@@ -28410,7 +28410,8 @@
             </person>
             <person xml:id="vll.19180501_671.5550">
                <persName>
-                  <forename>Gaugr^ebastian</forename>
+                  <surname>Gaugr</surname>
+                  <forename>Sebastian</forename>
                </persName>
                <socecStatus>ErsResInfst.</socecStatus>
                <affiliation>IR. Nr. 7</affiliation>
@@ -28539,7 +28540,8 @@
             </person>
             <person xml:id="vll.19180511_672.1504">
                <persName>
-                  <forename>artlJaKOsz</forename>
+                  <surname>artl</surname>
+                  <forename>JaKOsz</forename>
                </persName>
                <socecStatus>Infst.</socecStatus>
                <affiliation>IR. Nr. 7, MG Ko mp.</affiliation>
@@ -28554,8 +28556,8 @@
                   <surname>Grintschnig</surname>
                   <forename>Karl</forename>
                </persName>
-               <socecStatus>Schütze k. k. GschR. Nr. 1</socecStatus>
-               <affiliation>12. Komp.</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 12. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsbejg</region>
@@ -28567,8 +28569,8 @@
                   <surname>Gsodam</surname>
                   <forename>E^dhw</forename>
                </persName>
-               <socecStatus>lirfst. IR. Nr. 7</socecStatus>
-               <affiliation>14. Komp.</affiliation>
+               <socecStatus>lirfst.</socecStatus>
+               <affiliation>IR. Nr. 7, 14. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -28669,7 +28671,7 @@
             <person xml:id="vll.19180514_673.1006">
                <persName>
                   <surname>Adam</surname>
-                  <forename>franz</forename>
+                  <forename>Franz</forename>
                </persName>
                <socecStatus>Infst.</socecStatus>
                <affiliation>IR- Nr. 7, MGKomp. IV.</affiliation>
@@ -28734,9 +28736,9 @@
             <person xml:id="vll.19180514_673.4832">
                <persName>
                   <surname>Hallin</surname>
-                  <forename>Valentin.</forename>
+                  <forename>Valentin</forename>
                </persName>
-               <socecStatus>Schätze</socecStatus>
+               <socecStatus>Schütze</socecStatus>
                <affiliation>k. k. GschR. Nr. 1, MGKomp. III</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -28916,7 +28918,7 @@
             <person xml:id="vll.19180514_673.11496">
                <persName>
                   <surname>Riepl</surname>
-                  <forename>Thomaä</forename>
+                  <forename>Thomas</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
                <affiliation>k. k. LstBezKmüo. Nr. 4</affiliation>
@@ -28981,7 +28983,7 @@
             <person xml:id="vll.19180514_673.13558">
                <persName>
                   <surname>Tomasch</surname>
-                  <forename>Pankr'atz</forename>
+                  <forename>Pankratz</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
                <affiliation>IR. Nr. 7, MGKomp. IV</affiliation>
@@ -29058,7 +29060,8 @@
             </person>
             <person xml:id="vll.19180515_674.4680">
                <persName>
-                  <forename>GÖBltzerThomas</forename>
+                  <surname>GÖBltzer</surname>
+                  <forename>Thomas</forename>
                </persName>
                <socecStatus>Schütze</socecStatus>
                <affiliation>k. k. GschR. Nr. 1,4. Komp.</affiliation>
@@ -29071,7 +29074,7 @@
             <person xml:id="vll.19180515_674.6364">
                <persName>
                   <surname>iritsfh</surname>
-                  <forename>G&lt;eorg</forename>
+                  <forename>Georg</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
                <affiliation>IR. Nr. 7, 3. Komp.</affiliation>
@@ -29110,7 +29113,7 @@
             <person xml:id="vll.19180515_674.8538">
                <persName>
                   <surname>Lesjak</surname>
-                  <forename>K'ranz</forename>
+                  <forename>Kranz</forename>
                </persName>
                <socecStatus>Jäg.</socecStatus>
                <affiliation>F JB. Nr. 8,2. Komp.</affiliation>
@@ -29250,18 +29253,6 @@
                </birth>
                <note>St. Daniel, 1897; verw.</note>
             </person>
-            <person xml:id="vll.19180515_674.15456">
-               <persName>
-                  <surname>Nr.</surname>
-                  <forename>1</forename>
-               </persName>
-               <affiliation>4. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>Ettendorf, 1896; verw.</note>
-            </person>
             <person xml:id="vll.19180515_674.15560">
                <persName>
                   <surname>Winkler</surname>
@@ -29366,18 +29357,6 @@
                </birth>
                <note>Eberndorf, 1896; verw.</note>
             </person>
-            <person xml:id="vll.19180527_675.11382">
-               <persName>
-                  <forename>f^"l’gna\TLklnfsl’</forename>
-               </persName>
-               <socecStatus>IR. Nr. 7</socecStatus>
-               <affiliation>StbsAbt.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Völkermarkt</region>
-               </birth>
-               <note/>
-            </person>
             <person xml:id="vll.19180527_675.12088">
                <persName>
                   <surname>Sehalier</surname>
@@ -29446,7 +29425,7 @@
             <person xml:id="vll.19180527_675.16368">
                <persName>
                   <surname>Weiehsler</surname>
-                  <forename>.lohann</forename>
+                  <forename>Jlohann</forename>
                </persName>
                <socecStatus>Schütze</socecStatus>
                <affiliation>k. k. GschR. Nr. 1, MGKomp. 1</affiliation>
@@ -29468,17 +29447,6 @@
                   <region>Wolfsberg</region>
                </birth>
                <note>Preiteneg, 1893; gefallen (13./12.1916).</note>
-            </person>
-            <person xml:id="vll.19180531_676.6014">
-               <persName>
-                  <forename>^®^*^äg.</forename>
-               </persName>
-               <affiliation>k k. LstBezKmdo.'Nr. 4</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsbeig</region>
-               </birth>
-               <note>Reichenfels:, 1887; gefaben (28./8. 1916)</note>
             </person>
             <person xml:id="vll.19180531_676.7278">
                <persName>
@@ -29623,7 +29591,8 @@
             </person>
             <person xml:id="vll.19180603_677.9812">
                <persName>
-                  <forename>MörthRochus</forename>
+                  <surname>Mörth</surname>
+                  <forename>Rochus</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
                <affiliation>k. k. SchR. Nr.4</affiliation>
@@ -29697,9 +29666,10 @@
             </person>
             <person xml:id="vll.19180605_678.11086">
                <persName>
-                  <forename>Leopold</forename>
+                  <surname>Leopold</surname>
+                  <forename>Karl</forename>
                </persName>
-               <socecStatus>Karl Drag.</socecStatus>
+               <socecStatus>Drag.</socecStatus>
                <affiliation>DK. Nr. 5</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -29839,7 +29809,7 @@
             <person xml:id="vll.19180610_679.10934">
                <persName>
                   <surname>Rassi</surname>
-                  <forename>A'.'ois</forename>
+                  <forename>Alois</forename>
                </persName>
                <socecStatus>Korp.</socecStatus>
                <affiliation>ElektroBrsAbt., R^hrzug 13</affiliation>
@@ -29932,8 +29902,8 @@
                   <surname>Marolt statt Harolt</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>LstGefrTitKorp. IR. Nr. 7</socecStatus>
-               <affiliation>13. Komp.</affiliation>
+               <socecStatus>LstGefrTitKorp.</socecStatus>
+               <affiliation>IR. Nr. 7, 13. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -29984,24 +29954,12 @@
                   <surname>Watschet</surname>
                   <forename>Ina</forename>
                </persName>
-               <socecStatus/>
-               <affiliation>Schütz©, k. k. GschR. Nr. 1</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
                </birth>
-            </person>
-            <person xml:id="vll.19180628_683.8126">
-               <persName>
-                  <forename>P</forename>
-               </persName>
-               <socecStatus>^;nSi[ JoSnn</socecStatus>
-               <affiliation>ll'grf^k.'k. Gsc'.R. Nr. 1</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Völkermarkt</region>
-               </birth>
-               <note>Goritschach.</note>
             </person>
             <person xml:id="vll.19180628_683.10216">
                <persName>
@@ -30014,14 +29972,14 @@
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
                </birth>
-               <note>Erzberg-Gorhtzcn, 1890; verw. ’</note>
+               <note>Erzberg-Gorhtzcn, 1890; verw.</note>
             </person>
             <person xml:id="vll.19180709_684.3048">
                <persName>
                   <surname>Caks</surname>
                   <forename>Josef</forename>
                </persName>
-               <socecStatus>.Schütze</socecStatus>
+               <socecStatus>Schütze</socecStatus>
                <affiliation>k. k. SchR. Nr. 26, 11. tvomp-</affiliation>
                <birth>
                   <country>Kärnten</country>
@@ -30083,7 +30041,8 @@
             </person>
             <person xml:id="vll.19180709_684.12554">
                <persName>
-                  <forename>PusehlFranz</forename>
+                  <surname>Pusehl</surname>
+                  <forename>Franz</forename>
                </persName>
                <socecStatus>Infst.</socecStatus>
                <affiliation>IR. Nr. 7,1. Komp.</affiliation>
@@ -30094,7 +30053,7 @@
             </person>
             <person xml:id="vll.19180709_684.16494">
                <persName>
-                  <surname>ZeUnig</surname>
+                  <surname>Zeunig</surname>
                   <forename>Viktor</forename>
                </persName>
                <socecStatus>LstSchütze</socecStatus>
@@ -30224,8 +30183,8 @@
             </person>
             <person xml:id="vll.19180723_687.1536">
                <persName>
-                  <surname>erger</surname>
-                  <forename>.Johann</forename>
+                  <surname>Berger</surname>
+                  <forename>Johann</forename>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
                <affiliation>IR. Nr. 7, 8. Komp.</affiliation>
@@ -30287,18 +30246,6 @@
                </birth>
                <note>1891; gestorben (19./6. 1918).</note>
             </person>
-            <person xml:id="vll.19180723_687.16858">
-               <persName>
-                  <surname>Nr.</surname>
-                  <forename>7</forename>
-               </persName>
-               <affiliation>12. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Völkerrawkt</region>
-               </birth>
-               <note>Swlandp</note>
-            </person>
             <person xml:id="vll.19180801_688.4764">
                <persName>
                   <surname>Gregoriek</surname>
@@ -30355,7 +30302,8 @@
                   <surname>Samschuk</surname>
                   <forename>Franz</forename>
                </persName>
-               <affiliation>Infst. IR. Nr. 7</affiliation>
+               <socecStatus>Infst.</socecStatus>
+               <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
@@ -30405,13 +30353,12 @@
                   <surname>idwig</surname>
                   <forename>Ls^ch.</forename>
                </persName>
-               <socecStatus>k k. SchR. Nr. 35</socecStatus>
-               <affiliation>1. .ErsKorap.</affiliation>
+               <affiliation>k k. SchR. Nr. 35, 1. ErsKorap.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
                </birth>
-               <note>Lading, 1878; kriegsget (Gestorben am 18./12</note>
+               <note>Lading, 1878; kriegsgef (Gestorben am 18./12</note>
             </person>
             <person xml:id="vll.19180814_691.6184">
                <persName>
@@ -30541,18 +30488,6 @@
                </birth>
                <note>Haimbnrg, 1895; gefallen (11./3.1918).</note>
             </person>
-            <person xml:id="vll.19180824_692.11956">
-               <persName>
-                  <forename>jabnel</forename>
-               </persName>
-               <socecStatus>LstInfst.</socecStatus>
-               <affiliation>IR. Nr. 7, 3. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>ienberg; gestorben (20./4.1918).</note>
-            </person>
             <person xml:id="vll.19180824_692.13278">
                <persName>
                   <surname>Sternath</surname>
@@ -30568,7 +30503,7 @@
             </person>
             <person xml:id="vll.19180830_693.4376">
                <persName>
-                  <forename>Wolfgang</forename>
+                  <surname>Wolfgang</surname>
                </persName>
                <socecStatus>LstInfst.</socecStatus>
                <affiliation>IR. Nr. 7, 6. Komp.</affiliation>
@@ -30576,7 +30511,7 @@
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
                </birth>
-               <note>Rüden (1893; gefallen (18./12. 1917).</note>
+               <note>Rüden, 1893; gefallen (18./12. 1917).</note>
             </person>
             <person xml:id="vll.19180830_693.5422">
                <persName>
@@ -30630,29 +30565,6 @@
                </birth>
                <note>Eisenkappel, 1896; gefallen (18./12. 1917)• ’</note>
             </person>
-            <person xml:id="vll.19180830_693.9050">
-               <persName>
-                  <forename>cob</forename>
-               </persName>
-               <socecStatus>LstGefr.</socecStatus>
-               <affiliation>IR. Nr. 7, MGKomp. II</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>Preitenegg, 1889; gefallen (18./12. 1917).</note>
-            </person>
-            <person xml:id="vll.19180830_693.9080">
-               <persName>
-                  <forename>Schütze</forename>
-               </persName>
-               <affiliation>k. k. GschR. Nr. 2</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Völkermarkt</region>
-               </birth>
-               <note>1889; gestorlre» (1./3. 1918).</note>
-            </person>
             <person xml:id="vll.19180830_693.10202">
                <persName>
                   <surname>Schaffer</surname>
@@ -30669,7 +30581,7 @@
             <person xml:id="vll.19180830_693.10672">
                <persName>
                   <surname>Schuster</surname>
-                  <forename>Cölestin</forename>
+                  <forename>Celestin</forename>
                </persName>
                <socecStatus>IstInfst.</socecStatus>
                <affiliation>IR. Nr. 7, 6. Komp.</affiliation>
@@ -30691,18 +30603,6 @@
                   <region>Völkermark</region>
                </birth>
             </person>
-            <person xml:id="vll.19180910_694.4330">
-               <persName>
-                  <forename>hnzenz</forename>
-               </persName>
-               <socecStatus>LstInfst.</socecStatus>
-               <affiliation>IR. Kr. 15, 4. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Völkermarkt</region>
-               </birth>
-               <note>1895; gefallen (13./H. 1915).</note>
-            </person>
             <person xml:id="vll.19180910_694.4442">
                <persName>
                   <surname>Glabonjath</surname>
@@ -30715,30 +30615,6 @@
                   <region>Völkermarkt</region>
                </birth>
                <note>Diex, 1896;(War kriegsgef. Im Austanschwege zurückgekehrt.)</note>
-            </person>
-            <person xml:id="vll.19180910_694.5936">
-               <persName>
-                  <forename>a</forename>
-               </persName>
-               <socecStatus>I^tMst.</socecStatus>
-               <affiliation>IR Nr. 15, 6. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-            </person>
-            <person xml:id="vll.19180910_694.12360">
-               <persName>
-                  <surname>!js</surname>
-                  <forename>Mst.</forename>
-               </persName>
-               <socecStatus>IR. Nr. 7</socecStatus>
-               <affiliation>11. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>(War kriegsgef.</note>
             </person>
             <person xml:id="vll.19180928_695.10598">
                <persName>
@@ -30753,18 +30629,6 @@
                </birth>
                <note>Vellach, 1893; gefallen (17./6. 1918).</note>
             </person>
-            <person xml:id="vll.19180928_695.11010">
-               <persName>
-                  <forename>4</forename>
-               </persName>
-               <socecStatus>Kan.</socecStatus>
-               <affiliation>k. u. k. FAR. Nr. 106, Batt. 4</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Völkermarkt</region>
-               </birth>
-               <note>Waisenberg, 1896^estorben (3./6. 1918).</note>
-            </person>
             <person xml:id="vll.19180928_695.12014">
                <persName>
                   <surname>Schüler</surname>
@@ -30778,21 +30642,9 @@
                </birth>
                <note>Feistritz, 1888; gefallen (16./6. 1918).</note>
             </person>
-            <person xml:id="vll.19180928_695.15390">
-               <persName>
-                  <surname>Nr.</surname>
-                  <forename>18</forename>
-               </persName>
-               <affiliation>3. Sturmkomp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wclfsbcrg</region>
-               </birth>
-               <note>St. Stefan,</note>
-            </person>
             <person xml:id="vll.19181002_696.3506">
                <persName>
-                  <forename>Binld</forename>
+                  <surname>Binld</surname>
                </persName>
                <socecStatus>Infst.</socecStatus>
                <affiliation>IR. Nr. 34, TrachKomp.</affiliation>
@@ -30800,7 +30652,7 @@
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
                </birth>
-               <note>Griffen, gestorben (l./l. 1918).</note>
+               <note>Griffen, gestorben (1./1. 1918).</note>
             </person>
             <person xml:id="vll.19181002_696.5772">
                <persName>
@@ -30867,31 +30719,6 @@
                </birth>
                <note>Prävali, 1890; gestorben (8./5. 1918).</note>
             </person>
-            <person xml:id="vll.19181002_696.13016">
-               <persName>
-                  <forename>LstInfst.</forename>
-               </persName>
-               <socecStatus>IR. Nr. 7</socecStatus>
-               <affiliation>6. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>St. leonhard, 1886; verw.</note>
-            </person>
-            <person xml:id="vll.19181002_696.16112">
-               <persName>
-                  <surname>Waschier</surname>
-                  <forename>Franz</forename>
-               </persName>
-               <socecStatus>LstSchütze</socecStatus>
-               <affiliation>k. k Kärntner Ere 4. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>St. largarethen, 18f</note>
-            </person>
             <person xml:id="vll.19181005_697.5128">
                <persName>
                   <surname>Dohr</surname>
@@ -30904,29 +30731,6 @@
                   <region>Wolfsberg</region>
                </birth>
                <note>Gösel, 1885; gestorben (20./6. 1918).</note>
-            </person>
-            <person xml:id="vll.19181005_697.5300">
-               <persName>
-                  <forename>NanTitVorm.</forename>
-               </persName>
-               <affiliation>k. u. k. FAR. Nr. 4</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfs Wolfsberg</region>
-               </birth>
-               <note>­</note>
-            </person>
-            <person xml:id="vll.19181005_697.6280">
-               <persName>
-                  <forename>LstInfst.</forename>
-               </persName>
-               <socecStatus>IR. Nr. 7</socecStatus>
-               <affiliation>7. Komp.</affiliation>
-               <birth>
-                  <country>Kärnten</country>
-                  <region>Wolfsberg</region>
-               </birth>
-               <note>896; verw.</note>
             </person>
             <person xml:id="vll.19181005_697.7916">
                <persName>
@@ -31048,7 +30852,7 @@
             <person xml:id="vll.19181019_699.6242">
                <persName>
                   <surname>Keup</surname>
-                  <forename>F.lipp</forename>
+                  <forename>Filipp</forename>
                </persName>
                <socecStatus>Schü ze</socecStatus>
                <affiliation>San SjamraAbt. Graz, zugeteilt den k. k. GschR. Nr. 1, 6. Komp.</affiliation>
@@ -32273,8 +32077,8 @@
                   <surname>Hudey</surname>
                   <forename>Peter</forename>
                </persName>
-               <socecStatus>LstInfst. IR. Nr. 7</socecStatus>
-               <affiliation>17. Komp.</affiliation>
+               <socecStatus>LstInfst</socecStatus>
+               <affiliation>IR. Nr. 7, 17. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Wolfsberg</region>
@@ -32390,8 +32194,8 @@
                   <surname>Trinki</surname>
                   <forename>Michael</forename>
                </persName>
-               <socecStatus>Schiit/e</socecStatus>
-               <affiliation>k. k. GSchR. Ni. 1, 3. Komp.,</affiliation>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GSchR. Nr. 1, 3. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Völkermarkt</region>
