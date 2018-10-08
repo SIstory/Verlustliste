@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Koroška - v resnici ostali deli Slovenije</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../TEI/Verlustliste-Karnten.xml"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="vll.19141230_88.7362">
+               <note>Slana Franz, Gefr., k. k. LIR. Nr. 37, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Pettau</region>
+               </birth>
+               <note>1887, verw.</note>
+            </person>
+            <person xml:id="vll.19150119_107.7762">
+               <note>Trattaer Johann</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Letinje</region>
+               </birth>
+               <note>kriegsgef. (Glasow, Gouvernement Wjatka, Rußland.)</note>
+            </person>
+            <person xml:id="vll.19150322_146.9906">
+               <note>Valant Johann, ErsRes., IR. Nr. 17, Grenzsehutzkomp. 4/3</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Radmannsdorf</region>
+               </birth>
+               <note>Vormarkt, 1885, verw.</note>
+            </person>
+            <person xml:id="vll.19150415_161.8058">
+               <note>Topolsehek 'Georg, Inft., IR. Nr. 7, 14. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Sal- . deinhofen</region>
+               </birth>
+               <note>tot (10.— 13-/2. 1915). .</note>
+            </person>
+            <person xml:id="vll.19150814_237.5662">
+               <note>Slotschilnig Franz, Inft., IR. Nr. 7,11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>Völkermarkt, 1883, kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19150818_241.7468">
+               <note>Pozniez Florian, Inft., IR. Nr. 15, 14.Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Schwarzenbach</region>
+               </birth>
+               <note>1883, verw.</note>
+            </person>
+            <person xml:id="vll.19150830_252.2478">
+               <note>Fabian Bartholomeus, Gefr,, k. k. LIR. Nr. 3,7. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Labada</region>
+               </birth>
+               <note>Seisenberg, 1887, tot (13./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150916_267.1678">
+               <note>Čermejl Viktor, Inft., IR. Nr. 65, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Adelsberg</region>
+               </birth>
+               <note>Mstje, 1884, tot (14./6. 1915).</note>
+            </person>
+            <person xml:id="vll.19150916_267.4044">
+               <note>Kirn Matthias, Inft., IR. Nr. 55, 12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Dobrava</region>
+               </birth>
+               <note>1895, verw.</note>
+            </person>
+            <person xml:id="vll.19150916_267.4454">
+               <note>Korešeč Iwan, Inft., IR. Nr. 55, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Loitsch</region>
+               </birth>
+               <note>Zirknitz, 1878, verw.</note>
+            </person>
+            <person xml:id="vll.19150916_267.7238">
+               <note>Samida Augustin, Inft., IR. Nr. 55, 11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Rudolfswert</region>
+               </birth>
+               <note>Veihtbuchel, 1881, verw.</note>
+            </person>
+            <person xml:id="vll.19151002_281.7362">
+               <note>Pivetz Alois, Ldsch., LdschR. Nr. II, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Marburg</region>
+               </birth>
+               <note>Partin, 1896, verw. (Vom Stande des k. k. LIR. Nr. 26.)</note>
+            </person>
+            <person xml:id="vll.19151002_281.9004">
+               <note>Sorschak Franz, Ldsch., LdschR. Nr. II, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Marburg</region>
+               </birth>
+               <note>Ziegelstadl verw. (Vom Stande des k. k. Litt. Nr. 26.)</note>
+            </person>
+            <person xml:id="vll.19151008_287.9530">
+               <note>Žabota Franz, Inft., IR. Nr. 15, 11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Luttenberg</region>
+               </birth>
+               <note>Wernsee, 1881, tot (1.—15./7. 1915).</note>
+            </person>
+            <person xml:id="vll.19151010_289.7746">
+               <note>Muster Ignatz, Inft., IR, Nr. 55, 5. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Visnogöra</region>
+               </birth>
+               <note>Bojanywert, 1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151028_303.3540">
+               <note>Hirs Andreas, Inft., IR. Nr. 15, 15. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Cilli</region>
+               </birth>
+               <note>Ferlach, 1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151105_307.3450">
+               <note>Graniz Franz, Inft., IR. Nr. 55,14. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gurkfeld</region>
+               </birth>
+               <note>St. Kreuz, 1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151105_307.8498">
+               <note>Recelj Ignatz, Inft., IR. Nr. 55, 12. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gurkfeld</region>
+               </birth>
+               <note>St. Bartlomea, 1895, verw.</note>
+            </person>
+            <person xml:id="vll.19151107_309.1650">
+               <note>Bersan Josef. Inft,, k. k, LIR. Nr. 22, 4. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Copodiabu</region>
+               </birth>
+               <note>Pomniann, 1891, verw.</note>
+            </person>
+            <person xml:id="vll.19151107_309.4568">
+               <note>Jawornik Franz, Inft., k. k. LIR. Nr. 22, 4. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gonobitz</region>
+               </birth>
+               <note>1883, verw.</note>
+            </person>
+            <person xml:id="vll.19151107_309.6220">
+               <note>Madnejdl Franz, Inft., k. k. LIR. Nr. 22, 4. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Adelsberg</region>
+               </birth>
+               <note>Chronowice, 1891, tot (1./3.—31./7 1915).</note>
+            </person>
+            <person xml:id="vll.19151107_309.9420">
+               <note>Surzeh Bartholomä, Inft., k. k. LIR. Nr. 22, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>Bleiberg, 1891, verw.</note>
+            </person>
+            <person xml:id="vll.19151107_309.10834">
+               <note>Werdl Richard, Inft., k. k. LIR. Nr. 22, 7. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>1884, tot (31./3.-31./7. 1915),</note>
+            </person>
+            <person xml:id="vll.19151109_310.6480">
+               <note>Pokovec Felix, Inft., IR. Nr. 17, 9. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Stein</region>
+               </birth>
+               <note>Domschale, 1892, verw.</note>
+            </person>
+            <person xml:id="vll.19151112_313.4418">
+               <note>Jurisiewicz Johann, Inft., IR. Nr. 55, 9. Komp,</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Golač</region>
+               </birth>
+               <note>1882, verw.</note>
+            </person>
+            <person xml:id="vll.19151122_320.3106">
+               <note>Erker Franz, ResKan., FKR. Nr. 9, Batt. 1</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gottschee</region>
+               </birth>
+               <note>Lienfeld, 1885, tot (14.-22./9. 1915).</note>
+            </person>
+            <person xml:id="vll.19160108_352.8230">
+               <note>Ugler Balthasar, Korp. TitZugsf., IR. Nr. 7, 11. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Windischgratz</region>
+               </birth>
+               <note>St. Martin, 1894; verw.</note>
+            </person>
+            <person xml:id="vll.19160118_360.5534">
+               <note>Kurinčič Anton, ErsRes., IR. Nr. 7</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Tolmein</region>
+               </birth>
+               <note>Idersko, 1881; kriegsgef., Aschabad, Rußland.</note>
+            </person>
+            <person xml:id="vll.19160201_368.7448">
+               <note>Mikusz Jan, Inft., IR. Nr. 55, 15. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Adelsberg</region>
+               </birth>
+               <note>Budanje, 1895; kriegsgef.</note>
+            </person>
+            <person xml:id="vll.19160219_379.12762">
+               <note>Verderber Johann, Inft. TitGefr., k. k. LstlR. Nr. 31, 7. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gottschee</region>
+               </birth>
+               <note>Kotschen, 1876; tot (27./12.1915 bis 3./1. 1916).</note>
+            </person>
+            <person xml:id="vll.19160412_407.5546">
+               <note>Hoffmann Friedrich Intl. IR. Nr. 7 K.untcn</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Lavamiind</region>
+               </birth>
+               <note>1891; kriegsget, Plestschanka, Gebiet Dans baikalion, Rußland. iisimif-n</note>
+            </person>
+            <person xml:id="vll.19160617_432.7578">
+               <note>Kucher Josef. Lstlnft.,, IR. Nr. 7, 3./XIX. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gurkfeld</region>
+               </birth>
+               <note>Heiligen kreuz, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19160621_433.7220">
+               <note>Kapeller Karl, Kan., FHR. Nr. 6, Batt. 1</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Cilli</region>
+               </birth>
+               <note>Lendorf, 1896; verw.</note>
+            </person>
+            <person xml:id="vll.19170417_555.9580">
+               <note>Malowih Felix, LstInfst., IR. Nr. 55, 2. ErsKomp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>St. Jost, 1895; tot. (Laut Meldung des russischen Roten Kreuz gestorben am 3./5. 1916 in Possad Pawlowsk, Rußland. Nicht legal nachgewiesen).</note>
+            </person>
+            <person xml:id="vll.19170731_604.11940">
+               <note>Zabukoveč Anton, LstSchütze, k. k. GschR. Nr. 1, 6. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Loitsch</region>
+               </birth>
+               <note>Altenmarkt, 3897; kriegsgef., Avezzano, 8. Reparto, Italien.</note>
+            </person>
+            <person xml:id="vll.19171010_615.11080">
+               <note>Svaca Emilio, LstSchütze, k. k. GschR. Nr. 1, 3. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Sesana</region>
+               </birth>
+               <note>Gabrovica, 1881; gestorben (19./6. 1917).</note>
+            </person>
+            <person xml:id="vll.19171025_620.2212">
+               <note>Danyluk Peter, ErsResGefrTitKorp., IR. Nr. 24</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Loitsch</region>
+               </birth>
+               <note>Bloska, 1889; kriegsgef., Avezzano, Italien.</note>
+            </person>
+            <person xml:id="vll.19171025_620.11242">
+               <note>Urbanc Johann, LstGefr., IR. Nr. 55, techn. InftKomp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>St. Jakob, 1895; verw.</note>
+            </person>
+            <person xml:id="vll.19180129_647.6872">
+               <note>Kristan Ivan, Korp., k. k. SchR. Nr. 26, 2. Komp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Adelsberg</region>
+               </birth>
+               <note>Slavintino, 1897; verw.</note>
+            </person>
+            <person xml:id="vll.19180514_673.9492">
+               <note>Mohrwein Josef, LstJäg., TJR. Nr. 2, techn. JägKomp.</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Gottschee</region>
+               </birth>
+               <note>Hinterberg, 1891; verw.</note>
+            </person>
+            <person xml:id="vll.19180527_675.10734">
+               <note>Primus Blasius, Schütze, k. k. GschR. Nr. 1</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>1873; gestorben (4./ll. 1917).</note>
+            </person>
+            <person xml:id="vll.19181111_701.7006">
+               <note>Kavčič Lorenz, LstInfst., IR. Nr. 7, zugeteilt dem SturmB. Nr. 55</note>
+               <birth>
+                  <country>Kärnten</country>
+                  <region>Laibach</region>
+               </birth>
+               <note>St. Jobst, 1897; gefallen (8.-20./6. 1914)</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

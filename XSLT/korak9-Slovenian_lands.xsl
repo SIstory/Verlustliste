@@ -15,8 +15,8 @@
     
     <xsl:output method="xml" indent="yes"/>
     
-    <xsl:param name="land-part">Slovenska Istra</xsl:param>
-    <xsl:param name="okraji-file">Istrien-okraji-SI.xml</xsl:param>
+    <xsl:param name="land-part">Koroška: okraj Volkermarkt (Velikovec) in Wolfsberg</xsl:param>
+    <xsl:param name="okraji-file">Karnten-okraji-Volkermarkt-Wolfsburg.xml</xsl:param>
     
     <xsl:variable name="document-uri" select="document-uri(.)"/>
     <xsl:variable name="document-uri-filename" select="(tokenize($document-uri,'/'))[last()]"/>
