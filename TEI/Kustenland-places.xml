@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seznam izgub prve svetovne vojne za slovenske dežele</title>
+            <title>Slovenska Primorska</title>
+            <title>Seznam okrajev in krajev</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
+            <distributor>DARIAH-SI</distributor>
+            <pubPlace>https://github.com/SIstory/Verlustliste</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Attribution 4.0 International License</ref>.</p>
+               <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+            </availability>
+            <date when="2018"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <ref target="../TEI/Verlustliste-Kustenland-SI.xml"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="country">
+               <country>Steiermark</country>
+               <place type="region" subtype="sodni">
+                  <region xml:lang="sl">Rogatec</region>
+                  <location><geo>http://www.geonames.org/3191578/rogatec.html</geo></location>
+                  <idno n="Ragalec">vll.19160701_436.4242</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Donačka gora</placeName>
+                     <location><geo>http://www.geonames.org/3201728/donacka-gora.html</geo></location>
+                     <idno n="Damacka gora">vll.19160701_436.4242</idno>
+                  </place>
+               </place>
+            </place>
+            <place type="country">
+               <country>Krain</country>
+               <place type="region">
+                  <region xml:lang="sl">Postojna</region>
+                  <region xml:lang="de">Adelsberg</region>
+                  <location><geo>http://www.geonames.org/3192673/postojna.html</geo></location>
+                  <idno n="Adelsberg">vll.19150916_267.1668 vll.19151105_307.11494</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Dolenja vas</placeName>
+                     <location><geo>http://www.geonames.org/3201848/dolenja-vas.html</geo></location>
+                     <idno n="Dolenjavas">vll.19150916_267.1668</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Szendwice</settlement>
+                     <idno n="Szendwice">vll.19151105_307.11494</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region xml:lang="sl">Litija</region>
+                  <region xml:lang="de">Littai</region>
+                  <location><geo>http://www.geonames.org/3196425/litija.html</geo></location>
+                  <idno n="Littai">vll.19180620_681.7218</idno>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Račica</placeName>
+                     <location><geo>http://www.geonames.org/8988378/racica.html</geo></location>
+                     <idno n="Račica">vll.19180620_681.7218</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region xml:lang="sl">Logatec</region>
+                  <region xml:lang="de">Loitsch</region>
+                  <location><geo>http://www.geonames.org/3201823/dolenji-logatec.html</geo></location>
+                  <idno n="Lohatec">vll.19151010_289.8726</idno>
+                  <idno n="Loitsch">vll.19150916_267.4722</idno>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Rovte</placeName>
+                     <idno n="Routa">vll.19151010_289.8726</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Stanitzy</settlement>
+                     <idno n="Stanitzy">vll.19150916_267.4722</idno>
+                  </place>
+               </place>               
+            </place>
+            <place type="country">
+               <country>Kustenland-HR</country>
+               <place type="region">
+                  <region>Koper</region>
+                  <place type="settlement">
+                     <settlement>Oslici</settlement>
+                     <idno n="Oslici">vll.19171027_621.8240</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Brazzana</settlement>
+                     <idno n="Brazzana">vll.19170501_564.492</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Krušvari</placeName>
+                     <placeName xml:lang="it">Crusfari</placeName>
+                     <location><geo>http://www.geonames.org/3202942/buzet.html</geo></location>
+                     <idno n="Crusfari">vll.19181002_696.4294</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Gallignana</settlement>
+                     <idno n="Gallignana">v11.19180209_651.11992</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Klenovščak</placeName>
+                     <location><geo>http://www.geonames.org/3198077/klenovscak.html</geo></location>
+                     <idno n="Klenovščak">vll.19180713_685.14110</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Buzet</settlement>
+                     <idno n="Buzet">vll.19161101_485.7094 vll.19171017_618.10536 vll.19171220_637.10722 vll.19180415_667.4200 vll.19180709_684.12446 vll.19180723_687.3548 vll.19180805_689.4272</idno>
+                     <idno n="Pinguente">vll.19180323_662.1588</idno>
+                     <idno n="Pinquente">vll.19180801_688.4788</idno>
+                     <idno n="Piguente">vll.19180527_675.16710</idno>
+                     <idno n="Pingente">vll.19180403_665.2836</idno>
+                     <idno n="Pingnente">vll.19180801_688.13410 vll.19180713_685.9008</idno>
+                     <idno n="Pinguente">vll.19150824_246.4090 vll.19151208_331.9040 vll.19160122_363.10224 vll.19160401_402.12210 vll.19170423_558.5166 vll.19180603_677.11664 vll.19150317_143.1726 vll.19150317_143.1960 vll.19150317_143.4166 vll.19150317_143.7084 vll.19150317_143.7340 vll.19150506_173.2940 vll.19151208_331.1530 vll.19151208_331.3950 vll.19151208_331.6342 vll.19160807_449.12970 v11.19170418_556.3628 vll.19170424_559.13852 vll.19171005_613.5550 vll.19171108_626.3196 vll.19180103_640.5280 v11.19180209_651.10880 v11.19180221_653.7528 vll.19180403_665.14892 vll.19180415_667.11322 vll.19180415_667.14380 vll.19180429_670.14984 vll.19180824_692.4110 vll.19181011_698.13624 vll.19181019_699.4508 vll.19181219_705.18058</idno>
+                     <idno n="Pinquente">vll.19160125_364.1846</idno>
+                     <idno n="Pinquenti">vll.19180323_662.5796</idno>
+                     <idno n="Piquente">vll.19180129_647.830</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Podgače</settlement>
+                     <idno n="Podgače">v11.19180223_654.14140</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Prodani</settlement>
+                     <idno n="Prodani">vll.19181019_699.11646</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Ročko Polje</placeName>
+                     <location><geo>http://www.geonames.org/11071324/rocko-polje.html</geo></location>
+                     <idno n="Rocko, Polje">vll.19180718_686.7886</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Savudrija</placeName>
+                     <placeName xml:lang="it">Salvore</placeName>
+                     <location><geo>http://www.geonames.org/3191219/savudrija.html</geo></location>
+                     <idno n="Salvore">vll.19180315_660.2776</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>San Donato</settlement>
+                     <idno n="San Donato">vll.19180814_691.7134</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Volosca</settlement>
+                     <idno n="Volosca">vll.19170901_609.1742</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region>Korona</region>
+                  <idno n="Korona">vll.19150713_209.8438</idno>
+               </place>
+               
+            </place>
+            <place type="country">
+               <country>Kustenland-IT</country>
+               <place type="region">
+                  <region>Koper</region>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Ricmanje</placeName>
+                     <placeName xml:lang="it">San Giuseppe</placeName>
+                     <location><geo>http://www.geonames.org/3168214/san-giuseppe-della-chiusa.html</geo></location>
+                     <idno n="Rizmanje">vll.19150824_246.1492</idno>
+                     <idno n="San Giuseppe">vll.19171108_626.15586 vll.19181011_698.7146</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region>Gradisca</region>
+                  <idno n="Gradisca">vll.19150428_168.1878 vll.19160907_461.8996 v11.19170418_556.10030 vll.19170507_568.2318</idno>
+                  <idno n="Gradiska">vll.19151215_336.9418 vll.19161223_506.3006</idno>
+                  <place type="settlement">
+                     <settlement>Cormons</settlement>
+                     <idno n="Cormons">vll.19161223_506.3006</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Medana</settlement>
+                     <idno n="Medana">vll.19151215_336.9418</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Brazzano</settlement>
+                     <idno n="Brazzano">vll.19150428_168.1878</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Marüano</settlement>
+                     <idno n="Marüano">v11.19170418_556.10030</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Medea</settlement>
+                     <idno n="Medea">vll.19170507_568.2318</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region>Gorizia</region>
+                  <place type="settlement">
+                     <settlement>Lucinico</settlement>
+                     <idno n="Lucinico">vll.19150317_143.3956</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Lucinico</settlement>
+                     <idno n="Lucinico">vll.19150317_143.5028</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Lusinika</settlement>
+                     <idno n="Lusinika">vll.19150830_252.9166</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Sovodnje</placeName>
+                     <placeName xml:lang="it">Savogna</placeName>
+                     <location><geo>http://www.geonames.org/3167024/savogna-d-isonzo.html</geo></location>
+                     <idno n="Savogna">vll.19150317_143.5598</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Savodnje</settlement>
+                     <idno n="Savodnje">vll.19151208_331.5518 vll.19171005_613.2804 vll.19180928_695.2674 vll.19180928_695.2720</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>St. Florian</settlement>
+                     <idno n="St. Florian">vll.19150317_143.2036 vll.19150317_143.7192</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Steverjan</settlement>
+                     <idno n="Steverjan">vll.19151112_313.2296</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Mariano</settlement>
+                     <idno n="Mariano">vll.19150825_247.9400</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Fiumicelo</settlement>
+                     <idno n="Fiumicelo">vll.19150910_263.6944</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Lampolongo</settlement>
+                     <idno n="Lampolongo">vll.19181111_701.2554</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Medea</settlement>
+                     <idno n="Medea">v11.19180214_652.10294</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Monfalcone</settlement>
+                     <idno n="Monfalcone">vll.19151028_303.5356</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Sankt Florian</settlement>
+                     <idno n="Sankt Florian">v11.19180223_654.7574</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>St. Florian</settlement>
+                     <idno n="St. Florian">vll.19151208_331.4322 vll.19151208_331.4606 vll.19160512_420.10882 vll.19160829_457.5666 v11.19180126_646.14580 vll.19180105_641.10776 v11.19180221_653.9708 vll.19180812_690.3564 vll.19181111_701.4734</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Zgonik</placeName>
+                     <location><geo>http://www.geonames.org/3166564/sgonico.html</geo></location>
+                     <idno n="Sesana, Zgonik">vll.19151112_313.976</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Sveti Andrež</placeName>
+                     <placeName xml:lang="it">St. Andrea</placeName>
+                     <placeName xml:lang="it">St. Andrea</placeName>
+                     <idno n="St. Andrea">vll.19180118_643.9374</idno>
+                     <idno n="St. Andreas">vll.19171005_613.8072</idno>
+                     <idno n="St. Andrec">vll.19151010_289.8738</idno>
+                     <idno n="St. Andrez">v11.19170418_556.12718</idno>
+                     <idno n="St. Andrä">vll.19170424_559.8018 vll.19180718_686.7468 vll.19180812_690.8554 vll.19180309_658.5690</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Šent Andrer</settlement>
+                     <idno n="Šent Andrer">vll.19180723_687.4020</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region>Mezzolombardo</region>
+                  <idno n="Mezzolombardo">vll.19151020_296.6700</idno>                  
+               </place>
+               <place type="region">
+                  <region>Sežana</region>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Mavhinje</placeName>
+                     <location><geo>http://www.geonames.org/3174187/malchina.html</geo></location>
+                     <idno n="Marhinje">vll.19150429_169.4980</idno>
+                     <idno n="Mavhinje">vll.19170424_559.6292</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Salež</settlement>
+                     <idno n="Salež">vll.19180603_677.5858</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="de">Sankt Polaj</placeName>
+                     <location><geo>http://www.geonames.org/3167881/san-pelagio.html</geo></location>
+                     <idno n="St. Polaj">vll.19170430_563.7070 vll.19180309_658.9592</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Šempolaj</settlement>
+                     <idno n="Šempolaj">vll.19171010_615.8906</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Zgonik</settlement>
+                     <idno n="Zgonik">vll.19150317_143.2884 vll.19151208_331.5714</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Cerovlje</placeName>
+                     <location><geo>http://www.geonames.org/3179064/ceroglie-dell-ermada.html</geo></location>
+                     <idno n="Cerovlje">vll.19180830_693.6706</idno>
+                     <idno n="Cerovlje">vll.19180201_648.8944</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region>Sovodnje</region>
+                  <idno n="Sovodnje">vll.19180824_692.9148</idno>
+               </place>
+               <place type="region">
+                  <region>Villanova; kriegsgef.</region>
+                  <idno n="Villanova; kriegsgef.">vll.19151012_290.7324</idno>
+               </place>
+            </place>
+            <place type="country">
+               <country>Kustenland</country>               
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Bate</region>
+                  <location><geo>http://www.geonames.org/3204416/bate.html</geo></location>
+                  <idno n="Bate">vll.19170814_607.5912</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Breginj</region>
+                  <region xml:lang="it">Bergogna</region>
+                  <location><geo>http://www.geonames.org/3203471/breginj.html</geo></location>
+                  <idno n="Breginj">vll.19180718_686.13550</idno>
+               </place>
+               <place type="region">
+                  <region xml:lang="sl">Koper</region>
+                  <region xml:lang="it">Capodistria</region>
+                  <location><geo>http://www.geonames.org/3197753/koper.html</geo></location>
+                  <idno n="Capdistria">vll.19150402_154.2546</idno>
+                  <idno n="Capiodistria">vll.19181111_701.9908</idno>
+                  <idno n="Capo d'Istria">vll.19151107_309.3520</idno>
+                  <idno n="Capo- distria Pomjan">vll.19150830_252.6652</idno>
+                  <idno n="Capodistna">vll.19180801_688.4788</idno>
+                  <idno n="Capodistra">vll.19150812_235.2914 vll.19180323_662.1588</idno>
+                  <idno n="Capodistria">vll.19150308_138.6230 vll.19150402_154.5176 vll.19150717_213.6272 vll.19150805_229.7558 vll.19150809_232.1006 vll.19150821_244.4708 vll.19150824_246.4090 vll.19150825_247.1692 vll.19150904_257.2050 vll.19150906_259.3904 vll.19150906_259.5648 vll.19150917_268.2328 vll.19150917_268.2330 vll.19150928_277.4374 vll.19151025_300.4472 vll.19151208_331.5058 vll.19151208_331.6334 vll.19151208_331.9040 vll.19151223_341.8548 vll.19160107_351.9742 vll.19160108_352.2824 vll.19160110_353.3636 vll.19160110_353.11568 vll.19160122_363.10224 vll.19160310_390.9006 vll.19160401_402.12210 vll.19160711_439.20210 vll.19160824_455.9736 vll.19161005_473.2666 vll.19161113_489.5208 vll.19161206_498.12160 vll.19170329_544.15734 vll.19170423_558.2770 vll.19170423_558.3952 vll.19170423_558.5166 vll.19170423_558.7208 vll.19171108_626.15586 vll.19171121_630.7480 vll.19171121_630.8300 vll.19171222_638.5858 vll.19180603_677.11664 vll.19180801_688.13410 vll.19150104_92_93.11210 vll.19150130_117.1848 vll.19150130_117.3464 vll.19150317_143.1726 vll.19150317_143.1960 vll.19150317_143.4166 vll.19150317_143.7084 vll.19150317_143.7340 vll.19150330_152.5046 vll.19150402_154.6586 vll.19150506_173.2940 vll.19150510_175.1022 vll.19150720_215.3136 vll.19150722_217.8616 vll.19150805_229.1710 vll.19150805_229.8332 vll.19150812_235.2584 vll.19150814_237.2220 vll.19150814_237.3056 vll.19150814_237.7650 vll.19150814_237.8410 vll.19150819_242.5014 vll.19150822_245.5456 vll.19150824_246.1492 vll.19150902_255.2386 vll.19151016_294.5290 vll.19151109_310.2514 vll.19151202_327.4388 vll.19151208_331.958 vll.19151208_331.1530 vll.19151208_331.2710 vll.19151208_331.3950 vll.19151208_331.5356 vll.19151208_331.6290 vll.19151208_331.6342 vll.19151215_336.1392 vll.19151224_342.6034 vll.19160104_349.5150 vll.19160108_352.4508 vll.19160110_353.2232 vll.19160125_364.1846 vll.19160405_404.6024 vll.19160426_412.5196 vll.19160718_442.13174 vll.19160807_449.2482 vll.19160807_449.12970 vll.19160818_453.12092 vll.19160824_455.6242 vll.19160824_455.12368 vll.19160826_456.520 vll.19161007_474.9010 vll.19161014_477.10676 vll.19161101_485.7094 vll.19161109_488.6328 vll.19161223_506.13500 v11.19170418_556.3628 vll.19170424_559.3586 vll.19170424_559.6898 vll.19170424_559.10592 vll.19170424_559.12716 vll.19170424_559.13852 vll.19170430_563.11594 vll.19170501_564.492 vll.19170731_604.1306 vll.19170901_609.9424 vll.19170904_610.10758 vll.19171005_613.2044 vll.19171005_613.2198 vll.19171005_613.5550 vll.19171017_618.1942 vll.19171017_618.2128 vll.19171017_618.3696 vll.19171017_618.7310 vll.19171017_618.10536 vll.19171017_618.10688 vll.19171017_618.10774 vll.19171017_618.10832 vll.19171017_618.11948 vll.19171017_618.14172 vll.19171027_621.3734 vll.19171027_621.10334 vll.19171108_626.1274 vll.19171108_626.3196 vll.19171108_626.3860 vll.19171108_626.4500 vll.19171108_626.11644 vll.19171108_626.12510 vll.19171108_626.13158 vll.19171113_627.9832 vll.19171113_627.11328 vll.19171127_631.3018 v11.19171204_633.2530 vll.19171210_634.10704 vll.19171210_634.11106 vll.19171210_634.12644 vll.19171220_637.2596 vll.19171220_637.3020 vll.19171220_637.4794 vll.19171220_637.9244 vll.19171220_637.10722 vll.19180103_640.5280 vll.19180118_643.8826 vll.19180118_643.9254 vll.19180123_644.1512 vll.19180123_644.3840 vll.19180123_644.5226 vll.19180123_644.10658 vll.19180124_645.2860 v11.19180126_646.15520 vll.19180129_647.830 vll.19180129_647.9908 vll.19180201_648.13404 vll.19180204_649.7036 v11.19180209_651.10880 v11.19180209_651.11992 v11.19180214_652.4862 v11.19180214_652.5332 v11.19180221_653.4692 v11.19180221_653.5568 v11.19180221_653.7528 v11.19180223_654.5642 v11.19180223_654.14140 v11.19180227_655.6522 vll.19180307_657.1740 vll.19180307_657.9030 vll.19180313_659.3578 vll.19180313_659.7274 vll.19180313_659.12152 vll.19180315_660.2776 vll.19180319_661.3902 vll.19180319_661.5838 vll.19180319_661.9732 vll.19180323_662.5796 vll.19180323_662.10516 vll.19180323_662.16134 vll.19180330_664.728 vll.19180330_664.7366 vll.19180330_664.8264 vll.19180330_664.13762 vll.19180330_664.16036 vll.19180403_665.1552 vll.19180403_665.2836 vll.19180403_665.14892 vll.19180411_666.4698 vll.19180415_667.4200 vll.19180415_667.8236 vll.19180415_667.11322 vll.19180415_667.11642 vll.19180415_667.14380 vll.19180424_669.11416 vll.19180424_669.20610 vll.19180429_670.14984 vll.19180501_671.5190 vll.19180501_671.5202 vll.19180514_673.11742 vll.19180527_675.1034 vll.19180527_675.9150 vll.19180527_675.16710 vll.19180531_676.1032 vll.19180531_676.9632 vll.19180603_677.3316 vll.19180603_677.8016 vll.19180603_677.13218 vll.19180605_678.11358 vll.19180605_678.14092 vll.19180620_681.7766 vll.19180628_683.1510 vll.19180628_683.7664 vll.19180628_683.8640 vll.19180709_684.11662 vll.19180709_684.12446 vll.19180713_685.7668 vll.19180713_685.8760 vll.19180713_685.9008 vll.19180713_685.12992 vll.19180713_685.14110 vll.19180718_686.7886 vll.19180718_686.18250 vll.19180723_687.3548 vll.19180723_687.9976 vll.19180723_687.14914 vll.19180801_688.4352 vll.19180801_688.9082 vll.19180801_688.15872 vll.19180805_689.3734 vll.19180805_689.4272 vll.19180805_689.8032 vll.19180805_689.11222 vll.19180812_690.15198 vll.19180814_691.2128 vll.19180814_691.6028 vll.19180814_691.7134 vll.19180814_691.11704 vll.19180814_691.15118 vll.19180824_692.1820 vll.19180824_692.2326 vll.19180824_692.2476 vll.19180824_692.2750 vll.19180824_692.4110 vll.19180824_692.8394 vll.19180824_692.9322 vll.19180824_692.12380 vll.19180824_692.15710 vll.19180830_693.5298 vll.19180830_693.9094 vll.19180830_693.9354 vll.19180928_695.1360 vll.19180928_695.2692 vll.19180928_695.2844 vll.19181002_696.4294 vll.19181002_696.5714 vll.19181002_696.8340 vll.19181002_696.15028 vll.19181005_697.6236 vll.19181005_697.6706 vll.19181005_697.8740 vll.19181005_697.9176 vll.19181011_698.7146 vll.19181011_698.13624 vll.19181011_698.13780 vll.19181019_699.2744 vll.19181019_699.4508 vll.19181019_699.6894 vll.19181019_699.11646 vll.19181019_699.11694 vll.19181019_699.12134 vll.19181019_699.12384 vll.19181019_699.13344 vll.19181105_700.7548 vll.19181105_700.10102 vll.19181105_700.15666 vll.19181111_701.11952 vll.19181126_702.16920 vll.19181219_705.8132 vll.19181219_705.18058 vll.19181224_706.6628 vll.19190114_709.3436</idno>
+                  <idno n="Capodistrla">vll.19180307_657.2856</idno>
+                  <idno n="Capodjstria">vll.19181126_702.17138</idno>
+                  <idno n="Capodstria">vll.19151030_304.2160 vll.19180620_681.3968 vll.19181219_705.18394</idno>
+                  <idno n="Köper">vll.19170904_610.12202</idno>
+                  <idno n="Kopar">vll.19150918_269.8838 vll.19171027_621.8240</idno>
+                  <idno n="Koper">vll.19151213_334.994 vll.19151203_328.6850 vll.19160711_439.16384</idno>
+                  <place type="settlement">
+                     <settlement>Skutarje</settlement>
+                     <idno n="Skutarje">vll.19151213_334.994</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Zabavje</placeName>
+                     <location><geo>http://www.geonames.org/3187016/zabavlje.html</geo></location>
+                     <idno n="Zabawle">vll.19151203_328.6850</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <settlement>Posijevac</settlement>
+                     <idno n="Posijevac">vll.19150918_269.8838</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Valdoltra</placeName>
+                     <placeName xml:lang="it">Valle Oltra</placeName>
+                     <location><geo>http://www.geonames.org/3188409/valdoltra.html</geo></location>
+                     <idno n="Valle Oltra">vll.19180620_681.3968</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Roč</placeName>
+                     <placeName xml:lang="it">Rozzo</placeName>
+                     <location><geo>http://www.geonames.org/3191601/roc.html</geo></location>
+                     <idno n="Roč">vll.19181111_701.9908</idno>
+                     <idno n="Bozzo">vll.19181005_697.6706</idno>
+                     <idno n="Rozzo">vll.19161223_506.13500 vll.19170424_559.10592 vll.19180319_661.9732</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Babiči</placeName>
+                     <location><geo>http://www.geonames.org/3343526/babici.html</geo></location>
+                     <idno n="Babici">vll.19181005_697.9176</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Barste</settlement>
+                     <idno n="Barste">vll.19161109_488.6328</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Bezovica</placeName>
+                     <location><geo>http://www.geonames.org/8988065/bezovica.html</geo></location>
+                     <idno n="Bezovica">vll.19160807_449.2482</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Breg</placeName>
+                     <placeName xml:lang="it">Monti</placeName>
+                     <idno n="Breg">vll.19171210_634.12644</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Brest</placeName>
+                     <location><geo>http://www.geonames.org/3203449/brest.html</geo></location>
+                     <idno n="Brest">vll.19171017_618.1942 vll.19180403_665.1552</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Butari</placeName>
+                     <location><geo>http://www.geonames.org/3343506/butari.html</geo></location>
+                     <idno n="Butari">vll.19180620_681.7766</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Krkavče</placeName>
+                     <location><geo>http://www.geonames.org/3197202/krkavce.html</geo></location>
+                     <idno n="Carcanze">vll.19151208_331.2710</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Črnica</placeName>
+                     <placeName xml:lang="it">Cernizza</placeName>
+                     <location><geo>http://www.geonames.org/3202437/crnica.html</geo></location>
+                     <idno n="Cernica">v11.19180214_652.5332</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Klanec</placeName>
+                     <placeName xml:lang="it">Clanz</placeName>
+                     <location><geo>http://www.geonames.org/3198104/klanec-pri-kozini.html</geo></location>
+                     <idno n="Clanz">vll.19151224_342.6034</idno>
+                     <idno n="Klane">vll.19151208_331.5058</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Korte</placeName>
+                     <placeName xml:lang="it">Corte d’ Isola</placeName>
+                     <location><geo>http://www.geonames.org/3216098/korte.html</geo></location>
+                     <idno n="Corte d’ Isola">vll.19180330_664.7366</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Dekani</placeName>
+                     <placeName xml:lang="it">Decani</placeName>
+                     <location><geo>http://www.geonames.org/3202111/dekani.html</geo></location>
+                     <idno n="Decani">vll.19160826_456.520 vll.19171017_618.11948 vll.19180313_659.7274 vll.19180603_677.13218 vll.19180605_678.11358</idno>
+                     <idno n="Dekani">vll.19170423_558.3952 vll.19150720_215.3136 vll.19150814_237.7650 vll.19150814_237.8410 vll.19170424_559.3586 vll.19170424_559.12716 vll.19180330_664.8264 vll.19180415_667.8236</idno>
+                     <idno n="Dekani.">vll.19180204_649.7036</idno>
+                     <idno n="Docani">vll.19160711_439.20210</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Dolina</placeName>
+                     <idno n="Dolina">vll.19160711_439.16384</idno>
+                     <idno n="Dolina">vll.19150308_138.6230 vll.19150906_259.5648 vll.19160107_351.9742 vll.19150330_152.5046 vll.19150805_229.1710 vll.19150805_229.8332 vll.19151016_294.5290 vll.19160824_455.12368 vll.19161007_474.9010 vll.19170901_609.9424 vll.19171108_626.12510 vll.19180307_657.1740 vll.19180307_657.9030 vll.19180723_687.9976</idno>
+                     <idno n="Dolnia">vll.19181002_696.8340</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Dvori</placeName>
+                     <location><geo>http://www.geonames.org/3200913/dvori.html</geo></location>
+                     <idno n="Dvori">vll.19180124_645.2860</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Gažon</placeName>
+                     <placeName xml:lang="it">Gason</placeName>
+                     <location><geo>http://www.geonames.org/3200683/gazon.html</geo></location>
+                     <idno n="Gason,">v11.19180227_655.6522</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Gorenja Vas</placeName>
+                     <idno n="Gorenja Vas">vll.19171017_618.10832</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Izola</placeName>
+                     <placeName xml:lang="it">Isola</placeName>
+                     <location><geo>http://www.geonames.org/3199017/izola.html</geo></location>
+                     <idno n="Isola">vll.19150402_154.2546</idno>
+                     <idno n="Isola">vll.19150812_235.2914</idno>
+                     <idno n="Isola">vll.19150917_268.2328 vll.19150917_268.2330 vll.19161005_473.2666 vll.19150812_235.2584 vll.19160718_442.13174 vll.19171017_618.10688 vll.19180123_644.3840 v11.19180223_654.5642 vll.19180319_661.3902 vll.19180424_669.20610 vll.19180514_673.11742 vll.19180801_688.15872 vll.19181019_699.11694 vll.19181126_702.16920</idno>
+                     <idno n="Isolar">vll.19171027_621.3734</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kastelec</placeName>
+                     <location><geo>http://www.geonames.org/3198219/kastelec.html</geo></location>
+                     <idno n="Kostelec">v11.19180126_646.15520</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lopar</placeName>
+                     <placeName xml:lang="it">Loparo</placeName>
+                     <location><geo>http://www.geonames.org/3196211/lopar.html</geo></location>
+                     <idno n="Lopar">vll.19180814_691.6028</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Marezige</placeName>
+                     <placeName xml:lang="it">Maresego</placeName>
+                     <location><geo>http://www.geonames.org/3195511/marezige.html</geo></location>
+                     <idno n="Maresego">vll.19150130_117.3464 vll.19171005_613.2044 vll.19171005_613.2198 vll.19180628_683.1510 vll.19180713_685.7668</idno>
+                     <idno n="Maseggo">vll.19150906_259.3904</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Muggia</settlement>
+                     <idno n="Muggia">vll.19151030_304.2160</idno>
+                     <idno n="Milji">vll.19160110_353.11568</idno>
+                     <idno n="Mudia">vll.19150717_213.6272</idno>
+                     <idno n="Muggia">vll.19150402_154.5176 vll.19150809_232.1006 vll.19160310_390.9006 vll.19171121_630.7480 vll.19150510_175.1022 vll.19160110_353.2232 vll.19160818_453.12092 vll.19170424_559.6898 vll.19171113_627.11328 vll.19180531_676.1032 vll.19180603_677.8016 vll.19180713_685.8760 vll.19180801_688.9082 vll.19180805_689.8032 vll.19180824_692.8394 vll.19181224_706.6628</idno>
+                     <idno n="Maggia">vll.19181002_696.15028</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Ocizla</placeName>
+                     <location><geo>http://www.geonames.org/3194218/ocizla.html</geo></location>
+                     <idno n="Ocisla">vll.19181019_699.6894</idno>
+                     <idno n="Ocisia Klanc">vll.19180118_643.8826</idno>
+                     <idno n="Očela-KLanec">vll.19180313_659.3578</idno>
+                     <idno n="Očisla-Klanec">vll.19171017_618.7310</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Padna</placeName>
+                     <location><geo>http://www.geonames.org/3193727/padna.html</geo></location>
+                     <idno n="Padena">vll.19160824_455.6242 vll.19180424_669.11416</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Pomjan</placeName>
+                     <placeName xml:lang="it">Paugnano</placeName>
+                     <location><geo>http://www.geonames.org/3192757/pomjan.html</geo></location>
+                     <idno n="Pomjan">vll.19151215_336.1392 vll.19180531_676.9632</idno>
+                     <idno n="Pangnano">vll.19150814_237.3056 vll.19160405_404.6024</idno>
+                     <idno n="Paugnano">vll.19170904_610.10758 vll.19171113_627.9832 vll.19180830_693.9354 vll.19181019_699.12134</idno>
+                     <idno n="Tomjan">vll.19181019_699.12384</idno>
+                     <idno n="Pomjan">vll.19181219_705.18394</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Petrinje</placeName>
+                     <location><geo>http://www.geonames.org/3193418/petrinje.html</geo></location>
+                     <idno n="Petrinje">vll.19181019_699.13344</idno>
+                  </place>                  
+                  <place type="settlement" subtype="sodni">
+                     <placeName xml:lang="sl">Piran</placeName>
+                     <placeName xml:lang="it">Pirano</placeName>
+                     <location><geo>http://www.geonames.org/3193341/piran.html</geo></location>
+                     <idno n="Piran">vll.19160104_349.5150</idno>
+                     <idno n="Pirano">vll.19151208_331.6334 vll.19160108_352.2824 vll.19170329_544.15734 vll.19171222_638.5858 vll.19150722_217.8616 vll.19151208_331.6290 vll.19160426_412.5196 vll.19170430_563.11594 vll.19171017_618.2128 vll.19171017_618.3696 vll.19171027_621.10334 vll.19171108_626.4500 vll.19171108_626.13158 vll.19171210_634.10704 vll.19171220_637.9244 vll.19180123_644.10658 vll.19180330_664.728 vll.19180527_675.1034 vll.19180628_683.7664 vll.19180628_683.8640 vll.19180801_688.4352 vll.19180830_693.9094 vll.19181002_696.5714 vll.19181005_697.6236 vll.19181111_701.11952 vll.19190114_709.3436</idno>
+                     <idno n="Pirauo">vll.19171210_634.11106</idno>
+                     <idno n="Pirano">vll.19181126_702.17138</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Plavija</placeName>
+                     <placeName xml:lang="it">Plavia</placeName>
+                     <location><geo>http://www.geonames.org/3193221/plavje.html</geo></location>
+                     <idno n="Plavic">vll.19151025_300.4472</idno>
+                  </place>
+                  
+                  <place type="settlement">
+                     <settlement>Posit</settlement>
+                     <idno n="Posit">vll.19150928_277.4374</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Prešnica</placeName>
+                     <location><geo>http://www.geonames.org/3192491/presnica.html</geo></location>
+                     <idno n="Prešnica">vll.19180824_692.2326</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Raspor</placeName>                     
+                     <location><geo>http://www.geonames.org/3191922/raspor.html</geo></location>
+                     <idno n="Raspor">vll.19171220_637.2596</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Račice</placeName>
+                     <placeName xml:lang="de">Racizze</placeName>
+                     <location><geo>http://www.geonames.org/3192161/racice.html</geo></location>
+                     <idno n="Račice">vll.19151223_341.8548</idno>
+                  </place>
+                  
+                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Rožar</placeName>
+                     <placeName xml:lang="it">Rosariol</placeName>
+                     <location><geo>http://www.geonames.org/8988987/rozar.html</geo></location>
+                     <idno n="Rosariol">vll.19180118_643.9254</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sveta Barbara</placeName>
+                     <location><geo>http://www.geonames.org/3172676/santa-barbara.html</geo></location>
+                     <idno n="S. Barbara">vll.19181105_700.10102</idno>
+                  </place>                  
+                  
+                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sveti Anton</placeName>
+                     <placeName xml:lang="it">Sant Antonio</placeName>
+                     <location><geo>http://www.geonames.org/3189368/sv-anton.html</geo></location>
+                     <idno n="Sarat Antonio">vll.19180928_695.1360</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Škofije</placeName>
+                     <placeName xml:lang="it">Scoffie</placeName>
+                     <location><geo>http://www.geonames.org/3190718/zgornje-skofije.html</geo></location>
+                     <idno n="Scoffie">vll.19180123_644.5226</idno>
+                     <idno n="Skofije">vll.19180605_678.14092</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Šmarje</placeName>
+                     <placeName xml:lang="it">Monte</placeName>
+                     <location><geo>http://www.geonames.org/3190515/smarje.html</geo></location>
+                     <idno n="Smarje">vll.19161206_498.12160</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Smokvica</placeName>
+                     <placeName xml:lang="it">Figarola</placeName>
+                     <location><geo>http://www.geonames.org/3190464/smokvica.html</geo></location>
+                     <idno n="Smokvica">vll.19180814_691.2128</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sočerga</placeName>
+                     <location><geo>http://www.geonames.org/3190401/socerga.html</geo></location>
+                     <idno n="Socerga">vll.19180323_662.16134</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Sovignacco</settlement>
+                     <idno n="Sovignacco">vll.19161113_489.5208</idno>
+                     <idno n="Sovignaco">v11.19171204_633.2530</idno>
+                     <idno n="Sovignano">vll.19171220_637.4794</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lucija</placeName>
+                     <placeName xml:lang="it">Lucia</placeName>
+                     <location><geo>http://www.geonames.org/3343512/lucija.html</geo></location>
+                     <idno n="Lucia">vll.19150904_257.2050</idno>
+                     <idno n="St. Lucia">vll.19171127_631.3018</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sveti Martin</placeName>
+                     <idno n="St. Martin">vll.19180805_689.3734</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>St. Thomas</settlement>
+                     <idno n="St. Thomas">vll.19170731_604.1306</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Trebeše</placeName>
+                     <location><geo>http://www.geonames.org/3188899/trebese.html</geo></location>
+                     <idno n="Trebeše">vll.19171017_618.10774</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Truške</placeName>
+                     <location><geo>http://www.geonames.org/3188695/truske.html</geo></location>
+                     <idno n="Truske">vll.19181219_705.8132</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Movraž</placeName>
+                     <placeName xml:lang="it">Valmovrasa</placeName>
+                     <location><geo>http://www.geonames.org/3194796/movraz.html</geo></location>
+                     <idno n="Valmovrasa">v11.19180221_653.5568</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="sodni">
+                  <region xml:lang="sl">Podgrad</region>
+                  <region xml:lang="it">Castelnuovo</region>
+                  <location><geo>http://www.geonames.org/3193027/podgrad.html</geo></location>
+                  <idno n="Castelmnovo">vll.19180129_647.13410</idno>
+                  <idno n="Castelnuova">vll.19170901_609.1742</idno>
+                  <idno n="Castelnuovo">vll.19150904_257.4344 vll.19160207_372.6672</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Materia</placeName>
+                     <placeName xml:lang="it">Matteria</placeName>
+                     <location><geo>http://www.geonames.org/3195379/materija.html</geo></location>
+                     <idno n="Maleria">vll.19150904_257.4344</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Obrov</placeName>
+                     <location><geo>http://www.geonames.org/3194246/obrov.html</geo></location>
+                     <idno n="Obrovo">vll.19160207_372.6672</idno>
+                  </place>                  
+               </place>     
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Čepovan</region>
+                  <location><geo>http://www.geonames.org/3202739/cepovan.html</geo></location>
+                  <idno n="Cepowan">vll.19180718_686.9470 vll.19180105_641.10896</idno>
+                  <idno n="Čepovan">vll.19150826_248.2064 vll.19180118_643.10658</idno>
+                  <place type="settlement" subtype="region">
+                     <placeName xml:lang="sl">Gorica</placeName>
+                     <placeName xml:lang="de">Görz</placeName>
+                     <location><geo>http://www.geonames.org/3194452/nova-gorica.html</geo></location>
+                     <idno n="Görz">vll.19180718_686.9470</idno>
+                  </place>
+               </place>
+               <place type="region">
+                  <region>Cilli</region>
+                  <idno n="Cilli">vll.19181019_699.13216</idno>
+                  <place type="settlement">
+                     <settlement>Klanc</settlement>
+                     <idno n="Klauc">vll.19181019_699.13216</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="settlemenet">
+                  <region xml:lang="sl">Dol</region>
+                  <idno n="Dol">vll.19181126_702.4396</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Dornberk</region>
+                  <region xml:lang="de">Dornberg</region>
+                  <location><geo>http://www.geonames.org/3201354/dornberk.html</geo></location>
+                  <idno n="Dornberg">vll.19170424_559.12086 vll.19180610_679.11630</idno>
+               </place>
+               <place type="region" subtype="settlement">
+                  <region xml:lang="sl">Tublje</region>
+                  <location><geo>http://www.geonames.org/8989304/skofi.html</geo></location>
+                  <idno n="Dublje">vll.19181204_703.5154</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Grgar</region>
+                  <region xml:lang="it">Gargaro</region>
+                  <location><geo>http://www.geonames.org/3199580/grgar.html</geo></location>
+                  <idno n="Gargora">v11.19180214_652.4170</idno>
+               </place>
+               <place type="region">
+                  <region xml:lang="sl">Gradiška</region>                  
+                  <idno n="Gradiska">vll.19151215_336.9418</idno>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Medana</placeName>
+                     <location><geo>http://www.geonames.org/3195340/medana.html</geo></location>
+                     <idno n="Medana">vll.19151215_336.9418</idno>
+                  </place>                  
+               </place>               
+               <place type="region" subtype="settlement">
+                  <region xml:lang="sl">Gračišče</region>
+                  <location><geo>http://www.geonames.org/3343505/gracisce.html</geo></location>
+                  <idno n="Gračišče">vll.19180424_669.5516</idno>
+               </place>
+               <place type="region">
+                  <region xml:lang="sl">Gorica</region>
+                  <region xml:lang="it">Gorizia</region>
+                  <region xml:lang="de">Görz</region>
+                  <location><geo>http://www.geonames.org/6941184/nova-gorica.html</geo></location>
+                  <idno n="Gorica">vll.19180309_658.1114</idno>
+                  <idno n="Garz">vll.19150825_247.9400</idno>
+                  <idno n="Goryca">vll.19150916_267.5082 vll.19151112_313.1740</idno>
+                  <idno n="Gorz">vll.19151112_313.2296 v11.19170418_556.9110 vll.19180514_673.11096</idno>
+                  <idno n="Gorz-Umgebung">vll.19150317_143.4588</idno>
+                  <idno n="GÖrz">vll.19181011_698.5486</idno>
+                  <idno n="Görz">vll.19141117_60.1280 vll.19141121_66_67.9382 vll.19141121_66_67.13150 vll.19141203_72_E5.3788 vll.19141203_72_E5.3830 vll.19141204_74.1292 vll.19141204_74.2960 vll.19150202_119.956 vll.19150202_119.1948 vll.19150202_119.2572 vll.19150202_119.2954 vll.19150202_119.6310 vll.19150202_119.8330 vll.19150206_121.2260 vll.19150206_121.2646 vll.19150218_129.7740 vll.19150303_136.8298 vll.19150303_136.9290 vll.19150303_136.9424 vll.19150304_137.696 vll.19150317_143.4804 vll.19150317_143.5180 vll.19150317_143.7022 vll.19150317_143.9472 vll.19150322_146.966 vll.19150322_146.6084 vll.19150322_146.6184 vll.19150322_146.9692 vll.19150330_152.6966 vll.19150330_152.6990 vll.19150331_153.9100 vll.19150402_154.5354 vll.19150506_173.1328 vll.19150506_173.1522 vll.19150506_173.1706 vll.19150517_179.10678 vll.19150625_200.11896 vll.19150717_213.5678 vll.19150722_217.1834 vll.19150812_235.9788 vll.19150819_242.1882 vll.19150819_242.5028 vll.19150822_245.966 vll.19150822_245.1060 vll.19150822_245.2980 vll.19150822_245.6994 vll.19150825_247.2228 vll.19150825_247.2920 vll.19150825_247.4760 vll.19150825_247.5388 vll.19150826_248.5756 vll.19150901_254.7872 vll.19150902_255.7780 vll.19150906_259.4398 vll.19150910_263.6944 vll.19150916_267.3476 vll.19150916_267.5432 vll.19150925_274.5396 vll.19151003_282.9650 vll.19151008_287.1060 vll.19151010_289.3754 vll.19151010_289.8738 vll.19151010_289.9976 vll.19151010_289.9994 vll.19151016_294.2264 vll.19151028_303.5356 vll.19151105_307.6522 vll.19151105_307.7744 vll.19151105_307.9384 vll.19151112_313.976 vll.19151130_325.4812 vll.19151208_331.1806 vll.19151208_331.2166 vll.19151208_331.2304 vll.19151208_331.4322 vll.19151208_331.4606 vll.19151208_331.5518 vll.19151208_331.6182 vll.19151208_331.6890 vll.19151208_331.8658 vll.19151208_331.9304 vll.19151223_341.4922 vll.19160208_373.6836 vll.19160222_380.4298 vll.19160307_387.6310 vll.19160324_398.11672 vll.19160412_407.4364 vll.19160414_408.10862 vll.19160426_412.9986 vll.19160426_412.10030 vll.19160512_420.3594 vll.19160512_420.10882 vll.19160516_421.7302 vll.19160531_426.8638 vll.19160609_430.1212 vll.19160609_430.8670 vll.19160701_436.8020 vll.19160701_436.9228 vll.19160701_436.11630 vll.19160711_439.6288 vll.19160711_439.13582 vll.19160718_442.620 vll.19160722_444.13290 vll.19160804_448.7448 vll.19160804_448.10624 vll.19160824_455.4936 vll.19160829_457.5666 vll.19160907_461.410 vll.19160914_464.3128 vll.19161007_474.12210 vll.19161014_477.4142 vll.19161014_477.9778 vll.19161014_477.10594 vll.19161101_485.13926 vll.19161211_500.15274 vll.19161223_506.7062 vll.19170329_544.2440 vll.19170329_544.2846 vll.19170329_544.5510 vll.19170329_544.5844 vll.19170329_544.7292 vll.19170329_544.10038 vll.19170329_544.13598 vll.19170329_544.14560 vll.19170329_544.14714 v11.19170418_556.4792 v11.19170418_556.5504 v11.19170418_556.11400 v11.19170418_556.12718 vll.19170424_559.2332 vll.19170424_559.5292 vll.19170424_559.7120 vll.19170424_559.8018 vll.19170424_559.8128 vll.19170424_559.8646 vll.19170424_559.11274 vll.19170424_559.12190 vll.19170424_559.13616 vll.19170424_559.15054 vll.19170424_559.15588 vll.19170430_563.2872 vll.19170507_568.9602 vll.19170731_604.10614 vll.19170824_608.3176 vll.19170901_609.1916 vll.19170901_609.10374 vll.19170904_610.434 vll.19170904_610.8800 vll.19170904_610.8854 vll.19171005_613.1858 vll.19171005_613.2308 vll.19171005_613.2804 vll.19171005_613.2890 vll.19171005_613.4320 vll.19171005_613.7042 vll.19171005_613.8064 vll.19171005_613.8072 vll.19171005_613.8460 vll.19171005_613.8676 vll.19171005_613.9590 vll.19171005_613.9912 vll.19171005_613.10684 vll.19171010_615.2662 vll.19171010_615.9694 vll.19171017_618.428 vll.19171017_618.1768 vll.19171017_618.3310 vll.19171017_618.7398 vll.19171017_618.7914 vll.19171017_618.8986 vll.19171017_618.10300 vll.19171017_618.10364 vll.19171017_618.11302 vll.19171017_618.13798 vll.19171017_618.14236 vll.19171108_626.12220 vll.19171108_626.13278 vll.19171113_627.14074 vll.19171119_629.2858 vll.19171119_629.5588 vll.19171121_630.5158 vll.19171127_631.3534 vll.19171127_631.5260 vll.19171130_632.2028 vll.19171130_632.2092 vll.19171130_632.4048 v11.19171204_633.7554 vll.19171220_637.2738 vll.19171222_638.4566 vll.19180118_643.7192 vll.19180118_643.8416 vll.19180118_643.9374 vll.19180118_643.12786 vll.19180123_644.4278 vll.19180123_644.11954 vll.19180123_644.13342 vll.19180124_645.7330 vll.19180124_645.10696 v11.19180126_646.14580 vll.19180129_647.1558 vll.19180129_647.12020 vll.19180201_648.830 vll.19180204_649.12374 vll.19180204_649.12544 v11.19180214_652.1670 v11.19180214_652.6418 v11.19180214_652.11966 v11.19180223_654.7574 v11.19180223_654.7796 vll.19180307_657.2944 vll.19180307_657.2948 vll.19180307_657.12920 vll.19180309_658.1904 vll.19180323_662.16960 vll.19180328_663.10660 vll.19180328_663.14062 vll.19180330_664.16984 vll.19180403_665.5132 vll.19180403_665.15372 vll.19180403_665.15484 vll.19180415_667.9796 vll.19180415_667.17022 vll.19180419_668.2432 vll.19180419_668.17088 vll.19180429_670.15176 vll.19180429_670.16556 vll.19180429_670.18116 vll.19180429_670.18728 vll.19180511_672.10482 vll.19180514_673.1094 vll.19180515_674.2602 vll.19180603_677.3036 vll.19180603_677.3314 vll.19180603_677.5550 vll.19180610_679.12972 vll.19180620_681.14202 vll.19180628_683.2298 vll.19180628_683.9058 vll.19180709_684.8492 vll.19180709_684.10472 vll.19180713_685.14108 vll.19180718_686.2654 vll.19180718_686.7468 vll.19180718_686.10714 vll.19180801_688.8722 vll.19180801_688.9816 vll.19180801_688.10998 vll.19180805_689.4440 vll.19180805_689.8938 vll.19180805_689.13662 vll.19180812_690.7066 vll.19180812_690.8554 vll.19180824_692.7214 vll.19180824_692.7824 vll.19180928_695.2674 vll.19181002_696.6272 vll.19181005_697.3988 vll.19181019_699.2172 vll.19181019_699.2824 vll.19181105_700.734 vll.19181105_700.1360 vll.19181105_700.6688 vll.19181105_700.10108 vll.19181111_701.2268 vll.19181111_701.2554 vll.19181111_701.8056 vll.19181111_701.9002 vll.19181111_701.11036 vll.19181111_701.11498 vll.19181111_701.15144 vll.19181126_702.15292 vll.19181219_705.2402 vll.19181219_705.2878 vll.19181219_705.14660 vll.19181219_705.16654 vll.19181219_705.17280 vll.19181219_705.17900 vll.19190114_709.12728 vll.19190129_708.15740 vll.19160807_449.11384 vll.19160829_457.9386 vll.19161014_477.10952 vll.19170424_559.6540 vll.19171005_613.9208 vll.19171017_618.1298 vll.19171027_621.5500 vll.19171027_621.6386 vll.19171108_626.1792 vll.19171108_626.3690 vll.19171108_626.7280 vll.19171108_626.8126 vll.19171108_626.11940 vll.19171113_627.9956 vll.19171119_629.15308 vll.19171127_631.14348 vll.19171220_637.464 vll.19171220_637.7994 vll.19171222_638.10814 vll.19171222_638.11994 vll.19171228_639.12568 vll.19171228_639.12792 vll.19171228_639.13024 vll.19180103_640.6168 vll.19180105_641.10776 vll.19180129_647.7078 vll.19180129_647.12504 vll.19180129_647.13408 vll.19180201_648.3474 vll.19180201_648.13906 vll.19180201_648.14844 vll.19180204_649.2790 v11.19180214_652.4032 v11.19180214_652.4164 v11.19180214_652.10294 v11.19180221_653.9708 v11.19180227_655.14142 vll.19180309_658.5690 vll.19180315_660.2782 vll.19180319_661.8894 vll.19180319_661.15576 vll.19180319_661.15722 vll.19180323_662.10926 vll.19180330_664.2992 vll.19180330_664.15864 vll.19180403_665.10034 vll.19180419_668.18576 vll.19180424_669.2940 vll.19180424_669.7368 vll.19180429_670.2184 vll.19180429_670.3846 vll.19180511_672.6916 vll.19180514_673.8998 vll.19180527_675.17534 vll.19180605_678.12052 vll.19180610_679.6302 vll.19180610_679.6942 vll.19180610_679.12148 vll.19180613_680.2530 vll.19180620_681.1622 vll.19180620_681.6622 vll.19180625_682.3820 vll.19180723_687.4020 vll.19180723_687.10810 vll.19180812_690.3490 vll.19180812_690.3492 vll.19180812_690.3564 vll.19180814_691.6158 vll.19180814_691.7442 vll.19180814_691.8582 vll.19180814_691.11382 vll.19180824_692.11784 vll.19180830_693.5068 vll.19180830_693.8672 vll.19180830_693.10112 vll.19180928_695.2720 vll.19181002_696.14310 vll.19181005_697.4088 vll.19181005_697.5146 vll.19181011_698.12176 vll.19181019_699.4228 vll.19181019_699.11558 vll.19181019_699.15738 vll.19181105_700.4854 vll.19181105_700.4890 vll.19181111_701.12318 vll.19181126_702.5240 vll.19181126_702.14888 vll.19181126_702.17154 vll.19181204_703.15828 vll.19181219_705.2030 vll.19150710_208.940 vll.19150830_252.2064 vll.19150830_252.9166 vll.19150916_267.6124 vll.19150928_277.580 vll.19151222_340.772 vll.19160722_444.14470 vll.19161223_506.8490 vll.19170424_559.2968 vll.19170507_568.9708 vll.19170510_570.9476 vll.19180424_669.5518 vll.19181111_701.4734 vll.19181126_702.15364</idno>
+                  <idno n="Görz Stadt">vll.19180319_661.7554</idno>
+                  <idno n="Görz Umgebung">vll.19150317_143.1432 vll.19150317_143.1538 vll.19150317_143.2036 vll.19150317_143.2522 vll.19150317_143.3268 vll.19150317_143.5028 vll.19150317_143.5160 vll.19150317_143.5454 vll.19150317_143.5488 vll.19150317_143.5598 vll.19150317_143.7192 vll.19150317_143.8018 vll.19150317_143.8408 vll.19150317_143.9378 vll.19150330_152.9422</idno>
+                  <idno n="Görz.">vll.19181126_702.9924</idno>
+                  <idno n="Görz. Dol. Otlica">vll.19180204_649.15078</idno>
+                  <idno n="Görz. Kal">vll.19181111_701.14560</idno>
+                  <idno n="Görz. Sempas">vll.19161014_477.5518</idno>
+                  <idno n="Götz">vll.19151007_286.6318 vll.19180610_679.2452</idno>
+                  <idno n="Götz Umg.">vll.19150317_143.3956</idno>     
+                  <idno n="Hirz">vll.19141203_72_E5.5394</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Ajba</placeName>
+                     <location><geo>http://www.geonames.org/3204859/ajba.html</geo></location>
+                     <idno n="Aiba">vll.19151007_286.6318</idno>
+                     <idno n="Ajba">vll.19160516_421.7302 vll.19170329_544.10038 vll.19180403_665.15484 vll.19180415_667.9796 vll.19181111_701.9002 vll.19181126_702.15292</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Vrtovin</placeName>
+                     <location><geo>http://www.geonames.org/8986916/vrtovin.html</geo></location>
+                     <idno n="Vrtovin">vll.19180610_679.2452</idno>
+                     <idno n="Vrtovin">vll.19180514_673.1094 vll.19180801_688.8722 vll.19181204_703.15828</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Miren</placeName>
+                     <placeName xml:lang="it">Merna</placeName>
+                     <location><geo>http://www.geonames.org/3195054/miren.html</geo></location>
+                     <idno n="Merna">vll.19181126_702.9924</idno>
+                     <idno n="Merna">vll.19171017_618.3310</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Bilje</placeName>
+                     <placeName xml:lang="it">Biglie</placeName>
+                     <idno n="Bilje">vll.19150317_143.2522</idno>
+                     <idno n="Bilja">vll.19161101_485.13926</idno>
+                     <idno n="Bilje">vll.19150902_255.7780 vll.19171108_626.13278 vll.19180123_644.11954</idno>
+                     <idno n="Biljna">vll.19150812_235.9788</idno>
+                     <idno n="Bilje">vll.19181011_698.5486</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Deskle</placeName>
+                     <placeName xml:lang="it">Desela</placeName>
+                     <location><geo>http://www.geonames.org/3202070/deskle.html</geo></location>
+                     <idno n="Deskle">vll.19150330_152.9422</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Dol. Otlica</placeName>
+                     <location><geo>http://www.geonames.org/3193789/otlica.html</geo></location>
+                     <idno n="Dol. Otlica">vll.19150317_143.9378</idno>
+                     <idno n="Dol Otlica">vll.19180424_669.7368</idno>
+                     <idno n="Dol- Otlica">vll.19180603_677.3314</idno>
+                     <idno n="Dol-Otlica">vll.19160722_444.13290 vll.19171113_627.14074 vll.19171222_638.4566 vll.19180515_674.2602 vll.19180201_648.3474</idno>
+                     <idno n="Dol. Otlica">vll.19171127_631.3534 vll.19171220_637.7994 vll.19180429_670.2184</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sveti Križ</placeName>
+                     <placeName xml:lang="de">Heiligenkreuz</placeName>
+                     <idno n="Heiligenkreuz">vll.19150317_143.8018</idno>
+                  </place>
+                                    
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Ozeljan</placeName>
+                     <placeName xml:lang="it">Ossegliano</placeName>
+                     <location><geo>http://www.geonames.org/3193745/ozeljan.html</geo></location>
+                     <idno n="Oželjan">vll.19150317_143.5454</idno>
+                     <idno n="Oreljan">vll.19160701_436.9228</idno>
+                     <idno n="Ossegliano">vll.19180319_661.8894</idno>
+                     <idno n="Ozelean">vll.19150825_247.5388</idno>
+                     <idno n="Ozeljan">vll.19150822_245.966</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Podgora</placeName>
+                     <location><geo>http://www.geonames.org/3175986/gorizia.html</geo></location>
+                     <idno n="Podgora">vll.19150317_143.1432</idno>
+                     <idno n="Podgora">vll.19180319_661.7554</idno>
+                     <idno n="Podgora">vll.19150317_143.4588</idno>
+                     <idno n="Podgora">vll.19150202_119.6310 vll.19150517_179.10678 vll.19151208_331.2166 vll.19160208_373.6836 vll.19160222_380.4298 vll.19160711_439.6288 vll.19160711_439.13582 vll.19170329_544.2846 v11.19170418_556.5504 vll.19171005_613.8460 vll.19171119_629.2858 vll.19180118_643.7192 vll.19180204_649.12544 vll.19180307_657.12920 vll.19180419_668.2432 vll.19180429_670.18116 vll.19171228_639.12792 vll.19180620_681.1622 vll.19170424_559.2968</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Rihenberg</placeName>
+                     <placeName xml:lang="de">Reifenberg</placeName>
+                     <location><geo>http://www.geonames.org/3343547/preserje.html</geo></location>
+                     <idno n="Reifenberg">vll.19150317_143.1538</idno>
+                     <idno n="Reifenberg">vll.19160414_408.10862 vll.19170424_559.11274 vll.19171005_613.8064 vll.19180419_668.18576</idno>
+                     <idno n="Rihenberg">vll.19180718_686.10714</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Renče</placeName>
+                     <placeName xml:lang="it">Ranziano</placeName>
+                     <location><geo>http://www.geonames.org/10858846/britof.html</geo></location>
+                     <idno n="Renče">vll.19150317_143.5488</idno>
+                     <idno n="Rence">vll.19171017_618.1298</idno>
+                     <idno n="Ranciano">vll.19150819_242.5028</idno>
+                     <idno n="Renče">vll.19170329_544.2440 vll.19171005_613.10684 vll.19180323_662.16960 vll.19171005_613.9208 vll.19180201_648.14844</idno>
+                     <idno n="Ranziano">vll.19170430_563.2872 vll.19180307_657.2944 vll.19180709_684.10472</idno>
+                     <idno n="Rintze">vll.19151008_287.1060</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Vrtojba</placeName>
+                     <location><geo>http://www.geonames.org/3187125/vrtojba.html</geo></location>
+                     <idno n="Vertojba">vll.19150317_143.3268</idno>
+                     <idno n="Ortojba">vll.19150303_136.8298</idno>
+                     <idno n="Vrbojba">vll.19150710_208.940</idno>
+                     <idno n="Vrtojba">vll.19161014_477.4142 vll.19161014_477.9778 vll.19171005_613.9590 vll.19180709_684.8492 vll.19180129_647.7078 vll.19180812_690.3490 vll.19181126_702.14888</idno>
+                     <idno n="Wertawa">vll.19150722_217.1834</idno>
+                  </place>
+                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Kojsko</placeName>
+                     <placeName xml:lang="it">Quisca</placeName>
+                     <location><geo>http://www.geonames.org/3197924/kojsko.html</geo></location>
+                     <idno n="Kojsko">v11.19170418_556.9110</idno>
+                     <idno n="Kojsko">vll.19150916_267.5432 vll.19151010_289.3754 vll.19151010_289.9976 vll.19180328_663.14062 vll.19180429_670.15176 vll.19160807_449.11384</idno>
+                     <idno n="Quicsa">vll.19150322_146.6184</idno>
+                     <idno n="Quisca">vll.19151208_331.9304 vll.19170424_559.15588</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kal</placeName>
+                     <idno n="Kai">vll.19151112_313.1740</idno>
+                     <idno n="Kal">vll.19150916_267.5082</idno>
+                     <idno n="Kal">vll.19150202_119.2954 vll.19150717_213.5678 vll.19150826_248.5756 vll.19170424_559.12190 vll.19171108_626.12220 v11.19180214_652.4032 vll.19180610_679.6302 vll.19180814_691.8582 vll.19150916_267.6124 vll.19170507_568.9708</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Ajševica</placeName>
+                     <location><geo>http://www.geonames.org/3216514/ajsevica.html</geo></location>
+                     <idno n="Ajševice">vll.19171017_618.14236</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Anhovo</placeName>
+                     <location><geo>http://www.geonames.org/10794007/zarog.html</geo></location>
+                     <idno n="Anhovo">vll.19170424_559.2332 vll.19181105_700.4890</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Avče</placeName>
+                     <placeName xml:lang="it">Auzza</placeName>
+                     <location><geo>http://www.geonames.org/3204755/avce.html</geo></location>
+                     <idno n="Auzza">vll.19180424_669.5518</idno>
+                     <idno n="Avče">vll.19170424_559.8646</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Banjščice</placeName>
+                     <placeName xml:lang="it">Bainsizza</placeName>
+                     <location><geo>http://www.geonames.org/3204527/banjsice.html</geo></location>
+                     <idno n="Bainsizza">v11.19170418_556.4792 vll.19170424_559.5292 vll.19180514_673.8998</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Bate</placeName>
+                     <location><geo>http://www.geonames.org/3204416/bate.html</geo></location>
+                     <idno n="Bare">vll.19170424_559.6540</idno>
+                     <idno n="Bate">vll.19181219_705.2402</idno>
+                     <idno n="Bäte">vll.19141204_74.2960 vll.19181111_701.2268 vll.19171027_621.6386 vll.19171113_627.9956</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Bodešče</settlement>
+                     <idno n="Bodesce">vll.19150202_119.8330</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Bukovica</placeName>
+                     <location><geo>http://www.geonames.org/3187125/vrtojba.html</geo></location>
+                     <idno n="Bukovica">vll.19170424_559.7120</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kanal</placeName>
+                     <placeName xml:lang="it">Canale</placeName>
+                     <location><geo>http://www.geonames.org/3198354/kanal.html</geo></location>
+                     <idno n="Canale">vll.19150506_173.1706 vll.19170904_610.8800 vll.19171010_615.9694 vll.19180309_658.1904 vll.19180603_677.3036 vll.19181219_705.14660 vll.19181019_699.4228</idno>                  
+                     <idno n="Kanal">vll.19150822_245.1060 vll.19180403_665.5132 vll.19180830_693.5068</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Škocjan</placeName>
+                     <placeName xml:lang="it">Canciano</placeName>
+                     <idno n="Canciano">vll.19150317_143.9472</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Čepovan</placeName>
+                     <idno n="Cepovan">vll.19150330_152.6990</idno>
+                     <idno n="Čepovan">vll.19181002_696.6272 vll.19180814_691.6158 vll.19181126_702.15364</idno>
+                     <idno n="Čepowan">vll.19171222_638.10814</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Črniče</placeName>
+                     <placeName xml:lang="it">Cernizza</placeName>
+                     <location><geo>http://www.geonames.org/3202434/crnice.html</geo></location>
+                     <idno n="Cernice">vll.19150506_173.1328 vll.19160914_464.3128</idno>
+                     <idno n="Cernizza">vll.19180620_681.14202</idno>
+                     <idno n="Černice">vll.19150330_152.6966</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Cerovo</placeName>
+                     <location><geo>http://www.geonames.org/3204859/ajba.html</geo></location>
+                     <idno n="Cerovo">v11.19180214_652.6418</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <settlement>Dolnji</settlement>
+                     <idno n="Dolnji">vll.19180830_693.8672</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Dornberk</placeName>
+                     <location><geo>http://www.geonames.org/3201354/dornberk.html</geo></location>
+                     <idno n="Dornberg">vll.19150317_143.5180 vll.19151010_289.9994 vll.19160804_448.10624 vll.19171005_613.9912 vll.19171017_618.7914 vll.19180415_667.17022 vll.19180805_689.8938 vll.19181011_698.12176</idno>
+                  </place>
+                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Grgar</placeName>
+                     <placeName xml:lang="it">Gargaro</placeName>
+                     <location><geo>http://www.geonames.org/3199580/grgar.html</geo></location>
+                     <idno n="Gajgora">vll.19150202_119.2572</idno>
+                     <idno n="Gargare">vll.19150402_154.5354</idno>
+                     <idno n="Gargaro">vll.19160324_398.11672 vll.19180118_643.12786 vll.19180628_683.9058 vll.19171108_626.1792 v11.19180214_652.4164</idno>
+                     <idno n="Grgar">vll.19150822_245.6994 vll.19160701_436.11630 vll.19161007_474.12210 vll.19171017_618.10364</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Gojače</placeName>
+                     <location><geo>http://www.geonames.org/3343545/gojace.html</geo></location>
+                     <idno n="Gojace">vll.19171005_613.2890</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Grahovo</placeName>
+                     <placeName xml:lang="de">Grahovo bei Tolmein</placeName>
+                     <location><geo>http://www.geonames.org/3199666/grahovo-ob-baci.html</geo></location>
+                     <idno n="Grahovo bei Tolmein">vll.19150830_252.2064</idno>
+                  </place>
+                  <place type="settlement" subtype="sodni">
+                     <placeName xml:lang="sl">Ajdovščina</placeName>
+                     <placeName xml:lang="de">Haidenschaft</placeName>
+                     <placeName xml:lang="it">Aidussina</placeName>
+                     <location><geo>http://www.geonames.org/3204854/ajdovscina.html</geo></location>
+                     <idno n="Haidenscbaft">vll.19181105_700.734</idno>
+                     <idno n="Haidenschaft">vll.19170329_544.5510 vll.19180805_689.4440 vll.19181111_701.8056 vll.19171108_626.8126 vll.19171228_639.13024 vll.19180129_647.13408</idno>
+                     <idno n="Heidenschaft">vll.19150506_173.1522</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sveti Duh</placeName>
+                     <placeName xml:lang="de">Heiligengeist</placeName>
+                     <location><geo>http://www.geonames.org/3204527/banjsice.html</geo></location>
+                     <idno n="Heiligengeist">vll.19170424_559.15054</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Sveti Križ</placeName>
+                     <placeName xml:lang="de">Heiligenkreuz</placeName>
+                     <placeName xml:lang="it">Santa Croce</placeName>
+                     <location><geo>http://www.geonames.org/3187704/vipavski-kriz.html</geo></location>
+                     <idno n="Heiligenkreuz">vll.19180129_647.1558 vll.19180103_640.6168</idno>
+                     <idno n="Sv. Križ">vll.19150925_274.5396</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Idrija</placeName>
+                     <placeName xml:lang="de">Idria</placeName>
+                     <location><geo>http://www.geonames.org/6698745/idrija.html</geo></location>
+                     <idno n="Idria">vll.19180330_664.15864</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Kamnje</placeName>
+                     <location><geo>http://www.geonames.org/3198359/kamnje.html</geo></location>
+                     <idno n="Kamnje">vll.19170329_544.14714</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kostanjevica</placeName>
+                     <idno n="Kostanyowicz">vll.19150822_245.2980</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kronberk</placeName>
+                     <placeName xml:lang="de">Cronberg</placeName>
+                     <location><geo>http://www.geonames.org/3197163/kromberk.html</geo></location>
+                     <idno n="Kronberg">vll.19170424_559.8128 vll.19180801_688.10998 vll.19171027_621.5500</idno>
+                     <idno n="Klomberg">vll.19150825_247.2228</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lazna</placeName>
+                     <location><geo>http://www.geonames.org/8989239/lazna.html</geo></location>
+                     <idno n="Lazna">vll.19180204_649.12374</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Lokavec</placeName>
+                     <location><geo>http://www.geonames.org/3196268/lokavec.html</geo></location>
+                     <idno n="Lokavec">vll.19170329_544.13598 vll.19171005_613.7042 vll.19171017_618.11302 vll.19180801_688.9816</idno>
+                     <idno n="Lokawec">vll.19160609_430.1212</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Lokovec</placeName>
+                     <location><geo>http://www.geonames.org/3196258/lokovec.html</geo></location>
+                     <idno n="Lokovec">vll.19150317_143.5160</idno>
+                     <idno n="Lokovec">vll.19160804_448.7448 vll.19180419_668.17088 vll.19180429_670.16556 vll.19181111_701.11498 vll.19190129_708.15740 vll.19171228_639.12568 vll.19180323_662.10926</idno>
+                     <idno n="Lokovetz">vll.19141117_60.1280</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lokve</placeName>
+                     <location><geo>http://www.geonames.org/3196249/lokve.html</geo></location>
+                     <idno n="Lokve">vll.19171222_638.11994</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lokvica</placeName>
+                     <location><geo>http://www.geonames.org/10859158/lokovica.html</geo></location>
+                     <idno n="Lokvica">vll.19170329_544.5844</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Nemci</placeName>
+                     <location><geo>http://www.geonames.org/3194544/nemci.html</geo></location>
+                     <idno n="Nemci">vll.19170901_609.10374</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Neudorf</settlement>
+                     <idno n="Neudorf">vll.19180124_645.7330</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Opatje Selo</placeName>
+                     <location><geo>http://www.geonames.org/3194094/opatje-selo.html</geo></location>
+                     <idno n="Opatiesclo">vll.19180201_648.13906</idno>
+                     <idno n="Opatje Selo">vll.19141121_66_67.13150 vll.19171005_613.8676 vll.19171017_618.1768 vll.19171119_629.15308 vll.19180610_679.12148</idno>
+                     <idno n="Opatje-Selo">vll.19180429_670.18728</idno>
+                     <idno n="Opatjeselo">vll.19150317_143.4804 vll.19160531_426.8638 vll.19161014_477.10594</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Osek</placeName>
+                     <location><geo>http://www.geonames.org/3193943/osek.html</geo></location>
+                     <idno n="Osek">vll.19171108_626.3690</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Osek Vitovlje</placeName>
+                     <location><geo>http://www.geonames.org/3193943/osek.html</geo></location>
+                     <idno n="Osek Vitovlje">vll.19151208_331.2304</idno>
+                     <idno n="Osek-Vrtovlje">vll.19171005_613.1858</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Podsabotin</placeName>
+                     <location><geo>http://www.geonames.org/3216505/podsabotin.html</geo></location>
+                     <idno n="Podsabotin">vll.19170424_559.13616</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Preč</settlement>
+                     <idno n="Preč">vll.19150218_129.7740</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Prvačina</placeName>
+                     <location><geo>http://www.geonames.org/3192262/prvacina.html</geo></location>
+                     <idno n="Prvacina">vll.19180603_677.5550 vll.19180319_661.15722</idno>
+                     <idno n="Prvačina">vll.19170731_604.10614 v11.19180227_655.14142</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Ranogliano</settlement>
+                     <idno n="Ranogliano">vll.19180330_664.2992</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Ročinj</placeName>
+                     <placeName xml:lang="it">Ronzina</placeName>
+                     <location><geo>http://www.geonames.org/3191598/rocinj.html</geo></location>
+                     <idno n="Ronzina">vll.19180123_644.13342 vll.19170510_570.9476</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Solkan</placeName>
+                     <placeName xml:lang="it">Salcana</placeName>
+                     <location><geo>http://www.geonames.org/3216508/solkan.html</geo></location>
+                     <idno n="Salcana">vll.19170329_544.7292</idno>
+                     <idno n="Salcano">vll.19141203_72_E5.3788 vll.19150202_119.1948 vll.19180307_657.2948 vll.19180315_660.2782</idno>
+                     <idno n="Solcano">vll.19151016_294.2264</idno>
+                     <idno n="Solkan">vll.19150206_121.2646 vll.19180805_689.13662 vll.19180429_670.3846 vll.19180511_672.6916</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Šmarje</placeName>
+                     <placeName xml:lang="it">Samaria</placeName>
+                     <location><geo>http://www.geonames.org/3190513/smarje.html</geo></location>
+                     <idno n="Samaria">vll.19180129_647.12504</idno>
+                     <idno n="Smarje">vll.19171005_613.2308 vll.19180620_681.6622 vll.19180625_682.3820 vll.19181105_700.4854</idno>
+                     <idno n="Šmarje">vll.19170901_609.1916</idno>
+                     <idno n="Šarje">vll.19150317_143.8408</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Šempas</placeName>
+                     <placeName xml:lang="de">Schönpass</placeName>
+                     <location><geo>http://www.geonames.org/3191064</geo></location>
+                     <idno n="Schönpass">vll.19161223_506.7062 vll.19180403_665.10034</idno>
+                     <idno n="Schönpaß">vll.19150901_254.7872 vll.19161014_477.10952</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Selo</settlement>
+                     <idno n="Selo">vll.19171017_618.10300</idno>
+                  </place>                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Skrilje</placeName>
+                     <location><geo>http://www.geonames.org/3190682/skrilje.html</geo></location>
+                     <idno n="Skrilja">vll.19151223_341.4922</idno>
+                     <idno n="Skrilje">vll.19151208_331.1806 vll.19160426_412.9986 vll.19160701_436.8020 vll.19170329_544.14560 vll.19181005_697.4088</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">St. Martin</placeName>
+                     <placeName xml:lang="it">St. Martino</placeName>
+                     <location><geo>http://www.geonames.org/3190502/smartno.html</geo></location>
+                     <idno n="St. Martin">vll.19180328_663.10660 vll.19180319_661.15576</idno>
+                     <idno n="St. Martino">vll.19151003_282.9650</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Šent Mihel</placeName>
+                     <placeName xml:lang="de">St. Michael</placeName>
+                     <location><geo>http://www.geonames.org/3216517/smihel.html</geo></location>
+                     <idno n="St. Michael">vll.19160609_430.8670</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Sveti Peter</placeName>
+                     <location><geo>http://www.geonames.org/3191063/sempeter-pri-gorici.html</geo></location>
+                     <idno n="St. Peter">vll.19150322_146.9692 vll.19181111_701.15144 vll.19181219_705.16654</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Sveti Tomaž</placeName>
+                     <placeName xml:lang="de">St. Thomas</placeName>
+                     <location><geo>http://www.geonames.org/3189814/stomaz.html</geo></location>
+                     <idno n="St. Thomas">vll.19160426_412.10030 vll.19171127_631.5260 vll.19180527_675.17534</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Szampo</settlement>
+                     <idno n="Szampo">vll.19151105_307.9384</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Toliano</settlement>
+                     <idno n="Toliano">vll.19171130_632.2028</idno>
+                  </place>
+                  <place type="settlement" subtype="region">
+                     <placeName xml:lang="sl">Tolmin</placeName>
+                     <placeName xml:lang="it">Tolmino</placeName>
+                     <placeName xml:lang="de">Tolmein</placeName>
+                     <location><geo>http://www.geonames.org/3189038/tolmin.html</geo></location>
+                     <idno n="Tolmein">vll.19141204_74.1292</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Tribuša</placeName>
+                     <location><geo>http://www.geonames.org/3201851/dolenja-trebusa.html</geo></location>
+                     <idno n="Tribuša">vll.19150331_153.9100 vll.19180605_678.12052</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Trnovo</placeName>
+                     <location><geo>http://www.geonames.org/3188769/trnovo.html</geo></location>
+                     <idno n="Trnovo">vll.19150322_146.6084 vll.19151208_331.6890 vll.19180824_692.7824 vll.19181111_701.11036 vll.19171127_631.14348</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Velike Žablje</placeName>
+                     <location><geo>http://www.geonames.org/3188114/velike-zablje.html</geo></location>
+                     <idno n="Vel. Zablje">vll.19180610_679.6942</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Vogrsko</placeName>
+                     <location><geo>http://www.geonames.org/3187461/vogrsko.html</geo></location>
+                     <idno n="Vogersko">vll.19160412_407.4364 vll.19161211_500.15274 vll.19171005_613.4320</idno>
+                     <idno n="Vogrsko">vll.19171119_629.5588 vll.19171121_630.5158 vll.19180330_664.16984</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Volčja Draga</placeName>
+                     <location><geo>http://www.geonames.org/3187428/volcja-draga.html</geo></location>
+                     <idno n="Volčjadraga">vll.19171017_618.8986</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <settlement>Zgornja-Čarbola</settlement>
+                     <idno n="Zgornja-Čarbola">vll.19180511_672.10482</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Štanjel</placeName>
+                     <placeName xml:lang="de">Sankt Daniel</placeName>
+                     <location><geo>http://www.geonames.org/3190039/stanjel.html</geo></location>
+                     <idno n="Štanjel">vll.19160907_461.410</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Sveti Križ</region>
+                  <region xml:lang="de">Heiligenkreuz</region>
+                  <region xml:lang="it">Santa Croce</region>
+                  <location><geo>http://www.geonames.org/3187704/vipavski-kriz.html</geo></location>
+                  <idno n="Heiligenkreis">vll.19180105_641.4280</idno>
+               </place>               
+               <place type="region" subtype="settlement">
+                  <region xml:lang="sl">Idrija</region>
+                  <location><geo>http://www.geonames.org/6698745/idrija.html</geo></location>
+                  <idno n="Idria">vll.19180323_662.8812</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Izola</region>
+                  <region xml:lang="it">Isola</region>
+                  <location><geo>http://www.geonames.org/3199017/izola.html</geo></location>
+                  <idno n="Isola">vll.19151203_328.1958</idno>
+                  <place type="settlement">
+                     <settlement>Kode</settlement>
+                     <idno n="Kode">vll.19151203_328.1958</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="sodni">
+                  <region xml:lang="sl">Kirchheim</region>
+                  <region xml:lang="de">Kirchheim</region>
+                  <region xml:lang="it">Circhina</region>
+                  <location><geo>http://www.geonames.org/3218364/cerkno.html</geo></location>
+                  <idno n="Kirchheim">vll.19181002_696.14382</idno>
+                  <place type="settlement" subtype="region">
+                     <placeName xml:lang="sl">Tolmin</placeName>
+                     <placeName xml:lang="de">Tolmein</placeName>
+                     <placeName xml:lang="it">Tolmino</placeName>
+                     <location><geo>http://www.geonames.org/3189038/tolmin.html</geo></location>
+                     <idno n="Tolmein">vll.19181002_696.14382</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="settlement">
+                  <region xml:lang="sl">Klanec</region>
+                  <region xml:lang="it">Clanz</region>
+                  <location><geo>http://www.geonames.org/3198104/klanec-pri-kozini.html</geo></location>
+                  <idno n="Klanec">vll.19150910_263.5612</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Ocizla</placeName>
+                     <location><geo>http://www.geonames.org/3198104/klanec-pri-kozini.html</geo></location>
+                     <idno n="Očisla">vll.19150910_263.5612</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="settlement">
+                  <region xml:lang="sl">Kojsko</region>
+                  <region xml:lang="it">Quisca</region>
+                  <location><geo>http://www.geonames.org/3197924/kojsko.html</geo></location>
+                  <idno n="Kojsko">vll.19180610_679.7142</idno>
+               </place>               
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Grahovo</region>
+                  <idno n="Krachowa">vll.19150714_210.5336</idno>
+                  <place type="settlement" subtype="region">
+                     <placeName xml:lang="sl">Tolmin</placeName>
+                     <placeName xml:lang="de">Tolmein</placeName>
+                     <placeName xml:lang="it">Tolmino</placeName>
+                     <location><geo>http://www.geonames.org/3189038/tolmin.html</geo></location>
+                     <idno n="Thalmain">vll.19150714_210.5336</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="sodni">
+                  <region xml:lang="sl">Cerkno</region>
+                  <region xml:lang="de">Kirchheim</region>
+                  <region xml:lang="it">Circhina</region>
+                  <location><geo>http://www.geonames.org/3218364/cerkno.html</geo></location>
+                  <idno n="Kurchheim">vll.19180603_677.11776</idno>
+               </place>         
+               
+               
+               
+               <place type="region">
+                  <region>Lokovec</region>
+                  <idno n="Lokovec">vll.19180323_662.14680 vll.19180613_680.14534</idno>
+               </place>               
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Nabrežina</region>
+                  <region xml:lang="it">Nabresina</region>
+                  <location><geo>http://www.geonames.org/3182674/aurisina.html</geo></location>
+                  <idno n="Nabresina">vll.19150805_229.4782</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Gorjansko</placeName>
+                     <location><geo>http://www.geonames.org/3200303/gorjansko.html</geo></location>
+                     <idno n="Gorjansko">vll.19150805_229.4782</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Naklo</region>
+                  <location><geo>http://www.geonames.org/8988289/naklo.html</geo></location>
+                  <idno n="Naklo">vll.19151003_282.5232</idno>
+                  <place type="settlement" subtype="region">
+                     <placeName xml:lang="sl">Sežana</placeName>
+                     <placeName xml:lang="it">Sesana</placeName>
+                     <location><geo>http://www.geonames.org/3190945/sezana.html</geo></location>
+                     <idno n="Sesana">vll.19151003_282.5232</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Opatje Selo</region>
+                  <location><geo>http://www.geonames.org/3194094/opatje-selo.html</geo></location>
+                  <idno n="Opatjeselo">vll.19180603_677.9032</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Ozeljan</region>
+                  <region xml:lang="it">Ossegliano</region>
+                  <location><geo>http://www.geonames.org/3193745/ozeljan.html</geo></location>
+                  <idno n="Ozeljan">vll.19170814_607.8134</idno>
+               </place>
+               <place type="region">
+                  <region>Pastoven</region>
+                  <idno n="Pastoven">vll.19150810_233.7428</idno>
+                  <place type="settlement">
+                     <settlement>Gradec, Myslenic</settlement>
+                     <idno n="Gradec, Myslenic">vll.19150810_233.7428</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="sodni">
+                  <region xml:lang="sl">Piran</region>
+                  <region xml:lang="it">Pirano</region>
+                  <location><geo>http://www.geonames.org/3193341/piran.html</geo></location>
+                  <idno n="Pirano">vll.19150826_248.7498 vll.19170423_558.13248 vll.19170901_609.3418 vll.19180709_684.13746 vll.19180723_687.10474 vll.19180910_694.2324</idno>
+               </place>
+               <place type="region" subtype="settlement">
+                  <region xml:lang="sl">Ponikve</region>
+                  <idno n="Ponikve">vll.19180330_664.9094</idno>
+                  <idno n="Ponikwe">v11.19180221_653.5176</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Prvačina</region>
+                  <location><geo>http://www.geonames.org/3192262/prvacina.html</geo></location>
+                  <idno n="Prvačina">vll.19161230_508.3880</idno>
+               </place>               
+               <place type="region">
+                  <region xml:lang="sl">Sežana</region>
+                  <region xml:lang="it">Sesana</region>
+                  <location><geo>http://www.geonames.org/3190945/sezana.html</geo></location>
+                  <idno n="Sesana">vll.19141230_88.3082 vll.19141230_88.7220 vll.19150104_92_93.17450 vll.19150206_121.3216 vll.19150303_136.8762 vll.19150304_137.7184 vll.19150304_137.8742 vll.19150317_143.620 vll.19150317_143.2066 vll.19150317_143.2884 vll.19150317_143.5236 vll.19150317_143.6376 vll.19150317_143.6518 vll.19150317_143.7376 vll.19150317_143.7520 vll.19150317_143.9208 vll.19150317_143.9898 vll.19150429_169.4980 vll.19150429_169.9670 vll.19150506_173.5332 vll.19150821_244.5832 vll.19150821_244.6248 vll.19150824_246.2754 vll.19150824_246.5034 vll.19150824_246.5216 vll.19150824_246.6188 vll.19150826_248.3036 vll.19150826_248.4912 vll.19150904_257.7360 vll.19150910_263.8308 vll.19150915_266.4612 vll.19150922_271.9272 vll.19151010_289.5448 vll.19151107_309.9330 vll.19151122_320.5866 vll.19151122_320.6386 vll.19151203_328.8196 vll.19151208_331.1056 vll.19151208_331.1872 vll.19151208_331.5714 vll.19160107_351.8176 vll.19160111_354.5838 vll.19160118_360.4770 vll.19160208_373.7504 vll.19160615_431.3242 vll.19160617_432.1998 vll.19160617_432.10540 vll.19160624_434.7312 vll.19160704_437.8122 vll.19160914_464.1848 vll.19161014_477.6628 vll.19161101_485.11644 vll.19161101_485.14088 vll.19161223_506.1808 vll.19161223_506.13428 v11.19170418_556.8296 v11.19170418_556.9118 vll.19170424_559.6292 vll.19170424_559.15854 vll.19170430_563.7070 vll.19170802_605.8270 vll.19170901_609.4936 vll.19170904_610.12256 vll.19171005_613.3772 vll.19171010_615.3918 vll.19171010_615.8906 vll.19171017_618.12828 vll.19171017_618.13870 vll.19171017_618.14150 vll.19171108_626.14616 vll.19171130_632.3282 v11.19171204_633.2322 vll.19180105_641.2660 vll.19180118_643.8654 vll.19180123_644.13754 vll.19180123_644.14828 v11.19180126_646.7564 v11.19180126_646.14356 vll.19180201_648.8944 v11.19180214_652.5240 v11.19180223_654.12720 v11.19180227_655.8592 vll.19180307_657.8376 vll.19180309_658.9592 vll.19180313_659.12112 vll.19180313_659.13492 vll.19180319_661.4908 vll.19180323_662.5784 vll.19180330_664.3076 vll.19180403_665.16688 vll.19180415_667.14704 vll.19180419_668.15020 vll.19180424_669.18822 vll.19180515_674.7738 vll.19180515_674.11430 vll.19180515_674.16300 vll.19180531_676.2036 vll.19180603_677.5858 vll.19180603_677.6874 vll.19180603_677.10944 vll.19180709_684.9068 vll.19180713_685.8262 vll.19180718_686.3886 vll.19180812_690.11128 vll.19180814_691.8202 vll.19180824_692.2328 vll.19180910_694.2698 vll.19181019_699.8372 vll.19181126_702.470 vll.19181126_702.2890 vll.19160701_436.10736 vll.19171108_626.11814 vll.19171220_637.11526 vll.19180129_647.11792 vll.19180129_647.13216 vll.19180201_648.13438 v11.19180209_651.8408 v11.19180209_651.12836 v11.19180214_652.14186 v11.19180221_653.4672 v11.19180227_655.12300 vll.19180323_662.8816 vll.19180330_664.1752 vll.19180411_666.6718 vll.19180411_666.16696 vll.19180419_668.1346 vll.19180429_670.15152 vll.19180531_676.10774 vll.19180531_676.14820 vll.19180603_677.14522 vll.19180610_679.12294 vll.19180620_681.10550 vll.19180713_685.11224 vll.19180814_691.8672 vll.19180824_692.7198 vll.19180830_693.2384 vll.19180830_693.9638 vll.19181005_697.4074 vll.19181011_698.10312 vll.19181019_699.10472 vll.19181019_699.10890 vll.19181111_701.13798 vll.19181126_702.8804 vll.19181204_703.3274 vll.19190129_708.1320 vll.19150720_215.7296 vll.19160405_404.2278 vll.19160523_423.2402 vll.19170430_563.9454 vll.19170430_563.11748 vll.19170824_608.7572</idno>
+                  <idno n="Sesana. Kregolišče">vll.19181126_702.18036</idno>
+                  <idno n="Sesana. Tomej">vll.19160108_352.8764</idno>
+                  <idno n="Sesnna">vll.19150506_173.6464</idno>
+                  <idno n="Sessana">vll.19150625_200.7656 vll.19150625_200.11908</idno>
+                  <idno n="Sežana">vll.19181219_705.13926</idno>
+                  <idno n="Sosana">vll.19180309_658.1314</idno>
+                  <idno n="Lesana">vll.19180824_692.7852 vll.19180411_666.15682 vll.19180805_689.2278 vll.19180830_693.6706</idno>
+                  <idno n="Lezana">vll.19141223_85_86.8726</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Gorjansko</placeName>
+                     <location><geo>http://www.geonames.org/3200303/gorjansko.html</geo></location>
+                     <idno n="Gorjansko">vll.19141223_85_86.8726</idno>
+                     <idno n="Gorjansko">vll.19150824_246.5034 vll.19160624_434.7312 vll.19180603_677.6874 vll.19171108_626.11814 vll.19181204_703.3274</idno>
+                  </place>
+                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Komen</placeName>
+                     <placeName xml:lang="it">Comen</placeName>
+                     <location><geo>http://www.geonames.org/3197842/komen.html</geo></location>
+                     <idno n="Komen">vll.19180805_689.2278</idno>
+                     <idno n="Comen">vll.19180105_641.2660 vll.19180713_685.8262</idno>
+                     <idno n="Komen">vll.19150317_143.9208 vll.19161223_506.1808 vll.19171010_615.3918 v11.19180227_655.8592 vll.19180515_674.11430 v11.19180221_653.4672 vll.19180411_666.6718 vll.19181011_698.10312 vll.19181111_701.13798</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Tomaj</placeName>
+                     <location><geo>http://www.geonames.org/3189024/tomaj.html</geo></location>
+                     <idno n="Tomaj">vll.19180411_666.15682</idno>
+                     <idno n="Tomaj">vll.19150922_271.9272 vll.19160617_432.10540 vll.19171130_632.3282 vll.19180313_659.13492 vll.19180330_664.3076 vll.19180814_691.8202</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Veliki Repen</placeName>
+                     <placeName xml:lang="de">Großrepen</placeName>
+                     <location><geo>http://www.geonames.org/3168790/repen.html</geo></location>
+                     <idno n="Veliki Repen">vll.19180824_692.7852</idno>
+                     <idno n="Groß-Repen">vll.19150317_143.7376</idno>
+                     <idno n="Groß-Repeu">vll.19150317_143.5236</idno>
+                     <idno n="Vel. Repen">vll.19150910_263.8308</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Krajna vas</placeName>
+                     <location><geo>http://www.geonames.org/3216579/krajna-vas.html</geo></location>
+                     <idno n="Kraniovaz">vll.19180309_658.1314</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Nabrežina</placeName>
+                     <placeName xml:lang="it">Nabresina</placeName>
+                     <location><geo>http://www.geonames.org/3182674/aurisina.html</geo></location>
+                     <idno n="Nabresina">vll.19181219_705.13926</idno>
+                     <idno n="Nabresina">vll.19150625_200.7656</idno>
+                     <idno n="Nabresina">vll.19150824_246.5216 v11.19170418_556.8296</idno>
+                     <idno n="Nabrezina">vll.19160701_436.10736</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Štanjel</placeName>
+                     <placeName xml:lang="de">St. Daniel</placeName>
+                     <location><geo>http://www.geonames.org/3190039/stanjel.html</geo></location>
+                     <idno n="St. Danial">vll.19150625_200.11908</idno>
+                     <idno n="St. Daniel">vll.19150303_136.8762 vll.19180319_661.4908 vll.19180515_674.16300</idno>
+                     <idno n="Stanjel">vll.19151122_320.5866</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Štorje</placeName>
+                     <location><geo>http://www.geonames.org/3189797/storje.html</geo></location>
+                     <idno n="Storje">vll.19150506_173.6464</idno>
+                     <idno n="Storje">vll.19150317_143.6376 vll.19180824_692.2328 vll.19190129_708.1320 vll.19150720_215.7296</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Barka</placeName>
+                     <location><geo>http://www.geonames.org/3204466/barka.html</geo></location>
+                     <idno n="Barka">vll.19180419_668.15020</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Berje</placeName>
+                     <location><geo>http://www.geonames.org/3203282/brje-pri-komnu.html</geo></location>
+                     <idno n="Berje">vll.19180603_677.10944 vll.19170824_608.7572</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Brestovica</placeName>                     
+                     <idno n="Brestovica">vll.19150826_248.4912 vll.19170802_605.8270 vll.19180129_647.11792 vll.19180419_668.1346</idno>
+                     <idno n="Brestowica">vll.19180424_669.18822</idno>
+                     <idno n="Brestowicz">vll.19151203_328.8196</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Lokev</placeName>
+                     <placeName xml:lang="it">Corgnale</placeName>
+                     <location><geo>http://www.geonames.org/3196261/lokev.html</geo></location>
+                     <idno n="Corgnale">v11.19180227_655.12300</idno>
+                     <idno n="Lekev">vll.19180610_679.12294</idno>
+                     <idno n="Lokev">vll.19180713_685.11224</idno>
+                     <idno n="Lokez">vll.19160704_437.8122</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Dane</placeName>
+                     <idno n="Dane">vll.19180429_670.15152</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Dutovlje</placeName>
+                     <location><geo>http://www.geonames.org/3200933/dutovlje.html</geo></location>
+                     <idno n="Dutovlje">vll.19150206_121.3216 vll.19150304_137.7184 v11.19171204_633.2322 vll.19180415_667.14704 vll.19180603_677.14522 vll.19181019_699.10472</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Gabrovica</placeName>
+                     <location><geo>http://www.geonames.org/3200778/gabrovica-pri-komnu.html</geo></location>
+                     <idno n="Gabrovica">vll.19150317_143.2066 vll.19150821_244.5832</idno>
+                     <idno n="Grabovica">vll.19180709_684.9068</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kačiče</placeName>
+                     <location><geo>http://www.geonames.org/3343531/kacice.html</geo></location>
+                     <idno n="Kacice">vll.19180118_643.8654</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Klanec</placeName>
+                     <location><geo>http://www.geonames.org/3216565/klanec-pri-komnu.html</geo></location>
+                     <idno n="Klanec">vll.19141230_88.7220</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Kobjeglava</placeName>
+                     <location><geo>http://www.geonames.org/3197954/kobjeglava.html</geo></location>
+                     <idno n="Kobilaglava">vll.19150317_143.620 vll.19151208_331.1056</idno>
+                     <idno n="Kobjeglava">vll.19181126_702.470 vll.19181019_699.10890</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Kopriva</placeName>
+                     <location><geo>http://www.geonames.org/3197738/kopriva.html</geo></location>
+                     <idno n="Kopriva">vll.19141230_88.3082 vll.19150304_137.8742 vll.19150904_257.7360 vll.19180123_644.14828</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Kostanjevica</placeName>
+                     <location><geo>http://www.geonames.org/3197582/kostanjevica-na-krasu.html</geo></location>
+                     <idno n="Kostanjevica">vll.19160107_351.8176</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kregolišče</placeName>
+                     <location><geo>http://www.geonames.org/8989218/kregolisce.html</geo></location>
+                     <idno n="Kregolišče">v11.19180126_646.7564</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kreplje</placeName>
+                     <location><geo>http://www.geonames.org/3197300/kreplje.html</geo></location>
+                     <idno n="Kreplje">vll.19180330_664.1752</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lipa</placeName>
+                     <location><geo>http://www.geonames.org/3196545/lipa.html</geo></location>
+                     <idno n="Lipa">vll.19150915_266.4612</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Lukavec</placeName>
+                     <location><geo>http://www.geonames.org/3216556/lukovec.html</geo></location>
+                     <idno n="Lukavec">v11.19180223_654.12720</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Mihalji</placeName>
+                     <location><geo>http://www.geonames.org/3190687/skrbina.html</geo></location>
+                     <idno n="Mihalji">vll.19180323_662.8816</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Misliče</placeName>
+                     <location><geo>http://www.geonames.org/8988594/mislice.html</geo></location>
+                     <idno n="Misliče">vll.19151010_289.5448</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Naklo</placeName>
+                     <location><geo>http://www.geonames.org/8988289/naklo.html</geo></location>
+                     <idno n="Nakla">vll.19180313_659.12112</idno>
+                     <idno n="Naklo">vll.19161014_477.6628 v11.19180214_652.5240 vll.19180531_676.2036 vll.19180812_690.11128 vll.19180824_692.7198 vll.19181005_697.4074 vll.19160405_404.2278 vll.19160523_423.2402</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Orlek</placeName>
+                     <location><geo>http://www.geonames.org/3194000/orlek.html</geo></location>
+                     <idno n="Orlek">vll.19171017_618.13870</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Pliskovica</placeName>
+                     <location><geo>http://www.geonames.org/3193179/pliskovica.html</geo></location>
+                     <idno n="Pliskovica">vll.19150821_244.6248 vll.19161223_506.13428 vll.19171017_618.12828</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Podbreže</placeName>
+                     <location><geo>http://www.geonames.org/8988718/podbreze.html</geo></location>
+                     <idno n="Podbreže">vll.19181019_699.8372</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Podgrad</placeName>
+                     <placeName xml:lang="de">Schwarzenegg</placeName>
+                     <location><geo>http://www.geonames.org/3193026/podgrad-pri-vremah.html</geo></location>
+                     <idno n="Podgrad">vll.19150824_246.6188</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Povir</placeName>
+                     <location><geo>http://www.geonames.org/3192626/povir.html</geo></location>
+                     <idno n="Povir">vll.19150429_169.9670 vll.19181126_702.8804</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Rodik</placeName>
+                     <location><geo>http://www.geonames.org/3191594/rodik.html</geo></location>
+                     <idno n="Rodik">vll.19180814_691.8672</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Selo</placeName>
+                     <location><geo>http://www.geonames.org/3191149/sela.html</geo></location>
+                     <idno n="Selo">vll.19161101_485.14088 vll.19170424_559.15854</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Škrbina</placeName>
+                     <location><geo>http://www.geonames.org/3190687/skrbina.html</geo></location>
+                     <idno n="Sgrbina">vll.19150824_246.2754</idno>
+                     <idno n="Skrbina">vll.19180403_665.16688 vll.19180910_694.2698</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Šibelji</placeName>
+                     <location><geo>http://www.geonames.org/3216569/sibelji.html</geo></location>
+                     <idno n="Sibelji">v11.19180209_651.8408</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Škoflje</placeName>
+                     <location><geo>http://www.geonames.org/3190713/skoflje.html</geo></location>
+                     <idno n="Skofije">vll.19160615_431.3242</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Skopo</placeName>
+                     <location><geo>http://www.geonames.org/3190704/skopo.html</geo></location>
+                     <idno n="Skopo">vll.19150317_143.6518 vll.19150317_143.9898 vll.19160617_432.1998</idno>
+                     <idno n="Skapo">vll.19151208_331.1872</idno>
+                  </place>                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Štjak</placeName>
+                     <location><geo>http://www.geonames.org/3189849/stjak.html</geo></location>
+                     <idno n="Stjak">vll.19180411_666.16696 vll.19170430_563.9454</idno>
+                     <idno n="Štjak">vll.19180323_662.5784</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Suta</placeName>
+                     <location><geo>http://www.geonames.org/3189274/sveto.html</geo></location>
+                     <idno n="Suta">vll.19170901_609.4936 vll.19180620_681.10550</idno>
+                     <idno n="Sweta Suta">vll.19180515_674.7738</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Temnica</placeName>
+                     <location><geo>http://www.geonames.org/3189163/temnica.html</geo></location>
+                     <idno n="Temnica">vll.19150317_143.7520 vll.19150506_173.5332 vll.19160111_354.5838 vll.19170904_610.12256 vll.19181126_702.2890 vll.19180129_647.13216 vll.19180201_648.13438 vll.19180531_676.10774 vll.19180830_693.9638</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Tomaževica</placeName>
+                     <location><geo>http://www.geonames.org/3343535/tomacevica.html</geo></location>
+                     <idno n="Tomazevica">vll.19180123_644.13754</idno>
+                  </place>                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Veliki Dol</placeName>
+                     <location><geo>http://www.geonames.org/3188093/veliki-dol.html</geo></location>
+                     <idno n="Veliki Dol">vll.19180307_657.8376 v11.19180209_651.12836 v11.19180214_652.14186</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Vojščica</placeName>
+                     <location><geo>http://www.geonames.org/3187443/vojscica.html</geo></location>
+                     <idno n="Vojščica">vll.19171005_613.3772 vll.19180718_686.3886</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Zagraje</placeName>
+                     <location><geo>http://www.geonames.org/3343549/zagrajec.html</geo></location>
+                     <idno n="Zagrajc">vll.19150104_92_93.17450</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Zavrhek</placeName>
+                     <location><geo>http://www.geonames.org/3219011/zavrhek.html</geo></location>
+                     <idno n="Zavrhek">v11.19180126_646.14356</idno>
+                  </place>   
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Solkan</region>
+                  <region xml:lang="it">Salcano</region>
+                  <location><geo>http://www.geonames.org/3216508/solkan.html</geo></location>
+                  <idno n="Solkan">vll.19180328_663.8518</idno>
+                  <idno n="Salcano">vll.19150830_252.2306</idno>
+               </place> 
+               <place type="region">
+                  <region>St. Marein</region>
+                  <idno n="St. Marein">vll.19180812_690.11282</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Šmihel</region>
+                  <region xml:lang="de">Sankt Michael</region>
+                  <idno n="St. Michael">vll.19181204_703.8894</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Šent Peter</region>
+                  <region xml:lang="de">Sankt Peter</region>
+                  <region xml:lang="it">San Pietro</region>
+                  <location><geo>http://www.geonames.org/3191063/sempeter-pri-gorici.html</geo></location>
+                  <idno n="St. Peter">vll.19161206_498.2676 vll.19181204_703.1352</idno>
+               </place>               
+               <place type="region">
+                  <region xml:lang="sl">Tolmin</region>
+                  <region xml:lang="de">Tolmein</region>
+                  <region xml:lang="it">Tolmino</region>
+                  <location><geo>http://www.geonames.org/3189038/tolmin.html</geo></location>
+                  <idno n="Tolmein">vll.19141127_69.14100 vll.19141221_83.1976 vll.19150211_124.5156 vll.19150304_137.2404 vll.19150313_141.7540 vll.19150317_143.1542 vll.19150317_143.2894 vll.19150317_143.3190 vll.19150317_143.4088 vll.19150317_143.5600 vll.19150317_143.9450 vll.19150317_143.9454 vll.19150317_143.9872 vll.19150322_146.4160 vll.19150330_152.6016 vll.19150402_154.3650 vll.19150402_154.4986 vll.19150415_161.8092 vll.19150506_173.4768 vll.19150513_177.6132 vll.19150720_215.10476 vll.19150731_225.9488 vll.19150812_235.2984 vll.19150812_235.4008 vll.19150814_237.3766 vll.19150822_245.6412 vll.19150824_246.2038 vll.19150825_247.1964 vll.19150910_263.4030 vll.19150916_267.2338 vll.19150916_267.7122 vll.19151005_284.6206 vll.19151010_289.7478 vll.19151016_294.7596 vll.19151016_294.8156 vll.19151105_307.2108 vll.19151112_313.8068 vll.19151124_322.9942 vll.19151130_325.5436 vll.19151130_325.12484 vll.19151208_331.2486 vll.19160208_373.716 vll.19160401_402.7276 vll.19160427_413.14560 vll.19160516_421.12494 vll.19160701_436.1140 vll.19160701_436.10802 vll.19160722_444.2290 vll.19160722_444.12068 vll.19160722_444.13974 vll.19161223_506.2288 vll.19170324_542.6890 vll.19170329_544.3940 vll.19170329_544.5102 vll.19170329_544.8020 vll.19170417_555.3564 vll.19170417_555.11798 v11.19170418_556.1342 v11.19170418_556.4810 v11.19170418_556.10178 v11.19170418_556.11718 vll.19170423_558.4002 vll.19170424_559.6090 vll.19170424_559.14442 vll.19170430_563.2114 vll.19170430_563.6076 vll.19170430_563.9484 vll.19170507_568.3064 vll.19170507_568.9312 vll.19170507_568.11694 vll.19170731_604.5826 vll.19170731_604.9550 vll.19170731_604.10064 vll.19170901_609.8756 vll.19171005_613.2784 vll.19171005_613.5902 vll.19171005_613.6098 vll.19171005_613.9766 vll.19171005_613.11260 vll.19171005_613.13444 vll.19171017_618.3054 vll.19171017_618.3442 vll.19171017_618.6828 vll.19171017_618.7060 vll.19171017_618.9024 vll.19171113_627.6778 vll.19171121_630.4584 vll.19171121_630.6570 vll.19171121_630.7562 vll.19171121_630.13412 vll.19171130_632.2030 vll.19171220_637.8716 vll.19180118_643.8126 vll.19180118_643.9120 vll.19180123_644.12546 vll.19180123_644.14664 vll.19180124_645.7440 v11.19180209_651.13520 vll.19180307_657.4732 vll.19180313_659.4482 vll.19180319_661.10830 vll.19180323_662.3560 vll.19180330_664.11442 vll.19180330_664.11502 vll.19180403_665.6530 vll.19180419_668.6192 vll.19180419_668.6836 vll.19180419_668.6976 vll.19180419_668.14588 vll.19180419_668.16886 vll.19180424_669.5514 vll.19180429_670.17946 vll.19180515_674.2606 vll.19180603_677.8178 vll.19180603_677.8324 vll.19180603_677.12450 vll.19180628_683.2422 vll.19180709_684.14484 vll.19180723_687.2382 vll.19180723_687.8936 vll.19180814_691.5324 vll.19180814_691.13662 vll.19180814_691.14608 vll.19180824_692.6114 vll.19180824_692.7050 vll.19180824_692.16070 vll.19180910_694.10648 vll.19181005_697.4002 vll.19181005_697.4038 vll.19181019_699.16386 vll.19181105_700.19014 vll.19181111_701.4076 vll.19181111_701.6134 vll.19181111_701.7294 vll.19181126_702.3282 vll.19181126_702.17622 vll.19181219_705.2796 vll.19190129_708.16430 vll.19171108_626.2012 vll.19171108_626.4464 vll.19171108_626.7274 vll.19171220_637.6022 vll.19180124_645.2304 vll.19180124_645.13368 vll.19180129_647.1714 vll.19180129_647.2098 vll.19180129_647.6030 vll.19180129_647.7168 vll.19180129_647.7304 vll.19180204_649.8902 v11.19180209_651.9894 vll.19180315_660.4870 vll.19180403_665.15416 vll.19180419_668.7896 vll.19180429_670.7224 vll.19180511_672.11350 vll.19180613_680.8968 vll.19180620_681.4392 vll.19180709_684.6954 vll.19180713_685.9304 vll.19180713_685.12306 vll.19180723_687.3338 vll.19180723_687.6084 vll.19180723_687.6532 vll.19180723_687.6832 vll.19180723_687.9246 vll.19180723_687.10050 vll.19180812_690.6044 vll.19180824_692.7280 vll.19180824_692.10140 vll.19180830_693.6142 vll.19180928_695.4142 vll.19180928_695.5932 vll.19181105_700.15276 vll.19181219_705.2404 vll.19150916_267.1300 vll.19150925_274.9502 vll.19151112_313.1176 vll.19151112_313.2988 vll.19160401_402.4952</idno>
+                  <idno n="Toimein">vll.19151007_286.672</idno>
+                  <idno n="Tolmein. Soca">vll.19180625_682.14326</idno>
+                  <idno n="Tolmein. Zadlaz">vll.19180610_679.2156</idno>
+                  <idno n="Tolmiin">vll.19170904_610.8802</idno>    
+                  <place type="settlement">
+                     <settlement>Boocz</settlement>
+                     <idno n="Boocz">vll.19160427_413.14560</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Breginj</placeName>
+                     <placeName xml:lang="it">Bergogna</placeName>
+                     <location><geo>http://www.geonames.org/3203471/breginj.html</geo></location>
+                     <idno n="Bregine">vll.19180628_683.2422</idno>
+                     <idno n="Breginj">vll.19170324_542.6890 vll.19171005_613.9766 vll.19180511_672.11350</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Log</placeName>
+                     <placeName xml:lang="de">Breth</placeName>
+                     <location><geo>http://www.geonames.org/3196282/log-pod-mangartom.html</geo></location>
+                     <idno n="Breth">vll.19180515_674.2606 vll.19180824_692.10140</idno>
+                     <idno n="Preth">vll.19150824_246.2038</idno>
+                  </place>
+                  <place type="settlement" subtype="sodni">
+                     <placeName xml:lang="sl">Cerkno</placeName>
+                     <placeName xml:lang="de">Kirchheim</placeName>
+                     <placeName xml:lang="it">Circhina</placeName>
+                     <location><geo>http://www.geonames.org/3218364/cerkno.html</geo></location>
+                     <idno n="Cerkno">vll.19151124_322.9942 vll.19171113_627.6778 vll.19180315_660.4870 vll.19180713_685.12306</idno>
+                     <idno n="Zerkna">vll.19180124_645.7440</idno>
+                     <idno n="Kirchheim">vll.19141127_69.14100 vll.19150415_161.8092 vll.19150731_225.9488 vll.19150812_235.2984 vll.19160516_421.12494 vll.19170430_563.2114 vll.19171017_618.9024 vll.19180419_668.14588 vll.19180723_687.2382 vll.19181126_702.17622 vll.19180129_647.1714 vll.19180709_684.6954</idno>
+                  </place>                  
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Čadra</placeName>
+                     <location><geo>http://www.geonames.org/3202910/zadlaz-cadrg.html</geo></location>
+                     <idno n="Codra">vll.19151112_313.8068</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Drežnica</placeName>
+                     <location><geo>http://www.geonames.org/3201196/dreznica.html</geo></location>
+                     <idno n="Drežnica">vll.19170731_604.10064 vll.19181111_701.6134 vll.19160401_402.4952</idno>
+                  </place>
+                  <place type="settlement" subtype="sodni">
+                     <placeName xml:lang="sl">Bovec</placeName>
+                     <placeName xml:lang="de">Flitsch</placeName>
+                     <placeName xml:lang="it">Plezzo</placeName>
+                     <location><geo>http://www.geonames.org/3203611/bovec.html</geo></location>
+                     <idno n="Flitsch">vll.19150304_137.2404 vll.19150330_152.6016 vll.19160401_402.7276 vll.19180319_661.10830 vll.19180429_670.7224 vll.19180830_693.6142</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Gabrije</placeName>
+                     <location><geo>http://www.geonames.org/3200781/gabrje.html</geo></location>
+                     <idno n="Gaberje">vll.19181219_705.2404</idno>
+                     <idno n="Gabrje">vll.19171121_630.4584</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Grahovo</placeName>
+                     <location><geo>http://www.geonames.org/3199666/grahovo-ob-baci.html</geo></location>
+                     <idno n="Grahovo">vll.19141221_83.1976 vll.19150317_143.1542 vll.19150720_215.10476 vll.19151208_331.2486 vll.19170417_555.3564 v11.19170418_556.10178 vll.19170424_559.6090 vll.19170901_609.8756 vll.19171017_618.7060 vll.19180123_644.14664 vll.19181105_700.19014 vll.19150916_267.1300</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Idersko</placeName>
+                     <location><geo>http://www.geonames.org/3199164/idrsko.html</geo></location>
+                     <idno n="Iderska">vll.19150925_274.9502</idno>
+                     <idno n="Idersko">vll.19170430_563.6076</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kal</placeName>
+                     <idno n="Kal">vll.19180429_670.17946 vll.19180403_665.15416</idno>
+                  </place>
+                  <place type="settlement" subtype="sodni">
+                     <placeName xml:lang="sl">Kobarid</placeName>
+                     <placeName xml:lang="de">Karfreit</placeName>
+                     <placeName xml:lang="it">Caporetto</placeName>
+                     <location><geo>http://www.geonames.org/3197983/kobarid.html</geo></location>
+                     <idno n="Karfreit">vll.19170329_544.8020 vll.19170423_558.4002 vll.19171005_613.11260 vll.19181005_697.4038 vll.19181111_701.4076 vll.19180613_680.8968</idno>
+                     <idno n="Kobarid">vll.19151005_284.6206 vll.19171005_613.13444</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Kneža</placeName>
+                     <location><geo>http://www.geonames.org/3198006/kneza.html</geo></location>
+                     <idno n="Kneža">vll.19180204_649.8902</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Kred</placeName>
+                     <location><geo>http://www.geonames.org/8987605/kred.html</geo></location>
+                     <idno n="Kred">vll.19151016_294.7596 vll.19180424_669.5514</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Libušnje</placeName>
+                     <location><geo>http://www.geonames.org/3196607/libusnje.html</geo></location>
+                     <idno n="Libanje">vll.19180723_687.3338</idno>
+                     <idno n="Libunje">vll.19170417_555.11798</idno>
+                     <idno n="Libusnje">vll.19150317_143.5600</idno>
+                     <idno n="Libusuje">vll.19160701_436.1140</idno>
+                     <idno n="Libušnje">vll.19150317_143.2894 vll.19150317_143.3190 vll.19150513_177.6132 vll.19151016_294.8156 v11.19170418_556.11718 vll.19171017_618.3054 vll.19180313_659.4482</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Livek</placeName>
+                     <placeName xml:lang="it">Luico</placeName>
+                     <location><geo>http://www.geonames.org/3196416/livek.html</geo></location>
+                     <idno n="Lirek">vll.19150916_267.2338</idno>
+                     <idno n="Livek">vll.19180723_687.9246</idno>
+                     <idno n="Laico">vll.19150322_146.4160</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Logaršče</placeName>
+                     <location><geo>http://www.geonames.org/3196290/logarsce.html</geo></location>
+                     <idno n="Logarsče Ge. Ponikve">vll.19151130_325.12484</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Logje</placeName>
+                     <location><geo>http://www.geonames.org/3196286/logje.html</geo></location>
+                     <idno n="Logje">vll.19180124_645.2304</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Logra</settlement>
+                     <idno n="Logra">vll.19160722_444.12068</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Modreja</placeName>
+                     <location><geo>http://www.geonames.org/8987044/modrej.html</geo></location>
+                     <idno n="Modreja">vll.19180812_690.6044</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Pečine</placeName>
+                     <location><geo>http://www.geonames.org/8987408/pecine.html</geo></location>
+                     <idno n="Pečine">v11.19180209_651.13520</idno>
+                     <idno n="Teschine">vll.19161223_506.2288</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Planina</placeName>
+                     <location><geo>http://www.geonames.org/3193254/planina-pri-cerknem.html</geo></location>
+                     <idno n="Planina">vll.19180814_691.5324</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Plužne</placeName>
+                     <idno n="Plužne">vll.19180129_647.7304</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Podbrdo</placeName>
+                     <idno n="Podbrdo">vll.19170329_544.3940 vll.19180824_692.7050 vll.19180713_685.9304</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Ponikve</placeName>
+                     <location><geo>http://www.geonames.org/3192741/ponikve.html</geo></location>
+                     <idno n="Ponikve">v11.19170418_556.4810 vll.19171017_618.3442 vll.19171121_630.7562 vll.19180307_657.4732 vll.19180419_668.6192 vll.19180603_677.8178</idno>
+                     <idno n="Ponikve">vll.19170904_610.8802</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Reka</placeName>
+                     <location><geo>http://www.geonames.org/3191750/reka.html</geo></location>
+                     <idno n="Reka">vll.19180419_668.6976</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Saiko</settlement>
+                     <idno n="Saiko">vll.19150812_235.4008</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Šebrelje</placeName>
+                     <location><geo>http://www.geonames.org/3191189/sebrelje.html</geo></location>
+                     <idno n="Schebrelle">vll.19151130_325.5436</idno>
+                     <idno n="Sebrelje">vll.19150317_143.9454 vll.19171005_613.2784 vll.19180323_662.3560 vll.19181111_701.7294</idno>
+                     <idno n="Tebrelje">vll.19170507_568.3064</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Sedlo</placeName>
+                     <location><geo>http://www.geonames.org/3191176/sedlo.html</geo></location>
+                     <idno n="Sedlo">v11.19170418_556.1342 vll.19170731_604.5826</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Slap</placeName>
+                     <location><geo>http://www.geonames.org/3190631/slap-ob-idrijci.html</geo></location>
+                     <idno n="Slap">vll.19180118_643.8126 vll.19181005_697.4002</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Soča</placeName>
+                     <location><geo>http://www.geonames.org/3190405/soca.html</geo></location>
+                     <idno n="Soča">vll.19180129_647.2098</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Sveta Lucija</placeName>
+                     <placeName xml:lang="de">Sankt Luzia</placeName>
+                     <location><geo>http://www.geonames.org/3194818/most-na-soci.html</geo></location>
+                     <idno n="St. Lucia">vll.19180124_645.13368 vll.19180723_687.6832</idno>
+                     <idno n="St. Lucian">vll.19180123_644.12546</idno>
+                     <idno n="St. Luzia">vll.19150313_141.7540 vll.19150910_263.4030 vll.19170430_563.9484 vll.19171121_630.6570 vll.19180709_684.14484</idno>
+                     <idno n="Sankt Luzia">vll.19171005_613.6098</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Svetoviška Gora</placeName>
+                     <placeName xml:lang="de">Sankt Veitsberg</placeName>
+                     <location><geo>http://www.geonames.org/3191017/sentviska-gora.html</geo></location>
+                     <idno n="St. Veitsberg">vll.19150317_143.9872 vll.19150402_154.3650 vll.19150402_154.4986 vll.19180330_664.11442 vll.19180403_665.6530</idno>
+                     <idno n="St. Voitsberg">vll.19180824_692.16070</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Stržišče</placeName>
+                     <location><geo>http://www.geonames.org/3189661/strzisce.html</geo></location>
+                     <idno n="Strzišče">vll.19171017_618.6828</idno>
+                     <idno n="Strčišče">vll.19171005_613.5902</idno>
+                     <idno n="Stržišče">vll.19180419_668.7896</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Trenta</placeName>
+                     <location><geo>http://www.geonames.org/3188874/trenta.html</geo></location>
+                     <idno n="Trenta">vll.19180118_643.9120 vll.19180824_692.7280</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Trnovo</placeName>
+                     <location><geo>http://www.geonames.org/3188768/trnovo-ob-soci.html</geo></location>
+                     <idno n="Trnovo">vll.19170507_568.11694 vll.19180814_691.14608</idno>
+                     <idno n="Tnnow">vll.19151112_313.2988</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Spodnji Log</placeName>
+                     <placeName xml:lang="de">Unterbreth</placeName>
+                     <location><geo>http://www.geonames.org/3196282/log-pod-mangartom.html</geo></location>
+                     <idno n="Unterbreth">vll.19160722_444.2290</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Vastraza</settlement>
+                     <idno n="Vastraza">vll.19151010_289.7478</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Volče</placeName>
+                     <placeName xml:lang="de">Woltschach</placeName>
+                     <placeName xml:lang="it">Volzana</placeName>
+                     <location><geo>http://www.geonames.org/3187429/volce.html</geo></location>
+                     <idno n="Volce">vll.19180814_691.13662</idno>
+                     <idno n="Voltschach">vll.19150317_143.4088</idno>
+                     <idno n="Volče">vll.19180419_668.6836 vll.19180603_677.12450 vll.19171108_626.2012 vll.19180620_681.4392</idno>
+                     <idno n="Woltschach">vll.19171121_630.13412 vll.19180419_668.16886 vll.19171108_626.4464</idno>
+                     <idno n="Woltschah">vll.19150506_173.4768</idno>
+                     <idno n="Woltschach">vll.19151007_286.672</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Žabče</placeName>
+                     <location><geo>http://www.geonames.org/3189038/tolmin.html</geo></location>
+                     <idno n="Zabče">vll.19171220_637.8716</idno>
+                  </place>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Žaga</placeName>
+                     <location><geo>http://www.geonames.org/3186940/zaga.html</geo></location>
+                     <idno n="Zaga">vll.19150916_267.7122 vll.19151112_313.1176</idno>
+                     <idno n="Žaga">vll.19160722_444.13974</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Zatolmin</placeName>
+                     <location><geo>http://www.geonames.org/8987012/zatolmin.html</geo></location>
+                     <idno n="Zatenin">vll.19150814_237.3766</idno>
+                     <idno n="Zatolmein">vll.19181019_699.16386</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Zderska</settlement>
+                     <idno n="Zderska">vll.19160701_436.10802</idno>
+                  </place>
+                  <place type="settlement">
+                     <settlement>Zdrsko</settlement>
+                     <idno n="Zdrsko">vll.19150822_245.6412</idno>
+                  </place>                  
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Čezsoča</placeName>
+                     <location><geo>http://www.geonames.org/3202631/cezsoca.html</geo></location>
+                     <idno n="Čersoča">vll.19170424_559.14442</idno>
+                     <idno n="Cezsca">vll.19151105_307.2108</idno>
+                  </place>
+                  <place type="settlement">
+                     <placeName xml:lang="sl">Čezsoški Log</placeName>
+                     <location><geo>http://www.geonames.org/3196287/log-cezsoski.html</geo></location>
+                     <idno n="Čezsoški">vll.19180723_687.10050</idno>
+                  </place>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Tomaj</region>
+                  <location><geo>http://www.geonames.org/3189024/tomaj.html</geo></location>
+                  <idno n="Tomaj">vll.19180610_679.12318</idno>
+               </place>
+               <place type="region" subtype="občina">
+                  <region xml:lang="sl">Gorenja Tribuša</region>
+                  <location><geo>http://www.geonames.org/3200384/gorenja-trebusa.html</geo></location>
+                  <idno n="Tribuša">vll.19180429_670.8090</idno>
+                  <place type="settlement" subtype="občina">
+                     <placeName xml:lang="sl">Gorenja Tribuša</placeName>
+                     <location><geo>http://www.geonames.org/3200384/gorenja-trebusa.html</geo></location>
+                     <idno n="Gorenja">vll.19180429_670.8090</idno>
+                  </place>
+               </place>
+                              
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
