@@ -1,95 +1,3 @@
-@@ -141,7 +141,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Cilli</region>
-                  <settlement>Skommem</settlement>
-                  <settlement>Skommern</settlement>
-                  <date>1883</date>
-               </birth>
-               <event type="death">
-@ -1825,7 +1825,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Cilli Umgebung</region>
-                  <settlement>Fasslau</settlement>
-                  <settlement>Fraßlau</settlement>
-               </birth>
-               <event type="death">
-                  <label>tot.</label>
-@ -2925,7 +2925,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Cilli</region>
-                  <settlement>Groß Pircschitz</settlement>
-                  <settlement>Groß Pireschitz</settlement>
-                  <date>1887</date>
-               </birth>
-               <event type="wounded">
-@ -3708,7 +3708,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Cilli</region>
-                  <settlement>Pletrovitsch</settlement>
-                  <settlement>Pletrowitsch</settlement>
-                  <date>1887</date>
-               </birth>
-               <event type="death">
-@ -3744,7 +3744,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Gonobitz</region>
-                  <settlement>Oplonitz</settlement>
-                  <settlement>Oplotnitz</settlement>
-                  <date>1886</date>
-               </birth>
-               <event type="wounded">
-@ -4550,7 +4550,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Cilli</region>
-                  <settlement>Wolschna</settlement>
-                  <settlement>Wotschna</settlement>
-               </birth>
-               <event type="wounded">
-                  <label>verw.</label>
-@ -4638,7 +4638,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Cilli</region>
-                  <settlement>Umgebung</settlement>
-                  <settlement>Cilli Umgebung</settlement>
-                  <date>1881</date>
-               </birth>
-               <event type="wounded">
-@ -4984,7 +4984,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Gonobitz</region>
-                  <settlement>Unter-Dollitsch</settlement>
-                  <settlement>Unter Dolitsch</settlement>
-                  <date>1890</date>
-               </birth>
-               <event type="pow">
-@ -5040,8 +5040,8 @@
-               <affiliation>IR. Nr. 57, 5. Komp.</affiliation>
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Gonobitz</region>
-                  <settlement>Ung. Gonobitz</settlement>
-                  <region>Gonobitz Umg.</region>
-                  <settlement>Gonobitz</settlement>
-                  <date>1882</date>
-               </birth>
-               <event type="pow">
-@ -6359,7 +6359,7 @@
-               <birth>
-                  <country>Steiermark</country>
-                  <region>Gonobitz</region>
-                  <settlement>Unter-Dollitsch</settlement>
-                  <settlement>Unter Dolitsch</settlement>
-                  <date>1887</date>
-               </birth>
-               <event type="pow">
 @ -6489,7 +6489,7 @@
                <affiliation>IR. Nr. 35, 2. Komp.</affiliation>
                <birth>
@@ -139,8 +47,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß Perisek</settlement>
-                  <settlement>Groß Pireschitz</settlement>
+                  <settlement>Gro Perisek</settlement>
+                  <settlement>Gro Pireschitz</settlement>
                   <date>1875</date>
                </birth>
                <event type="wounded">
@@ -154,7 +62,7 @@
                </birth>
                <event type="wounded">
 @ -10892,8 +10892,8 @@
-               <affiliation>ArbInstr., KMar., S. M. S. „Zenta", MatrKorps. 9. Komp.</affiliation>
+               <affiliation>ArbInstr., KMar., S. M. S. Zenta", MatrKorps. 9. Komp.</affiliation>
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
@@ -168,8 +76,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Zreèje</settlement>
-                  <settlement>Zreèe</settlement>
+                  <settlement>Zreje</settlement>
+                  <settlement>Zree</settlement>
                   <date>1882</date>
                </birth>
                <event type="wounded">
@@ -178,7 +86,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Grucoje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1883</date>
                </birth>
                <event type="wounded">
@@ -196,7 +104,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1880</date>
                </birth>
                <event type="wounded">
@@ -223,7 +131,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1883</date>
                </birth>
                <event type="wounded">
@@ -250,7 +158,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1890</date>
                </birth>
                <event type="pow">
@@ -259,7 +167,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="pow">
@@ -303,8 +211,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß Pircschetz</settlement>
-                  <settlement>Groß Pireschitz</settlement>
+                  <settlement>Gro Pircschetz</settlement>
+                  <settlement>Gro Pireschitz</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -312,8 +220,8 @@
                <affiliation>IR. Nr. 47 statt MarschB. Nr.47, 2. Marschkomp., statt 2. Komp.</affiliation>
                <birth>
                   <country>Steiermark</country>
-                  <region>Pöltschachj</region>
-                  <region>Pöltschach</region>
+                  <region>Pltschachj</region>
+                  <region>Pltschach</region>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -358,7 +266,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1887</date>
                </birth>
                <event type="pow">
@@ -394,7 +302,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Kirchstetten</settlement>
-                  <settlement>Kirchstätten</settlement>
+                  <settlement>Kirchsttten</settlement>
                   <date>1893</date>
                </birth>
                <event type="wounded">
@@ -413,8 +321,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Breslovèe</settlement>
-                  <settlement>Braslovèe</settlement>
+                  <settlement>Breslove</settlement>
+                  <settlement>Braslove</settlement>
                   <date>1874</date>
                </birth>
                <event type="wounded">
@@ -422,8 +330,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartlmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartlm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1891</date>
                </birth>
                <event type="wounded">
@@ -477,7 +385,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1888</date>
                </birth>
                <event type="wounded">
@@ -485,8 +393,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
-                  <settlement>Tüthern</settlement>
-                  <settlement>Tüchern</settlement>
+                  <settlement>Tthern</settlement>
+                  <settlement>Tchern</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -533,9 +441,9 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Umgebung, St. Bartholomä</settlement>
+                  <settlement>Umgebung, St. Bartholom</settlement>
                   <region>Cilli Umgebung</region>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1881</date>
                </birth>
                <event type="wounded">
@@ -600,7 +508,7 @@
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
                   <settlement>Wollan</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1886</date>
                </birth>
                <event type="pow">
@@ -662,8 +570,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartlmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartlm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1892</date>
                </birth>
                <event type="pow">
@@ -680,8 +588,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Wind. Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="pow">
@@ -776,8 +684,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Ulaèe</settlement>
-                  <settlement>Mlaèe</settlement>
+                  <settlement>Ulae</settlement>
+                  <settlement>Mlae</settlement>
                   <date>1888</date>
                </birth>
                <event type="death">
@@ -785,8 +693,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Ulaèe</settlement>
-                  <settlement>Mlaèe</settlement>
+                  <settlement>Ulae</settlement>
+                  <settlement>Mlae</settlement>
                   <date>1888</date>
                </birth>
                <event type="wounded">
@@ -831,7 +739,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Tuffer</settlement>
-                  <settlement>Tüffer</settlement>
+                  <settlement>Tffer</settlement>
                   <date>1887</date>
                </birth>
                <event type="pow">
@@ -884,8 +792,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Mark Tüffer</settlement>
-                  <settlement>Markt Tüffer</settlement>
+                  <settlement>Mark Tffer</settlement>
+                  <settlement>Markt Tffer</settlement>
                   <date>1878</date>
                </birth>
                <event type="death">
@@ -912,7 +820,7 @@
                   <country>Steiermark</country>
                   <region>Franz</region>
                   <settlement>Fraslo</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="death">
@@ -938,8 +846,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Lubeèno</settlement>
-                  <settlement>Ljubeèna</settlement>
+                  <settlement>Lubeno</settlement>
+                  <settlement>Ljubena</settlement>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -948,7 +856,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -957,7 +865,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -974,8 +882,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Bersschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Bersschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1884</date>
                </birth>
                <event type="wounded">
@@ -993,7 +901,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1886</date>
                </birth>
                <event type="pow">
@@ -1028,8 +936,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Pirschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Pirschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -1079,7 +987,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1893</date>
                </birth>
                <event type="pow">
@@ -1105,8 +1013,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="pow">
@@ -1115,7 +1023,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Tuchern</settlement>
-                  <settlement>Tüchern</settlement>
+                  <settlement>Tchern</settlement>
                   <date>1886</date>
                </birth>
                <event type="pow">
@@ -1124,7 +1032,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Smartno</settlement>
-                  <settlement>Šmartno</settlement>
+                  <settlement>martno</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -1196,7 +1104,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1891</date>
                </birth>
                <event type="pow">
@@ -1215,8 +1123,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1896</date>
                </birth>
                <event type="pow">
@@ -1234,7 +1142,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1892</date>
                </birth>
                <event type="pow">
@@ -1243,7 +1151,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Tuffer</settlement>
-                  <settlement>Tüffer</settlement>
+                  <settlement>Tffer</settlement>
                   <date>1887</date>
                </birth>
                <event type="pow">
@@ -1296,8 +1204,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Peter im Bärental</settlement>
-                  <settlement>St. Peter im Bärenthale</settlement>
+                  <settlement>St. Peter im Brental</settlement>
+                  <settlement>St. Peter im Brenthale</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -1332,7 +1240,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Šibika</settlement>
+                  <settlement>ibika</settlement>
                   <settlement>Sibika</settlement>
                   <date>1881</date>
                </birth>
@@ -1342,7 +1250,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1891</date>
                </birth>
                <event type="pow">
@@ -1379,8 +1287,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli Umg.</region>
-                  <settlement>Groß Piresehitz</settlement>
-                  <settlement>Groß Pireschitz</settlement>
+                  <settlement>Gro Piresehitz</settlement>
+                  <settlement>Gro Pireschitz</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -1388,7 +1296,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
-                  <settlement>Wotschnä</settlement>
+                  <settlement>Wotschn</settlement>
                   <settlement>Wotschna</settlement>
                   <date>1881</date>
                </birth>
@@ -1470,7 +1378,7 @@
                   <country>Steiermark</country>
                   <region>Franz</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -1487,8 +1395,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1882</date>
                </birth>
                <event type="wounded">
@@ -1523,8 +1431,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -1551,7 +1459,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1893</date>
                </birth>
                <event type="death">
@@ -1559,8 +1467,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Pameæ</settlement>
-                  <settlement>Pameèe</settlement>
+                  <settlement>Pame</settlement>
+                  <settlement>Pamee</settlement>
                   <date>1882</date>
                </birth>
                <event type="wounded">
@@ -1586,8 +1494,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wölan</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wlan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1882</date>
                </birth>
                <event type="wounded">
@@ -1686,7 +1594,7 @@
                   <country>Steiermark</country>
                   <region>Pettau</region>
                   <settlement>Vischanec</settlement>
-                  <settlement>Vièanec</settlement>
+                  <settlement>Vianec</settlement>
                   <date>1887</date>
                </birth>
                <event type="wounded">
@@ -1695,7 +1603,7 @@
                   <country>Steiermark</country>
                   <region>Friedau</region>
                   <settlement>Vischanec</settlement>
-                  <settlement>Vièanec</settlement>
+                  <settlement>Vianec</settlement>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -1739,8 +1647,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Ostroèno</settlement>
-                  <settlement>Ostrožno</settlement>
+                  <settlement>Ostrono</settlement>
+                  <settlement>Ostrono</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -1748,8 +1656,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Kirschstätten</settlement>
-                  <settlement>Kirchstätten</settlement>
+                  <settlement>Kirschsttten</settlement>
+                  <settlement>Kirchsttten</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -1758,7 +1666,7 @@
                   <country>Steiermark</country>
                   <region>Friedau</region>
                   <settlement>ViSanee</settlement>
-                  <settlement>Vièanec</settlement>
+                  <settlement>Vianec</settlement>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -1767,7 +1675,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1894</date>
                </birth>
                <event type="death">
@@ -1776,7 +1684,7 @@
                   <country>Steiermark</country>
                   <region>Rann</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -1821,7 +1729,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -1829,8 +1737,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartholmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -1838,8 +1746,8 @@
                     source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150830&amp;seite=50&amp;zoom=33">
                <persName>
                   <surname>Ziekar</surname>
-                  <forename>Bartholomäus</forename>
-                  <forename>Bartholomä</forename>
+                  <forename>Bartholomus</forename>
+                  <forename>Bartholom</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 87, 4. Komp.</affiliation>
@@ -1857,7 +1765,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Bresce</region>
-                  <region>Brežice</region>
+                  <region>Breice</region>
                   <settlement>Bojsno</settlement>
                   <date>1892</date>
                </birth>
@@ -1875,7 +1783,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Brezica</region>
-                  <region>Brežice</region>
+                  <region>Breice</region>
                   <settlement>Reichenberg</settlement>
                   <date>1892</date>
                </birth>
@@ -1902,7 +1810,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Grusovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -1937,8 +1845,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Peter i. Bärental</settlement>
-                  <settlement>St. Peter im Bärenthale</settlement>
+                  <settlement>St. Peter i. Brental</settlement>
+                  <settlement>St. Peter im Brenthale</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -1983,7 +1891,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -2028,7 +1936,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Cadran</settlement>
-                  <settlement>Èadram</settlement>
+                  <settlement>adram</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -2099,8 +2007,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Unterkölimg</settlement>
-                  <settlement>Unterkötting</settlement>
+                  <settlement>Unterklimg</settlement>
+                  <settlement>Unterktting</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2127,7 +2035,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Jurkloster</settlement>
-                  <settlement>Jurklošter</settlement>
+                  <settlement>Jurkloter</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -2145,7 +2053,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -2217,7 +2125,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Braslovce</settlement>
-                  <settlement>Braslovèe</settlement>
+                  <settlement>Braslove</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -2262,7 +2170,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Jurkloster</settlement>
-                  <settlement>Jurklošter</settlement>
+                  <settlement>Jurkloter</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2270,8 +2178,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartholmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1895</date>
                </birth>
                <event type="death">
@@ -2334,7 +2242,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>UnterDolitsch</settlement>
-                  <settlement>Unter Doliè</settlement>
+                  <settlement>Unter Doli</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2343,7 +2251,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Gmsovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2361,7 +2269,7 @@
                   <country>Steiermark</country>
                   <region>Franz</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2414,8 +2322,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartlmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartlm</settlement>
+                  <settlement>St. Bartholom</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -2424,7 +2332,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -2433,7 +2341,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -2459,8 +2367,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Boèno</settlement>
-                  <settlement>Boèna</settlement>
+                  <settlement>Bono</settlement>
+                  <settlement>Bona</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2487,7 +2395,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1893</date>
                </birth>
                <event type="wounded">
@@ -2496,7 +2404,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -2648,8 +2556,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1879</date>
                </birth>
                <event type="pow">
@@ -2657,8 +2565,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß Piresrhitz</settlement>
-                  <settlement>Groß Pireschitz</settlement>
+                  <settlement>Gro Piresrhitz</settlement>
+                  <settlement>Gro Pireschitz</settlement>
                   <date>1881</date>
                </birth>
                <event type="pow">
@@ -2669,7 +2577,7 @@
                   <region>Cilli</region>
                   <settlement>Umgebung, Frasslau</settlement>
                   <region>Cilli Umgebung</region>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="pow">
@@ -2687,7 +2595,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -2695,8 +2603,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Rieschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Rieschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1891</date>
                </birth>
                <event type="pow">
@@ -2705,7 +2613,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -2714,7 +2622,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -2778,8 +2686,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Unter-Doliè</settlement>
-                  <settlement>Unter Doliè</settlement>
+                  <settlement>Unter-Doli</settlement>
+                  <settlement>Unter Doli</settlement>
                   <date>1878</date>
                </birth>
                <event type="death">
@@ -2797,7 +2705,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Dobernes</settlement>
-                  <settlement>Doberneš</settlement>
+                  <settlement>Doberne</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -2824,7 +2732,7 @@
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
                   <settlement>Wollan</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1891</date>
                </birth>
                <event type="wounded">
@@ -2877,8 +2785,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1891</date>
                </birth>
                <event type="death">
@@ -2922,8 +2830,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Unter-Doliè</settlement>
-                  <settlement>Unter Doliè</settlement>
+                  <settlement>Unter-Doli</settlement>
+                  <settlement>Unter Doli</settlement>
                   <date>1891</date>
                </birth>
                <event type="wounded">
@@ -2959,7 +2867,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Grize</settlement>
-                  <settlement>Griže</settlement>
+                  <settlement>Grie</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -3023,15 +2931,15 @@
                   <country>Steiermark</country>
                   <region>Cilli U.</region>
                   <region>Cilli Umg.</region>
-                  <settlement>Süssenberg</settlement>
+                  <settlement>Sssenberg</settlement>
                   <date>1893</date>
                </birth>
 @ -120408,7 +120408,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Wind. Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="pow">
@@ -3039,8 +2947,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="pow">
@@ -3085,7 +2993,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1891</date>
                </birth>
                <event type="death">
@@ -3094,7 +3002,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Jurkloster</settlement>
-                  <settlement>Jurklošter</settlement>
+                  <settlement>Jurkloter</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -3102,7 +3010,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Fräsen</settlement>
+                  <settlement>Frsen</settlement>
                   <settlement>Fresen</settlement>
                   <date>1885</date>
                </birth>
@@ -3112,7 +3020,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frassberg</settlement>
-                  <settlement>Praßberg</settlement>
+                  <settlement>Praberg</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -3201,8 +3109,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Dörenbüchel</settlement>
-                  <settlement>Dornbüchl</settlement>
+                  <settlement>Drenbchel</settlement>
+                  <settlement>Dornbchl</settlement>
                   <date>1882</date>
                </birth>
                <event type="wounded">
@@ -3228,8 +3136,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Solèova</settlement>
-                  <settlement>Solèava</settlement>
+                  <settlement>Solova</settlement>
+                  <settlement>Solava</settlement>
                   <date>1893</date>
                </birth>
                <event type="wounded">
@@ -3254,9 +3162,9 @@
 @ -128016,7 +128016,7 @@
                     source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151215&amp;seite=41&amp;zoom=33">
                <persName>
-                  <surname>Šerluga</surname>
-                  <forename>Bartlmä</forename>
-                  <forename>Bartholomä</forename>
+                  <surname>erluga</surname>
+                  <forename>Bartlm</forename>
+                  <forename>Bartholom</forename>
                </persName>
                <socecStatus>Inft.</socecStatus>
                <affiliation>IR. Nr. 17, 9. Komp.</affiliation>
@@ -3265,7 +3173,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Braslovce</settlement>
-                  <settlement>Braslovèe</settlement>
+                  <settlement>Braslove</settlement>
                   <date>1893</date>
                </birth>
                <event type="wounded">
@@ -3273,8 +3181,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Bartlmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartlm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1884</date>
                </birth>
                <event type="wounded">
@@ -3292,7 +3200,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Ostrozno</settlement>
-                  <settlement>Ostrožno</settlement>
+                  <settlement>Ostrono</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -3301,7 +3209,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -3310,7 +3218,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -3327,7 +3235,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Št. Marein b, C.</settlement>
+                  <settlement>t. Marein b, C.</settlement>
                   <settlement>St. Marein b. E.</settlement>
                   <date>1895</date>
                </birth>
@@ -3354,8 +3262,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Luše</settlement>
-                  <settlement>Luèe</settlement>
+                  <settlement>Lue</settlement>
+                  <settlement>Lue</settlement>
                </birth>
                <event type="wounded">
                   <label>verw.</label>
@@ -3454,7 +3362,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Grusovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1893</date>
                </birth>
                <event type="death">
@@ -3463,7 +3371,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Jurkloster</settlement>
-                  <settlement>Jurklošter</settlement>
+                  <settlement>Jurkloter</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -3526,7 +3434,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Dolican</settlement>
-                  <settlement>Doliè</settlement>
+                  <settlement>Doli</settlement>
                   <date>1884</date>
                </birth>
                <event type="wounded">
@@ -3552,8 +3460,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß Pischätz</settlement>
-                  <settlement>Groß Pireschitz</settlement>
+                  <settlement>Gro Pischtz</settlement>
+                  <settlement>Gro Pireschitz</settlement>
                   <date>1891</date>
                </birth>
                <event type="wounded">
@@ -3570,8 +3478,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartholmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -3615,8 +3523,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Großpirreschitz</settlement>
-                  <settlement>Großpireschitz</settlement>
+                  <settlement>Gropirreschitz</settlement>
+                  <settlement>Gropireschitz</settlement>
                   <date>1887</date>
                </birth>
                <event type="wounded">
@@ -3633,8 +3541,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Višjavas</settlement>
-                  <settlement>Višja vas</settlement>
+                  <settlement>Vijavas</settlement>
+                  <settlement>Vija vas</settlement>
                   <date>1894</date>
                </birth>
                <event type="pow">
@@ -3660,8 +3568,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Piräschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Pirschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -3669,7 +3577,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Piräschitz</settlement>
+                  <settlement>Pirschitz</settlement>
                   <settlement>Pireschitz</settlement>
                   <date>1884</date>
                </birth>
@@ -3697,7 +3605,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1893</date>
                </birth>
                <event type="wounded">
@@ -3706,7 +3614,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -3724,7 +3632,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Luce</settlement>
-                  <settlement>Luèe</settlement>
+                  <settlement>Lue</settlement>
                   <date>1881</date>
                </birth>
                <event type="death">
@@ -3842,8 +3750,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
-                  <settlement>GroßPircschitz</settlement>
-                  <settlement>GroßPireschitz</settlement>
+                  <settlement>GroPircschitz</settlement>
+                  <settlement>GroPireschitz</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -3869,7 +3777,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Pletroviè</settlement>
+                  <settlement>Pletrovi</settlement>
                   <settlement>Pletrowitsch</settlement>
                   <date>1891</date>
                </birth>
@@ -3879,7 +3787,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1887</date>
                </birth>
                <event type="wounded">
@@ -3924,7 +3832,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1888</date>
                </birth>
                <event type="pow">
@@ -3933,7 +3841,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1887</date>
                </birth>
                <event type="pow">
@@ -3942,7 +3850,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="death">
@@ -3979,15 +3887,15 @@
                   <country>Steiermark</country>
                   <region>Alarburg-Umgebung</region>
                   <region>Marburg Umgebung</region>
-                  <settlement>Roßbach</settlement>
+                  <settlement>Robach</settlement>
                   <date>1885</date>
                </birth>
 @ -167686,7 +167686,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli Umg.</region>
-                  <settlement>Groß-Pireschitz</settlement>
-                  <settlement>Groß Pireschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
+                  <settlement>Gro Pireschitz</settlement>
                   <date>1881</date>
                </birth>
                <event type="pow">
@@ -4013,8 +3921,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Piroschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Piroschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                </birth>
                <event type="pow">
                   <label>kriegsgef.</label>
@@ -4050,7 +3958,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1888</date>
                </birth>
                <event type="pow">
@@ -4076,8 +3984,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Unter-Doliè</settlement>
-                  <settlement>Unter Doliè</settlement>
+                  <settlement>Unter-Doli</settlement>
+                  <settlement>Unter Doli</settlement>
                   <date>1888</date>
                </birth>
                <event type="pow">
@@ -4085,7 +3993,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
-                  <settlement>St. Paul b. Präwald</settlement>
+                  <settlement>St. Paul b. Prwald</settlement>
                   <settlement>St. Paul b. Pragwald</settlement>
                   <date>1894</date>
                </birth>
@@ -4094,8 +4002,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Wölan</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wlan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="pow">
@@ -4104,7 +4012,7 @@
                   <country>Steiermark</country>
                   <region>Cilli Umgebung</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="pow">
@@ -4121,8 +4029,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Višnja-Vas</settlement>
-                  <settlement>Višnja vas</settlement>
+                  <settlement>Vinja-Vas</settlement>
+                  <settlement>Vinja vas</settlement>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -4149,7 +4057,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Dolic</settlement>
-                  <settlement>Doliè</settlement>
+                  <settlement>Doli</settlement>
                   <date>1873</date>
                </birth>
                <event type="pow">
@@ -4185,7 +4093,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Padeski Vrh</settlement>
-                  <settlement>Padeški Vrh</settlement>
+                  <settlement>Padeki Vrh</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -4229,8 +4137,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Rann</region>
-                  <settlement>Groß-Steinbach</settlement>
-                  <settlement>Groß Steinbach</settlement>
+                  <settlement>Gro-Steinbach</settlement>
+                  <settlement>Gro Steinbach</settlement>
                   <date>1896</date>
                </birth>
                <event type="death">
@@ -4338,7 +4246,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslan</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1879</date>
                </birth>
                <event type="wounded">
@@ -4346,8 +4254,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Pireschltz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Pireschltz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1886</date>
                </birth>
                <event type="death">
@@ -4391,7 +4299,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Pletroviè</settlement>
+                  <settlement>Pletrovi</settlement>
                   <settlement>Pletrowitsch</settlement>
                   <date>1879</date>
                </birth>
@@ -4410,7 +4318,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1874</date>
                </birth>
                <event type="death">
@@ -4428,7 +4336,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -4437,7 +4345,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1891</date>
                </birth>
                <event type="pow">
@@ -4491,16 +4399,16 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1892</date>
                </birth>
                <event type="pow">
 @ -195209,7 +195209,7 @@
                <birth>
                   <country>Steiermark</country>
-                  <region>Schönstein</region>
+                  <region>Schnstein</region>
                   <settlement>Wollan</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -4527,7 +4435,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1875</date>
                </birth>
                <event type="wounded">
@@ -4544,8 +4452,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartholmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -4608,7 +4516,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1897</date>
                </birth>
                <event type="wounded">
@@ -4625,8 +4533,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Wind. Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1880</date>
                </birth>
                <event type="wounded">
@@ -4634,8 +4542,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1891</date>
                </birth>
                <event type="wounded">
@@ -4643,8 +4551,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -4652,8 +4560,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Rann</region>
-                  <settlement>Groß-Steinbach</settlement>
-                  <settlement>Groß Steinbach</settlement>
+                  <settlement>Gro-Steinbach</settlement>
+                  <settlement>Gro Steinbach</settlement>
                   <date>1880</date>
                </birth>
                <event type="wounded">
@@ -4716,7 +4624,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="death">
@@ -4734,7 +4642,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1876</date>
                </birth>
                <event type="wounded">
@@ -4752,7 +4660,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Visja Vas</settlement>
-                  <settlement>Višja Vas</settlement>
+                  <settlement>Vija Vas</settlement>
                   <date>1896</date>
                </birth>
                <event type="death">
@@ -4769,8 +4677,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Oroß-Piräschitz</settlement>
-                  <settlement>Oroß-Pireschitz</settlement>
+                  <settlement>Oro-Pirschitz</settlement>
+                  <settlement>Oro-Pireschitz</settlement>
                   <date>1895</date>
                </birth>
                <event type="wounded">
@@ -4778,8 +4686,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Piräschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Pirschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -4796,8 +4704,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Piräschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Pirschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1887</date>
                </birth>
                <event type="wounded">
@@ -4814,8 +4722,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Frešlau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Frelau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -4832,8 +4740,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Gruškovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Grukovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1876</date>
                </birth>
                
@@ -4860,7 +4768,7 @@
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
                   <settlement>Pamec</settlement>
-                  <settlement>Pameèe</settlement>
+                  <settlement>Pamee</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -4869,7 +4777,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Fraslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1893</date>
                </birth>
                <event type="death">
@@ -4886,8 +4794,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Peter i. Bärenthal</settlement>
-                  <settlement>St. Peter im Bärenthale</settlement>
+                  <settlement>St. Peter i. Brenthal</settlement>
+                  <settlement>St. Peter im Brenthale</settlement>
                   <date>1897</date>
                </birth>
                <event type="wounded">
@@ -4922,8 +4830,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Petrosèe</settlement>
-                  <settlement>Petrovèe</settlement>
+                  <settlement>Petrose</settlement>
+                  <settlement>Petrove</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -4940,8 +4848,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Unter-Doliè</settlement>
-                  <settlement>Unter Doliè</settlement>
+                  <settlement>Unter-Doli</settlement>
+                  <settlement>Unter Doli</settlement>
                   <date>1890</date>
                </birth>
                <event type="pow">
@@ -4950,7 +4858,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Brezice</region>
-                  <region>Brežice</region>
+                  <region>Breice</region>
                   <settlement>Dobje</settlement>
                   <date>1891</date>
                </birth>
@@ -4967,8 +4875,8 @@
                <affiliation>k. k. LstIB. Nr. 37, 1. Komp.</affiliation>
                <birth>
                   <country>Steiermark</country>
-                  <region>Groß-Stein</region>
-                  <region>Groß Stein</region>
+                  <region>Gro-Stein</region>
+                  <region>Gro Stein</region>
                   <date>1884</date>
                </birth>
                <event type="wounded">
@@ -5030,7 +4938,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Gomiška</settlement>
+                  <settlement>Gomika</settlement>
                   <settlement>Gomilsko</settlement>
                   <date>1897</date>
                </birth>
@@ -5066,8 +4974,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>Okoška</settlement>
-                  <settlement>Okoško</settlement>
+                  <settlement>Okoka</settlement>
+                  <settlement>Okoko</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -5075,8 +4983,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Bartholmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1874</date>
                </birth>
                <event type="pow">
@@ -5085,7 +4993,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1898</date>
                </birth>
                <event type="wounded">
@@ -5094,7 +5002,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Bocno</settlement>
-                  <settlement>Boèna</settlement>
+                  <settlement>Bona</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -5111,8 +5019,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
-                  <settlement>St. Bartholmä</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholm</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1878</date>
                </birth>
                <event type="wounded">
@@ -5156,8 +5064,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Wöltan</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wltan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -5183,8 +5091,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Bartholomäus</settlement>
-                  <settlement>St. Bartholomä</settlement>
+                  <settlement>St. Bartholomus</settlement>
+                  <settlement>St. Bartholom</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -5220,7 +5128,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -5332,7 +5240,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Grugovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1898</date>
                </birth>
                <event type="wounded">
@@ -5341,7 +5249,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -5406,7 +5314,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Pecovnik</settlement>
-                  <settlement>Peèovnik</settlement>
+                  <settlement>Peovnik</settlement>
                   <date>1883</date>
                </birth>
                <event type="death">
@@ -5424,7 +5332,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Grusovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1892</date>
                </birth>
                <event type="death">
@@ -5433,7 +5341,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1880</date>
                </birth>
                <event type="wounded">
@@ -5486,7 +5394,7 @@
                <affiliation>IR. Nr. 15</affiliation>
                <birth>
                   <country>Steiermark</country>
-                  <region>Wösowitza</region>
+                  <region>Wsowitza</region>
                   <region>Wesowitza</region>
                   <date>1882</date>
                </birth>
@@ -5513,8 +5421,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Peter im Bärenthal</settlement>
-                  <settlement>St. Peter im Bärenthale</settlement>
+                  <settlement>St. Peter im Brenthal</settlement>
+                  <settlement>St. Peter im Brenthale</settlement>
                   <date>1886</date>
                </birth>
                <event type="death">
@@ -5523,7 +5431,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Cret</settlement>
-                  <settlement>Èret</settlement>
+                  <settlement>ret</settlement>
                   <date>1873</date>
                </birth>
                <event type="death">
@@ -5544,7 +5452,7 @@
 @ -260674,7 +260674,7 @@
                <birth>
                   <country>Steiermark</country>
-                  <region>Tüffer</region>
+                  <region>Tffer</region>
                   <settlement>Gaitach</settlement>
                   <settlement>Gairach</settlement>
                   <date>1880</date>
@@ -5601,7 +5509,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Pletroviè</settlement>
+                  <settlement>Pletrovi</settlement>
                   <settlement>Pletrowitsch</settlement>
                   <date>1878</date>
                </birth>
@@ -5629,7 +5537,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Jurkloster</settlement>
-                  <settlement>Jurklošter</settlement>
+                  <settlement>Jurkloter</settlement>
                   <date>1899</date>
                </birth>
                <event type="death">
@@ -5638,7 +5546,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1886</date>
                </birth>
                <event type="wounded">
@@ -5647,7 +5555,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1898</date>
                </birth>
                <event type="wounded">
@@ -5683,7 +5591,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Tuffer</settlement>
-                  <settlement>Tüffer</settlement>
+                  <settlement>Tffer</settlement>
                </birth>
                <event type="death">
                   <label>gefallen</label>
@@ -5691,8 +5599,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Ljubeèno</settlement>
-                  <settlement>Ljubeèna</settlement>
+                  <settlement>Ljubeno</settlement>
+                  <settlement>Ljubena</settlement>
                   <date>1894</date>
                </birth>
                <event type="wounded">
@@ -5767,8 +5675,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Košinica</settlement>
-                  <settlement>Košnica</settlement>
+                  <settlement>Koinica</settlement>
+                  <settlement>Konica</settlement>
                   <date>1897</date>
                </birth>
                <event type="wounded">
@@ -5813,7 +5721,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Zrece</settlement>
-                  <settlement>Zreèe</settlement>
+                  <settlement>Zree</settlement>
                   <date>1871</date>
                </birth>
                <event type="death">
@@ -5821,8 +5729,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Groß-Pucschitz</settlement>
-                  <settlement>Groß-Pireschitz</settlement>
+                  <settlement>Gro-Pucschitz</settlement>
+                  <settlement>Gro-Pireschitz</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -5831,7 +5739,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Glazuta</settlement>
-                  <settlement>Glažuta</settlement>
+                  <settlement>Glauta</settlement>
                   <date>1888</date>
                </birth>
                <event type="death">
@@ -5851,7 +5759,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1884</date>
                </birth>
                <event type="death">
@@ -5877,8 +5785,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>St. Peter im Bärentale</settlement>
-                  <settlement>St. Peter im Bärenthale</settlement>
+                  <settlement>St. Peter im Brentale</settlement>
+                  <settlement>St. Peter im Brenthale</settlement>
                   <date>1891</date>
                </birth>
                <event type="death">
@@ -5905,7 +5813,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1872</date>
                </birth>
                <event type="death">
@@ -5950,7 +5858,7 @@
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
                   <settlement>Wollen</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="death">
@@ -5977,7 +5885,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -6023,8 +5931,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Fraßberg</settlement>
-                  <settlement>Praßberg</settlement>
+                  <settlement>Fraberg</settlement>
+                  <settlement>Praberg</settlement>
                   <date>1879</date>
                </birth>
                <event type="wounded">
@@ -6032,8 +5940,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windisch-Graz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1893</date>
                </birth>
                <event type="wounded">
@@ -6060,7 +5968,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -6078,7 +5986,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Grize</settlement>
-                  <settlement>Griže</settlement>
+                  <settlement>Grie</settlement>
                   <date>1896</date>
                </birth>
                <event type="wounded">
@@ -6087,7 +5995,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1898</date>
                </birth>
                <event type="wounded">
@@ -6140,8 +6048,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Windischgraz</region>
-                  <settlement>Wöllau</settlement>
-                  <settlement>Wöllan</settlement>
+                  <settlement>Wllau</settlement>
+                  <settlement>Wllan</settlement>
                   <date>1885</date>
                </birth>
                <event type="wounded">
@@ -6150,7 +6058,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1876</date>
                </birth>
                <event type="death">
@@ -6159,7 +6067,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Grusovje</settlement>
-                  <settlement>Grušovje</settlement>
+                  <settlement>Gruovje</settlement>
                   <date>1898</date>
                </birth>
                <event type="death">
@@ -6177,7 +6085,7 @@
                   <country>Steiermark</country>
                   <region>Gonobitz</region>
                   <settlement>Dolic</settlement>
-                  <settlement>Doliè</settlement>
+                  <settlement>Doli</settlement>
                   <date>1877</date>
                </birth>
                <event type="death">
@@ -6222,7 +6130,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>GroBpireschitz</settlement>
-                  <settlement>Großpireschitz</settlement>
+                  <settlement>Gropireschitz</settlement>
                   <date>1894</date>
                </birth>
                
@@ -6267,7 +6175,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Jurkloster</settlement>
-                  <settlement>Jurklošter</settlement>
+                  <settlement>Jurkloter</settlement>
                </birth>
                <event type="death">
                   <label>gestorben</label>
@@ -6284,8 +6192,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Praßbeig</settlement>
-                  <settlement>Praßberg</settlement>
+                  <settlement>Prabeig</settlement>
+                  <settlement>Praberg</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
@@ -6303,7 +6211,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1892</date>
                </birth>
                <event type="wounded">
@@ -6312,7 +6220,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1889</date>
                </birth>
                <event type="wounded">
@@ -6321,7 +6229,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1897</date>
                </birth>
                <event type="death">
@@ -6357,7 +6265,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1894</date>
                </birth>
                <event type="pow">
@@ -6419,7 +6327,7 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Pletroviè</settlement>
+                  <settlement>Pletrovi</settlement>
                   <settlement>Pletrowitsch</settlement>
                   <date>1895</date>
                </birth>
@@ -6438,7 +6346,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1877</date>
                </birth>
                <event type="death">
@@ -6482,8 +6390,8 @@
                <affiliation>k. u. k. schw. FAR. Nr. 28, Batt. 1</affiliation>
                <birth>
                   <country>Steiermark</country>
-                  <region>Wöllau</region>
-                  <region>Wöllan</region>
+                  <region>Wllau</region>
+                  <region>Wllan</region>
                   <date>1897</date>
                </birth>
                <event type="wounded">
@@ -6518,8 +6426,8 @@
                <birth>
                   <country>Steiermark</country>
                   <region>Cilli</region>
-                  <settlement>Großurescbitz</settlement>
-                  <settlement>Großpireschitz</settlement>
+                  <settlement>Grourescbitz</settlement>
+                  <settlement>Gropireschitz</settlement>
                   <date>1898</date>
                </birth>
                <event type="wounded">
@@ -6546,7 +6454,7 @@
                   <country>Steiermark</country>
                   <region>Cilli</region>
                   <settlement>Frasslau</settlement>
-                  <settlement>Fraßlau</settlement>
+                  <settlement>Fralau</settlement>
                   <date>1890</date>
                </birth>
                <event type="wounded">
