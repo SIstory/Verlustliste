@@ -13984,8 +13984,8 @@
                      <idno n="Ovšiše">vll.19150625_200.8004</idno>
                   </place>
                   <place type="settlement" subtype="občina">
-                     <placeName subtype="sl">Begunje</placeName>
-                     <placeName subtype="de">Vigaun</placeName>
+                     <placeName xml:lang="sl">Begunje</placeName>
+                     <placeName xml:lang="de">Vigaun</placeName>
                      <location><geo>http://www.geonames.org/3204363/begunje-na-gorenjskem.html</geo></location>
                      <idno n="Begunje">vll.19171113_627.13706</idno>
                      <idno n="Vigaun">vll.19141114_57.4120 vll.19150123_111.5146
@@ -14224,8 +14224,8 @@
                      <idno n="Kizan">vll.19150510_175.7958</idno>
                   </place>
                   <place type="settlement" subtype="občina">
-                     <placeName subtype="sl">Kropa</placeName>
-                     <placeName subtype="de">Kropp</placeName>
+                     <placeName xml:lang="sl">Kropa</placeName>
+                     <placeName xml:lang="de">Kropp</placeName>
                      <location><geo>http://www.geonames.org/3197162/kropa.html</geo></location>
                      <idno n="Krepp">vll.19150902_255.6778</idno>
                      <idno n="Krop">vll.19180723_687.6046</idno>
@@ -14271,8 +14271,8 @@
                      <idno n="Sancovo">vll.19150812_235.2744</idno>
                   </place>
                   <place type="settlement" subtype="občina">
-                     <placeName subtype="sl">Ljubno</placeName>
-                     <placeName subtype="de">Laufen</placeName>
+                     <placeName xml:lang="sl">Ljubno</placeName>
+                     <placeName xml:lang="de">Laufen</placeName>
                      <location><geo>http://www.geonames.org/3196339/ljubno.html</geo></location>
                      <idno n="Laufen">vll.19180307_657.9212 vll.19180313_659.9142
                         vll.19180625_682.10336</idno>
@@ -14739,13 +14739,13 @@
                   <idno n="St. Peter">vll.19151112_313.7320 vll.19171127_631.502
                      vll.19180309_658.546</idno>
                   <place type="settlement" subtype="region">
-                     <placeName subtype="sl">Postojna</placeName>
-                     <placeName subtype="de">Adelsberg</placeName>
+                     <placeName xml:lang="sl">Postojna</placeName>
+                     <placeName xml:lang="de">Adelsberg</placeName>
                      <location><geo>http://www.geonames.org/3192673/postojna.html</geo></location>
                      <idno n="Adelsberg">vll.19171127_631.502 vll.19180309_658.546</idno>
                   </place>
                   <place type="settlement">
-                     <placeName subtype="sl">Peteline</placeName>
+                     <placeName xml:lang="sl">Peteline</placeName>
                      <location><geo>http://www.geonames.org/3193451/petelinje.html</geo></location>
                      <idno n="Petelina">vll.19151112_313.7320</idno>
                   </place>
@@ -15508,8 +15508,8 @@
                      <idno n="Garias">vll.19151107_309.5102</idno>
                   </place>
                   <place type="settlement" subtype="region">
-                     <placeName subtype="sl">Radovljica</placeName>
-                     <placeName subtype="de">Radmannsdorf</placeName>
+                     <placeName xml:lang="sl">Radovljica</placeName>
+                     <placeName xml:lang="de">Radmannsdorf</placeName>
                      <location><geo>http://www.geonames.org/3192063/radovljica.html</geo></location>
                      <idno n="Radmannsdorf">vll.19171228_639.14650</idno>
                   </place>
@@ -15643,8 +15643,8 @@
                   <location><geo>http://www.geonames.org/3186909/zagorje.html</geo></location>
                   <idno n="Zagorie">vll.19181219_705.7630</idno>
                   <place type="settlement" subtype="region">
-                     <placeName subtype="sl">Postojna</placeName>
-                     <placeName subtype="de">Adelsberg</placeName>
+                     <placeName xml:lang="sl">Postojna</placeName>
+                     <placeName xml:lang="de">Adelsberg</placeName>
                      <location><geo>http://www.geonames.org/3192673/postojna.html</geo></location>
                      <idno n="Adelsberg">vll.19181219_705.7630</idno>
                   </place>
@@ -15668,8 +15668,8 @@
                   <location><geo>http://www.geonames.org/3202709/cerknica.html</geo></location>
                   <idno n="Zirknitz">vll.19150928_277.4126 vll.19151112_313.1974</idno>
                   <place type="settlement" subtype="region">
-                     <placeName subtype="sl">Logatec</placeName>
-                     <placeName subtype="de">Loitsch</placeName>
+                     <placeName xml:lang="sl">Logatec</placeName>
+                     <placeName xml:lang="de">Loitsch</placeName>
                      <location><geo>http://www.geonames.org/3200351/gorenji-logatec.html</geo></location>
                      <idno n="Loitsch">vll.19151112_313.1974</idno>
                   </place>
@@ -15711,8 +15711,8 @@
                   <location><geo>http://www.geonames.org/3186474/zibrse.html</geo></location>
                   <idno n="Žbirše">vll.19180429_670.10334</idno>
                   <place type="settlement" subtype="region">
-                     <placeName subtype="sl">Logatec</placeName>
-                     <placeName subtype="de">Loitsch</placeName>
+                     <placeName xml:lang="sl">Logatec</placeName>
+                     <placeName xml:lang="de">Loitsch</placeName>
                      <location><geo>http://www.geonames.org/3200351/gorenji-logatec.html</geo></location>
                      <idno n="Loitsch">vll.19180429_670.10334</idno>
                   </place>
