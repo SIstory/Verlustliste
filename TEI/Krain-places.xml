@@ -5174,8 +5174,8 @@
                   </place>
                </place>
                <place type="region">
-                  <region xml:lang="sl">Kamnik</region>
-                  <region xml:lang="de">Stein</region>
+                  <placeName xml:lang="sl">Kamnik</placeName>
+                  <placeName xml:lang="de">Stein</placeName>
                   <location><geo>http://www.geonames.org/3198365/kamnik.html</geo></location>
                   <idno n="Stein">vll.19141114_57.920 vll.19141114_57.2260 vll.19141114_57.3254
                      vll.19141114_57.3274 vll.19141114_57.4360 vll.19141114_57.4842
