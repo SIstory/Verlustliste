@@ -11,8 +11,8 @@
     <!-- Element country, region in settlement dam v skupni element placeName (zaradi naknadne povezave na ortsrepertorium datoteke) -->
     <!-- iz seznama krajev TEI/*-places.xml poberem ven morebitne zamenjave kodiranja krajevnih imen (npr. namesto region je settlement) -->
     <!-- POZOR: transformacija traja zelo dolgo (za Kranjsko npr. 23 minut) -->
-    <!-- NUJNO določi datoteko TEI/*-places.xml -->
-    <xsl:param name="listPlace">../TEI/Krain-places.xml</xsl:param>
+    <!-- NUJNO določi datoteko TEI/places-*.xml -->
+    <xsl:param name="listPlace">../TEI/places-Krain.xml</xsl:param>
     
     <!-- 
         Statutory city / Mesto z lastnim statutom / Stadt mit eigenem Statut
