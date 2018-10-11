@@ -95,7 +95,7 @@
             <text>
                 <body>
                     <listPlace>
-                        <xsl:for-each select="polBezirke/polBezirk | polOkraji/polOkraj">
+                        <xsl:for-each select="polBezirke/polBezirk | polOkraji/polBezirk | polOkraji/polOkraj">
                             <place ana="#ad.bezirk">
                                 <xsl:if test="@xml:id">
                                     <xsl:attribute name="xml:id">
@@ -104,7 +104,7 @@
                                 </xsl:if>
                                 <xsl:apply-templates select="placeName"/>
                                 <xsl:apply-templates select="geo"/>
-                                <xsl:for-each select="gerichtsBezirke/gerichtsBezirk | sodniOkraji/gerichtsBezirk">
+                                <xsl:for-each select="gerichtsBezirke/gerichtsBezirk | sodniOkraji/gerichtsBezirk | sodniOkraji/sodniOkraj">
                                     <place ana="#ad.gerichtsbezirk">
                                         <xsl:if test="@xml:id">
                                             <xsl:attribute name="xml:id">
@@ -118,7 +118,7 @@
                                         </xsl:if>
                                         <xsl:apply-templates select="placeName"/>
                                         <xsl:apply-templates select="geo"/>
-                                        <xsl:for-each select="gemeinden/gemeinde | obcine/gemeinde">
+                                        <xsl:for-each select="gemeinden/gemeinde | obcine/gemeinde | obcine/obcina">
                                             <place ana="#ad.gemeinde" >
                                                 <xsl:if test="@xml:id">
                                                     <xsl:attribute name="xml:id">
@@ -132,7 +132,7 @@
                                                 </xsl:if>
                                                 <xsl:apply-templates select="placeName"/>
                                                 <xsl:apply-templates select="geo"/>
-                                                <xsl:for-each select="orte/ort | kraji/ort">
+                                                <xsl:for-each select="orte/ort | kraji/ort | kraji/kraj">
                                                     <place ana="#ad.ort">
                                                         <xsl:if test="@xml:id">
                                                             <xsl:attribute name="xml:id">
@@ -146,7 +146,7 @@
                                                         </xsl:if>
                                                         <xsl:apply-templates select="placeName"/>
                                                         <xsl:apply-templates select="geo"/>
-                                                        <xsl:for-each select="teile/teil | deli/teil">
+                                                        <xsl:for-each select="teile/teil | deli/teil | deli/del">
                                                             <place ana="#ad.teil">
                                                                 <xsl:if test="@xml:id">
                                                                     <xsl:attribute name="xml:id">
