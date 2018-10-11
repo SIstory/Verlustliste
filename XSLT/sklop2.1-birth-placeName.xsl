@@ -12,7 +12,7 @@
     <!-- iz seznama krajev TEI/*-places.xml poberem ven morebitne zamenjave kodiranja krajevnih imen (npr. namesto region je settlement) -->
     <!-- POZOR: transformacija traja zelo dolgo (za Kranjsko npr. 23 minut) -->
     <!-- NUJNO določi datoteko TEI/places-*.xml -->
-    <xsl:param name="listPlace">../TEI/places-Kustenland.xml</xsl:param>
+    <xsl:param name="listPlace">../TEI/places-Steiermark.xml</xsl:param>
     <!-- NUJNO: pri Kranjski je seznam za vse osebe, za Štajersko, Koroško in Primorsko pa samo za mrtve, zato pred tem nastavi parameter -->
     <xsl:param name="only-death-persons">true</xsl:param>
     <!-- 
