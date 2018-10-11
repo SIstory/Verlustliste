@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Krajevni repertorij</title>
-            <title>Koroška 1910: deli današnje Slovenije</title>
+            <title>Istra 1910: deli današnje Slovenije</title>
          </titleStmt>
          <publicationStmt>
             <publisher>Inštitut za novejšo zgodovino</publisher>
@@ -23,7 +23,7 @@
          </publicationStmt>
          <sourceDesc>
             <p>
-               <ref target="https://github.com/SIstory/Ortsrepertorium/blob/master/year1910/Carinthia/Carinthia-1910-deu.xml">GitHub</ref>
+               <ref target="https://github.com/SIstory/Ortsrepertorium/blob/master/year1910/Littoral/Istria-1910-deu.xml">GitHub</ref>
             </p>
          </sourceDesc>
       </fileDesc>

@@ -241,8 +241,8 @@
                      </place>
                   </place>
                   <place ana="#ad.gemeinde" xml:id="c.020103" n="3">
-                     <placeName xml:lang="deu">Koschana</placeName>
-                     <placeName xml:lang="slv">Košana</placeName>
+                     <placeName xml:lang="deu" key="6941207">Koschana</placeName>
+                     <placeName xml:lang="slv" key="6941207">Košana</placeName>
                      <place ana="#ad.ort" xml:id="c.02010301" n="1">
                         <placeName xml:lang="slv" key="3203089">Buje</placeName>
                         <location>
