@@ -12,8 +12,9 @@
     <!-- iz seznama krajev TEI/*-places.xml poberem ven morebitne zamenjave kodiranja krajevnih imen (npr. namesto region je settlement) -->
     <!-- POZOR: transformacija traja zelo dolgo (za Kranjsko npr. 23 minut) -->
     <!-- NUJNO določi datoteko TEI/places-*.xml -->
-    <xsl:param name="listPlace">../TEI/places-Krain.xml</xsl:param>
-    
+    <xsl:param name="listPlace">../TEI/places-Kustenland.xml</xsl:param>
+    <!-- NUJNO: pri Kranjski je seznam za vse osebe, za Štajersko, Koroško in Primorsko pa samo za mrtve, zato pred tem nastavi parameter -->
+    <xsl:param name="only-death-persons">true</xsl:param>
     <!-- 
         Statutory city / Mesto z lastnim statutom / Stadt mit eigenem Statut
         Administrative district / Politični okraj / Politischer Bezirk
@@ -30,7 +31,7 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:birth">
+    <xsl:template match="tei:birth[if ($only-death-persons='true') then parent::tei:person[tei:event[@type='death']] else parent::tei:person]">
         <xsl:variable name="personID" select="parent::tei:person/@xml:id"/>
         <birth>
             <xsl:apply-templates select="@*"/>
@@ -46,8 +47,8 @@
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:choose>
-                                <xsl:when test="document($listPlace)//tei:place[@type = $elementName][tei:idno[tokenize(.,' ') = $personID]]">
-                                    <xsl:for-each select="document($listPlace)//tei:place[@type = $elementName][tei:idno[tokenize(.,' ') = $personID]]">
+                                <xsl:when test="document($listPlace)//tei:place[@type = $elementName][tei:idno[tokenize(normalize-space(.),' ') = $personID]]">
+                                    <xsl:for-each select="document($listPlace)//tei:place[@type = $elementName][tei:idno[tokenize(normalize-space(.),' ') = $personID]]">
                                         <xsl:choose>
                                             <xsl:when test=".[@subtype]">
                                                 <xsl:variable name="subtypeValue" select="@subtype"/>
