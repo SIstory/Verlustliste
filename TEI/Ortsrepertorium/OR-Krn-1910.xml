@@ -9381,8 +9381,8 @@
                </place>
             </place>
             <place ana="#ad.bezirk" xml:id="c.05">
-               <placeName xml:lang="deu">Krainburg</placeName>
-               <placeName xml:lang="slv">Kranj</placeName>
+               <placeName xml:lang="deu" key="3197378">Krainburg</placeName>
+               <placeName xml:lang="slv" key="3197378">Kranj</placeName>
                <place ana="#ad.gerichtsbezirk" xml:id="c.0501" n="1">
                   <placeName xml:lang="deu">Bischoflack</placeName>
                   <placeName xml:lang="slv">Škofja Loka</placeName>
