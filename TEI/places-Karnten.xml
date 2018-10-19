@@ -35,9 +35,9 @@
          <listPlace>
             <place type="country" subtype="SI">
                <country>Kärnten-SI</country>
-               <place type="region" corresp="c.07">
+               <place type="region" corresp="ORKtn:c.07">
                   <region>Völkermarkt</region>
-                  <place type="settlement" corresp="c.070104">
+                  <place type="settlement" corresp="ORKtn:c.070104">
                      <settlement>Gutenstein</settlement>
                      <location>
                         <geo>http://www.geonames.org/3191839/ravne-na-koroskem.html</geo>
@@ -45,7 +45,7 @@
                      <idno n="Gutenstein">v11.19180227_655.9742 vll.19180305_656.742
                         vll.19180709_684.3048 vll.19181204_703.9440</idno>
                   </place>
-                  <place type="settlement" corresp="c.070105">
+                  <place type="settlement" corresp="ORKtn:c.070105">
                      <settlement>Köttelach</settlement>
                      <location>
                         <geo>http://www.geonames.org/3197539/kotlje.html</geo>
@@ -54,7 +54,7 @@
                         vll.19150819_242.4552 vll.19160108_352.3432 vll.19160907_461.6192
                         v11.19170418_556.4928 vll.19180330_664.14880 vll.19180419_668.7034</idno>
                   </place>
-                  <place type="settlement" corresp="c.070106">
+                  <place type="settlement" corresp="ORKtn:c.070106">
                      <settlement>Leifling</settlement>
                      <location>
                         <geo>http://www.geonames.org/3196611/libelice.html</geo>
@@ -68,28 +68,28 @@
                      <idno n="Reifling">vll.19181219_705.10646</idno>
                      <idno n="Seifling">vll.19150925_274.7092 vll.19150925_274.8210</idno>
                   </place>
-                  <place type="settlement" corresp="c.07011002">
+                  <place type="settlement" corresp="ORKtn:c.07011002">
                      <settlement>Liescha</settlement>
                      <location>
                         <geo>http://www.geonames.org/3196648/lese.html</geo>
                      </location>
                      <idno n="Liescha">vll.19161223_506.13498</idno>
                   </place>
-                  <place type="settlement" corresp="c.070108">
+                  <place type="settlement" corresp="ORKtn:c.070108">
                      <settlement>Mieß</settlement>
                      <location>
                         <geo>http://www.geonames.org/3195202/mezica.html</geo>
                      </location>
                      <idno n="Mieß">vll.19150819_242.6904</idno>
                   </place>
-                  <place type="settlement" corresp="c.07030201">
+                  <place type="settlement" corresp="ORKtn:c.07030201">
                      <settlement>Ober-Seeland</settlement>
                      <location>
                         <geo>http://www.geonames.org/3186509/zgornje-jezersko.html</geo>
                      </location>
                      <idno n="Ober-Seeland">vll.19150925_274.6830</idno>
                   </place>
-                  <place type="settlement" corresp="c.070110">
+                  <place type="settlement" corresp="ORKtn:c.070110">
                      <settlement>Prävali</settlement>
                      <location>
                         <geo>http://www.geonames.org/3192484/prevalje.html</geo>
@@ -103,14 +103,14 @@
                         vll.19180511_672.5194 vll.19180709_684.5324 vll.19180824_692.3380
                         vll.19181002_696.9088 vll.19181105_700.15774 vll.19181219_705.15128</idno>
                   </place>
-                  <place type="settlement" corresp="c.07011006">
+                  <place type="settlement" corresp="ORKtn:c.07011006">
                      <settlement>Poljana</settlement>
                      <location>
                         <geo>http://www.geonames.org/3192826/poljana.html</geo>
                      </location>
                      <idno n="Poljana">vll.19151007_286.4050</idno>
                   </place>
-                  <place type="settlement" corresp="c.070113">
+                  <place type="settlement" corresp="ORKtn:c.070113">
                      <settlement>Schwarzenbach</settlement>
                      <location>
                         <geo>http://www.geonames.org/3202459/crna-na-koroskem.html</geo>
@@ -120,7 +120,7 @@
                         vll.19160926_469.4388 vll.19161101_485.6532 vll.19170430_563.6370
                         vll.19171210_634.6220 vll.19180403_665.12792 vll.19190129_708.12516</idno>
                   </place>
-                  <place type="settlement" corresp="c.070302">
+                  <place type="settlement" corresp="ORKtn:c.070302">
                      <settlement>Seeland</settlement>
                      <location>
                         <geo>http://www.geonames.org/3344894/jezersko.html</geo>
@@ -128,7 +128,7 @@
                      <idno n="Seeland">vll.19150731_225.7220 vll.19171228_639.12356
                         vll.19180309_658.10572 vll.19180403_665.11106</idno>
                   </place>
-                  <place type="settlement" corresp="c.070111">
+                  <place type="settlement" corresp="ORKtn:c.070111">
                      <settlement>St. Daniel</settlement>
                      <location>
                         <geo>http://www.geonames.org/3191041/sentanel.html</geo>
@@ -137,7 +137,7 @@
                         vll.19151122_320.4150 vll.19160401_402.9356 vll.19180419_668.6068
                         vll.19181111_701.9902</idno>
                   </place>
-                  <place type="settlement" corresp="c.080210">
+                  <place type="settlement" corresp="ORKtn:c.080210">
                      <settlement>Unterdrauburg</settlement>
                      <location>
                         <geo>http://www.geonames.org/3201253/dravograd.html</geo>
@@ -145,9 +145,9 @@
                      <idno n="Unterdrauburg">vll.19160108_352.2730</idno>
                   </place>
                </place>
-               <place type="region" corresp="c.08">
+               <place type="region" corresp="ORKtn:c.08">
                   <region>Wolfsberg</region>
-                  <place type="settlement" corresp="c.080203">
+                  <place type="settlement" corresp="ORKtn:c.080203">
                      <settlement>Kienberg</settlement>
                      <location>
                         <geo>http://www.geonames.org/3194177/ojstrica.html</geo>
@@ -157,14 +157,14 @@
                         v11.19170418_556.5188 vll.19170423_558.4298 vll.19180603_677.10814
                         vll.19190129_708.7660</idno>
                   </place>
-                  <place type="settlement" corresp="c.070106">
+                  <place type="settlement" corresp="ORKtn:c.070106">
                      <settlement>Leifling, Unterdrauburg</settlement>
                      <location>
                         <geo>http://www.geonames.org/3196611/libelice.html</geo>
                      </location>
                      <idno n="Leifling, Unterdrauburg">vll.19171127_631.1404</idno>
                   </place>
-                  <place type="settlement" corresp="c.080210">
+                  <place type="settlement" corresp="ORKtn:c.080210">
                      <settlement>Unterdrauburg</settlement>
                      <location>
                         <geo>http://www.geonames.org/3201253/dravograd.html</geo>
