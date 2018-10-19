@@ -23031,8 +23031,8 @@
                      </place>
                   </place>
                   <place ana="#ad.gemeinde" xml:id="c.230150" n="50">
-                     <placeName xml:lang="slv" key="3190232">Velka</placeName>
-                     <placeName xml:lang="deu" key="3190232">Wölling</placeName>
+                     <placeName xml:lang="slv">Velka</placeName>
+                     <placeName xml:lang="deu">Wölling</placeName>
                      <place ana="#ad.ort">
                         <place ana="#ad.teil" xml:id="c.2301500001">
                            <placeName xml:lang="slv" key="3190232">Marija Snežna</placeName>

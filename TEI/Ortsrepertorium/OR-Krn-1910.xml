@@ -8134,8 +8134,8 @@
                            <placeName xml:lang="slv">Hinje pri Fabriki</placeName>
                         </place>
                         <place ana="#ad.teil" xml:id="c.0404010305">
-                           <placeName xml:lang="deu" key="8989600">Karmel</placeName>
-                           <placeName xml:lang="slv" key="8989600">Krmelj</placeName>
+                           <placeName xml:lang="deu" key="3197192">Karmel</placeName>
+                           <placeName xml:lang="slv" key="3197192">Krmelj</placeName>
                         </place>
                         <place ana="#ad.teil" xml:id="c.0404010306">
                            <placeName xml:lang="slv">Ogorelke</placeName>
@@ -8758,7 +8758,7 @@
                         <placeName xml:lang="slv">Mali Kum</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.04040306" n="6">
-                        <placeName xml:lang="slv">Ključevica</placeName>
+                        <placeName xml:lang="slv" key="3198044">Ključevica</placeName>
                         <place ana="#ad.teil" xml:id="c.0404030601">
                            <placeName xml:lang="slv">Doljne</placeName>
                         </place>
@@ -12493,8 +12493,8 @@
                         <placeName xml:lang="slv">Dvor</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.06012104" n="4">
-                        <placeName xml:lang="deu">Gleinitz</placeName>
-                        <placeName xml:lang="slv">Glince</placeName>
+                        <placeName xml:lang="deu" key="3200593">Gleinitz</placeName>
+                        <placeName xml:lang="slv" key="3200593">Glince</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.06012105" n="5">
                         <placeName xml:lang="deu">Gunzle</placeName>
@@ -14818,10 +14818,6 @@
                            <placeName xml:lang="slv">Grilovec</placeName>
                         </place>
                         <place ana="#ad.teil" xml:id="c.0701150103">
-                           <placeName xml:lang="deu" key="8987021">Schwarzenbach</placeName>
-                           <placeName xml:lang="slv" key="8987021">Črni Potok</placeName>
-                        </place>
-                        <place ana="#ad.teil" xml:id="c.0701150104">
                            <placeName xml:lang="deu" key="8987021">Schwarzenbach</placeName>
                            <placeName xml:lang="slv" key="8987021">Črni Potok</placeName>
                         </place>
@@ -17467,8 +17463,8 @@
                         <placeName xml:lang="slv" key="8989360">Malni</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.08020322" n="22">
-                        <placeName xml:lang="deu" key="3200599">Neudorf</placeName>
-                        <placeName xml:lang="slv" key="3200599">Nova Vas</placeName>
+                        <placeName xml:lang="deu">Neudorf</placeName>
+                        <placeName xml:lang="slv">Nova Vas</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.08020323" n="23">
                         <placeName xml:lang="slv" key="8989436">Ograda</placeName>
@@ -18758,11 +18754,11 @@
                         </place>
                      </place>
                      <place ana="#ad.ort" xml:id="c.09020908" n="8">
-                        <placeName xml:lang="deu" key="3186514">Pogelschitz</placeName>
-                        <placeName xml:lang="slv" key="3186514">Poljšica</placeName>
+                        <placeName xml:lang="deu">Pogelschitz</placeName>
+                        <placeName xml:lang="slv">Poljšica</placeName>
                         <place ana="#ad.teil" xml:id="c.0902090801">
-                           <placeName xml:lang="deu" key="3186514">Pogelschitz</placeName>
-                           <placeName xml:lang="slv" key="3186514">Poljšica</placeName>
+                           <placeName xml:lang="deu">Pogelschitz</placeName>
+                           <placeName xml:lang="slv">Poljšica</placeName>
                         </place>
                         <place ana="#ad.teil" xml:id="c.0902090802">
                            <placeName xml:lang="slv">Zatrata</placeName>
@@ -26595,8 +26591,8 @@
                         <placeName xml:lang="slv" key="8988470">Brezovica</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.12021502" n="2">
-                        <placeName xml:lang="deu" key="8988470">Saderz</placeName>
-                        <placeName xml:lang="slv" key="8988470">Zadrc</placeName>
+                        <placeName xml:lang="deu">Saderz</placeName>
+                        <placeName xml:lang="slv">Zadrc</placeName>
                      </place>
                      <place ana="#ad.ort" xml:id="c.12021503" n="3">
                         <placeName xml:lang="deu" key="3202740">Tscheplach</placeName>
