@@ -14,7 +14,7 @@
             - position izhodiščnega listPlace/place[@type='country']
     -->
     <!-- v spodnjem parametru dodaj povezavo na zaželjeni krajevni reperotrij -->
-    <xsl:param name="OR-document">../TEI/Ortsrepertorium/OR-Stm-1910-SI.xml</xsl:param>
+    <xsl:param name="OR-document">../TEI/Ortsrepertorium/OR-Ist-1910-SI.xml</xsl:param>
     
     <xsl:output method="xml" indent="yes"/>
     

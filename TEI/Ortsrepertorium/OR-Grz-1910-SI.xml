@@ -73,6 +73,11 @@
    <text>
       <body>
          <listPlace>
+            <place ana="#ad.stadt" xml:id="c.01">
+               <placeName xml:lang="deu">Görz</placeName>
+               <placeName xml:lang="slv">Gorica</placeName>
+               <placeName xml:lang="ita">Gorizia</placeName>
+            </place>
             <place ana="#ad.bezirk" xml:id="c.02">
                <placeName xml:lang="deu">Görz</placeName>
                <placeName xml:lang="slv">Gorica</placeName>
