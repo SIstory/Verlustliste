@@ -656,6 +656,11 @@
             </place>
             <place xml:id="d1e1372" type="country" subtype="SI">
                <placeName xml:lang="sl">Kranjska</placeName>
+               <!-- dva možna kraja z nemiškim imenom Auen: slovensko Log in Loška Vas: v dveh različnih občinah -->
+               <place type="region" subtype="settlement">
+                  <settlement>Auen</settlement>
+                  <idno n="Auen">vll.19181019_699.13826</idno>
+               </place>
                <place xml:id="d1e1377" type="region" corresp="ORKrn:c.02">
                   <region xml:lang="sl">Postojna</region>
                   <region xml:lang="de">Adelsberg</region>
@@ -2495,6 +2500,11 @@
                      <idno n="Adelsberg">vll.19161227_507.10070</idno>
                   </place>
                </place>
+               <place xml:id="ppp" type="settlement" corresp="ORKrn:c.04020416">
+                  <placeName xml:lang="de">Oberbresowiz</placeName>
+                  <placeName xml:lang="sl">Gorenja Brezovica</placeName>
+                  <idno n="Gorny Brisowtza">vll.19150302_135.6196</idno>
+               </place>
                <place xml:id="d1e4205" type="region" subtype="settlement" corresp="ORKrn:c.080103">
                   <region subtype="settlement" xml:lang="sl">Godovič</region>
                   <region subtype="settlement" xml:lang="de">Godowitsch</region>
@@ -2810,6 +2820,7 @@
                   <idno n="Kočevia">vll.19151008_287.2432</idno>
                   <idno n="Koczyvic">vll.19150708_207.9948</idno>
                   <idno n="Gotl">vll.19151107_309.3900</idno>
+                  <idno n="Kotschewaja">vll.19150302_135.1446</idno>
                   <place xml:id="d1e4255" type="settlement" corresp="ORKrn:c.03030609">
                      <placeName xml:lang="sl">Zadolje</placeName>
                      <location>
@@ -2835,7 +2846,7 @@
                      <location>
                         <geo>http://www.geonames.org/3189954/stari-log.html</geo>
                      </location>
-                     <idno n="Altlack">vll.19150202_119.7070 vll.19150303_136.7968
+                     <idno n="Altlack">vll.19151006_285.8342 vll.19150202_119.7070 vll.19150303_136.7968
                         vll.19150408_156.3608 vll.19150925_274.4806 vll.19151215_336.6282</idno>
                      <idno n="Altlag">vll.19151215_336.7188 vll.19160621_433.7956
                         vll.19170507_568.4414</idno>
@@ -2993,7 +3004,7 @@
                      </location>
                      <idno n="Gora">vll.19151007_286.3020 vll.19170507_568.3834</idno>
                   </place>
-                  <place xml:id="d1e4597" type="settlement" corresp=".03011207">
+                  <place xml:id="d1e4597" type="settlement" corresp="ORKrn:c.03011207">
                      <placeName xml:lang="sl">Gorenja vas</placeName>
                      <placeName xml:lang="de">Obern</placeName>
                      <location>
@@ -3499,7 +3510,7 @@
                      </location>
                      <idno n="Ortenegg">vll.19141207_75.6134</idno>
                   </place>
-                  <place xml:id="d1e5558" type="settlement" corresp=".030118">
+                  <place xml:id="d1e5558" type="settlement" corresp="ORKrn:c.030118">
                      <placeName xml:lang="sl">Osilnica</placeName>
                      <placeName xml:lang="sl">Ossiunitz</placeName>
                      <location>
@@ -11639,7 +11650,7 @@
                   <place xml:id="d1e17297" type="settlement" corresp="ORKrn:c.070101">
                      <placeName xml:lang="sl">Aržiše</placeName>
                      <placeName xml:lang="de">Arschische</placeName>
-                     <idno n="Arschische">vll.19141207_75.5346 vll.19150303_136.7946
+                     <idno n="Arschische">vll.19170901_609.5416 vll.19141207_75.5346 vll.19150303_136.7946
                         vll.19150303_136.7974 vll.19150303_136.9016 vll.19160907_461.4464
                         vll.19170901_609.2188 vll.19181111_701.13112</idno>
                      <idno n="Artische">vll.19170329_544.6250</idno>
@@ -13614,6 +13625,7 @@
                      <idno n="Zilce">vll.19150917_268.6440 vll.19151208_331.8148</idno>
                      <idno n="Žilce">vll.19160523_423.14978</idno>
                      <idno n="Žilže">vll.19141203_72_E5.5400</idno>
+                     <idno n="Siltze">vll.19150302_135.2640</idno>
                   </place>
                   <place xml:id="d1e20687" type="settlement" corresp="ORKrn:c.08040303">
                      <placeName xml:lang="sl">Selšček</placeName>
@@ -14366,7 +14378,7 @@
                      <idno n="Abros">vll.19150902_255.2064</idno>
                      <idno n="Ambras">vll.19151215_336.6186 vll.19170901_609.10784</idno>
                      <idno n="Ambros">vll.19170726_602.8990</idno>
-                     <idno n="Ambrus">vll.19150123_111.2176 vll.19150902_255.6040
+                     <idno n="Ambrus">vll.19151025_300.2972 vll.19150123_111.2176 vll.19150902_255.6040
                         vll.19150902_255.7340 vll.19150902_255.9046 vll.19150925_274.3484
                         vll.19150925_274.9768 vll.19151215_336.2868 vll.19151215_336.3674
                         vll.19160624_434.5424 vll.19160704_437.5796 vll.19160722_444.1566
@@ -17977,6 +17989,14 @@
                   <place xml:id="d1e28023" type="settlement">
                      <settlement>Czernic</settlement>
                      <idno n="Czernic">vll.19151025_300.5138</idno>
+                  </place>
+               </place>
+               <place xml:id="ab" type="region" subtype="settlement">
+                  <region>Wolfsberg</region>
+                  <idno n="Wolfsberg">vll.19150925_274.7596</idno>
+                  <place xml:id="cd" type="settlement">
+                     <settlement>Schiefling</settlement>
+                     <idno n="Schiefling">vll.19150925_274.7596</idno>
                   </place>
                </place>
                <place xml:id="d1e28033" type="region">

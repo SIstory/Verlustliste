@@ -455,7 +455,7 @@
                      <idno n="Medana">vll.19151215_336.9418</idno>
                   </place>
                </place>
-               <place type="region" corresp="ORGrz:c.02">
+               <place type="region" corresp="ORGrz:c.02 ORGrz:c.01">
                   <region xml:lang="sl">Gorica</region>
                   <region xml:lang="it">Gorizia</region>
                   <region xml:lang="de">Görz</region>
@@ -902,7 +902,7 @@
                      </location>
                      <idno n="Grahovo bei Tolmein">vll.19150830_252.2064</idno>
                   </place>
-                  <place type="settlement" subtype="sodni" corresp="ORGrz:c.020305">
+                  <place type="settlement" corresp="ORGrz:c.020305">
                      <placeName xml:lang="sl">Ajdovščina</placeName>
                      <placeName xml:lang="de">Haidenschaft</placeName>
                      <placeName xml:lang="it">Aidussina</placeName>
@@ -1349,7 +1349,7 @@
                   </location>
                   <idno n="Prvačina">vll.19161230_508.3880</idno>
                </place>
-               <place type="region" corresp="ORGrz:c.05">
+               <place type="region" corresp="ORGrz:c.05 ORGrz:c.050209">
                   <region xml:lang="sl">Sežana</region>
                   <region xml:lang="it">Sesana</region>
                   <location>
@@ -1808,7 +1808,7 @@
                   </location>
                   <idno n="St. Peter">vll.19161206_498.2676 vll.19181204_703.1352</idno>
                </place>
-               <place type="region" corresp="ORGrz:c.06">
+               <place type="region" corresp="ORGrz:c.06 ORGrz:c.060405">
                   <region xml:lang="sl">Tolmin</region>
                   <region xml:lang="de">Tolmein</region>
                   <region xml:lang="it">Tolmino</region>
@@ -1902,7 +1902,7 @@
                      <idno n="Breth">vll.19180515_674.2606 vll.19180824_692.10140</idno>
                      <idno n="Preth">vll.19150824_246.2038</idno>
                   </place>
-                  <place type="settlement" subtype="sodni" corresp="ORGrz:c.060301">
+                  <place type="settlement" corresp="ORGrz:c.060301">
                      <placeName xml:lang="sl">Cerkno</placeName>
                      <placeName xml:lang="de">Kirchheim</placeName>
                      <placeName xml:lang="it">Circhina</placeName>
@@ -1933,7 +1933,7 @@
                      <idno n="Drežnica">vll.19170731_604.10064 vll.19181111_701.6134
                         vll.19160401_402.4952</idno>
                   </place>
-                  <place type="settlement" subtype="sodni" corresp="ORGrz:c.060103">
+                  <place type="settlement" corresp="ORGrz:c.060103">
                      <placeName xml:lang="sl">Bovec</placeName>
                      <placeName xml:lang="de">Flitsch</placeName>
                      <placeName xml:lang="it">Plezzo</placeName>
@@ -1976,7 +1976,7 @@
                      <placeName xml:lang="sl">Kal</placeName>
                      <idno n="Kal">vll.19180429_670.17946 vll.19180403_665.15416</idno>
                   </place>
-                  <place type="settlement" subtype="sodni" corresp="ORGrz:c.060204">
+                  <place type="settlement" corresp="ORGrz:c.060204">
                      <placeName xml:lang="sl">Kobarid</placeName>
                      <placeName xml:lang="de">Karfreit</placeName>
                      <placeName xml:lang="it">Caporetto</placeName>
@@ -2264,7 +2264,7 @@
             </place>
             <place type="country" subtype="SI">
                <country>Istra</country>
-               <place type="region" corresp="ORIst:c.02">
+               <place type="region" corresp="ORIst:c.02 ORIst:c.020101">
                   <region xml:lang="sl">Koper</region>
                   <region xml:lang="it">Capodistria</region>
                   <location>
@@ -2614,7 +2614,7 @@
                      </location>
                      <idno n="Petrinje">vll.19181019_699.13344</idno>
                   </place>
-                  <place type="settlement" subtype="sodni" corresp="ORIst:c.020302">
+                  <place type="settlement" corresp="ORIst:c.020302">
                      <placeName xml:lang="sl">Piran</placeName>
                      <placeName xml:lang="it">Pirano</placeName>
                      <location>
@@ -2771,7 +2771,7 @@
                      <idno n="Valmovrasa">v11.19180221_653.5568</idno>
                   </place>
                </place>
-               <place type="region" subtype="sodni" corresp="ORIst:c.0801">
+               <place type="region" subtype="sodni" corresp="ORIst:c.0801 ORIst:c.080101">
                   <region xml:lang="sl">Podgrad</region>
                   <region xml:lang="it">Castelnuovo</region>
                   <location>
