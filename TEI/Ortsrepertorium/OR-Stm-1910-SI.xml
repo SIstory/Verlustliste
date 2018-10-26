@@ -73,19 +73,19 @@
    <text>
       <body>
          <listPlace>
-            <place ana="#ad.bezirk" xml:id="c.01">
+            <place ana="#ad.stadt" xml:id="c.01">
                <placeName xml:lang="slv">Gradec</placeName>
                <placeName xml:lang="deu">Graz</placeName>
             </place>
-            <place ana="#ad.bezirk" xml:id="c.02">
+            <place ana="#ad.stadt" xml:id="c.02">
                <placeName xml:lang="slv">Celje</placeName>
                <placeName xml:lang="deu">Cilli</placeName>
             </place>
-            <place ana="#ad.bezirk" xml:id="c.03">
+            <place ana="#ad.stadt" xml:id="c.03">
                <placeName xml:lang="slv">Maribor</placeName>
                <placeName xml:lang="deu">Marburg</placeName>
             </place>
-            <place ana="#ad.bezirk" xml:id="c.04">
+            <place ana="#ad.stadt" xml:id="c.04">
                <placeName xml:lang="slv">Ptuj</placeName>
                <placeName xml:lang="deu">Pettau</placeName>
             </place>

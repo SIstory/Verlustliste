@@ -10,7 +10,7 @@
     <!-- izhodiščni Verlustliste-*.xml -->
     <!-- za person/birth/placeName iz ustreznega places-*.xml poberem odgovarjajočo povezavo na krajevne repertorije -->
     
-    <xsl:param name="doc-places">../TEI/places-Steiermark.xml</xsl:param>
+    <xsl:param name="doc-places">../TEI/places-Krain.xml</xsl:param>
     
     <xsl:function name="tei:placeType" as="xs:string">
         <xsl:param name="ident"/>

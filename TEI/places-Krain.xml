@@ -207,7 +207,7 @@
                   </location>
                   <idno n="Salež-Zgonik">vll.19160318_395.4186</idno>
                </place>
-               <place xml:id="d1e440" type="region" corresp="ORGrz:c.02">
+               <place xml:id="d1e440" type="region" corresp="ORGrz:c.02 ORGrz:c.01">
                   <region xml:lang="sl">Gorica</region>
                   <region xml:lang="de">Görz</region>
                   <location>
@@ -279,7 +279,7 @@
                      <idno n="Wukowo">vll.19150812_235.6518</idno>
                   </place>
                </place>
-               <place xml:id="d1e591" type="region" corresp="ORGrz:c.06">
+               <place xml:id="d1e591" type="region" corresp="ORGrz:c.06 ORGrz:c.060405">
                   <region xml:lang="sl">Tolmin</region>
                   <region xml:lang="de">Tolmein</region>
                   <region xml:lang="it">Tolmino</region>
@@ -408,7 +408,7 @@
             </place>
             <place xml:id="d1e860" type="country" subtype="SI">
                <placeName xml:lang="sl">Štajerska</placeName>
-               <place xml:id="d1e865" type="region" corresp="ORStm:c.07">
+               <place xml:id="d1e865" type="region" corresp="ORStm:c.07 ORStm:c.02">
                   <region xml:lang="sl">Celje</region>
                   <region xml:lang="de">Cilli</region>
                   <location>
@@ -467,7 +467,7 @@
                      <idno n="St. Veit">vll.19150218_129.6048</idno>
                   </place>
                </place>
-               <place xml:id="d1e986" type="region" corresp="ORStm:c.05">
+               <place xml:id="d1e986" type="region" corresp="ORStm:c.05 ORStm:c.050104">
                   <region xml:lang="sl">Brežice</region>
                   <region xml:lang="de">Rann</region>
                   <location>
@@ -539,7 +539,7 @@
                      <idno n="Lasche">vll.19181126_702.12732</idno>
                   </place>
                </place>
-               <place xml:id="d1e1139" type="region" corresp="ORStm:c.24">
+               <place xml:id="d1e1139" type="region" corresp="ORStm:c.24 ORStm:c.240209">
                   <region xml:lang="sl">Slovenj Gradec</region>
                   <region xml:lang="de">Windischgraz</region>
                   <location>
@@ -576,7 +576,7 @@
                      <idno n="Schullanzen">vll.19151003_282.9188</idno>
                   </place>
                </place>
-               <place xml:id="d1e1216" type="region" corresp="ORStm:c.22">
+               <place xml:id="d1e1216" type="region" corresp="ORStm:c.22 ORStm:c.04">
                   <region xml:lang="sl">Ptuj</region>
                   <region xml:lang="de">Pettau</region>
                   <location>
@@ -661,7 +661,7 @@
                   <settlement>Auen</settlement>
                   <idno n="Auen">vll.19181019_699.13826</idno>
                </place>
-               <place xml:id="d1e1377" type="region" corresp="ORKrn:c.02">
+               <place xml:id="d1e1377" type="region" corresp="ORKrn:c.02 ORKrn:c.020101">
                   <region xml:lang="sl">Postojna</region>
                   <region xml:lang="de">Adelsberg</region>
                   <idno n="Adelsberg">vll.19141114_57.2844 vll.19141117_60.970 vll.19141117_60.1720
@@ -2278,7 +2278,7 @@
                      <idno n="Češnica">vll.19150825_247.7970</idno>
                   </place>
                </place>
-               <place xml:id="d1e3740" type="region" subtype="sodni" corresp="ORKrn:c.0501">
+               <place xml:id="d1e3740" type="region" subtype="sodni" corresp="ORKrn:c.0501 ORKrn:c.050103">
                   <region xml:lang="sl">Škofja Loka</region>
                   <region xml:lang="de">Bischoflack</region>
                   <location>
@@ -2372,7 +2372,7 @@
                   <region xml:lang="de">Bukowitz</region>
                   <idno n="Bukowica">vll.19150928_277.3216</idno>
                </place>
-               <place xml:id="d1e3943" type="settlement" subtype="region" corresp="ORKrn:c.04">
+               <place xml:id="d1e3943" type="settlement" subtype="region" corresp="ORKrn:c.04 ORKrn:c.040104">
                   <placeName xml:lang="sl">Krško</placeName>
                   <placeName xml:lang="de">Gurkfeld</placeName>
                   <location>
@@ -2388,7 +2388,7 @@
                      <idno n="Catež">vll.19180625_682.12882</idno>
                   </place>
                </place>
-               <place xml:id="d1e3976" type="region" subtype="sodni" corresp="ORKrn:c.0804">
+               <place xml:id="d1e3976" type="region" subtype="sodni" corresp="ORKrn:c.0804 ORKrn:c.080404">
                   <region xml:lang="sl">Cerknica</region>
                   <region xml:lang="de">Zirknitz</region>
                   <location>
@@ -2513,7 +2513,7 @@
                   </location>
                   <idno n="Godowitsch">vll.19150625_200.8434</idno>
                </place>
-               <place xml:id="d1e4221" type="region" corresp="ORKrn:c.03">
+               <place xml:id="d1e4221" type="region" corresp="ORKrn:c.03 ORKrn:c.030106">
                   <region xml:lang="sl">Kočevje</region>
                   <region xml:lang="de">Gottschee</region>
                   <location>
@@ -4029,7 +4029,7 @@
                   </location>
                   <idno n="Großlupp">vll.19151215_336.5914</idno>
                </place>
-               <place xml:id="d1e6494" type="region" corresp="ORKrn:c.04">
+               <place xml:id="d1e6494" type="region" corresp="ORKrn:c.04 ORKrn:c.040104">
                   <region xml:lang="sl">Krško</region>
                   <region xml:lang="de">Gurkfeld</region>
                   <idno n="Golafeld">vll.19180307_657.8284</idno>
@@ -6026,7 +6026,7 @@
                      <idno n="Savlje">vll.19151112_313.8240</idno>
                   </place>
                </place>
-               <place xml:id="d1e9366" type="region" corresp="ORKrn:c.11">
+               <place xml:id="d1e9366" type="region" corresp="ORKrn:c.11 ORKrn:c.110230">
                   <placeName xml:lang="sl">Kamnik</placeName>
                   <placeName xml:lang="de">Stein</placeName>
                   <location>
@@ -7606,7 +7606,7 @@
                      <idno n="Obcina">vll.19151025_300.5006</idno>
                   </place>
                </place>
-               <place xml:id="d1e11910" type="region" corresp="ORKrn:c.05">
+               <place xml:id="d1e11910" type="region" corresp="ORKrn:c.05 ORKrn:c.050204">
                   <region xml:lang="sl">Kranj</region>
                   <region xml:lang="de">Krainburg</region>
                   <location>
@@ -9330,7 +9330,7 @@
                      <idno n="Stary Trg">vll.19150824_246.3886</idno>
                   </place>
                </place>
-               <place xml:id="d1e14360" type="region" corresp="ORKrn:c.06">
+               <place xml:id="d1e14360" type="region" corresp="ORKrn:c.06 ORKrn:c.01">
                   <region xml:lang="sl">Ljubljana</region>
                   <region xml:lang="de">Laibach</region>
                   <location>
@@ -11383,7 +11383,7 @@
                   <region xml:lang="sl">Leskovec</region>
                   <idno n="Leskovac">vll.19180124_645.2876</idno>
                </place>
-               <place xml:id="d1e17237" type="region" corresp="ORKrn:c.07">
+               <place xml:id="d1e17237" type="region" corresp="ORKrn:c.07 ORKrn:c.070109">
                   <region xml:lang="sl">Litija</region>
                   <region xml:lang="de">Littai</region>
                   <location>
@@ -13935,7 +13935,7 @@
                      <idno n="Voiska">vll.19151007_286.4114</idno>
                   </place>
                </place>
-               <place xml:id="d1e21301" type="region" corresp="ORKrn:c.10">
+               <place xml:id="d1e21301" type="region" corresp="ORKrn:c.10 ORKrn:c.100106">
                   <region xml:lang="sl">Novo mesto</region>
                   <region xml:lang="de">Rudolfswert</region>
                   <location>
@@ -15744,7 +15744,7 @@
                   </location>
                   <idno n="Radeče">vll.19181002_696.15554</idno>
                </place>
-               <place xml:id="d1e24145" type="region" corresp="ORKrn:c.09">
+               <place xml:id="d1e24145" type="region" corresp="ORKrn:c.09 ORKrn:c.090211">
                   <region xml:lang="sl">Radovljica</region>
                   <region xml:lang="de">Radmannsdorf</region>
                   <location>
@@ -17070,7 +17070,7 @@
                      <idno n="Tschernembl">vll.19181019_699.976</idno>
                   </place>
                </place>
-               <place xml:id="d1e26405" type="region" corresp="ORKrn:c.12">
+               <place xml:id="d1e26405" type="region" corresp="ORKrn:c.12 ORKrn:c.120216">
                   <region xml:lang="sl">Črnomelj</region>
                   <region xml:lang="de">Tschernembl</region>
                   <location>
@@ -17853,7 +17853,7 @@
                   <region>Vodravzen</region>
                   <idno n="Vodravzen">vll.19171220_637.7360</idno>
                </place>
-               <place xml:id="d1e27753" type="region" subtype="sodni" corresp="ORKrn:c.0602">
+               <place xml:id="d1e27753" type="region" subtype="sodni" corresp="ORKrn:c.0602 ORKrn:c.060204">
                   <region xml:lang="sl">Vrhnika</region>
                   <region xml:lang="de">Oberlaibach</region>
                   <location>
