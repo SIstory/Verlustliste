@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,341 +29,723 @@
    <text>
       <body>
          <listPerson>
-            <person xml:id="vll.19141230_88.7362">
-               <note>Slana Franz, Gefr., k. k. LIR. Nr. 37, 3. Komp.</note>
+            <person xml:id="vll.19141230_88.7362" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19141230&amp;seite=29&amp;zoom=33">
+               <persName>
+                  <surname>Slana</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Gefr.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 37, 3. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Pettau</region>
+                  <date>1887</date>
                </birth>
-               <note>1887, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19150119_107.7762">
-               <note>Trattaer Johann</note>
+            <person xml:id="vll.19150119_107.7762" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150119&amp;seite=37&amp;zoom=33">
+               <persName>
+                  <surname>Trattaer</surname>
+                  <forename>Johann</forename>
+               </persName>
                <birth>
                   <country>Kärnten</country>
                   <region>Letinje</region>
                </birth>
-               <note>kriegsgef. (Glasow, Gouvernement Wjatka, Rußland.)</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>(Glasow, Gouvernement Wjatka, Rußland.)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19150322_146.9906">
-               <note>Valant Johann, ErsRes., IR. Nr. 17, Grenzsehutzkomp. 4/3</note>
+            <person xml:id="vll.19150322_146.9906" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150322&amp;seite=44&amp;zoom=33">
+               <persName>
+                  <surname>Valant</surname>
+                  <forename>Johann</forename>
+               </persName>
+               <socecStatus>ErsRes.</socecStatus>
+               <affiliation>IR. Nr. 17, Grenzsehutzkomp. 4/3</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Radmannsdorf</region>
+                  <settlement>Vormarkt</settlement>
+                  <date>1885</date>
                </birth>
-               <note>Vormarkt, 1885, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19150415_161.8058">
-               <note>Topolsehek 'Georg, Inft., IR. Nr. 7, 14. Komp.</note>
+            <person xml:id="vll.19150415_161.8058" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150415&amp;seite=34&amp;zoom=33">
+               <persName>
+                  <surname>Topolsehek</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7, 14. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
-                  <region>Sal- . deinhofen</region>
+                  <region>Saldeinhofen</region>
                </birth>
-               <note>tot (10.— 13-/2. 1915). .</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date notBefore="1915-02-10" notAfter="1915-02-13">10.-13./2. 1915</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19150814_237.5662">
-               <note>Slotschilnig Franz, Inft., IR. Nr. 7,11. Komp.</note>
+            <person xml:id="vll.19150814_237.5662" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150814&amp;seite=30&amp;zoom=33">
+               <persName>
+                  <surname>Slotschilnig</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7,11. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <settlement>Völkermarkt</settlement>
+                  <date>1883</date>
                </birth>
-               <note>Völkermarkt, 1883, kriegsgef.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+               </event>
             </person>
-            <person xml:id="vll.19150818_241.7468">
-               <note>Pozniez Florian, Inft., IR. Nr. 15, 14.Komp.</note>
+            <person xml:id="vll.19150818_241.7468" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150818&amp;seite=31&amp;zoom=33">
+               <persName>
+                  <surname>Pozniez</surname>
+                  <forename>Florian</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 15, 14.Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Schwarzenbach</region>
+                  <date>1883</date>
                </birth>
-               <note>1883, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19150830_252.2478">
-               <note>Fabian Bartholomeus, Gefr,, k. k. LIR. Nr. 3,7. Komp.</note>
+            <person xml:id="vll.19150830_252.2478" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150830&amp;seite=13&amp;zoom=33">
+               <persName>
+                  <surname>Fabian</surname>
+                  <forename>Bartholomeus</forename>
+               </persName>
+               <socecStatus>Gefr</socecStatus>
+               <affiliation>k. k. LIR. Nr. 3,7. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Labada</region>
+                  <settlement>Seisenberg</settlement>
+                  <date>1887</date>
                </birth>
-               <note>Seisenberg, 1887, tot (13./6. 1915).</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date when="1915-06-13">13./6. 1915</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19150916_267.1678">
-               <note>Čermejl Viktor, Inft., IR. Nr. 65, 9. Komp.</note>
+            <person xml:id="vll.19150916_267.1678" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=9&amp;zoom=33">
+               <persName>
+                  <surname>Čermejl</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 65, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Adelsberg</region>
+                  <settlement>Mstje</settlement>
+                  <date>1884</date>
                </birth>
-               <note>Mstje, 1884, tot (14./6. 1915).</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date when="1915-06-14">14./6. 1915</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19150916_267.4044">
-               <note>Kirn Matthias, Inft., IR. Nr. 55, 12. Komp.</note>
+            <person xml:id="vll.19150916_267.4044" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=20&amp;zoom=33">
+               <persName>
+                  <surname>Kirn</surname>
+                  <forename>Matthias</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55, 12. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Dobrava</region>
+                  <date>1895</date>
                </birth>
-               <note>1895, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19150916_267.4454">
-               <note>Korešeč Iwan, Inft., IR. Nr. 55, 9. Komp.</note>
+            <person xml:id="vll.19150916_267.4454" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=22&amp;zoom=33">
+               <persName>
+                  <surname>Korešeč</surname>
+                  <forename>Iwan</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Loitsch</region>
+                  <settlement>Zirknitz</settlement>
+                  <date>1878</date>
                </birth>
-               <note>Zirknitz, 1878, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19150916_267.7238">
-               <note>Samida Augustin, Inft., IR. Nr. 55, 11. Komp.</note>
+            <person xml:id="vll.19150916_267.7238" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19150916&amp;seite=36&amp;zoom=33">
+               <persName>
+                  <surname>Samida</surname>
+                  <forename>Augustin</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55, 11. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Rudolfswert</region>
+                  <settlement>Veihtbuchel</settlement>
+                  <date>1881</date>
                </birth>
-               <note>Veihtbuchel, 1881, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151002_281.7362">
-               <note>Pivetz Alois, Ldsch., LdschR. Nr. II, 9. Komp.</note>
+            <person xml:id="vll.19151002_281.7362" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151002&amp;seite=36&amp;zoom=33">
+               <persName>
+                  <surname>Pivetz</surname>
+                  <forename>Alois</forename>
+               </persName>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. II, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Marburg</region>
+                  <settlement>Partin</settlement>
+                  <date>1896</date>
                </birth>
-               <note>Partin, 1896, verw. (Vom Stande des k. k. LIR. Nr. 26.)</note>
+               <event type="wounded">
+                  <label>verw.</label>
+                  <desc>(Vom Stande des k. k. LIR. Nr. 26.)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19151002_281.9004">
-               <note>Sorschak Franz, Ldsch., LdschR. Nr. II, 9. Komp.</note>
+            <person xml:id="vll.19151002_281.9004" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151002&amp;seite=43&amp;zoom=33">
+               <persName>
+                  <surname>Sorschak</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Ldsch.</socecStatus>
+               <affiliation>LdschR. Nr. II, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Marburg</region>
+                  <settlement>Ziegelstadl</settlement>
                </birth>
-               <note>Ziegelstadl verw. (Vom Stande des k. k. Litt. Nr. 26.)</note>
+               <event type="wounded">
+                  <label>verw.</label>
+                  <desc>(Vom Stande des k. k. Litt. Nr. 26.)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19151008_287.9530">
-               <note>Žabota Franz, Inft., IR. Nr. 15, 11. Komp.</note>
+            <person xml:id="vll.19151008_287.9530" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151008&amp;seite=47&amp;zoom=33">
+               <persName>
+                  <surname>Žabota</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 15, 11. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Luttenberg</region>
+                  <settlement>Wernsee</settlement>
+                  <date>1881</date>
                </birth>
-               <note>Wernsee, 1881, tot (1.—15./7. 1915).</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date notBefore="1915-07-01" notAfter="1915-07-15">1.-15./7. 1915</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19151010_289.7746">
-               <note>Muster Ignatz, Inft., IR, Nr. 55, 5. Komp.</note>
+            <person xml:id="vll.19151010_289.7746" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151010&amp;seite=35&amp;zoom=33">
+               <persName>
+                  <surname>Muster</surname>
+                  <forename>Ignatz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR, Nr. 55, 5. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Visnogöra</region>
+                  <settlement>Bojanywert</settlement>
+                  <date>1895</date>
                </birth>
-               <note>Bojanywert, 1895, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151028_303.3540">
-               <note>Hirs Andreas, Inft., IR. Nr. 15, 15. Komp.</note>
+            <person xml:id="vll.19151028_303.3540" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151028&amp;seite=17&amp;zoom=33">
+               <persName>
+                  <surname>Hirs</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 15, 15. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Cilli</region>
+                  <settlement>Ferlach</settlement>
+                  <date>1895</date>
                </birth>
-               <note>Ferlach, 1895, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151105_307.3450">
-               <note>Graniz Franz, Inft., IR. Nr. 55,14. Komp.</note>
+            <person xml:id="vll.19151105_307.3450" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151105&amp;seite=17&amp;zoom=33">
+               <persName>
+                  <surname>Graniz</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55,14. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gurkfeld</region>
+                  <settlement>St. Kreuz</settlement>
+                  <date>1895</date>
                </birth>
-               <note>St. Kreuz, 1895, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151105_307.8498">
-               <note>Recelj Ignatz, Inft., IR. Nr. 55, 12. Komp.</note>
+            <person xml:id="vll.19151105_307.8498" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151105&amp;seite=39&amp;zoom=33">
+               <persName>
+                  <surname>Recelj</surname>
+                  <forename>Ignatz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55, 12. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gurkfeld</region>
+                  <settlement>St. Bartlomea</settlement>
+                  <date>1895</date>
                </birth>
-               <note>St. Bartlomea, 1895, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151107_309.1650">
-               <note>Bersan Josef. Inft,, k. k, LIR. Nr. 22, 4. Komp.</note>
+            <person xml:id="vll.19151107_309.1650" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151107&amp;seite=9&amp;zoom=33">
+               <persName>
+                  <surname>Bersan</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k, LIR. Nr. 22, 4. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Copodiabu</region>
+                  <settlement>Pomniann</settlement>
+                  <date>1891</date>
                </birth>
-               <note>Pomniann, 1891, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151107_309.4568">
-               <note>Jawornik Franz, Inft., k. k. LIR. Nr. 22, 4. Komp.</note>
+            <person xml:id="vll.19151107_309.4568" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151107&amp;seite=22&amp;zoom=33">
+               <persName>
+                  <surname>Jawornik</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 22, 4. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gonobitz</region>
+                  <date>1883</date>
                </birth>
-               <note>1883, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151107_309.6220">
-               <note>Madnejdl Franz, Inft., k. k. LIR. Nr. 22, 4. Komp.</note>
+            <person xml:id="vll.19151107_309.6220" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151107&amp;seite=29&amp;zoom=33">
+               <persName>
+                  <surname>Madnejdl</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 22, 4. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Adelsberg</region>
+                  <settlement>Chronowice</settlement>
+                  <date>1891</date>
                </birth>
-               <note>Chronowice, 1891, tot (1./3.—31./7 1915).</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date notBefore="1915-03-01" notAfter="1915-07-31">1./3.—31./7. 1915</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19151107_309.9420">
-               <note>Surzeh Bartholomä, Inft., k. k. LIR. Nr. 22, 9. Komp.</note>
+            <person xml:id="vll.19151107_309.9420" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151107&amp;seite=43&amp;zoom=33">
+               <persName>
+                  <surname>Surzeh</surname>
+                  <forename>Bartholomä</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 22, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <settlement>Bleiberg</settlement>
+                  <date>1891</date>
                </birth>
-               <note>Bleiberg, 1891, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151107_309.10834">
-               <note>Werdl Richard, Inft., k. k. LIR. Nr. 22, 7. Komp.</note>
+            <person xml:id="vll.19151107_309.10834" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151107&amp;seite=49&amp;zoom=33">
+               <persName>
+                  <surname>Werdl</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>k. k. LIR. Nr. 22, 7. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <date>1884</date>
                </birth>
-               <note>1884, tot (31./3.-31./7. 1915),</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date notBefore="1915-03-31" notAfter="1915-07-31">31./3.-31./7. 1915</date>),</desc>
+               </event>
             </person>
-            <person xml:id="vll.19151109_310.6480">
-               <note>Pokovec Felix, Inft., IR. Nr. 17, 9. Komp.</note>
+            <person xml:id="vll.19151109_310.6480" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151109&amp;seite=35&amp;zoom=33">
+               <persName>
+                  <surname>Pokovec</surname>
+                  <forename>Felix</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 17, 9. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Stein</region>
+                  <settlement>Domschale</settlement>
+                  <date>1892</date>
                </birth>
-               <note>Domschale, 1892, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151112_313.4418">
-               <note>Jurisiewicz Johann, Inft., IR. Nr. 55, 9. Komp,</note>
+            <person xml:id="vll.19151112_313.4418" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151112&amp;seite=21&amp;zoom=33">
+               <persName>
+                  <surname>Jurisiewicz</surname>
+                  <forename>Johann</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55, 9. Komp,</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Golač</region>
+                  <date>1882</date>
                </birth>
-               <note>1882, verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19151122_320.3106">
-               <note>Erker Franz, ResKan., FKR. Nr. 9, Batt. 1</note>
+            <person xml:id="vll.19151122_320.3106" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19151122&amp;seite=14&amp;zoom=33">
+               <persName>
+                  <surname>Erker</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <socecStatus>ResKan.</socecStatus>
+               <affiliation>FKR. Nr. 9, Batt. 1</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gottschee</region>
+                  <settlement>Lienfeld</settlement>
+                  <date>1885</date>
                </birth>
-               <note>Lienfeld, 1885, tot (14.-22./9. 1915).</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date notBefore="1915-09-14" notAfter="1915-09-22">14.-22./9. 1915</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19160108_352.8230">
-               <note>Ugler Balthasar, Korp. TitZugsf., IR. Nr. 7, 11. Komp.</note>
+            <person xml:id="vll.19160108_352.8230" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160108&amp;seite=42&amp;zoom=33">
+               <persName>
+                  <surname>Ugler</surname>
+                  <forename>Balthasar</forename>
+               </persName>
+               <socecStatus>Korp. TitZugsf.</socecStatus>
+               <affiliation>IR. Nr. 7, 11. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Windischgratz</region>
+                  <settlement>St. Martin</settlement>
+                  <date>1894</date>
                </birth>
-               <note>St. Martin, 1894; verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19160118_360.5534">
-               <note>Kurinčič Anton, ErsRes., IR. Nr. 7</note>
+            <person xml:id="vll.19160118_360.5534" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160118&amp;seite=25&amp;zoom=33">
+               <persName>
+                  <surname>Kurinčič</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <socecStatus>ErsRes.</socecStatus>
+               <affiliation>IR. Nr. 7</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Tolmein</region>
+                  <settlement>Idersko</settlement>
+                  <date>1881</date>
                </birth>
-               <note>Idersko, 1881; kriegsgef., Aschabad, Rußland.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Aschabad, Rußland.</desc>
+               </event>
             </person>
-            <person xml:id="vll.19160201_368.7448">
-               <note>Mikusz Jan, Inft., IR. Nr. 55, 15. Komp.</note>
+            <person xml:id="vll.19160201_368.7448" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160201&amp;seite=31&amp;zoom=33">
+               <persName>
+                  <surname>Mikusz</surname>
+                  <forename>Jan</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 55, 15. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Adelsberg</region>
+                  <settlement>Budanje</settlement>
+                  <date>1895</date>
                </birth>
-               <note>Budanje, 1895; kriegsgef.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+               </event>
             </person>
-            <person xml:id="vll.19160219_379.12762">
-               <note>Verderber Johann, Inft. TitGefr., k. k. LstlR. Nr. 31, 7. Komp.</note>
+            <person xml:id="vll.19160219_379.12762" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160219&amp;seite=51&amp;zoom=33">
+               <persName>
+                  <surname>Verderber</surname>
+                  <forename>Johann</forename>
+               </persName>
+               <socecStatus>Inft. TitGefr.</socecStatus>
+               <affiliation>k. k. LstlR. Nr. 31, 7. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gottschee</region>
+                  <settlement>Kotschen</settlement>
+                  <date>1876</date>
                </birth>
-               <note>Kotschen, 1876; tot (27./12.1915 bis 3./1. 1916).</note>
+               <event type="death">
+                  <label>tot</label>
+                  <desc>(<date notBefore="1915-12-27" notAfter="1916-01-03">27./12. 1915 bis 3./1. 1916</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19160412_407.5546">
-               <note>Hoffmann Friedrich Intl. IR. Nr. 7 K.untcn</note>
+            <person xml:id="vll.19160412_407.5546" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160412&amp;seite=21&amp;zoom=33">
+               <persName>
+                  <surname>Hoffmann</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <socecStatus>Inft.</socecStatus>
+               <affiliation>IR. Nr. 7 K.untcn</affiliation>
                <birth>
                   <country>Kärnten</country>
-                  <region>Lavamiind</region>
+                  <region>Lavamünd</region>
+                  <date>1891</date>
                </birth>
-               <note>1891; kriegsget, Plestschanka, Gebiet Dans baikalion, Rußland. iisimif-n</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Piestschanka, Gebiet Transbaikalien, Rußland.</desc>
+               </event>
             </person>
-            <person xml:id="vll.19160617_432.7578">
-               <note>Kucher Josef. Lstlnft.,, IR. Nr. 7, 3./XIX. Komp.</note>
+            <person xml:id="vll.19160617_432.7578" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160617&amp;seite=28&amp;zoom=33">
+               <persName>
+                  <surname>Kucher</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <socecStatus>Lstlnft.</socecStatus>
+               <affiliation>IR. Nr. 7, 3./XIX. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gurkfeld</region>
+                  <settlement>Heiligenkreuz</settlement>
+                  <date>1897</date>
                </birth>
-               <note>Heiligen kreuz, 1897; verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19160621_433.7220">
-               <note>Kapeller Karl, Kan., FHR. Nr. 6, Batt. 1</note>
+            <person xml:id="vll.19160621_433.7220" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19160621&amp;seite=27&amp;zoom=33">
+               <persName>
+                  <surname>Kapeller</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <socecStatus>Kan.</socecStatus>
+               <affiliation>FHR. Nr. 6, Batt. 1</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Cilli</region>
+                  <settlement>Lendorf</settlement>
+                  <date>1896</date>
                </birth>
-               <note>Lendorf, 1896; verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19170417_555.9580">
-               <note>Malowih Felix, LstInfst., IR. Nr. 55, 2. ErsKomp.</note>
+            <person xml:id="vll.19170417_555.9580" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170417&amp;seite=36&amp;zoom=33">
+               <persName>
+                  <surname>Malowih</surname>
+                  <forename>Felix</forename>
+               </persName>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 55, 2. ErsKomp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <settlement>St. Jost</settlement>
+                  <date>1895</date>
                </birth>
-               <note>St. Jost, 1895; tot. (Laut Meldung des russischen Roten Kreuz gestorben am 3./5. 1916 in Possad Pawlowsk, Rußland. Nicht legal nachgewiesen).</note>
+               <event type="death">
+                  <label>tot.</label>
+                  <desc>(Laut Meldung des russischen Roten Kreuz gestorben am <date when="1916-05-03">3./5. 1916</date> in <placeName>Possad Pawlowsk, Rußland</placeName>. Nicht legal nachgewiesen).</desc>
+               </event>
             </person>
-            <person xml:id="vll.19170731_604.11940">
-               <note>Zabukoveč Anton, LstSchütze, k. k. GschR. Nr. 1, 6. Komp.</note>
+            <person xml:id="vll.19170731_604.11940" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19170731&amp;seite=55&amp;zoom=33">
+               <persName>
+                  <surname>Zabukoveč</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 6. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Loitsch</region>
+                  <settlement>Altenmarkt</settlement>
+                  <date>1897</date>
                </birth>
-               <note>Altenmarkt, 3897; kriegsgef., Avezzano, 8. Reparto, Italien.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Avezzano, 8. Reparto, Italien.</desc>
+               </event>
             </person>
-            <person xml:id="vll.19171010_615.11080">
-               <note>Svaca Emilio, LstSchütze, k. k. GschR. Nr. 1, 3. Komp.</note>
+            <person xml:id="vll.19171010_615.11080" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171010&amp;seite=46&amp;zoom=33">
+               <persName>
+                  <surname>Svaca</surname>
+                  <forename>Emilio</forename>
+               </persName>
+               <socecStatus>LstSchütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1, 3. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Sesana</region>
+                  <settlement>Gabrovica</settlement>
+                  <date>1881</date>
                </birth>
-               <note>Gabrovica, 1881; gestorben (19./6. 1917).</note>
+               <event type="death">
+                  <label>gestorben</label>
+                  <desc>(<date when="1917-06-19">19./6. 1917</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19171025_620.2212">
-               <note>Danyluk Peter, ErsResGefrTitKorp., IR. Nr. 24</note>
+            <person xml:id="vll.19171025_620.2212" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171025&amp;seite=10&amp;zoom=33">
+               <persName>
+                  <surname>Danyluk</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <socecStatus>ErsResGefr. TitKorp.</socecStatus>
+               <affiliation>IR. Nr. 24</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Loitsch</region>
+                  <settlement>Bloska</settlement>
+                  <date>1889</date>
                </birth>
-               <note>Bloska, 1889; kriegsgef., Avezzano, Italien.</note>
+               <event type="pow">
+                  <label>kriegsgef.</label>
+                  <desc>Avezzano, Italien.</desc>
+               </event>
             </person>
-            <person xml:id="vll.19171025_620.11242">
-               <note>Urbanc Johann, LstGefr., IR. Nr. 55, techn. InftKomp.</note>
+            <person xml:id="vll.19171025_620.11242" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19171025&amp;seite=42&amp;zoom=33">
+               <persName>
+                  <surname>Urbanc</surname>
+                  <forename>Johann</forename>
+               </persName>
+               <socecStatus>LstGefr.</socecStatus>
+               <affiliation>IR. Nr. 55, techn. InftKomp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <settlement>St. Jakob</settlement>
+                  <date>1895</date>
                </birth>
-               <note>St. Jakob, 1895; verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19180129_647.6872">
-               <note>Kristan Ivan, Korp., k. k. SchR. Nr. 26, 2. Komp.</note>
+            <person xml:id="vll.19180129_647.6872" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180129&amp;seite=27&amp;zoom=33">
+               <persName>
+                  <surname>Kristan</surname>
+                  <forename>Ivan</forename>
+               </persName>
+               <socecStatus>Korp.</socecStatus>
+               <affiliation>k. k. SchR. Nr. 26, 2. Komp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Adelsberg</region>
+                  <settlement>Slavintino</settlement>
+                  <date>1897</date>
                </birth>
-               <note>Slavintino, 1897; verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19180514_673.9492">
-               <note>Mohrwein Josef, LstJäg., TJR. Nr. 2, techn. JägKomp.</note>
+            <person xml:id="vll.19180514_673.9492" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180514&amp;seite=37&amp;zoom=33">
+               <persName>
+                  <surname>Mohrwein</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <socecStatus>LstJäg.</socecStatus>
+               <affiliation>TJR. Nr. 2, techn. JägKomp.</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Gottschee</region>
+                  <settlement>Hinterberg</settlement>
+                  <date>1891</date>
                </birth>
-               <note>Hinterberg, 1891; verw.</note>
+               <event type="wounded">
+                  <label>verw.</label>
+               </event>
             </person>
-            <person xml:id="vll.19180527_675.10734">
-               <note>Primus Blasius, Schütze, k. k. GschR. Nr. 1</note>
+            <person xml:id="vll.19180527_675.10734" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19180527&amp;seite=42&amp;zoom=33">
+               <persName>
+                  <surname>Primus</surname>
+                  <forename>Blasius</forename>
+               </persName>
+               <socecStatus>Schütze</socecStatus>
+               <affiliation>k. k. GschR. Nr. 1</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <date>1873</date>
                </birth>
-               <note>1873; gestorben (4./ll. 1917).</note>
+               <event type="death">
+                  <label>gestorben</label>
+                  <desc>(<date when="1917-11-04">4./11. 1917</date>)</desc>
+               </event>
             </person>
-            <person xml:id="vll.19181111_701.7006">
-               <note>Kavčič Lorenz, LstInfst., IR. Nr. 7, zugeteilt dem SturmB. Nr. 55</note>
+            <person xml:id="vll.19181111_701.7006" source="http://anno.onb.ac.at/cgi-content/anno?aid=vll&amp;datum=19181111&amp;seite=28&amp;zoom=33">
+               <persName>
+                  <surname>Kavčič</surname>
+                  <forename>Lorenz</forename>
+               </persName>
+               <socecStatus>LstInfst.</socecStatus>
+               <affiliation>IR. Nr. 7, zugeteilt dem SturmB. Nr. 55</affiliation>
                <birth>
                   <country>Kärnten</country>
                   <region>Laibach</region>
+                  <settlement>St. Jobst</settlement>
+                  <date>1897</date>
                </birth>
-               <note>St. Jobst, 1897; gefallen (8.-20./6. 1914)</note>
+               <event type="death">
+                  <label>gefallen</label>
+                  <desc>(<date notBefore="1914-06-08" notAfter="1914-06-20">8.-20./6. 1914</date>)</desc>
+               </event>
             </person>
          </listPerson>
       </body>
