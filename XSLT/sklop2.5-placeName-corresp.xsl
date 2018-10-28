@@ -10,7 +10,7 @@
     <!-- izhodiščni Verlustliste-*.xml -->
     <!-- za person/birth/placeName iz ustreznega places-*.xml poberem odgovarjajočo povezavo na krajevne repertorije -->
     
-    <xsl:param name="doc-places">../TEI/places-Krain.xml</xsl:param>
+    <xsl:param name="doc-places">../TEI/places-Karnten.xml</xsl:param>
     
     <xsl:function name="tei:placeType" as="xs:string">
         <xsl:param name="ident"/>
@@ -80,16 +80,27 @@
             </xsl:variable>
             <xsl:attribute name="key">
                 <xsl:choose>
-                    <!-- če je vsaj ena oznaka današnje države, ki ne velja za Slovenijo, potem se označi to državo -->
-                    <xsl:when test="$OR/tei:place[@country='AT']">AT</xsl:when>
-                    <xsl:when test="$OR/tei:place[@country='HR']">HR</xsl:when>
-                    <xsl:when test="$OR/tei:place[@country='IT']">IT</xsl:when>
-                    <!-- drugače je Slovenija -->
+                    <!-- Na Koroškem je večina krajev na avstrijski strani, zato je kraj v današnji Sloveniji, že takrat, če je samo en place iz variable v sloveniji -->
+                    <xsl:when test="contains($doc-places,'Karnten')">
+                        <xsl:choose>
+                            <xsl:when test="$OR/tei:place[@country='SI']">SI</xsl:when>
+                            <xsl:otherwise>AT</xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:when>
+                    <!-- V vseh drugih slovenskih delih dežel pa je večina krajev v sedanji Sloveniji -->
                     <xsl:otherwise>
                         <xsl:choose>
-                            <!-- z izjemo mesta Gorice, ki ga dam v Italijo -->
-                            <xsl:when test="$OR/tei:place[@country='SI'][@position] = 'ORGrz:c.02' and not($OR/tei:place[@country='SI'][not(@position)])">IT</xsl:when>
-                            <xsl:otherwise>SI</xsl:otherwise>
+                            <xsl:when test="$OR/tei:place[@country='AT']">AT</xsl:when>
+                            <xsl:when test="$OR/tei:place[@country='HR']">HR</xsl:when>
+                            <xsl:when test="$OR/tei:place[@country='IT']">IT</xsl:when>
+                            <!-- drugače pa je vedno Slovenija -->
+                            <xsl:otherwise>
+                                <xsl:choose>
+                                    <!-- z izjemo mesta Gorice, ki ga dam v Italijo -->
+                                    <xsl:when test="$OR/tei:place[@country='SI'][@position] = 'ORGrz:c.02' and not($OR/tei:place[@country='SI'][not(@position)])">IT</xsl:when>
+                                    <xsl:otherwise>SI</xsl:otherwise>
+                                </xsl:choose>
+                            </xsl:otherwise>
                         </xsl:choose>
                     </xsl:otherwise>
                 </xsl:choose>
