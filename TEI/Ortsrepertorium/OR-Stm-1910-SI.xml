@@ -5,9 +5,26 @@
          <titleStmt>
             <title>Krajevni repertorij</title>
             <title>Koroška 1910: deli današnje Slovenije</title>
+            <title xml:lang="slv">Krajevni repertorij</title>
+            <title xml:lang="eng">Gazetteer</title>
+            <title xml:lang="slv">Štajerska 1910: deli današnje Slovenije</title>
+            <title xml:lang="eng">Styria 1910: parts of present-day Slovenia</title>
+            <respStmt xml:id="AP">
+               <persName>Andrej Pančur</persName>
+               <resp>TEI encoding</resp>
+            </respStmt>
+            <funder>Slovenian Research Agency (ARRS)</funder>
          </titleStmt>
+         <editionStmt>
+            <edition>1.0</edition>
+         </editionStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <publisher>
+               <orgName xml:lang="sl">Inštitut za novejšo zgodovino</orgName>
+               <orgName xml:lang="en">Institute of Contemporary History</orgName>
+               <ref target="http://www.inz.si/">http://www.inz.si/</ref>
+               <email>inz@inz.si</email>
+            </publisher>
             <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja</distributor>
             <distributor>DARIAH-SI</distributor>
             <pubPlace>https://github.com/SIstory/Ortsrepertorium</pubPlace>
@@ -22,9 +39,11 @@
             <idno type="github" subtype="commit">https://github.com/SIstory/Ortsrepertorium/commit/394d9223f5a3abf9c41822b3e661373bc8ae5059</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>
-               <ref target="https://github.com/SIstory/Ortsrepertorium/blob/master/year1910/Carinthia/Carinthia-1910-deu.xml">GitHub</ref>
-            </p>
+            <bibl>
+               <title>Gazetteer: Styria</title>
+               <idno type="URI">https://github.com/SIstory/Ortsrepertorium/blob/master/year1910/Styria/Styria-1910-slv.xml</idno>
+               <date when="1910"/>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
